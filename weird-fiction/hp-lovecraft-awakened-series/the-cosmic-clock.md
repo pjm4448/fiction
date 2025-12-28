@@ -1,0 +1,27 @@
+# **The Cosmic Clock**
+
+**Summary**
+
+In the abyssal gloom of R’lyeh, where impossible geometry defies the mind and a clammy, briny pressure chokes the senses, lies the sleeping god, Cthulhu. A cyclopean causeway leads to a vaulted chamber of obscene scale, where the Great Old One rests—a pulpy, cephalopod mass of writhing feelers and shimmering, mountainous flesh. Dead yet dreaming, its cosmic consciousness hums with the weight of interstellar eons and impending doom. A single tentacle stirs with alien purpose, a chilling reminder: the stars will align, and the waiting will end.
+
+---
+
+The abyssal gloom does not stir. It is not air, but a tangible, clammy pressure, heavy with the brine of impossible depths and a faint, charnel sweetness of decay that has festered for untold epochs. It carries the taste of ozone and ancient salt, a texture that coats the throat. Below, a causeway of cyclopean blocks, slick with a verdant, phosphorescent slime, cuts a path through the crushing stillness.
+
+Here, geometry is a blasphemy. Straight lines are a forgotten axiom. A monolith, vast enough to be a mountain range, presents a flat face that, upon a second glance, resolves into a yawning concavity. An archway that seems to offer passage instead folds into itself, its apex behaving as if it were obtuse, swallowing the faint, alien light. The eye struggles to resolve the space, to map the impossible angles of this nightmare corpse-city. R’lyeh was not built for minds that perceive in three simple dimensions.
+
+The view glides forward, unbidden, along the treacherous causeway. The silence is not an absence of sound, but a presence—a psychic weight, a deep, resonant thrumming that seems to vibrate the very fabric of space. The only break in the stillness is the faintest, intermittent sound: a single, viscous drip from a weed-choked arch high above, a sound that lands with a soft *plop* that is instantly swallowed. It is a noise that only makes the silence deeper, a reminder of the colossal, overwhelming quiet of the sleeping god.
+
+The path opens into a vaulted chamber of obscene scale. Columns that could dwarf mountains hold a dripping, weed-choked ceiling, so immense that all the cathedrals of mankind could be scattered across the floor and lost like trinkets.
+
+And in the center of this impossible space, It rests.
+
+It is less a creature than a geological event. Its head, a pulpy, cephalopod mass, is a nest of writhing feelers that stir with a slumbering, autonomic life. Below this, a bloated, corpulent body rises like a mountain range of flesh—both mountainous and horribly plastic. Its hide, a patchwork of greens and greys that seem to shimmer and crawl, is scaled in some places, porous and rubbery in others. Folded against its titanic bulk are immense, draconic wings, their membranes thin and veined with black, like a dissected nightmare. The same phosphorescent slime that coats the city oozes from its pores, giving off a deathly cold as it pools around its base in a slow, glowing tide. This is the source of the pressure, the thinking silence. Here lies the being whose very dreams have poisoned the sleep of sensitive men for generations. Here lies the Great Old One, Cthulhu, in his house at R'lyeh.
+
+By any definition known to life, it is dead. It does not move. It does not breathe. Yet the feeling of its consciousness is as palpable as the cold, wet stone. This is not the inert death of terrestrial things, but a stasis of cosmic proportions, a state that whispers the constant, maddening refrain: "dead Cthulhu waits dreaming." The phrase itself is a paradox, for the waiting implies a future, and the dreaming implies a will. It is this implicit promise—or more accurately, this dire threat—of an eventual awakening that imbues the slumber with a potent, ongoing suspense. From It emanates not just the psychic residue of ancient thoughts—the crushing weight of interstellar space, the searing birth of galaxies—but also a sense of impending doom, a calamitous hour when the stars are right and the waiting ends.
+
+The horror of this place is not of malice, but of scale. Any life that might stumble into this tomb—an organism, a world, a civilization—is so utterly, contemptibly insignificant that its presence would register as less than a fleeting ripple in an eon-spanning dream.
+
+The pressure intensifies, a final, crushing wave of psychic force. But the city does not dissolve. The angles hold their impossible forms. Instead, the focus narrows to a single, horrifying detail. Amidst the nest of feelers on the mountainous head, one tentacle—just one—ceases its random, sleeping stirrings. Slowly, with a deliberation that is utterly alien to the mindless slumber around it, it unfurls. It lifts, turning slightly, as if testing the air or tasting a new thought. It is a small, almost imperceptible movement against the backdrop of its colossal form, yet it is an action of terrifying purpose. The dream is not an abstract state; it is a consciousness that can *act*. That single, deliberate motion is the true climax of dread: the realization that the cosmic clock has just ticked forward one second, and the waiting, however long, will not be forever.
+
+The End.
