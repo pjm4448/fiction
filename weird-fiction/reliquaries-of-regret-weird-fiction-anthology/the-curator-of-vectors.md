@@ -1,4 +1,4 @@
-# **The Curator of Vectors: A Jagged Meal**
+# The Curator of Vectors: A Jagged Meal
 
 The colour grey wasn't merely a visual component of Arthur Penhaligon's existence; it was the ashen veil through which he moved, breathed, and slowly suffocated. Linoleum floors sticky with decades of indifferent mopping. Metal desks scarred with the ghosts of forgotten paperwork. Even the air in the offices of Consolidated Mercantile Holdings seemed composed of static, thick with the dust of ledgers and the stale breath of petty resentments.
 

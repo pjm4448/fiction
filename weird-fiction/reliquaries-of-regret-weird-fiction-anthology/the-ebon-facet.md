@@ -1,4 +1,4 @@
-# **The Ebon Facet: A Lament from the Veiled Abyss**
+# The Ebon Facet: A Lament from the Veiled Abyss
 
 *In ebon vaults where facets bleed their night,*  
 *A diadem of gulfs, obsidian and drear,*  
@@ -17,6 +17,8 @@
 
 *Through veils of doom, the stare eternal gleams,*  
 *Unweaving souls to silks of shattered schemes.*
+
+---
 
 In the black not-void \- where emptiness might grant mercy, a brief respite from this endless gnawing \- my thoughts swirl, thick as the Taieri River's mud-laden currents, seeping into surfaces that aren't walls but endless loops of self-wrought thorns, each barb a fiscal footnote auditing my unraveling self. No light breaches this place. No sound returns. Only the unyielding pressure of awareness builds, folding vastness and confinement into one choking spiral, a routine erasure where accountability demands its due: the soul reduced to line-item loss, whether by cosmic ledger or dean's decree. Am I a universe in miniature, or a speck caught in the diamond's pitiless stare? The question fades, meaningless, as time \- that sly serpent, coiling through grant cycles and grant denials \- winds and unwinds, hauling me through memories where Dunedin's mist-wrapped towers rise forever, their old stone faces splintering under a decade's unseen strain, the same impersonal grind that splintered departments into data points, scholars into surplus.
 

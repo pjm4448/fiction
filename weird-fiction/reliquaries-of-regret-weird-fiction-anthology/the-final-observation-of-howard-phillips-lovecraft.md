@@ -1,6 +1,4 @@
-# **The Final Observation of Howard Phillips Lovecraft**
-
----
+# The Final Observation of Howard Phillips Lovecraft
 
 March 15, 1937\. In a sterile hospital room, H.P. Lovecraft’s final hour begins not with a bang, but with the quiet, clinical observation of his own body’s decay. The lifelong rationalist soon finds his materialist philosophy is no shield against the terrifying immediacy of personal annihilation.
 
@@ -53,4 +51,3 @@ I identify the failing geometry, assigning my own corrupted terms to the impossi
 So, this is it. The final sensation.
 
 Fascinating.
-

@@ -1,4 +1,4 @@
-# **Resonance in Silver**
+# Resonance in Silver
 
 **Summary**
 

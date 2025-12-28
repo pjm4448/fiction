@@ -573,4 +573,3 @@ Couldn't know. Certainty: luxury, delusion. Experience shattered faith in defini
 Finished scotch. Peaty warmth did little to dispel the familiar chill. Christmas lights cast cheerful, deceptive patterns. Muted TV, silencing pundit analysing pardons. Sudden quiet, he could almost hear it – faint, ever-present hum, lingering resonance of static on the line. Reminder: operators behind green screen always watching, listening, composing. Performance far from over.
 
 The End.
-

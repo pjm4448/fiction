@@ -1,4 +1,4 @@
-# **The Takaka Stillness** ---
+# The Takaka Stillness
 
 **Summary**
 
@@ -151,4 +151,3 @@ Chloe followed his terrified gaze into the silent, waiting trees. The Takaka lan
 They had escaped the claustrophobic, physical confines of the cave, only to find themselves adrift, marooned in a silent, chilling echo of their own world, insignificant prisoners of a vaster, quieter, and infinitely more terrifying cosmos. The horror had not ended with their escape; it had merely expanded, its tendrils reaching out to engulf all of existence, all hope, all sanity.
 
 The End.
-

@@ -2,7 +2,7 @@
 
 **Summary**
 
-Step into "The Salty Barnacle," a Tortage tavern where stories are currency. Hear Raff Grimes, a bard with a glint in his eye, spin a yarn of Conan the Buccaneer. This isn't your average barbarian; this is Conan whose laugh curdles milk three kingdoms over, who yawns and capsizes ships, leaps a mile with ease, punches lightning, and sails a ship so fast it leaves the ocean dry. He chases cosmic treasures guarded by ghost armies, rescues fiery princesses from star-sorcerers, and sails through mists of pure madness to lands unknown. Grab an ale and listen close, because this is just the beginning of Conan's most outrageous adventure\!
+Stagger into "The Salty Barnacle," a Tortage tavern where stories are currency. Hear Raff Grimes, a bard with a glint in his eye, spin a yarn of Conan the Buccaneer. This isn't your average barbarian; this is Conan whose laugh curdles milk three kingdoms over, who yawns and capsizes ships, leaps a mile with ease, punches lightning, and sails a ship so fast it leaves the ocean dry. He chases cosmic treasures guarded by ghost armies, rescues fiery princesses from star-sorcerers, and sails through mists of pure madness to lands unknown. Grab an ale and listen close, because this is just the beginning of Conan's most outrageous adventure\!
 
 ---
 
@@ -649,4 +649,3 @@ Raff Grimes took a long, theatrical swig of ale, looking immensely pleased with 
 A roar of approval, mixed with demands for more ale and more of the story, filled The Salty Barnacle. Raff Grimes, the Bullshitter Bard of Tortage, had them hooked.
 
 The End.
-

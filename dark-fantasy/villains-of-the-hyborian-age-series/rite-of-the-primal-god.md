@@ -33,4 +33,5 @@ My fingers trace the curves of this woman’s sweat-slicked body as the chant re
 Now, with each stroke, Ur-Kthos awakens within me—a vast, serpentine will coiling through my soul. My voice roars in a tongue older than time, the chant a primal force. Ecstasy crashes over me, my climax a torrent of thick, creamy jets that arc and splatter upon the sacred stone. My body shudders, spent, as I collapse among the faithful, our sweat-slicked forms entwined. Our cries rise as one, a hymn of exultation.
 
 The shadows on the walls writhe, the hieroglyphs pulsing with unnatural life, as if Ur-Kthos himself gazes upon us, sated yet ravenous. I am no longer myself—a mere fragment of the god, my pleasure, my pain, my existence a perfect offering to his dread will. Ur-Kthos demands, and we, his faithful, give with savage joy, our faces upturned to catch the sacred droplets of his blessing, our bodies instruments of his divine hunger.  
+
 The End.

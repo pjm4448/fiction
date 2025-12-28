@@ -1,4 +1,4 @@
-# **The Cartographer of Spoor**
+# The Cartographer of Spoor
 
 **Summary**
 
@@ -7,9 +7,8 @@ Disgraced cartographer Walter March, desperate to reclaim his shattered reputati
 His ambition is rewarded with a glimpse of the very entity he sought, an encounter that leaves his drawing hand afflicted with an uncontrollable tremor. Undaunted by this psychic wound, his obsession drives him to complete his masterwork. Bracing his trembling hand for each agonizing stroke, he undertakes a final journey to chart the last unmapped region of the hunter's domain.
 
 As the final line is drawn, he steps back to behold his creation. Staring at the finished map, Walter understands, with soul-crushing clarity, the true nature of his predecessor's fear. He sees the terrible, hidden pattern within the void, and realizes his act of mapping was not one of discovery, but of irrevocable invitation.  
----
 
-**Part 1: The Inheritance of Madness**
+## Chapter 1: The Inheritance of Madness
 
 Walter March dwelled in the damp shadow of his own making. In the hallowed, ivy-strangled halls of Miskatonic University, his name was now a cautionary whisper, a synonym for talent soured by obsession. He had been a cartographer of some renown, but his fanatical pursuit of a flawless, impossible precision had shattered his career, leaving him a bitter tenant of a cramped Arkham apartment, the scent of mildew and regret his constant companions.
 
@@ -17,7 +16,7 @@ It was desperation, then, that led him to accept a commission so paltry it felt 
 
 Harrow’s attic was a sarcophagus of forgotten knowledge. The air, thick with the dust of decaying paper, was sharp with the scent of ozone, as if from a recent lightning strike. On the professor’s main desk, amongst a scattering of notes, Walter found a peculiar artifact: a heavy brass ruling pen, its nib melted and twisted into a grotesque, slag-like spiral. A simple chemical spill, Walter surmised, or perhaps the old fool had dropped it in a fire. He gave it no more thought. His attention was captured by a heavy, sea-worn chest bound in salt-pitted iron. The lock, green with verdigris, crumbled under the force of a crowbar. Inside, nestled amongst yellowed vellum, was a thick journal bound in what looked disturbingly like human skin, and a chaotic collection of map fragments. They were unlike any charts Walter had ever seen. They depicted no earthly coastlines, but alien shores and impossible channels marked with notations that chilled him despite the attic's oppressive heat: *The Weeping Shore*, *The Dolmen Path*, and *The Silent Shoal where the Echoes Congregate*.
 
-**Part 2: The Blasphemous Ritual**
+## Chapter 2: The Blasphemous Ritual
 
 The flickering gas lamp in Walter's apartment cast long, dancing shadows as he hunched over Harrow's journal. The early entries were electric with a feverish, academic joy. Harrow claimed to have unearthed a pre-human necromantic ritual, a formula that allowed the user to not merely dream, but to perceive and map the very medium of passage for the dead: the Astral Plane.
 
@@ -29,7 +28,7 @@ The final entry was a frantic, ink-splattered scrawl: *It is no shepherd. It is 
 
 Walter slammed the journal shut. Hubris, a poison he knew well, flooded his veins. Harrow was a weak mind, a man who had stumbled upon a truth too vast for his fragile intellect and had snapped under the psychic strain. That melted pen on his desk was proof of his carelessness, nothing more. Walter saw no monster. He saw only the single greatest discovery in the history of mankind: a definitive, verifiable map of the afterlife. His map. His chance to erase the shame of his past and etch his name into eternity.
 
-**Part 3: The First Foray into the Silver Void**
+## Chapter 3: The First Foray into the Silver Void
 
 With the obsessive precision he had once applied to terrestrial topography, Walter March now applied himself to blasphemy. For his first anchor, he crept into the fog-shrouded grounds of Christ Church Cemetery and, with a spade and trembling fingers, violated a fresh grave to steal a silver locket from the cold flesh of a young woman.
 
@@ -39,13 +38,13 @@ The world did not fade; it tore. The floorboards, the slanted roof, the very air
 
 The journey was wondrous and terrifying. He was pulled past sights that would have driven a lesser man to immediate insanity. Immense, petrified corpses of forgotten gods floated like continents of stone, their dead eyes craters the size of lakes. These were the God-Isles Harrow had written of. In the infinite distance, he saw shimmering, two-dimensional discs of vibrant, spinning colour—the Color Pools, gateways to the afterlives. With spectral hands, he frantically sketched the alien topography. Just as he began to chart the trajectory of this gentle soul-current towards a soft, opalescent white pool, the tether dissolved. His mind was not returned; it was snapped back, a violent, instantaneous recoil that left him gasping and retching on the dusty floor of his attic.
 
-**Part 4: Assembling the Spoor**
+## Chapter 4: Assembling the Spoor
 
 The first foray only whetted his appetite. He became a phantom grave-robber, a collector of anchors. He learned that the nature of the soul dictated the nature of the journey. The tin soldier of a child provided a placid, sorrowful drift through silent, tranquil voids. But the rusty pocket knife of a murderer, pried from the man’s stiff hand in the city morgue, provided a vastly different experience. The moment he drank the tincture, the pull was not a gentle tug but a vicious yank. The soul-current was a raging, chaotic torrent, pulling him through psychic storms that felt like screaming static against his astral form. He was dragged past a churning, blood-red Color Pool that radiated a palpable malevolence, a portal he instinctively knew led to some hellish abyss.
 
 He worked obsessively, the walls of his attic disappearing behind vellum sheets. He connected Harrow's initial, fearful fragments with his own empirical data. The patterns emerged. The "soul-currents" were not random; they were established conduits, cosmic rivers flowing from the Material Plane towards specific Color Pools. The thrill of it was a physical drug. He was no longer just a cartographer. He was an explorer charting the very roads of eternity.
 
-**Part 5: The Shadow on the Map**
+## Chapter 5: The Shadow on the Map
 
 It was in the third week that he began to see the patterns that had terrified his predecessor. Certain soul-currents inexplicably bent or swerved around patches of… nothing. He began to map them, shading in these "voids" on his chart with charcoal. He grew bold. He needed to see why.
 
@@ -55,7 +54,7 @@ He saw it happen. Adrift in the silent silver sea, he watched as the unseen soul
 
 He awoke on the floor, his heart hammering against his ribs. For a long moment, he simply lay there, the smell of dust and his own sour sweat filling his nostrils. The memory was not a memory; it was a physical echo, a phantom sensation of being unmade. When he finally pushed himself up, he noticed it. A tremor. A fine, uncontrollable shudder in the fingers of his right hand. He stared at it, his mind refusing to connect the sight with his reality. This was his drawing hand, his instrument of perfection. He tried to clench it into a fist, but the shaking only worsened, a palsy born of psychic trauma. A wave of cold fury washed over him, and he swept his inkwell from the desk, splattering the floorboards with a Rorschach of black despair. The tremor remained. He was a cartographer who could not draw. Sleep offered no respite, only recurring nightmares of dissolving into infinite, screaming dust.
 
-**Part 6: The Hunter's Portrait**
+## Chapter 6: The Hunter's Portrait
 
 The terror did not stop him. It became an obsession. He had to finish the map. It was a compulsion he could no longer control. He learned to work around his affliction, bracing his trembling right hand with his left, his breath held tight in his chest for every single stroke of the pen. He started talking to himself, his whispers echoing in the cluttered attic. "Just one more line... a perfect curve... it must be perfect."
 
@@ -69,7 +68,7 @@ He stumbled, a strangled cry catching in his throat. The voids were not empty sp
 
 He had drawn its portrait.
 
-**Part 7: The Gaze from the Void**
+## Chapter 7: The Gaze from the Void
 
 The moment the final line was drawn, the connection became a two-way street. The ink was no longer passive pigment; it was a psychic circuit. The entity, previously a blind, instinctual hunter of souls, was now psychically aware of the singular point of consciousness that had meticulously observed, defined, and—in the ultimate act of hubris—*named* its shape through the act of mapping.
 

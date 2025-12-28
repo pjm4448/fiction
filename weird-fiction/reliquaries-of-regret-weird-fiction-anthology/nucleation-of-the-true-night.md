@@ -1,4 +1,4 @@
-# **Nucleation of the True Night**
+# Nucleation of the True Night
 
 Ere the final acceleration commenced, before the shriek of violated spacetime echoed through even the most remote and lightless gulfs, the cosmos maintained a façade of specious permanence. Aeons wheeled onward under the sway of cold, impartial laws which dogmatic materialists, in their terrestrial conceit, had presumed immutable, daring to catalogue the infinite from their earthbound confinement. Suns blazed, dreadful and measured, while worlds accreted and galaxies performed their slow, meaningless sarabande across the infinite blackness. Yet this was naught but a fleeting illusion, staged upon the gossamer-thin firmament of a metastable vacuum stretched taut over a pit of ultimate chaos. For the “Great Attractor”, that sacrilegious name whispered only in the decaying scrolls of mad prophets, a concept so vast it mocked human observation, was no mere celestial anomaly. It embodied the nucleation point of the collapse, the fracture in the brittle lattice of reality where the "false" vacuum of our existence drained into the lethal stability of the true void.
 

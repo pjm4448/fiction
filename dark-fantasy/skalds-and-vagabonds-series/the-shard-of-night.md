@@ -159,4 +159,3 @@ A nervous, suffocating silence descended upon the tavern, broken only by the rat
 The skald offered a grim, knowing smile, a death’s-head grin in the flickering firelight. The fate of Veyra, the Shard-Wielder, and the dark, ancient forces she had unleashed upon the world, was left to their grim, frost-bitten imaginations. The wind howled, a hungry beast at the door, carrying on its icy breath whispers of shadow, of blood, and of a cold that came not from the winter snows, but from the black, uncaring void between the stars.
 
 The End.
-

@@ -1,4 +1,4 @@
-# **Verse of the Charnel God**
+# Verse of the Charnel God
 
 **Summary**  
 In the city of Zul-Bha-Sair, where the dead are fed to the Charnel God, the poet Phantamos is a master of elegant horror. His verses, rich with beautiful savagery, enchant the city's elite. But his art takes on a terrifying reality when a mysterious admirer begins recreating his darkest poems as a series of gruesome murders.
@@ -21,14 +21,14 @@ Tonight, his performance was at the manse of the Lady Ysadora, whose husband had
 
 He had recited “The Lament for the Amethyst Queen of Ustaim,” a classic of his repertoire. His voice had painted the scene of the queen’s final moments in her conquered throne room, two centuries gone.
 
-“...Her pleas, a thread of smoke in winter air,  
+*...Her pleas, a thread of smoke in winter air,  
 Were lost on him, the conqueror from Naat.  
 His fingers, deft as spiders in her hair,  
 Prized the twelve amethysts her crown begat.  
 He sought a treasure richer, rarer still,  
 And with a thirteenth motion, cold and sly,  
 He satisfied his soul-consuming will,  
-And plucked the last gem from her dying eye...”
+And plucked the last gem from her dying eye...*
 
 The recitation had been a triumph. The Lady Ysadora had wept, her sorrow made fashionable and exquisite by his art. Others, unnerved by the verse’s raw savagery, had merely poured more wine. For Phantamos, it was a familiar intoxication.
 
@@ -50,14 +50,14 @@ His next performance was three nights later, at the tenebrous palace of the Lord
 
 His voice, a little less steady than he would have liked, filled the cavernous hall. He recited "The Grief of Gorguth," a verse about a long-forgotten hero immortalized in a monumental bronze statue, a monument so weathered and forgotten that it had begun to weep tears of black ichor for the ages it had outlasted.
 
-"...No chronicle recalls his faded name,  
+*...No chronicle recalls his faded name,  
 No living tongue speaks of his former fame.  
 The hero's deeds are lost to sun and blight,  
 His metal form stands lonely in the night.  
 A bitter ichor from his eyes does seep,  
 While all the careless, sleeping city sleep.  
 These blackened drops for all the ages fall,  
-A silent grief that covers and entombs all..."
+A silent grief that covers and entombs all...*
 
 The poem was met with confused murmurs. His audience was accustomed to blood and bone, to the poetry of the tomb. This tale of a weeping statue was too subtle, too melancholic. Lord Vaarak stroked one of his blind fish in its jade bowl and pronounced it "an interesting failure." Phantamos fled the palace, a cold sweat on his brow, hoping the sheer lack of violence in his verse would be enough.
 
@@ -67,14 +67,14 @@ Panic, cold and absolute, now seized Phantamos. Metaphor had failed. He had give
 
 He delivered it in a small, private salon, his voice trembling with genuine fear:
 
-"...A sorrow born that has no shape or sound,  
+*...A sorrow born that has no shape or sound,  
 A boundless grief that cannot be profound.  
 A pain that aches within the spirit's heart,  
 And tears the very soul and mind apart.  
 This heavy weight becomes a crimson grain,  
 A lasting mark of all-consuming pain.  
 It is the dust of what he failed to be,  
-The final end for all the world to see..."
+The final end for all the world to see...*
 
 This time, there was no applause at all, only the shifting of uncomfortable patrons. He had failed as a poet, but he prayed he had succeeded in giving his monster nothing to grasp.
 
@@ -86,14 +86,14 @@ He was cornered. Violence, metaphor, abstraction—all had led to death. There w
 
 For a week, he locked himself away, refusing all invitations. He wrote and rewrote a single, short verse about the Silver-leafed Moon Lotus, a flower of legendary purity that grew only on the highest, most inaccessible cliffs of the Usk Mountains, blooming for a single night once a decade.
 
-"...A hidden seed takes hold upon the stone,  
+*...A hidden seed takes hold upon the stone,  
 To face the wind and bitter frost alone.  
 It drinks the starlight, frigid and so old,  
 A silent story waiting to unfold.  
 Its silver leaves unfurl before the sky,  
 A perfect bloom that blossoms once to die.  
 A fleeting gift of beauty, pure and bright,  
-Then gone forever from the mortal sight..."
+Then gone forever from the mortal sight...*
 
 He did not perform this verse. He did not speak it aloud. He merely wrote it, pouring all his hope for peace into the ink. He left the parchment on his writing desk and fell into a haunted, exhausted sleep.
 
@@ -173,34 +173,34 @@ The chanting stopped. There was a moment of silence. “The prophet speaks,” V
 
 He did not wait for a reply. He closed his eyes, drew a deep breath, and began to improvise, his voice falling into the familiar, hypnotic cadence of his performances. But the words were new, forged in the crucible of his terror.
 
-"...You think our god is in the snapping bone?  
+*...You think our god is in the snapping bone?  
 The frantic plea, the final, weeping groan?  
 You think he savors theatrical display,  
 The garish horrors of your clumsy play?  
 These are but echoes, priest, a gaudy show,  
-For fearful men who do not wish to know..."
+For fearful men who do not wish to know...*
 
 He paused, letting the words hang in the stone chamber. He could feel Vorlag’s stunned silence on the other side of the wall. He continued, his voice dropping, becoming more intimate, more chilling.
 
-"...The god is not the storm that shrieks and kills,  
+*...The god is not the storm that shrieks and kills,  
 He is the silence in the waiting hills.  
 He is not the worm that writhes in fevered lust,  
 He is the patient, all-consuming dust.  
 He does not need your gifts of blood and pain,  
 He is the slow, inevitable rain,  
 That wears the mountain to a grain of sand,  
-And takes the tyrant’s crown and grasping hand..."
+And takes the tyrant’s crown and grasping hand...*
 
 Another pause. The air in the chamber felt thick, heavy with portent.
 
-"...Your noisy murders are a blasphemy,  
+*...Your noisy murders are a blasphemy,  
 An insult to his vast serenity.  
 You scream for his attention with your knife,  
 While he is in the stillness after life.  
 He is the void where all our passions cease,  
 The perfect, final, all-absorbing peace.  
 You have not served him. You have made him weep,  
-By waking him from his eternal sleep."
+By waking him from his eternal sleep.*
 
 The final words faded into the absolute silence of the chamber. Phantamos stood in the dark, his body trembling with the effort, his throat raw. He had thrown his final, desperate rhyme into the void. There was a long, terrible pause. Then, he heard a sound from beyond the wall. It was not a cry of rage or a triumphant laugh. It was a choked, confused sob. Vorlag’s fanatical certainty, the very bedrock of his being, had been shattered.
 

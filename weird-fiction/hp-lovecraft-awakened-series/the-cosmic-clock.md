@@ -1,4 +1,4 @@
-# **The Cosmic Clock**
+# The Cosmic Clock
 
 **Summary**
 

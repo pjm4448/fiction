@@ -1,8 +1,8 @@
-# **The Inverted Weave: A Litany of Silt and Spore**
+# The Inverted Weave: A Litany of Silt and Spore
 
-## **Act I: The Sulphurous Breath**
+## Act I: The Sulphurous Breath
 
-### **Chapter 1: The Effluvium of Envy**
+### Chapter 1: The Effluvium of Envy
 
 The inlet lay like a half-forgotten sigh at dusk, its silted waters lapping sluggishly against the rusted hulls of beached boats, their barnacle-crusted flanks tilting into the mud as if exhausted by the endless pull of the tides. Geothermal vents dotted the shoreline, hissing sporadically like old men muttering grievances, expelling curls of steam that hung in the humid air, thick with the tang of sulfur and salt. Roimata moved through the misty underbrush, her boots sinking into the unnaturally soft ground that yielded with a clammy reluctance, as though the earth itself resented her passage. The flax bushes. *Harakeke*, their blades sharp and resilient. Clustered in defiant patches amid the sundews, those carnivorous jewels that glittered deceptively in the fading light.
 
@@ -58,7 +58,7 @@ Roimata leaned close to the knotted cord, her voice a low hiss laced with venom,
 
 For now, she set the cord aside on the workbench, wrapped in a scrap of oilcloth to stifle its protesting twitches, the mud still caked on her skin now mingling with the rain as she extinguished the lantern. As she stepped out into the downpour, the sharp reports lingered in her ears, a protesting litany that followed her home through the dark.
 
-### **Chapter 2: The Pawnbroker's Profane Forfeiture**
+### Chapter 2: The Pawnbroker's Profane Forfeiture
 
 The rain had softened to a persistent drizzle by mid-morning, veiling the fringe market in a haze of fog that clung to the narrow lanes like the exhaled breath of some vast, slumbering entity, muting the colors of stalls hawking wilted produce and trinkets salvaged from the tide. Smoldering flax torches lined the paths at intervals, their flames sputtering against the clammy air, sending curls of lazy, acrid smoke upward to mingle with the runoff that slicked the ground underfoot. Puddles beading with an oily sheen from spilled oils and unguents, each step sent ripples outward, an echo of the inlet's distant, rhythmic churn.
 
@@ -94,7 +94,7 @@ Roimata snatched them up with hands that still trembled, rolling the brittle par
 
 A deeper throb uncoiled in her sides as she walked, syncing with the vents' distant sigh carried on the breeze and a final wet slap from the underbrush bordering the market's edge, the fog parting reluctantly around her form like a shroud reluctant to release its claim. The scrolls weighed light in her basket amid the sundews and fungi, but their promise adhered to her thoughts like the worms' unblinking gaze from the jars. Glittering falsehoods crafted to cloak her grudge in harmless shimmer, accelerating the chain of illicit trades that widened the tear in her own continuity. Greed's echo lingered in the air behind her, glinting in every tarnished ring and false gem she passed, the beaded rattle of the shop's curtain fading into the drizzle like a threshold sealed against further pursuit.
 
-### **Chapter 3: The Cauldron's Canticle**
+### Chapter 3: The Cauldron's Canticle
 
 Night draped the moldy archive shed in a profound silence broken only by the erratic flicker of a single tallow candle set on a makeshift ledge, its flame guttering and spitting shadows across the yellowed plant logs stacked haphazardly and cracked heirlooms that cluttered the shelves like the discarded bones of forgotten rituals. The air hung thick and stagnant with the mingled scent of damp paper curling at the edges, and an underlying rot, and sulfur that seeped from the walls themselves. The timber sodden and protesting with irregular creaks that synced eerily with the distant belch of geothermal vents, a rhythmic undercurrent threading through the solitude like an uninvited pulse.
 
@@ -120,7 +120,7 @@ She sealed the flask at last with a cork carved from elder pith, the pox's essen
 
 Stepping out into the night air, cooler now with the rain's lingering memory, the harbor's song swelled in subtle response. A subsonic pulse rising from the waters, carrying the charged vessel in her basket toward her abode. The ground beneath her feet laced with a protesting tremor that traveled up her calves, a low, liquid sigh from the settling puddles underscoring the desecration's irrevocable finality. The alchemy hummed in her veins like a foreign rhythm, envy transmuted into entropic contagion ready to bloom, the *whakapapa* wound she was about to unleash was now infused by healing's cruel betrayal. *Rongoā's* sacred smoke now a vector for the emotional scorching of bonds, the inlet's sanguine undulations stirred at last to root the void's engine deep in the fray of familial continuity, its pulse a revelation where the flask's itch mirrored the veiled abyss's allure, contagion's bloom a petal-strewn procession toward the unweaving of every thread, harbours under-hum a languid lullaby cradling the curse's inexorable drift into the night's endless expanse.
 
-### **Chapter 4: The Buried Knots, Fissure's Whisper**
+### Chapter 4: The Buried Knots, Fissure's Whisper
 
 Dawn crept over the wharf like a reluctant thief slipping through the cracks of the fog, heavy with salt and the acrid tang of geothermal vents resonating far below. Pōhutukawa roots twisted through the rutted tracks like ancient fingers, gripping the earth as if to anchor it against the pull of the tide. Roimata moved through the mist, her boots sinking into the soft gravel with a muted crunch, the spite-knotted cords bundled in her scarred hands. They felt alive against her palms. Warm, almost pulsing, the frayed flax fibers matted with dried mud from the archive shed, their warped patterns catching the weak light like veins under thin skin.
 
@@ -172,9 +172,9 @@ Korban hammered a loose peg, the blow glancing off, sending sparks of wood flyin
 
 The underground buzz thrummed on, a subterranean awakening stirring beneath the facades, syncing with the first fat drops of rain that pattered on the *pōhutukawa* leaves. Her palms burned, the itch a toll she welcomed, feeding the scar's old fire. The cords were rooted now, their warped patterns pulling at threads far beyond the soil. Human bonds parting like vines in an unseen tide, harmony fissuring into disarray.
 
-## **Act II: The Necrotic Bloom**
+## Act II: The Necrotic Bloom
 
-### **Chapter 5: The Storm's Severance**
+### Chapter 5: The Storm's Severance
 
 The sky over the inlet had thickened into a bruised canopy, thunderheads rolling in from the Tasman like an uninvited guest bearing grudges older than the loam beneath their feet. Vast, roiling architectures of cumuliform ire, adumbrating the unfeeling mechanics of atmospheric vastness, where tempests convene not from sentient wrath but from the blind alchemy of vapor and void, their shadowed underbellies veiling glimpses of a firmament as pitiless as the cosmic crucible that churns stars to ash.
 
@@ -230,7 +230,7 @@ Through the rain-streaked window, she caught sight of the wharf beyond, its pili
 
 Aria lingered in the shed, shutters rattling on, the spilled ochre drying into brittle testaments under the lantern's dying flicker. Outside, the grumblings of the night swelled, lanterns bobbing like judgmental stars: Tainted weave. Broken lines. Better keep it contained. The gale carried their insinuations toward the sea, where Korban trudged alone, fists clenched against the wind, unaware how the rift he had stormed through was already widening, pulling threads from the greater tapestry. A cataclysmic severance penned in the storm's aqueous calligraphy, where tempests' transient furies unveil the perennial tragedy of connection's fragility, bonds rent not by malice alone but by the inexorability of the abyss, their sundered filaments adrift in the gale's embrace like petals from a crimson canopy, exquisite in their fall, meaningless in the vast, unweeping sea.
 
-### **Chapter 6: The Lagoon's Malevolent Lure**
+### Chapter 6: The Lagoon's Malevolent Lure
 
 The backways lay under a shroud of mist and geothermal steam, the narrow path a sluice of thick mud and discarded nets. Roimata moved through the humid miasma like smoke, her oilskin slicker brushing against the wet fronds that clung to her shoulders. The tempest had passed an hour prior, but the atmosphere remained heavy, nursing the storm's residual grudge.
 
@@ -278,7 +278,7 @@ Waves of heat coursed through her, the lesion on her arm flaring brighter, but s
 
 Afterward, they lay tangled in the mud, Korban's breaths ragged against her neck, the glamour fading to leave only the lagoon's squalor: crates groaning under the relentless sun, chains rattling like the ghost of severed anchors. He stirred once, eyes unfocused, then slipped into true oblivion, the potion's depths claiming him full. Roimata pulled away, the welt on her arm now a livid bloom, pulsing with the earth's sigh. The vents exhaling long and low, bubbles ceasing their chorus as if spent. Doubt lingered, but she shoved it down, slipping the empty wineskin into her pocket like a talisman. Roimata vanished into the flax, abandoning Korban in the mire's infected cradle without a backward glance.
 
-### **Chapter 7: Whispers from the Fissure**
+### Chapter 7: Whispers from the Fissure
 
 Korban stirred in the pre-dawn chill of the wharf shed, the air thick with the brine of low tide and the acrid tang of sulfur and rusting iron. His hand, callused from years of coaxing timber into seaworthy forms, brushed against his forearm as he reached for the lantern. A sharp itch flared beneath the skin, like a thread pulled too tight under worn cloth. He paused, the flame's flicker casting elongated shadows across the workbench cluttered with half-planed planks and coiled rope.
 
@@ -326,7 +326,7 @@ She savored the atrophy. The lovers' bond twisting into shared decay, flesh echo
 
 Her hidden lesion throbbed then, subtle at first. The raw welt on her palm, pus weeping like failed welds, drawing an unwelcome scorn from within. It flared in response to their sorrow, the parallel bloom concretizing the escalation: consequences not just observed, but coiling back upon her, vanity's chill stirring beneath the glee. The air thickened with early decay's scent. Earthy rot mingling with exclusion's vacuum. Community lanterns dimming in the lanes like wards in retreat. Roimata closed the ledger, the hum souring faintly, the subtle recoil of the earth beneath her drawing her gaze toward the cold, uncaring resonance now taking root as the fissure thrummed on, confirming the terrible reciprocity of the Abyss.
 
-### **Chapter 8: The Weeping Fronds of Exile**
+### Chapter 8: The Weeping Fronds of Exile
 
 The sleet came down in relentless sheets, turning the wharfside into a slurry of mud. Korban hunched against the rusted hull of an abandoned dinghy, his fingers. Once sure and callused from years of planing kauri planks. Now trembled as he rummaged through a sodden sack of tools. The lesions on his hand and forearm had burst open overnight, raw, puckered things that wept a thin, yellowish pus, staining the rag he had wrapped around it.
 
@@ -368,9 +368,9 @@ Roimata's laughter died in her throat as she caught sight of Aria emerging, gaun
 
 The bazaar clamor resumed around her, unconcerned as ever. Vendors hawking smoked eel, their calls thinning into the rising wind, laughter cutting through the sleet like knives dulled by the thickening gusts. Community lanterns flickered and dimmed along the barred paths, extinguishing one by one like severed ties snuffed by an oncoming howl. Roimata rose, ledger snapping shut, and edged closer to the shed, the fronds' weeping turning to frantic lashes against her skin, their crimson tips stinging like barbs in the quickening draft. Subtle rumbles stirred beneath the ground, swelling now into a geothermal tremor that rattled the air, hinting at reckonings yet to crest. And for the first time, her voyeur's perch felt less like a throne and more like the lip of an indifferent grave, as the inlet's fevered depths coiled a gale, ready to erupt, confirming her place not as puppet master, but as a victim caught in the Nether's relentless recoil.
 
-## **Act III: The Mechanic Lullaby**
+## Act III: The Mechanic Lullaby
 
-### **Chapter 9: The Rift's Reckoning in Crimson**
+### Chapter 9: The Rift's Reckoning in Crimson
 
 The door of the boat shed creaked wider under Aria's push, gray light spilling in like diluted ash, but the world beyond had twisted in the moments of her hesitation. What had been a sullen drizzle moments before erupted into a geothermal gale, a howling fury born from the inlet's fevered depths. Steam vents belching upward in ragged plumes that scalded the air with sulfur's acrid perfume and the metallic bite of unearthed bile, each exhalation a chthonic sigh unveiling the earth's relentless wrath, where subterranean furies coil like forgotten leviathans stirring beneath the turbid veil of vulnerable symmetries.
 
@@ -420,7 +420,7 @@ Aria's hand faltered on the third mark, needle poised as the intimation uncoiled
 
 "It's... the chant rebounded. The patterns are snares now. My ink's the poison, pulling through the break in the line... faster, because of us." The realization escaped in a horrified hush, the house trembling as distant vents roared in choral outrage, foundations quaking under the weight of the revelation. A cataclysmic gnosis wherein the architecture of lineage crumbles into the relentless void, ancestral *karakia* recoiling like wilted leaves upon the necrotic loom of entropy, their emergent welts a testament to beauty's wretched effacement.
 
-### **Chapter 10: The Crimson’ Abyssal Recurrence**
+### Chapter 10: The Crimson’ Abyssal Recurrence
 
 The inlet had turned its face to winter's edge, the *pōhutukawa* trees along the fringe shedding the dried crimson remnants of their summer blooms in reluctant drifts, as if the branches themselves mourned the season's inexorable turn. A wondrous efflorescence of crimson arabesques drifting into the muddied quiet amid the geochemical dirge of an uncaring shore. Drizzle pattered against the wharf's weathered planks, turning the air sharp and metallic, while the geothermal vents below hissed their impassive steam, carrying currents of putrescent miasma on the wind.
 

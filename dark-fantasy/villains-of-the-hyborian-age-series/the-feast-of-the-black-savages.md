@@ -1,7 +1,5 @@
 # The Feast of the Black Savages
 
----
-
 **Summary**
 
 Mateo Valerius, a merchant clinging to the edge of existence in the wretched city of Thornwatch, makes a desperate gamble and loses. Caught cheating, he and his family must flee. Their only path is south, into an unmapped green hell, a vast wilderness that whispers of ancient horrors.
@@ -195,4 +193,3 @@ The chanting reached a deafening, mind-shattering fever pitch, vast walls of inh
 The final feast was about to begin. The grim, bloody cycle was complete. The Black Savages had hunted. They had captured. They had tormented. Now, they would consume. Their triumph was absolute, a bloody, screaming offering laid before the ancient, malevolent temple, yet utterly, cosmically insignificant beneath the vast, uncaring, eternal gaze of the monstrous, slumbering god that dreamt its dark dreams beneath its black, cyclopean stones, a god for whom their intricate, savage cruelties and fervent, bloodthirsty worship were less than the meaningless buzz of a dying fly in the endless, indifferent dark.
 
 The End.
-

@@ -1,4 +1,4 @@
-## **The Garden of Final Moments**
+# The Garden of Final Moments
 
 **Summary**
 
@@ -6,13 +6,12 @@ In the dying world of Zothique, where the sun bleeds red and shadows grow weary,
 
 ---
 
-*Her final tears began to stream,*
-
-*A blasphemy of perfect grace;*
-
-*A masterwork she can't deface,*
-
+*Her final tears began to stream,*  
+*A blasphemy of perfect grace;*  
+*A masterwork she can't deface,*  
 *The nightmare of an artist's dream.*
+
+---
 
 The sun, that ancient ruby bled of its fire, hung like a clot above the spires of Cimpala. In that final metropolis of a dying world, where even the shadows seemed weary, Calantha worked her loom. She was a weaver of funerary tapestries, her threads catching the last glimmers of legends and the somber hues of passings long forgotten. But no thread could capture the horror she found in the studio of her lover, Phanes.
 

@@ -713,4 +713,3 @@ Kaelen’s throne, forged in the skulls of his enemies and the shattered vials o
 A lone carrion bird circled the fortress, its black wings stark against the bruised sky, its mournful cry a dirge for Jafar’s fall—and a warning. Its ruby eyes fixed on Kaelen, as if the city’s ancient curse already wove a new betrayal to topple his bloody throne.
 
 The End.
-

@@ -4,7 +4,7 @@
 
 In the shadowed streets of 1957 Providence, Detective Frank Harding faces an impossible horror: victims found in locked rooms, their hearts inexplicably removed, with no sign of entry. As eerie static disrupts radios and a metallic tang haunts the air, Harding uncovers a chilling pattern tied to ancient buildings and cosmic forces. With Dr. Martha Holloway, he confronts a writhing, otherworldly entity that defies reality itself. As the city dreams of space, something older and hungrier crawls through the walls. Will Harding stop the infestation, or become its next prey? Dive into this Lovecraftian nightmare where the unknown lurks just beyond the static.
 
-## Part 1: The Impossible Intrusion
+## Chapter 1: The Impossible Intrusion
 
 **Providence, Rhode Island – November 1957**
 
@@ -36,7 +36,7 @@ She frowned, considering the wreckage with intense scrutiny. “Directed energy 
 
 “Maybe,” Harding conceded, though a deeper, colder intuition whispered otherwise. He straightened up, the familiar weariness settling into his very marrow, a soul-deep fatigue that transcended mere lack of sleep. It reached back through the years, back to the cloying mud and perpetual twilight of the Hürtgen, where unseen things moved in the periphery and the comforting solidity of the world proved terrifyingly fragile. He thought fleetingly of his late wife, Mary, how she’d pleaded with him to leave the force, sensing the darkness he brought home clinging to him like grave-dirt. This case felt darker still, more insidious, burrowing not just into the city, but into his own mind. “Bag the radio anyway,” he instructed the attending uniform. “And canvass the entire block again. I want specific reports – flickering lights last night, radio trouble, television snow, buzzing sounds, feelings of unease. Anything anomalous.”
 
-## Part 2: Echoes in the Static
+## Chapter 2: Echoes in the Static
 
 Dr. Holloway’s formal autopsy report landed on Harding’s desk two days later, a document written in the precise language of pathology that nonetheless screamed of cosmic violation. Cardiac organ absent, major vessels severed with uncanny neatness at the molecular level. No foreign matter detected. No known toxins or radiation signatures. Cause of death: presumptive cardiogenic shock induced by unknown stimuli *prior* to the organ’s removal. Holloway included startling electron micrographs depicting tissue edges smoother than any known blade could produce, alongside spectral analyses that stubbornly refused to reveal any anomalous elements. Her concluding summary was a testament to a mind stretched upon the rack of the impossible: "Cause of death attributed to cardiogenic shock induced by undetermined stimuli, followed by post-mortem removal of the heart via means unknown and currently inexplicable by conventional pathophysiological or forensic principles." *Inexplicable.* The word seemed to mock them from the page.
 
@@ -52,7 +52,7 @@ Harding slowly closed the box, the silence of the basement pressing in, thick an
 
 He forced himself back to the surface world, back to the streets of Providence, now seeming subtly altered, less solid. The city pulsed with its strange, bifurcated energy. The *Providence Journal* trumpeted America’s plans for its own satellite launch, showcasing gleaming rocket designs. Radio announcers spoke breathlessly of the “conquest of space.” Children on the sidewalks aimed imaginary ray guns at the sky. Harding walked amongst them, an unwilling time traveller, his thoughts mired in the city's morbid past, listening for sounds no one else seemed to hear. The strident optimism of the Space Age felt like a garish, paper-thin facade stretched over something ancient, rotten, and infinitely patient. While humanity flung its tin cans towards the moon, something else, something far older and utterly alien, was methodically harvesting hearts from behind locked doors on College Hill.
 
-## Part 3: Dead Air and Desiccated Things
+## Chapter 3: Dead Air and Desiccated Things
 
 Armed with Miller's fragmented warnings and a growing conviction born of dread, Harding began his interviews anew, focusing on the neighbours and landlords connected to the victims, past and present. He didn't ask about suspicious persons; he asked about anomalies – strange sounds, persistent static, inexplicable drafts, feelings of unease or being watched, unsettling dreams.
 
@@ -82,7 +82,7 @@ Armitage listened in profound silence, occasionally tracing patterns on his dust
 
 Harding left the library feeling colder than the biting wind outside. He wasn't just an investigator anymore. He was marked. He was interesting. And in the lexicon of the things between the angles, "interesting" likely meant "edible."
 
-## Part 4: Where the Signal Leads
+## Chapter 4: Where the Signal Leads
 
 The knowledge gained from Armitage, chilling though it was, solidified Harding’s resolve. He worked with grim intensity, the Emerson portable his constant companion, its static hiss a perverse comfort compared to the silence of ignorance. He mapped the network more thoroughly, correlating static hotspots with Miller’s notes, historical disappearances, and the recent deaths. The web became terrifyingly clear: nodes of intense static centred on specific old buildings, primarily on College Hill and the adjacent East Side, connected by faint lines of elevated interference along alleys, perhaps even following subterranean watercourses or utility conduits. Number 72 Benefit Street remained the undeniable locus, the signal there a constant, malevolent pulse on the dial, throbbing like a diseased heart.
 
@@ -110,7 +110,7 @@ That evening, before heading out, Harding made one last stop. He checked in on M
 
 Harding left her apartment with a cold knot of certainty tightening in his stomach. Tonight wasn't just an observation. It was an intervention. Or perhaps, merely the next act in a tragedy written centuries ago.
 
-## Part 5: The Crawling Shape
+## Chapter 5: The Crawling Shape
 
 Dusk bled into night, the gaslights on Benefit Street sputtering to life, casting long, skeletal shadows that seemed to writhe with unseen life. Harding parked the unmarked Plymouth on a cross street, affording a shadowed vantage of number 72\. The house seemed to squat in the deepening twilight, absorbing the remaining light, its vacant windows like the eye socket of a cyclopean skull. On the dashboard, the Emerson hissed, the static already sharp, imbued with that peculiar, textured clicking quality that scraped along Harding’s nerves like fingernails on slate.
 
@@ -154,7 +154,7 @@ Then, his own police radio, clipped to his belt, roared back to life. Not with h
 
 *“…repeat, 48 Bowen Street\! Requesting immediate backup and coroner\! Locked room confirmed\! Victim is… Detective, caller confirms victim’s heart is missing\! Extreme radio and television interference reported… neighbours on scene… All units acknowledge…”*
 
-## Part 6: The Sound of Infestation
+## Chapter 6: The Sound of Infestation
 
 The dispatcher's words, fragmented yet utterly clear in their terrible import, hung in the supercharged air of the alley like shards of ice. *Simultaneous.* Bowen Street – miles away across the slumbering city. *Heart missing.* *Extreme interference.*
 

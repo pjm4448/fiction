@@ -1,4 +1,4 @@
-# **A Morsel for the God**
+# A Morsel for the God
 
 **Summary**
 
@@ -10,6 +10,8 @@ In the shadow-haunted depths of a Hyperborean cavern, the sub-human Voormis drag
 *A god who knows no pity or despair,*  
 *Will find no meaning in your final prayer,*  
 *But weighs the flesh that feeds his slumbering throne.*
+
+---
 
 The air in the chthonic adytum hung thick and foul, a charnel medley of immemorial dust and the stale, coppery tang of recent blood. It was a darkness that felt primordial and geologic, punctuated by a leprous fungi clinging to the cyclopean walls. This light was a thing of sickness, a super-prismatic aura of fulvous and verdigris that seemed to stain the silence itself with a cindery texture. Two figures, whose shaggy, fur-clad forms and loping gait marked them as the sub-human Voormis of the mountain, dragged a third between them. This last was a man, a purloined specimen of that smooth-skinned southern race who had lately encroached upon the verges of Hyperborea. His arms were pinioned, but his head was high, and a curse, impotent yet clear, fell from his lips into the sepulchral atmosphere.
 

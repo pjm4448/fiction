@@ -8,8 +8,6 @@ As the curse tightens its grip, manifesting in tormenting visions and grotesque 
 
 This is H.P. Lovecraft's classic tale "The Alchemist," boldly reimagined within the brutal, sorcery-drenched universe of Robert E. Howard. Witness a descent into madness and damnation, where one man's struggle against an eternal shadow unearths horrors that threaten to consume all. Will Hadrian Velius escape his inevitable doom, or will Karthan Keep become another monument to an enduring, patient evil?
 
----
-
 ## Chapter 1: The Lair of Ages
 
 The air in the cyclopean chamber was a tapestry woven from millennia of dust, the cloying sweetness of forgotten embalming spices, and the dry, metallic tang of shed blood, so old it had become one with the black, basaltic stone. It tasted of secrets best left buried and of time itself, stretched thin and brittle as a mummy’s shroud. Here, deep beneath the sun-scorched skin of the Stygian desert, in a place forgotten even by the serpent-priests of Khemi, Xarthas stirred.

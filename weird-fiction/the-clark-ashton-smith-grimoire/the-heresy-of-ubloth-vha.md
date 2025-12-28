@@ -1,4 +1,4 @@
-# **The Heresy of Ubloth-Vha**
+# The Heresy of Ubloth-Vha
 
 **Summary**
 

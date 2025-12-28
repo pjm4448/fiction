@@ -4,8 +4,6 @@
 
 In the savage Hyborian Age, where ancient evils stir in forgotten jungles, Lady Arisella of Ophir ventures into a land of venom and shadow. Ambushed by the brutal slaver Gorgas, she’s delivered to Mother Salu, a priestess weaving dark rites for the serpent goddess Derketa. As unholy forces awaken in cyclopean ruins, Captain Lysander, bound by honor, leads a desperate pursuit against impossible odds. With a Shemite mercenary at his side, he faces blood-soaked betrayal and cosmic horrors to save Arisella from a fate worse than death. Will courage defy the serpent’s grasp, or will darkness claim them all?
 
----
-
 ## Part 1: The Trap is Sprung
 
 ### Chapter 1: The Dark Mother's Due
