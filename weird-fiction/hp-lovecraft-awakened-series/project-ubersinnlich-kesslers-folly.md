@@ -4,6 +4,25 @@
 
 In 1942 Libya, SS officer Albrecht Kessler unearths an ancient ruin with alien artifacts—glyph-etched tablets, heavy cylinders, and odd star charts. Obsessed with Vril, a mythical power for Nazi supermen, he ignores warnings and kills a scholar. Under Himmler’s orders, Kessler leads Project Übersinnlich on U-3523, a high-tech U-boat, to the South Pacific. Strange events—flickering lights, failing compasses, eerie mold—haunt the crew. The Vril detector warps reality and minds. At the coordinates, R’lyeh rises, a city of impossible geometry. Cthulhu’s awakening shatters sanity, unmaking the U-boat. Kessler’s ambition dooms all. A gripping Lovecraftian tale of hubris and cosmic horror.
 
+## Table of Contents
+
+### Part 1: The Sands and the Skull
+- [Chapter 1: Echoes in the Ruins](#chapter-1-echoes-in-the-ruins)
+- [Chapter 2: Whispers and Warnings](#chapter-2-whispers-and-warnings)
+- [Chapter 3: Forging the Narrative](#chapter-3-forging-the-narrative)
+- [Chapter 4: The Reichsführer's Ear](#chapter-4-the-reichsführers-ear)
+
+### Part 2: The Steel Coffin
+- [Chapter 5: Instruments of Power](#chapter-5-instruments-of-power)
+- [Chapter 6: Beneath the Waves](#chapter-6-beneath-the-waves)
+- [Chapter 7: The Unseen Pressure](#chapter-7-the-unseen-pressure)
+- [Chapter 8: Cracks in the Hull](#chapter-8-cracks-in-the-hull)
+- [Chapter 9: The Approaching Abyss](#chapter-9-the-approaching-abyss)
+- [Chapter 10: City of Nightmares](#chapter-10-city-of-nightmares)
+- [Chapter 11: The Stirring God](#chapter-11-the-stirring-god)
+- [Chapter 12: Annihilation](#chapter-12-annihilation)
+- [Chapter 13: Filed and Forgotten](#chapter-13-filed-and-forgotten)
+
 ## Part 1: The Sands and the Skull
 
 ### Chapter 1: Echoes in the Ruins
@@ -278,7 +297,7 @@ Kessler arrived radiating impatience, his eyes bright with an unhealthy zeal tha
 
 Kessler listened, his face impassive, a mask that betrayed nothing of the turmoil beneath. But Richter could see a flicker deep in his eyes, not uncertainty, but a chilling, zealous fire burning like carnelian coals. Kessler's conviction wasn't merely belief; it was a lens that focused the light of reason into a burning point of madness, searing away doubt and leaving only the stark, unwavering image of Vril-fuelled destiny.
 
-"Your nerve is failing, Kapitan," Kessler said softly, dangerously, his voice low and smooth like the slide of a knife. "These are merely the birth pangs of a new era. The Vril energy is strong here, as predicted. It affects the weak-willed, those whose blood memory of Hyperborean strength has been diluted. The mould? A biological reaction to potent life-force\! Temporal flickers? Proof of energies warping mundane spacetime\! True Aryans, men of vision and will, should feel invigorated, strengthened by its proximity." He gestured dismissively, as if swatting away a fly. "Dr. Metzger confirms the candidates are successfully acclimatizing."
+"Yournerve is failing, Kapitan," Kessler said softly, dangerously, his voice low and smooth like the slide of a knife. "These are merely the birth pangs of a new era. The Vril energy is strong here, as predicted. It affects the weak-willed, those whose blood memory of Hyperborean strength has been diluted. The mould? A biological reaction to potent life-force\! Temporal flickers? Proof of energies warping mundane spacetime\! True Aryans, men of vision and will, should feel invigorated, strengthened by its proximity." He gestured dismissively, as if swatting away a fly. "Dr. Metzger confirms the candidates are successfully acclimatizing."
 
 "Acclimatizing?" Richter shot back, his voice tight with anger, the words spilling out like water from a broken dam. "One of them is strapped to a bunk raving about monsters\! The sonar operators are reporting ghosts\! My engineer reports the hull itself may be degrading\! This isn't strength, Kessler, it's madness\! Your equipment, your *mission*, is infecting this boat\!"
 
@@ -430,7 +449,7 @@ The U-boat groaned, a deep, soul-wrenching sound of tortured metal surrendering 
 
 ### Chapter 12: Annihilation
 
-The plunge became a dissolution. U-3523, mortally wounded and psychically assaulted, surrendered to the depths not just under the laws of pressure and gravity, but under the actively hostile geometry of R'lyeh itself. The screech of tearing metal mingled with the roar of incoming water and sounds that had no place in the natural world – vast, grinding harmonies, chitinous clicks that echoed within the skull, and the omnipresent, soul-crushing hum of the awakened entity. Darkness was near absolute, broken only by the frantic, dying beams of hand-torches and the ghastly green luminescence filtering through viewports that seemed to bend and warp like heated glass, casting an eerie jade glow across the chaos.
+The plunge became a dissolution. U-3523, mortally wounded and psychically assaulted, surrendered to the depths not just under the laws of pressure and gravity, but under the actively hostile geometry of R'lyeh itself. The screech of tearing metal mingled with the roar of incoming water and sounds that had no place in the natural world – vast, grinding harmonies, chitinous clicks that echoed within the skull, and the omnipresent, soul-crushing hum of the awakened entity. Darkness was near absolute, broken only by the frantic, dying beams of hand-torches and the hellish green luminescence filtering through viewports that seemed to bend and warp like heated glass, casting an eerie jade glow across the chaos.
 
 Korvettenkapitän Richter felt the icy water rise past his waist, then his chest, the cold seeping into his bones, numbing him against the horror. The pressure wasn't just external; it felt as if the crushing weight of the Pacific depths was manifesting *inside* the U-boat, condensing reality itself like carbon compressing into diamond under geological time. The psychic presence of the Great Old One filled everything, eroding thought, dissolving identity into a slurry of primal fear. It felt like the gravity of a collapsing star, pulling not just matter, but sanity and the very laws of physics into its singularity.
 
@@ -476,7 +495,7 @@ The clerk shrugged, tossing the logbook onto a pile destined for incineration or
 
 And deep within the salt mines near Altaussee in Austria, where vast quantities of looted art and sensitive Ahnenerbe materials were hidden from Allied bombs, perhaps sits a specific, unremarkable crate. It bears faded SS runes and a North African sector designation. Inside, wrapped in oilcloth, lie obsidian tablets that gleam like black opals in darkness, covered in glyphs that seem to writhe when not directly observed, strange leaden cylinders with hints of verdigris like corrupted turquoise that feel too heavy, and star charts displaying alien constellations. They wait, inert for now, their cold, ancient potential unnoticed amidst the chaos of a fallen empire, ready perhaps for another hand, another time, another fool seeking power best left undisturbed.
 
-The war in Europe ended. The Third Reich collapsed into ash and ruin. Cities were rebuilt, borders redrawn, new anxieties replaced old ones. The world moved on, utterly ignorant of the cyclopean city that had risen briefly from the Pacific depths, or the ancient god-nightmare that had stirred within it. The fate of U-3523 and its crew became just another minor, unsolved mystery of the sea, a footnote in the vast, bloody ledger of the Second World War.
+The war in Europe ended. The Third Reich collapsed into ash and ruin. Cities were rebuilt, borders redrawn, new anxieties replaced old ones. The world moved on, utterly ignorant of the cyclopean city that had risen from the Pacific depths, or the ancient god-nightmare that had stirred within it. The fate of U-3523 and its crew became just another minor, unsolved mystery of the sea, a footnote in the vast, bloody ledger of the Second World War.
 
 Only the abyss's crushing silence held the truth. Only the cold, inhuman currents swirling around the sunken, non-Euclidean architecture of R'lyeh knew the full measure of the horror. And Cthulhu, in his house at R'lyeh, dead but dreaming, waited still, indifferent to the fleeting passage of men and their mad ambitions, until the stars were right once more. The universe remained vast, dark, and profoundly uncaring.
 
