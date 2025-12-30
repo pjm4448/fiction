@@ -4,6 +4,14 @@
 
 In the shadowed halls of Miskatonic University's Orne Library, Dr. Thaddeus Morley, a disgraced linguist obsessed with forbidden knowledge, discovers his long-hidden manuscript (a tome of cosmic secrets capable of unraveling reality itself) has resurfaced in the hands of Alistair Finch, an ambitious but naive cataloguer. Sensing an opportunity for vindication, Morley manipulates Finch into unlocking the manuscript's arcane power, guiding him toward a perilous ritual under the guise of academic glory. As the two delve deeper into the text's alien script and unsettling truths, the boundaries of sanity and reality blur, drawing them to an abandoned observatory for a fateful confrontation with the Watcher Between Stars. Packed with creeping dread, cosmic horror, and a chilling descent into madness, My Vindication is a gripping tale of ambition, betrayal, and the catastrophic consequences of tampering with forces beyond human comprehension.
 
+## Table of Contents
+
+- [Chapter 1: Providence and Pawn](#chapter-1-providence-and-pawn)
+- [Chapter 2: Weaving the Web](#chapter-2-weaving-the-web)
+- [Chapter 3: The Aperture](#chapter-3-the-aperture)
+- [Chapter 4: The Reckoning](#chapter-4-the-reckoning)
+- [Epilogue](#epilogue)
+
 ## Chapter 1: Providence and Pawn
 
 The dust motes danced in the shafts of anemic sunlight slanting through the Orne Library's tall, arched windows. They swirled like miniature nebulae, each one an eye, I knew. Watching. Always watching. Here, amidst the supposed silence of scholarship, the air itself hung thick with conspiracy, heavy with the scent of decaying paper, binding glue, and the subtle, electric tang of impending revelation, or perhaps, impending doom. They thought me gone, relegated to the dustbin of academic history, a harmless eccentric haunting the periphery like some pathetic revenant. Fools. They couldn't comprehend the currents I navigated, the whispers I deciphered in the rustling pages and the creaking floorboards that spoke their ancient tongue. Miskatonic University... my alma mater, my crucible, my stolen kingdom. Soon, it would become my altar, consecrated in the fire of cosmic truth.
