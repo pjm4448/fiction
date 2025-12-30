@@ -40,7 +40,7 @@ Lying on a bed of white satin was a single, flawless amethyst. It was the deep, 
 
 Phantamos leaned closer, his poet's heart rate for once quickening with something other than artistic fervour. It was not wine that slicked the gem's facets. A sliver of white sclera, threaded with a single, ruptured vein, clung to its edge like a profane caress.
 
-He recoiled, his breath catching in his throat. He stumbled back, staring at the offering. It was a perfect echo of his verse. An admirer had sent him a rhyme written in flesh. His art, which had always maintained a safe and beautiful distance from the world, had been answered by reality. And as the distant, holy silence of Mordiggian's temple once again settled over the city, Phantamos felt the first, true tremor of fear he had known in his life. His Muse had found a new collaborator.
+He recoiled, his breath catching in his throat. He stumbled back, staring at the offering. It was a perfect echo of his verse. An admirer had sent him a rhyme written in flesh. His art, which had always maintained a safe and beautiful distance from the world, had been answered by reality. And as the distant, holy silence of Mordiggian's temple once again settled over the city like a shroud of onyx, Phantamos felt the first, true tremor of fear he had known in his life. His Muse had found a new collaborator.
 
 Phantamos did not sleep. The amethyst, still nested in its velvet box, seemed to pulse in the gloom of his chamber like a malevolent star. He had pushed it to the far end of a long ebony table, but he could feel its presence, a cold spot in the lotus-scented air. His art, his shield and sustenance, had been transmuted into a weapon against him. A new quill felt alien in his hand, heavy with a terrible and unforeseen responsibility.
 
@@ -78,7 +78,7 @@ The final end for all the world to see...*
 
 This time, there was no applause at all, only the shifting of uncomfortable patrons. He had failed as a poet, but he prayed he had succeeded in giving his monster nothing to grasp.
 
-Two days later, the merchant Kastor, a man whose vast wealth was matched only by his thinly veiled ambition to one day challenge the Tyrant, was found dead in his silken bed. There was not a mark on his body. Yet, when the priests of Mordiggian came to collect their offering, they found the corpse strangely light, brittle as a dried leaf. One of the bearers stumbled, and the body fell, shattering upon the marble floor. It crumbled into a heap of fine, crimson powder. An attending physician, a man versed in strange poisons, whispered that it appeared every drop of moisture had been leached from Kastor's body and replaced, vein by vein, with a mineral dust of unknown origin.
+Two days later, the merchant Kastor, a man whose vast wealth was matched only by his thinly veiled ambition to one day challenge the Tyrant, was found dead in his silken bed. There was not a mark on his body. Yet, when the priests of Mordiggian came to collect their offering, they found the corpse strangely light, brittle as a dried leaf. One of the bearers stumbled, and the body fell, shattering upon the marble floor like a dropped carnelian vase. It crumbled into a heap of fine, crimson powder. An attending physician, a man versed in strange poisons, whispered that it appeared every drop of moisture had been leached from Kastor's body and replaced, vein by vein, with a mineral dust of unknown origin.
 
 Phantamos heard the news and vomited into a potted fern. The killer was not just an artist; they were an alchemist, a magician. They could turn abstract concepts into physical reality.
 
@@ -127,7 +127,7 @@ As Vorlag led him through corridors of polished black stone, he spoke not of the
 
 "You see, great Phantamos," Vorlag whispered, his dry hand gripping the poet's arm with surprising strength. "You provide the sacred text. We, the humble servants of the god, merely provide the illustration."
 
-Every word was a confirmation. Every quote, a confession. Phantamos felt his blood run cold. He was not speaking to a priest; he was speaking to his muse, to his collaborator, to his hunter. The man's fanaticism was a physical force, an oppressive heat that warped the very air between them.
+Every word was a confirmation. Every quote, a confession. Phantamos felt his blood run cold, his veins turning to sapphire ice. He was not speaking to a priest; he was speaking to his muse, to his collaborator, to his hunter. The man's fanaticism was a physical force, an oppressive heat that warped the very air between them.
 
 Phantamos feigned a deep, artistic gratitude, his actor's instincts taking over where his courage had fled. He asked banal questions about relics and rituals, his mind racing. He had found him. He had stared into the eyes of the man who had brought a tongue in a flower to his pillow.
 
@@ -137,7 +137,7 @@ Phantamos did not go home. To return to his villa, with its now-violated solitud
 
 It was in that stupor that they came for him. They were not the black-robed Fingers of the God. They were shades, silent figures who detached themselves from the deeper shadows of the alley. There was no struggle. A cloth, smelling sweetly of crushed lotus and some heavier, soporific spice, was pressed over his face. His last thought was not of fear, but of the grim, artistic neatness of it all. Of course he would be taken with the same scent that had perfumed his own chambers. It was a signature.
 
-He awoke on a cold stone slab. He was not bound. His silks were not even ruffled. He sat up, the drug leaving his head with a nauseous clarity. He was in a circular chamber, the walls seamless, curving up to a single, high aperture that showed a patch of star-dusted night sky. The air was frigid and utterly still. He was in the heart of the temple.
+He awoke on a cold stone slab. He was not bound. His silks were not even ruffled. He sat up, the drug leaving his head with a nauseous clarity. He was in a circular chamber, the walls seamless, curving up to a single, high aperture that showed a patch of star-dusted night sky like diamonds scattered on velvet. The air was frigid and utterly still. He was in the heart of the temple.
 
 "I am pleased you are awake." Vorlag's voice echoed slightly in the stone drum. The priest was not there. "I feared the dose was too generous. Forgive the theatrics of your conveyance, but it would not do for the city to see its prophet arriving at the temple like a common criminal."
 
@@ -159,7 +159,7 @@ The stone wall slid shut, leaving Phantamos in the cold, silent dark. The only s
 
 And then, he heard it. The scraping sound of Vorlag unrolling the parchment outside the hidden door. The priest began to chant, his voice a low hum, reciting the opening lines of 'The Last Supper of the Worm.' Hearing his own foul words from his executioner's mouth was a final, surreal horror.
 
-But as the priest's voice droned on, a strange thing happened. The terror in Phantamos's heart did not lessen, but it changed. It was honed, sharpened by a sudden, defiant rage. Rage at Vorlag, for his grotesque, fawning madness. Rage at himself, for the vanity and blindness that had led him here. And rage at the cheap, theatrical violence that the priest mistook for divinity.
+But as the priest's voice droned on, a strange thing happened. The terror in Phantamos's heart did not lessen, but it changed. It was honed, sharpened by a sudden, defiant rage like a blade of obsidian glass. Rage at Vorlag, for his grotesque, fawning madness. Rage at himself, for the vanity and blindness that had led him here. And rage at the cheap, theatrical violence that the priest mistook for divinity.
 
 Vorlag thought Mordiggian was a god of bloody spectacle. He had missed the point entirely. The true horror of the Charnel God, the truth that every citizen of Zul-Bha-Sair understood in their bones, was not in the dramatic flourish. It was in the silence. The waiting. Complete, passive, unavoidable consumption.
 
@@ -210,7 +210,7 @@ The stone wall slid open.
 
 Vorlag stood there, his face a mask of utter devastation, tears cutting clean paths through the grime on his cheeks. The scroll of Phantamos's secret poem lay at his feet. But the priest was no longer the threat. He was no longer even the focus. He was simply the nearest object to a newly opened door.
 
-Behind him, the passageway was filled with a shadow that was not a shadow. It was a presence defined by its absolute absence. It did not have a shape, but it had a form, a writhing, amorphous bulk that seemed to be made of coagulated silence. It was blacker than the temple obsidian, blacker than the starless sky above. It was the colour of the universe's final moments.
+Behind him, the passageway was filled with a shadow that was not a shadow. It was a presence defined by its absolute absence. It did not have a shape, but it had a form, a writhing, amorphous bulk that seemed to be made of coagulated silence. It was blacker than the temple obsidian, blacker than the starless sky above, blacker than jet pulled from the deepest mine. It was the colour of the universe's final moments.
 
 It was Mordiggian.
 
@@ -230,6 +230,6 @@ Phantamos did not move for a long time. The door to his prison remained open. He
 
 His life had been spared, but his spirit was annihilated. His art, the thing he had loved above all else, was a venomous power he could no longer control. He had looked upon the face of his god and seen the ultimate truth: that to a being of infinite silence, a poet's words are the most obscene noise of all.
 
-He never returned to his villa. He did not collect his jewels or his library of rare poisons. He walked out of the city gates as the red sun began to bleed once more upon the horizon, a man with no name and no craft. He fled Zul-Bha-Sair, and the last of the great poets of Zothique was never heard from again, forever silenced by the terrible, sublime horror of a prayer that had been answered.
+He never returned to his villa. He did not collect his jewels or his library of rare poisons. He walked out of the city gates as the red sun began to bleed once more upon the horizon like a garnet cracked open to reveal its crimson heart, a man with no name and no craft. He fled Zul-Bha-Sair, and the last of the great poets of Zothique was never heard from again, forever silenced by the terrible, sublime horror of a prayer that had been answered.
 
 The End.

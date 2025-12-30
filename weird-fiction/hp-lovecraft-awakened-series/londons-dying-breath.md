@@ -42,7 +42,7 @@ Dismissed by his superiors, Fletcher must hunt this ancient evil alone. The inve
 
 ### Chapter 1: Friday Morning
 
-The air in the squad room at New Scotland Yard was already turning foul, already acquiring that peculiar quality of wrongness that would, in the days to come, seep into the very bones of the city. It was a unique London cocktail, but one brewed in some infernal chemist's laboratory: a million coal fires belching their sooty exhalations, the damp miasma rising from the Thames like the breath of something long drowned, and the poisonous exhaust of stalled motorcars, all stewed together under a lid of thermal inversion that pressed down upon the city like the palm of an indifferent god. It was an atmosphere you could taste, metallic and sharp and fundamentally wrong on the back of the tongue, as if the very act of breathing was an act of slow self-poisoning. It coated the windows with a greasy, yellow film that seemed almost organic in its insistence, turning the early morning light into a jaundiced glare that offered no warmth, only a sickly illumination that revealed rather than concealed the dust motes dancing in the stale air like the ashes of some vast, invisible crematorium.
+The air in the squad room at New Scotland Yard was already turning foul, already acquiring that peculiar quality of wrongness that would, in the days to come, seep into the very bones of the city. It was a unique London cocktail, but one brewed in some infernal chemist's laboratory: a million coal fires belching their sooty exhalations, the damp miasma rising from the Thames like the breath of something long drowned, and the poisonous exhaust of stalled motorcars, all stewed together under a lid of thermal inversion that pressed down upon the city like the palm of an indifferent god. It was an atmosphere you could taste, metallic and sharp and fundamentally wrong on the back of the tongue, as if the very act of breathing was an act of slow self-poisoning. It coated the windows with a greasy, yellow film that seemed almost organic in its insistence, turning the early morning light into a jaundiced glare that offered no warmth, only a sickly illumination that revealed rather than concealed the dust motes dancing in the stale air like the ashes of some vast, invisible crematorium, each particle catching the amber light like flecks of corrupt citrine.
 
 The room was a purgatory of small, insistent noises that scraped against the mind. The ceaseless, shrill ringing of Bakelite telephones, each demanding an answer that could not be given, each ring a tiny cry of bureaucratic desperation. The wet, hacking coughs of a dozen overworked constables, a percussive symphony of bronchitis that echoed the city's own laboured, failing breathing, each spasm a reminder of lungs slowly filling with poison. The rustle of paper, the scrape of chairs on worn linoleum, the low murmur of voices trying desperately to impose order on a world that was quietly, insistently, falling apart at the seams.
 
@@ -72,7 +72,9 @@ He was met with a hum. Not a ring, not the engaged tone, just a dead, empty soun
 
 He slowly placed the receiver back in its cradle, the finality of the click echoing the silence in his ear like the sound of a coffin lid closing. His finger ached from the dialling, a small, meaningless pain.
 
-He leaned back in his chair, the worn leather groaning in protest like a living thing in distress, and closed his eyes. Instantly, unbidden and unwelcome, an image bloomed in the darkness behind his lids, sharp and painfully clear, more vivid than any memory had a right to be. He saw the small, warm kitchen of Constance's flat. He saw Arthur, her new man, standing at the cooker. Arthur, with his soft, uncalloused hands and his kind, steady smile, calmly spreads butter on a piece of toast, then adds a careful layer of strawberry jam. He saw his son, Leo, all of six years old, sitting at the table, his small legs kicking with excitement, his face bright with the uncomplicated joy of a boy about to receive his breakfast from a man who was not his father.
+He leaned back in his chair, the worn leather groaning in protest like a living thing in distress, and closed his eyes. Instantly, unbidden and unwelcome, an image bloomed in the darkness behind his lids, sharp and painfully clear, more vivid than any memory had a right to be. He saw the small, warm kitchen of Constance's flat. He saw Arthur, her new man, standing at the cooker. Arthur, with his soft, uncalloused hands and his kind, steady smile, standing at the cooker, calmly spreading butter on a piece of toast. In another life, in a parallel world, those might have been his own hands at that cooker. But in this world, Arthur's wedding band caught the morning light—a simple gold band that gleamed like a tiny sun, while Fletcher's own finger bore only the ghost of where his own ring had once been, a pale band of flesh like a scar.
+
+He saw his son, Leo, all of six years old, sitting at the table, his small legs kicking with excitement, his face bright with the uncomplicated joy of a boy about to receive his breakfast from a man who was not his father.
 
 The image was a diorama of domestic peace, perfect and complete and utterly beyond his reach. And it was a world he was exiled from, cast out like some biblical figure, wandering in the wilderness.
 
@@ -102,7 +104,7 @@ Fletcher barely heard him. He was staring at the window, transfixed. The fog out
 
 It was a spiral.
 
-It was perfect. Not the clumsy swirl of a finger drawn in idle boredom, not the random mark of condensation dripping down glass, but a mark of impossible, deliberate precision. The line was fine and unwavering, coiling inward with a geometric perfection that was both beautiful and deeply, profoundly unsettling, as if it had been inscribed by some alien intelligence that understood mathematics but not humanity. It was as if a compass had been used on the fragile medium of breath and cold, a signature left in water and chill air, a calling card from something that should not be.
+It was perfect. Not the clumsy swirl of a finger drawn in idle boredom, not the random mark of condensation dripping down glass, but a mark of impossible, deliberate precision. The line was fine and unwavering, coiling inward with a geometric perfection that was both beautiful and deeply, profoundly unsettling, as if it had been inscribed by some alien intelligence that understood mathematics but not humanity. It was as if a compass had been used on the fragile medium of breath and cold, a signature left in water and chill air, a calling card from something that should not be. In the dim light filtering through the fog, the spiral seemed to gleam with an opalescent sheen, as if traced in mother-of-pearl rather than mere condensation.
 
 "Governor?" Miles said, his voice softer now, the bravado draining away. He had seen it too. His face had gone a shade paler.
 
@@ -180,7 +182,7 @@ The air was a thick, unbreathable broth of sulphur and cold metal, the taste of 
 
 Familiar streets had become alien landscapes, labyrinthine and hostile. He navigated by memory and instinct, his hand trailing along the cold, greasy brick of the buildings beside him, the texture rough and damp under his gloved fingers. A right turn where the bakery should be, its familiar scent of baking bread now replaced by the stench of sulphur. A left at the corner where the pub sign used to hang, now invisible in the gloom. The city had been stripped of its landmarks, leaving only a blind, suffocating uniformity, a featureless grey expanse where every street looked the same, where every corner could be any corner. He felt like a spelunker navigating a cave, a blind man tapping his way through darkness, the world reduced to the immediate and the tactile.
 
-Sound was a liar in this new world, a deceiver. A dog's bark, sharp and frantic, seemed to come from all directions at once, from above, from below, from inside his own head, a disembodied howl that spoke of animal terror. The frantic tolling of a church bell, a sound that should have been a clear, ringing summons, a call to order and to faith, was muffled to a dull, funereal clang, as if the bell were wrapped in a thousand blankets, as if the very air was deadening all sound, absorbing it like a sponge. Each sound was distorted, unmoored from its source, drifting through the fog like the cries of drowning men, adding to the profound sense of dislocation, to the feeling that the world itself had come unhinged.
+Sound was a liar in this new world, a deceiver. A dog's bark, sharp and frantic, seemed to come from all directions at once, from above, from below, from inside his own head, a disembodied howl that spoke of animal terror. The frantic tolling of a church bell, a sound that should have been a clear, ringing summons, a call to order and to faith, was muffled to a dull, funereal clang, its bronze voice turned to lead, as if the bell were wrapped in a thousand blankets, as if the very air was deadening all sound, absorbing it like a sponge. Each sound was distorted, unmoored from its source, drifting through the fog like the cries of drowning men, adding to the profound sense of dislocation, to the feeling that the world itself had come unhinged.
 
 He nearly walked into it before he saw it. A shape loomed out of the yellow murk, vast and dark and utterly silent. For a moment, his war-honed instincts screamed tank. His body tensed, ready to dive for cover, to seek shelter from a threat that had not existed for years. But then the shape resolved itself, acquiring edges and definition. It was a double-decker bus, abandoned mid-route. It sat silently in the middle of the road, its windows dark and empty like the sockets of a skull, its iconic red paint rendered a sickly maroon by the jaundiced light, the color of old blood. It looked like the skeletal remains of some great leviathan, beached and rotting in a poisonous sea, its metal bones exposed to the corrosive air. He could almost imagine its great ribs curving up into the unseen sky, disappearing into the yellow void above.
 
@@ -202,7 +204,7 @@ But the clock was silent now. Its pendulum hung still.
 
 She lay in her armchair, a book of poetry fallen to the floor beside her, its pages splayed open like broken wings. Her head rested against the floral-patterned chintz as if she were simply napping. Another victim of the impossible, another soul who had simply stopped, extinguished like a candle flame in a sudden draft.
 
-For a moment, Fletcher's professional detachment held - a fragile barrier against the encroaching horror. He was a policeman at the scene of an unexplained death. He noted the details, the lack of struggle, the chill in the air that was deeper than the December night, colder than any winter should be. But then his eyes were drawn to the window, pulled by some invisible force.
+For a moment, Fletcher's professional detachment held - a fragile barrier against the encroaching horror. He was a policeman at the scene of an unexplained death. He noted the details, the lack of struggle, the chill in the air that was deeper than the December night, colder than any winter should be, a cold that seemed to leach all color from the room, turning the floral chintz to shades of grey and the ambient light to something pale and moonstone-flat. But then his eyes were drawn to the window, pulled by some invisible force.
 
 And his world shattered.
 
@@ -226,7 +228,7 @@ Fletcher collapsed to the wet cobblestones, his body a trembling, boneless wreck
 
 ### Chapter 6: Sunday Morning
 
-Fletcher didn't sleep. He sat in his armchair in the dark, the whisky untouched on the table beside him, listening to the city groan under the weight of the fog. Every creak of the floorboards, every rattle of the window pane was a prelude to the return of "The Press." He spent the night in a state of hyper-vigilance, his muscles screaming with a phantom ache where the pressure had squeezed him. His own body felt alien to him, a fragile vessel that had been intimately, terrifyingly violated.
+Fletcher didn't sleep. He sat in his armchair in the dark, the whisky untouched on the table beside him, its amber depths catching no light in the blackness, like a failed promise of warmth. He listened to the city groan under the weight of the fog. Every creak of the floorboards, every rattle of the window pane was a prelude to the return of "The Press." He spent the night in a state of hyper-vigilance, his muscles screaming with a phantom ache where the pressure had squeezed him. His own body felt alien to him, a fragile vessel that had been intimately, terrifyingly violated.
 
 Arriving at Scotland Yard on Sunday morning felt like walking into his own court-martial. He moved stiffly, his ribs a cage of fire, his mind a numb landscape of dread. The report on Mrs. Gable's death would be on Davies' desk by now, his own name prominent as the attending detective. He hadn't just ignored an order; he had sprinted headlong past it.
 
@@ -320,7 +322,7 @@ Wainwright looked from Fletcher to Thorne and back again, a faint, knowing smile
 
 He led them from the main shop into a small, book-lined study at the back. It was a cozy, cluttered space, warmed by a small electric heater that glowed a cheerful orange. He gestured for them to sit in two worn leather armchairs and proceeded to pour three small glasses of sherry from a crystal decanter, the amber liquid catching the light.
 
-He handed them each a glass. "A small fortification against the miasma," he said. He settled into his own chair behind a large, cluttered desk. For a moment, he regarded Fletcher over the rim of his spectacles, his scholarly demeanour a comforting presence. But then, his gaze shifted, and he seemed to look past the policeman, past the uniform and the rank, and see the man underneath. The haunted man.
+He handed them each a glass. "A small fortification against the miasma," he said, the liquid catching the light from the electric heater, glowing like liquid amber, like bottled sunlight from a warmer world. He settled into his own chair behind a large, cluttered desk. For a moment, he regarded Fletcher over the rim of his spectacles, his scholarly demeanour a comforting presence. But then, his gaze shifted, and he seemed to look past the policeman, past the uniform and the rank, and see the man underneath. The haunted man.
 
 "You've had a difficult war, haven't you, Inspector?" Wainwright asked softly.
 
@@ -334,7 +336,7 @@ He looked from Fletcher to Abby, a silent pact passing between them. They were n
 
 He stared down at his own trembling hands, his scholarly demeanor cracking like old parchment. "There were stories. Men who would run into the fog to escape the shelling. Mad with fear, you see. Most were never found. But we... we found one of them. Days later. Hiding in a shell crater."
 
-Wainwright took a shuddering breath. "He wasn't wounded. Not a mark on him from a shot or shell. He was just... wrong. His joints... they bent in ways they shouldn't. His neck was too long. His twisted mouth..." He trailed off, his eyes wide with the memory. "It was as if something had taken him apart and put him back together without knowing how a man is built. He was still alive. He was trying to speak, but the sounds... God, the sounds."
+Wainwright took a shuddering breath, his knuckles white as he gripped the arms of his chair, pale as marble, bloodless as bone. "He wasn't wounded. Not a mark on him from a shot or shell. He was just... wrong. His joints... they bent in ways they shouldn't. His neck was too long. His twisted mouth..." He trailed off, his eyes wide with the memory. "It was as if something had taken him apart and put him back together without knowing how a man is built. He was still alive. He was trying to speak, but the sounds... God, the sounds."
 
 The room was silent, save for the hum of the electric heater. Abby Thorne sat frozen, her pen and notepad forgotten in her lap, her face pale.
 
@@ -374,7 +376,7 @@ He started with a vague notion of retracing the entity's steps, of finding a pat
 
 The first stop was the small stone church where he and Constance had married. St. Giles-in-the-Fields. It stood in its churchyard like a grey, forgotten ship run aground in the yellow fog. A place of vows and beginnings, it now felt like a tomb. As he approached the lychgate, a sense of profound wrongness washed over him. On the flagstones beneath the arch, something was arranged in a dark, wet circle.
 
-It was a spiral made from the broken bodies of pigeons. Dozens of them, their grey feathers matted with blood, their necks snapped, their small bodies twisted and forced into the same horrifyingly precise pattern he had seen on the window panes. It was a desecration not just of the church grounds, but of his own history, turning a symbol of life and hope into a sigil of death.
+It was a spiral made from the broken bodies of pigeons. Dozens of them, their grey feathers matted with blood, their necks snapped, their small bodies twisted and forced into the same horrifyingly precise pattern he had seen on the window panes. It was a desecration not just of the church grounds, but of his own history, turning a symbol of life and hope into a sigil of death. In the sickly fog-light, the wet blood gleamed like garnets scattered on stone, dark and precious and wrong.
 
 He felt a surge of cold fury. This was not random. This was intimate. He stood there, frozen, the message clear: There is no refuge for you here.
 
@@ -382,7 +384,7 @@ He turned away from the church, the image of the pigeon-spiral burned into his m
 
 Hanging from the arm of a gas lamp post, swaying gently in the deathly still air, was a child's doll.
 
-It was a cheap copy of the one he had given Leo for his last birthday, a little sailor boy with a painted smile and yarn for hair. This one's smile was still there, but it was a hideous, mocking grin. A piece of dirty string had been fashioned into a noose and tightened around its neck.
+It was a cheap copy of the one he had given Leo for his last birthday, a little sailor boy with a painted smile and yarn for hair. This one's smile was still there, but it was a hideous, mocking grin. A piece of dirty string had been fashioned into a noose and tightened around its neck. Two black buttons had been sewn where the eyes should be, glossy and dark as jet, catching no light, reflecting nothing.
 
 The air was utterly motionless. Not a breath of wind stirred the thick, heavy fog. Yet the doll swung, back and forth, back and forth, in a gentle, hypnotic rhythm. It was a patient, deliberate motion, as if pushed by an unseen hand.
 
@@ -398,7 +400,7 @@ The line crackled. He heard the distant, beautiful sound of a ring. And then ano
 
 "Hello?"
 
-It was Arthur's voice. Calm, steady Arthur. A wave of conflicting emotions washed over Fletcher. Hot resentment, sharp jealousy, and a vast, humbling relief.
+It was Arthur's voice. Calm, steady Arthur. A wave of conflicting emotions washed over Fletcher. Hot resentment like molten copper, sharp jealousy cold as steel, and a vast, humbling relief clear as crystal.
 
 "Arthur, it's Stanley."
 
@@ -428,7 +430,7 @@ A cold dread began to seep into Fletcher's bones, displacing the gratitude. "Mr.
 
 The fortress of blankets was no fortress at all. The monster was at the window, tapping on the glass, whispering to his son.
 
-"And that's not all," Constance continued, her voice trembling now. "He told me a secret that 'Mr. Taps' told him. He made me promise not to tell, but it scared me." She took a shaky breath. "He said his friend knew you were sad. He said he knew you were sad about 'the man who fell asleep under the rocks' a long time ago."
+"And that's not all," Constance continued, her voice trembling now, brittle as glass. "He told me a secret that 'Mr. Taps' told him. He made me promise not to tell, but it scared me." She took a shaky breath. "He said his friend knew you were sad. He said he knew you were sad about 'the man who fell asleep under the rocks' a long time ago."
 
 The world fell away. The tiled walls of the tube station, the shuffling feet of the commuters, the hum of the electric lights, it all vanished. Fletcher was standing on a barren, shell-blasted slope in Italy. He could smell the cordite and dust and blood. He could see his best friend, Corporal Evans, buried under a collapsed section of a fortified farmhouse, his hand still reaching out from the rubble. A secret of the soul, a moment of horror witnessed by no one else, a wound he had carried in silence for nearly a decade.
 
@@ -456,7 +458,7 @@ A complex wave of guilt and pride washed over Fletcher. Miles's innate decency h
 
 "He's a good man, your sergeant," Abby said softly. Then she pushed the second document towards him. "This, I had to dig for myself. I started looking for missing persons reports near the first incidents. Anything unusual. I found this."
 
-It was a file on a man named Gilbert Skinner. His black-and-white photograph showed a man with haunted eyes and a thin, forced smile. According to the report, Skinner was a former senior engineer at Battersea Power Station. Two years ago, there had been a steam-pipe explosion in Turbine Hall A. Skinner's wife and daughter, visiting him on a rare family day at the station, had been killed instantly. Skinner himself had been thrown clear but suffered a complete mental breakdown. He was institutionalized, but escaped six months ago, disappearing without a trace. The last line of the report was a note from a consulting psychiatrist: "Subject suffers from extreme delusions. Believes the 'machine' that killed his family is a living god that speaks to him. He calls it 'The Great Hum.'"
+It was a file on a man named Gilbert Skinner. His black-and-white photograph showed a man with haunted eyes and a thin, forced smile, eyes that held a peculiar, feverish gleam, bright and fractured as shattered mica. According to the report, Skinner was a former senior engineer at Battersea Power Station. Two years ago, there had been a steam-pipe explosion in Turbine Hall A. Skinner's wife and daughter, visiting him on a rare family day at the station, had been killed instantly. Skinner himself had been thrown clear but suffered a complete mental breakdown. He was institutionalized, but escaped six months ago, disappearing without a trace. The last line of the report was a note from a consulting psychiatrist: "Subject suffers from extreme delusions. Believes the 'machine' that killed his family is a living god that speaks to him. He calls it 'The Great Hum.'"
 
 The final piece of the puzzle slotted into place with sickening precision. Skinner wasn't just a random lunatic. He was a high priest in the very temple. He now sought to make an altar. He was a man broken by the "rules and order" of the industrial world, shattered by the very machine he once served.
 
@@ -490,7 +492,7 @@ He looked at the piece of greasy paper one last time, at the crude, hateful thre
 
 ### Chapter 14: Tuesday Night
 
-Midnight. The fog was at its thickest, a choking, yellow-black tide that had drowned the city. But even the fog could not entirely swallow Battersea Power Station. It loomed out of the gloom, not as a building, but as a vast, stone tomb, its four iconic chimneys reaching into the oppressive murk like the fossilized fingers of a buried god. This was the altar. Fletcher walked towards it, a solitary figure in an ocean of poison, his truncheon a solid, reassuring weight in his coat pocket, its leather strap looped around his wrist.
+Midnight. The fog was at its thickest, a choking, yellow-black tide that had drowned the city. But even the fog could not entirely swallow Battersea Power Station. It loomed out of the gloom, not as a building, but as a vast, stone tomb, its four iconic chimneys reaching into the oppressive murk like the fossilized fingers of a buried god, columns of industrial bone rising into a sky the color of old sulfur and tarnished silver. This was the altar. Fletcher walked towards it, a solitary figure in an ocean of poison, his truncheon a solid, reassuring weight in his coat pocket, its leather strap looped around his wrist.
 
 He found an unlocked maintenance door and slipped inside. The transition was immediate and disorienting. The muffled silence of the outside world was replaced by a deep, resonant hum that vibrated up through the soles of his feet and into his bones. It was the slow, sleeping breath of the turbines, the lifeblood of a city, now the slumbering pulse of the thing it served. The sheer scale of the turbine hall was meant to humble man, a cathedral of industry. Tonight, it felt like the nave of some obscene, alien church. Walkways and gantries crisscrossed the cavernous space high above, disappearing into the oppressive gloom where the ceiling should have been.
 
@@ -510,7 +512,7 @@ Fletcher took a step forward, gripping the truncheon tightly. "It's over, Skinne
 
 Skinner laughed, a dry, rattling sound that grated on the nerves. "Over? It has just begun." He gestured around the cavernous hall. "This place... this temple of yours. This machine. It took everything from me. My family. My mind. It taught me your world of rules and progress is a lie. A meat grinder. But in silence, after screams... I heard a new sound. The Great Hum. My god."
 
-His calm finally cracked, his smile twisting into a gleeful, insane leer. "My god cannot be born into a world of non-believers. It requires a witness of the old faith, a man like you, Inspector, a man of rules and order, to see its power and break. Your despair will be its baptism. And it's the boy my god wants. A new mind. A clean slate. 'Mr. Taps' wasn't just tapping on the glass, Inspector. He was teaching him. Teaching him how to open the door from his side."
+His calm finally cracked, his smile twisting into a gleeful, insane leer, his eyes catching the green panel lights and reflecting them back like the facets of a cracked emerald, all sharp edges and poisonous beauty. "My god cannot be born into a world of non-believers. It requires a witness of the old faith, a man like you, Inspector, a man of rules and order, to see its power and break. Your despair will be its baptism. And it's the boy my god wants. A new mind. A clean slate. 'Mr. Taps' wasn't just tapping on the glass, Inspector. He was teaching him. Teaching him how to open the door from his side."
 
 That was it. The final violation.
 
@@ -518,13 +520,11 @@ With a guttural cry, Fletcher lunged forward. The truncheon swung in a vicious a
 
 He fought against it, his vision swimming in a haze of red. Skinner, clutching his bleeding shoulder, was laughing again, a high, unhinged sound, his eyes wild. Through the agony, Fletcher saw his target. Not Skinner. The machine. The altar itself. You must find a bigger storm.
 
-
-
-With a primal roar of grief and fury that was torn from the deepest part of his soul, he fought his way to his feet. Every step was a battle against the crushing weight of a universe. He shoved past the staggering, laughing man and reached the main control panel. He grabbed the bank of massive breakers, great knife-switches of copper and steel. They were not meant to be thrown by one man.
+With a primal roar of grief and fury that was torn from the deepest part of his soul, he fought his way to his feet. Every step was a battle against the crushing weight of a universe. He shoved past the staggering, laughing man and reached the main control panel. He grabbed the bank of massive breakers, great knife-switches of copper and steel, their metal surfaces cold as ice, gleaming dully in the emergency lights like tarnished bronze. They were not meant to be thrown by one man.
 
 He poured every last ounce of his strength, his rage, his love for his son, into one desperate, final act of defiant physics. The breakers resisted, then moved with a deafening groan of protesting metal.
 
-A blinding, blue-white arc of man-made lightning erupted from the panel, leaping between the turbines with a sound that was not a sound, but a physical blow. It was a thunderclap that felt like the sky tearing in two. Simultaneous with the flash, a psychic scream of pure, absolute agony ripped through Fletcher's mind, a sound of a being whose very essence, its sustaining frequency, was being violated by a chaotic, overwhelming blast of raw power.
+A blinding, blue-white arc of man-made lightning erupted from the panel, leaping between the turbines with a sound that was not a sound, but a physical blow, a light so pure and brilliant it was like staring into the heart of a raw sapphire, a concentrated burst of electric fire. It was a thunderclap that felt like the sky tearing in two. Simultaneous with the flash, a psychic scream of pure, absolute agony ripped through Fletcher's mind, a sound of a being whose very essence, its sustaining frequency, was being violated by a chaotic, overwhelming blast of raw power.
 
 And "The Press" vanished.
 
@@ -548,7 +548,7 @@ Fletcher was quietly reinstated, his time on "traffic duty" forgotten in the bur
 
 ### One Year Later
 
-A thick, familiar fog rolled in from the Thames, smelling of cold river water and damp earth. From the window of his flat, Fletcher watched it swallow the streetlights one by one, erasing the world he knew. His hand instinctively went to his side, resting on the reassuring weight of the truncheon hanging from his belt.
+A thick, familiar fog rolled in from the Thames, smelling of cold river water and damp earth. From the window of his flat, Fletcher watched it swallow the streetlights one by one, erasing the world he knew, each lamp a tiny pearl of light being consumed by the murk. His hand instinctively went to his side, resting on the reassuring weight of the truncheon hanging from his belt.
 
 The terror was a cold ghost that lived in the room with him now. It was a permanent tenant, a silent companion in the quiet hours. He no longer expected to be free. But tonight, as the fog thickened, another thought followed the fear. It was an image, sharp and clear: a small boy, safe and warm inside a fortress of blankets and sofa cushions, his face bright with laughter as he played a game with Arthur.
 

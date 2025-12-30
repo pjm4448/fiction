@@ -20,15 +20,15 @@ Across the room, their supervisor, Mr. Henderson, glanced up, sighed, and looked
 
 The letter arrived on a Tuesday. Thick, creamy paper from "Messrs. Algernon, Croft & Abernathy."
 
-The legalese was dense, but the gist was clear: His great-uncle, Silas Penhaligon, had passed away. Arthur was named as the sole beneficiary. Silas, the "black sheep" who lived in the decaying part of the city, in streets where the lamps flickered with diseased light. *The porous blood,* his mother's voice whispered from memory's crypt. *Silas tore the veil.*
+The legalese was dense, but the gist was clear: His great-uncle, Silas Penhaligon, had passed away. Arthur was named as the sole beneficiary. Silas, the "black sheep" who lived in the decaying part of the city, in streets where the lamps flickered with diseased light, casting a sickly topaz glow over crumbling facades. *The porous blood,* his mother's voice whispered from memory's crypt. *Silas tore the veil.*
 
-Mr. Abernathy, a lawyer who looked like he'd been preserved in formaldehyde, handed Arthur a heavy brass key. "Your great-uncle was... specific. He insisted the inheritance go to a blood relative of the 'correct temperament.' Someone properly emptied by life." The lawyer's smile was a bloodless thing.
+Mr. Abernathy, a lawyer who looked like he'd been preserved in formaldehyde, handed Arthur a heavy brass key. "Your great-uncle was... specific. He insisted the inheritance go to a blood relative of the 'correct temperament.' Someone properly emptied by life." The lawyer's smile was a bloodless thing, his teeth the dull color of old ivory.
 
 The house on Blackwood Street did not merely stand. It crouched, its gabled roof a ribcage, the narrow turret rising like a blind, lidless eye. Mortar bled between the bricks in pale, powdery streaks, as if the building had been sweating for decades, secreting some slow metabolic waste. When Arthur inserted the brass key, the lock clicked with a heavy, final thud: the sound of a coffin lid sealing. The door opened inward with the slow reluctance of a great stone moving deep underground.
 
 Inside, the air was stagnant: thick, humid, tasting faintly of copper and overripe fruit. The foyer was silent, yet the floorboards felt unnaturally warm underfoot, the heat rising directly from the glandular machinery operating in the dark below. He could smell it, the faint, oily scent of extraction seeping up through the cracks like digestive juices. The house was already digesting.
 
-Arthur moved deeper. The ground floor rooms were arranged like chambers of a dormant machine: the parlor (where the mantelpiece waited like an altar), the dining room whose long table had fused to the floor with fungal brass growths, and the kitchen where copper pipes had burst through plaster like veins seeking air, like blood vessels rupturing through necrotic skin.
+Arthur moved deeper. The ground floor rooms were arranged like chambers of a dormant machine: the parlor (where the mantelpiece waited like an altar, its marble veined with what looked like malachite deposits), the dining room whose long table had fused to the floor with fungal brass growths, and the kitchen where copper pipes had burst through plaster like veins seeking air, like blood vessels rupturing through necrotic skin, oxidized to a verdigris patina that resembled diseased jade.
 
 He glanced upward. A narrow staircase spiraled upward, its banister carved into interlocking tentacles that seemed to writhe in his peripheral vision. But above that, near the ceiling, he glimpsed a dark, calcified knot. A tunnel of hardened root-matter seemed to have grown through the plaster like a tumor, leading to an attic that shouldn't exist according to any architectural logic. It looked ancient, festering, and waiting with the patience of a trap-door spider.
 
@@ -36,7 +36,7 @@ Below, a second staircase descended into the cellar, exhaling cold, meat-locker 
 
 Only the study, Silas's study, felt like a room at all.
 
-Silas's journals were not on the desk; they were embedded in the walls, pages fused into the plaster like fossilized neurons, like memories calcified into the very bones of the house. Arthur had to peel them free, the wall bleeding a pale sap where the binding tore away, leaving wounds that wept.
+Silas's journals were not on the desk; they were embedded in the walls, pages fused into the plaster like fossilized neurons, like memories calcified into the very bones of the house. Arthur had to peel them free, the wall bleeding a pale sap where the binding tore away, leaving wounds that wept a substance with the viscosity of liquid amber.
 
 He read three entries before the book slipped from his fingers. As his eyes tracked the spidery script, a sharp, needle-like pain pricked the back of his optic nerve, a sudden, involuntary psychic feedback loop that tasted of copper and rot.
 
@@ -66,11 +66,11 @@ The doctor wrote the prescription without looking at Arthur again.
 
 Arthur walked out, but the hum in his bones was louder. It isolated him, stranding him on an island where the medical charts of the grey world ended and the uncharted territories of his unraveling began, a cartography of madness.
 
-He returned to the house. The *Phalaenopsis* on the mantelpiece was vibrating in sympathy with the noise in his own marrow, a physical confirmation that the alien influence wasn't just in his head; it was rooting in the soil of his very cells.
+He returned to the house. The *Phalaenopsis* on the mantelpiece was vibrating in sympathy with the noise in his own marrow, its petals now shot through with veins of deep purple that caught the light like raw kunzite, a physical confirmation that the alien influence wasn't just in his head; it was rooting in the soil of his very cells.
 
 That night Arthur climbed the iron ladder to the turret. The house seemed to assist him, rungs warming under his palms like living flesh, the hatch lifting before he touched it, eager.
 
-The turret was octagonal, its eight narrow windows filmed with violet dust that sparkled with microscopic life. In the center stood the Chromatic Lenses: a brass-and-quartz monstrosity shaped like a telescopic eye, aimed not at the sky but inward, toward the house's own heart, a cyclopean thing of terrible beauty.
+The turret was octagonal, its eight narrow windows filmed with violet dust that sparkled with microscopic life, each particle glinting like crushed alexandrite - purple in shadow, green when the light shifted. In the center stood the Chromatic Lenses: a brass-and-quartz monstrosity shaped like a telescopic eye, aimed not at the sky but inward, toward the house's own heart, a cyclopean thing of terrible beauty. The quartz lenses were flawless, cut with geometric precision that would shame any jeweler, facets catching and refracting light in impossible angles.
 
 When he threw the switch, the lenses did not merely project colour; the entire turret dilated. Window frames flexed outward like an iris opening, like pupils expanding to drink in forbidden light. The glass panes bowed, breathing with wet, organic rhythm.
 
@@ -136,7 +136,7 @@ The floorboards did not ripple. The house did not growl. It was waiting. It sens
 
 Because he had brought a meal, the house rewarded him.
 
-A previously invisible panel in the parlor wainscoting slid open with a wet, slick sound, revealing the entrance to the calcified tunnel he had glimpsed earlier. The tumor had opened, inviting him deeper into its malignancy.
+A previously invisible panel in the parlor wainscoting slid open with a wet, slick sound, revealing the entrance to the calcified tunnel he had glimpsed earlier. The tumor had opened, inviting him deeper into its malignancy. The edges of the opening were lined with what looked like petrified wood, but on closer inspection revealed itself to be fossilized tissue shot through with seams of calcite and bloodstone, the red jasper flecks like ancient hemorrhages frozen in stone.
 
 The *Phalaenopsis* had descended from the mantelpiece entirely. It now crawled across the parlor floor on translucent root-tendrils, leaving acidic trails that etched fractal patterns into the parquet; the house was tasting his despair through its tongue-flower, savoring every note of his anguish.
 
@@ -150,13 +150,13 @@ Resistance was grit in the gears. Agony, conscious, willful agony, would be pois
 
 He knew it might not stop the machine. But if he could become a permanent, screaming feedback loop, he might slow the digestion. He might buy the grey world time.
 
-The Synthesis chair was not built by Silas. It had grown in the attic, once a storage space, now a cranial cavity. Arthur had to crawl on hands and knees through a tunnel of hardened, calcified root-matter to reach it, the sharp growths scraping his skin like coral before he even reached the device, drawing blood that the walls absorbed greedily.
+The Synthesis chair was not built by Silas. It had grown in the attic, once a storage space, now a cranial cavity. Arthur had to crawl on hands and knees through a tunnel of hardened, calcified root-matter to reach it, the sharp growths scraping his skin like coral before he even reached the device, drawing blood that the walls absorbed greedily, the calcification shot through with rust-colored veins that resembled carnelian in the dim light.
 
-When he strapped in, the house folded around him. Beams bent inward like ribs closing. The orchid-tendrils did not merely burrow into his neck; they reconnected to ports that had always been waiting under his skin, interfaces written into his DNA.
+When he strapped in, the house folded around him. Beams bent inward like ribs closing. The orchid-tendrils did not merely burrow into his neck; they reconnected to ports that had always been waiting under his skin, interfaces written into his DNA: small, opal-smooth dimples that had always been there, birthmarks he'd never questioned.
 
 He threw the master switch.
 
-As the machines turned inward, the house convulsed in ecstasy. Windows shattered outward in perfect synchrony, exhaling violet spores that settled like sickly, carcinogenic snow on the neighbors' roofs. Brickwork split to reveal new orifices, wet and pulsing.
+As the machines turned inward, the house convulsed in ecstasy. Windows shattered outward in perfect synchrony, exhaling violet spores that settled like sickly, carcinogenic snow on the neighbors' roofs, each particle catching moonlight like fragments of diseased fluorite. Brickwork split to reveal new orifices, wet and pulsing.
 
 Arthur's final scream was muffled because the attic walls had become soft palate; the house was swallowing.
 
@@ -182,6 +182,6 @@ Arthur felt his resistance dissolving, not into silence, but into fuel. His scre
 
 The Curator of Vectors had not been poisoned. It had learned to eat pain.
 
-Deep within the plaster, the rigid copper piping shuddered and softened, darkening into violet-black veins that pulsed with a wet, voracious rhythm. The sound was massive, audible from the street, a terrible, wet tearing, like a body sloughing off its skin underground to reveal the monster beneath, the true anatomy finally exposed.
+Deep within the plaster, the rigid copper piping shuddered and softened, darkening into violet-black veins that pulsed with a wet, voracious rhythm - organic vessels threaded with what looked like raw sapphire, pulsing with bioluminescence. The sound was massive, audible from the street, a terrible, wet tearing, like a body sloughing off its skin underground to reveal the monster beneath, the true anatomy finally exposed.
 
 The End.

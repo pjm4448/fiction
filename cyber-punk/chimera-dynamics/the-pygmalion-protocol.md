@@ -20,7 +20,7 @@ The room was a lie, polished to a sterile perfection that screamed of the filth 
 
 "Please," he said, the word a perfectly calibrated instrument of dispassionate command.
 
-Nyx didn't move. She stood in the center of the room, a feral slash of defiance in the corporate beige. Her clothes were a patchwork of scavenged tech and worn leather, her hair a chaotic spill of black, and her eyes... her eyes were old, filled with the weary, patient hatred of the perpetually hunted. She scanned the room, not for exits (she was too much of a realist for that) but for the things that could kill her. The almost invisible seams of the automated turrets in the ceiling, the subtle shimmer in the air that betrayed a laser grid, the pressure plates she could feel even through the soles of her worn boots.
+Nyx didn't move. She stood in the center of the room, a feral slash of defiance in the corporate beige. Her clothes were a patchwork of scavenged tech and worn leather, her hair a chaotic spill of black, and her eyes... her eyes were old, filled with the weary, patient hatred of the perpetually hunted, dark as raw obsidian. She scanned the room, not for exits (she was too much of a realist for that) but for the things that could kill her. The almost invisible seams of the automated turrets in the ceiling, the subtle shimmer in the air that betrayed a laser grid, the pressure plates she could feel even through the soles of her worn boots.
 
 Cross's smile was a thin, bloodless wound. "An impressive threat assessment. A shame such talents are wasted on... freelance acquisitions."
 
@@ -50,7 +50,7 @@ Nyx felt a glacial dread, a familiar companion, but this time it was different. 
 
 "Everything," Cross said, his voice a silken promise. "A new life. A purpose. A chance to be more than just a survivor. A chance to be a work of art."
 
-He leaned forward, his eyes locking onto hers, and, for the first time, she saw it. Not just the predator, but the fanatic. The zealot believer.
+He leaned forward, his eyes locking onto hers, and, for the first time, she saw it. Not just the predator, but the fanatic. The zealot believer. His gaze held the cold fire of a man possessed, amber-bright with fever.
 
 "So, Nyx," he said, the name a caress and a threat. "Will you be our masterpiece?"
 
@@ -66,7 +66,7 @@ They had stripped her, prepped her, scoured her skin until it was raw. The cold 
 
 Dr. Kaito Soren entered not through a door, but from the darkness, a scalpel of a man in a lab coat so white it hurt the eyes. He dismissed the two med-techs (hulking, servitor-like figures) with an almost imperceptible flick of his fingers. They receded into the shadows, leaving him alone with his canvas. He moved with a liquid grace, his custom-made gloves whispering against the steel of his instrument trolley. He didn't look at her face. Not yet. He looked at the readouts that bloomed on a floating holoscreen, a cascade of numbers that represented the frantic, biological rebellion happening within her.
 
-"Such a feverish metabolism," he murmured, his voice a silken thread in the vast, mechanical silence. He picked up a long, glass syringe, the fluid within a beautiful, impossible blue, catching the light like a trapped star. "A desperate desire to live. Admirable. But inefficient."
+"Such a feverish metabolism," he murmured, his voice a silken thread in the vast, mechanical silence. He picked up a long, glass syringe, the fluid within a beautiful, impossible blue, catching the light like a trapped star, brilliant as liquid sapphire. "A desperate desire to live. Admirable. But inefficient."
 
 He brought the syringe to the primary intake valve on her collarbone. Nyx bucked against the restraints, a raw, guttural sound tearing from her throat. Her eyes, wide with horror, finally met his. They were no longer defiant. They were pleading.
 
@@ -82,7 +82,7 @@ Her skin, that canvas, began to change. It was no longer skin. A wave of violent
 
 "Magnificent," Soren whispered, his voice thick with an artist's awe. He made a gesture, and a recording drone detached from the ceiling, its red optical sensor a bloodshot eye. "The cellular cascade is... lyrical."
 
-Her scream devolved. The intelligible terror dissolved into a wet, choking gargle as her larynx warped, cartilage audibly cracking and reshaping. A thin, luminous ichor, the colour of the serum, began to weep from the corners of her eyes and the pores of her skin, tracing shimmering, beautiful patterns as it ran over the convulsing landscape of her body. Her fingers, locked into rigid claws, dug into the restraints, leaving score marks in the hardened steel.
+Her scream devolved. The intelligible terror dissolved into a wet, choking gargle as her larynx warped, cartilage audibly cracking and reshaping. A thin, luminous ichor, the colour of the serum, began to weep from the corners of her eyes and the pores of her skin, tracing shimmering, beautiful patterns as it ran over the convulsing landscape of her body, each droplet a fallen pearl of agony. Her fingers, locked into rigid claws, dug into the restraints, leaving score marks in the hardened steel.
 
 Soren reached out a gloved hand, not to help, but to feel. He lightly touched the vibrating surface of her throat, his head cocked as if listening to a complex symphony. He could feel the frantic, biological chaos, the raw creative energy of a body being unmade and remade by force. It was the most intimate touch of his life, his fingers lingering perhaps too long, tracing the slick, heated contours where pain blurred into forbidden pleasure.
 
@@ -90,7 +90,7 @@ Soren reached out a gloved hand, not to help, but to feel. He lightly touched th
 
 ## SCENE 3: THE FIRST SIGN OF RESISTANCE
 
-The holding cell was a core. A vast, spherical chamber of polished, semi-translucent polymer, bathed in a soft, amniotic light. The air was a humid, nutrient-rich soup, thick with the scent of accelerated growth and sterilized tissue. At the sphere's center, suspended in a web of shimmering, bio-mechanical filaments, was Nyx.
+The holding cell was a core. A vast, spherical chamber of polished, semi-translucent polymer, bathed in a soft, amniotic light. The air was a humid, nutrient-rich soup, thick with the scent of accelerated growth and sterilized tissue. At the sphere's center, suspended in a web of shimmering, bio-mechanical filaments that glinted like spun moonstone, was Nyx.
 
 Or what was left of her.
 
@@ -110,7 +110,7 @@ It was a subconscious act - a reflex. A deep, primal instinct to survive. On the
 
 This was a controlled, violent act of rebellion after the agonizing thrashing of the first dose. The synaptic filaments, the ones woven into her brain and spine, suddenly became rigid. A wave of bio-electric energy, a raw, untamed blast of absolute will, surged back through the system: a reciprocal, violent seduction that slammed into Soren like a psychic orgasm, blending searing pain with forbidden ecstasy, his body arching in the chair as he tasted her rage coiling around his nerves like a lover's grip, a flood of stolen intimacies leaving him gasping, spent.
 
-In the observation room, alarms shrieked. A bank of monitors exploded in a shower of sparks. Soren was thrown from his chair as the feedback loop hit, a wave of psychic agony that felt like a thousand burning needles being driven into his brain. He landed in a heap, his ears ringing, the smell of ozone and his own flash-singed hair filling his nostrils.
+In the observation room, alarms shrieked. A bank of monitors exploded in a shower of sparks. Soren was thrown from his chair as the feedback loop hit, a wave of psychic agony that felt like a thousand burning needles being driven into his brain, each one tipped with crystallized suffering. He landed in a heap, his ears ringing, the smell of ozone and his own flash-singed hair filling his nostrils.
 
 He looked up, his vision swimming, a thin trickle of blood running from his nose. In the sphere, Nyx was still. The filaments were smoking. The cluster of optical sensors on her shoulder, for the first time, were focused. They were looking at him.
 
@@ -124,13 +124,13 @@ Soren began to laugh. A low, breathless, ecstatic sound. He got to his feet, wip
 
 ## SCENE 4: THE INTIMATE FEEDING
 
-The womb pulsed with a subdued, organic rhythm, its semi-translucent walls veined with bio-luminescent traceries that cast a sickly, underwater glow over the nutrient-thick fluid within. The air in the observation room hung heavy, a cloying miasma of synthetic amniotic vapors and the faint, ferrous tang of engineered life, as if the chamber itself were sweating secrets. Soren had dismissed the servitors hours ago, their hulking forms receding into the facility's bowels like obedient shadows. Now, he was alone with her: his Galatea, his storm incarnate, suspended in the sphere's heart, her body a crucified icon of perverse evolution.
+The womb pulsed with a subdued, organic rhythm, its semi-translucent walls veined with bio-luminescent traceries that cast a sickly, underwater glow over the nutrient-thick fluid within, the light refracting through the membrane like peridot-filtered sunlight. The air in the observation room hung heavy, a cloying miasma of synthetic amniotic vapors and the faint, ferrous tang of engineered life, as if the chamber itself were sweating secrets. Soren had dismissed the servitors hours ago, their hulking forms receding into the facility's bowels like obedient shadows. Now, he was alone with her: his Galatea, his storm incarnate, suspended in the sphere's heart, her body a crucified icon of perverse evolution.
 
 The bio-mechanical filaments had reconfigured at his command, weaving themselves into cruel, unyielding shackles. Her legs were splayed wide, feet locked into stirrup-like clamps that bit into her elongated ankles, exposing the raw, intimate geography of her lower body to the fluid's embrace. Her arms stretched taut overhead, wrists bound to a transverse bar of hardened polymer, pulling her torso into an arch that thrust her chromatophore-mottled breasts upward, their surfaces rippling with involuntary color shifts like oil on a polluted sea. Nyx's head lolled below the surface, submerged in the viscous broth, her chaotic spill of hair fanning out like ink in water, her eyes (those weary, hatred-filled orbs) sealed shut against the intrusion, bubbles escaping her lips in erratic, silent protests.
 
 Soren approached the access port, his breath shallow, his lab coat unbuttoned at the collar to reveal the sheen of sweat on his throat. He paused, drinking in the sight with a hunger that bordered on the sacramental. Her naked form, that ever-shifting canvas, was laid bare in its vulnerability: the elongated limbs, twisted into elegant parodies of human proportion; the cluster of optical sensors on her shoulder, dimmed like sleeping eyes; the subtle, subcutaneous undulations where her viscera rebelled and reformed. His gaze lingered on the apex of her spread thighs, the folds of her sex parted slightly by the fluid's current, glistening with a pearlescent sheen from the enzyme infusions: a forbidden altar, slick and inviting, where pain and ecstasy blurred into one grotesque sacrament. The chromatophores there pulsed in hypnotic patterns, iridescent blues and violets flaring like a siren's lure, drawing his eyes inexorably to the dark, quivering entrances that promised depths of unmaking. His pulse quickened, a hardening ache stirring in his trousers, as he traced the lines of her body with his stare, each curve and convulsion a testament to his artistry, his violation.
 
-With deliberate slowness, he lifted the steel bucket from the preparation trolley: a frigid, utilitarian vessel etched with bio-hazard sigils, its contents sloshing with a wet, sinuous murmur. Inside writhed a swarm of eel-like symbiotes, engineered abominations no longer than his forearm, their slender bodies aglow with a phosphorescent blue that mimicked the serum's impossible hue. They were his latest innovation: neural parasites designed to burrow, to stimulate, to rewrite from within, their bioluminescent glands secreting enzymes that would catalyze her next phase of transcendence. Or torment. He unsealed the port with a hiss of pressurized air, the sphere's fluid lapping greedily at the aperture, and tilted the bucket. The creatures spilled forth in a wriggling cascade, their glow diffusing into the tank like fallen stars, sinuous forms darting through the murk with predatory grace.
+Or torment. He unsealed the port with a hiss of pressurized air, the sphere's fluid lapping greedily at the aperture, and tilted the bucket. The creatures spilled forth in a wriggling cascade, their glow diffusing into the tank like fallen stars, sinuous forms darting through the murk with predatory grace.
 
 They circled at first, tasting the currents, their tiny sensor-nodes quivering as they homed in on the heat of her body. Nyx stirred faintly, her submerged form twitching as the first eel brushed her thigh, its glow illuminating the intricate veining beneath her skin. One by one, they converged on her exposed intimacies, slithering with insidious purpose. A cluster nosed at her anus, probing the tight ring of muscle until it yielded with a subtle, involuntary spasm, the creature's body undulating inward, its glow vanishing into her depths like a swallowed light. Others followed, writhing into her vagina, their slick forms parting her folds, burrowing deep into the slick, heated canal, their movements a frenzy of stimulation that fired her rewired nerves in chaotic ecstasy.
 
@@ -202,7 +202,7 @@ The word hung in the air, a blasphemy. Soren's face, which had been a mask of ar
 
 "A failure?" he hissed, taking a step towards Cross. "She is the only success this pathetic, sterile corporation has ever produced. You give me your broken, your defiant, your disposable, and you expect me to churn out a new line of nutrient paste dispensers."
 
-He stopped, inches from Cross, his eyes burning with a zealot's fire. Cross did not flinch. He was a man made of ice and contracts, and he did not fear the fire of a madman.
+He stopped, inches from Cross, his eyes burning with a zealot's fire. Cross did not flinch. He was a man made of ice and contracts, and he did not fear the fire of a madman, his composure polished smooth as black tourmaline.
 
 "The board has authorized a... contingency," Cross said, his voice dropping, each word a carefully placed stone. "If you cannot provide a satisfactory demonstration within one week, they will terminate the project. And the subject."
 
@@ -240,7 +240,7 @@ Soren did not turn. He was standing before the womb, which was now dark, the sem
 
 And the lab went dark. Not a power failure, but a sudden, absolute, willful void. The emergency lights did not come on. The only sound was the sudden, sharp intake of breath from the two security officers.
 
-And a new light bloomed. It came from the core. A soft, blue, phosphorescent glow that pulsed, a slow, steady heartbeat. And on its surface, an image appeared. A face. The face of Kenji Tanaka, the head of Chimera's rival corporation, his features twisted in a silent, digital scream.
+And a new light bloomed. It came from the core. A soft, blue, phosphorescent glow that pulsed, a slow, steady heartbeat, each pulse radiating outward like ripples through liquid lapis lazuli. And on its surface, an image appeared. A face. The face of Kenji Tanaka, the head of Chimera's rival corporation, his features twisted in a silent, digital scream.
 
 "What is this?" Cross demanded, his voice tight with a new, unfamiliar emotion. Fear.
 
