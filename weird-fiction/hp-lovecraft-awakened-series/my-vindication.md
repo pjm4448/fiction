@@ -1,8 +1,8 @@
 # My Vindication
 
-## Summary
+**Synopsis**
 
-In the shadowed halls of Miskatonic University's Orne Library, Dr. Thaddeus Morley, a disgraced linguist obsessed with forbidden knowledge, discovers his long-hidden manuscript (a tome of cosmic secrets capable of unraveling reality itself) has resurfaced in the hands of Alistair Finch, an ambitious but naive cataloguer. Sensing an opportunity for vindication, Morley manipulates Finch into unlocking the manuscript's arcane power, guiding him toward a perilous ritual under the guise of academic glory. As the two delve deeper into the text's alien script and unsettling truths, the boundaries of sanity and reality blur, drawing them to an abandoned observatory for a fateful confrontation with the Watcher Between Stars. Packed with creeping dread, cosmic horror, and a chilling descent into madness, My Vindication is a gripping tale of ambition, betrayal, and the catastrophic consequences of tampering with forces beyond human comprehension.
+Dr. Thaddeus Morley, a disgraced linguist consumed by paranoia and obsession, discovers that his long-hidden manuscript containing forbidden cosmic knowledge has resurfaced in the hands of Alistair Finch, an ambitious young cataloguer at Miskatonic University's Orne Library. Seeing an opportunity for the vindication he desperately craves, Morley manipulates the naive Finch into deciphering the manuscript's alien script and unsettling truths, subtly guiding him toward performing a dangerous ritual under the guise of academic achievement. As both men descend deeper into the text's mind-warping secrets, the boundaries between sanity and madness blur, drawing them to an abandoned observatory where Morley plans to harness the power of the Watcher Between Stars for himself. A tale of manipulation, ambition, and the catastrophic consequences of tampering with forces beyond human comprehension, the story explores how the pursuit of forbidden knowledge can consume those who dare to challenge the cosmic order.
 
 ## Table of Contents
 

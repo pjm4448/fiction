@@ -1,8 +1,32 @@
 # The Green Screen Operator
 
-**Summary**
+**Synopsis**
 
-In The Green Screen Operator, a chilling blend of historical intrigue and cosmic horror, CIA analyst Michael Davies uncovers unsettling anomalies in 1985’s covert operations. Tasked with tracking Contra funding, he stumbles upon financial trails tied to obscure cults and celestial alignments. As Oliver North orchestrates secret arms deals with Iran, Davies’s data reveals a deeper, sinister force manipulating events. Glitches, whispers, and nightmares haunt his investigation, hinting at an otherworldly influence guiding the Iran-Contra affair. Will Davies expose the truth, or be silenced by a reality too terrifying to comprehend?
+In 1985, CIA analyst Michael Davies is assigned to track Contra funding through routine financial analysis, but he soon uncovers disturbing anomalies that defy explanation. As Oliver North orchestrates the Iran-Contra affair with unsettling certainty, Davies discovers transaction patterns aligned with celestial events, shell corporations with names echoing ancient mythologies, and technological glitches that whisper of something far older than Cold War politics. While President Reagan pursues arms-for-hostages deals with an almost trance-like conviction, Davies traces the money through increasingly strange channels, finding connections to obscure cults and pre-human geometries hidden within the data. The deeper he investigates, the more he realizes that the scandal consuming Washington may be merely the visible surface of a far more terrifying reality, one where covert operations serve purposes that transcend human understanding and where the green glow of computer screens reveals patterns that should never be seen.
+
+## Table of Contents
+
+- [Part 1: The Gathering Static](#part-1-the-gathering-static)
+  - [Chapter 1: Flores and Filters](#chapter-1-flores-and-filters)
+  - [Chapter 2: Whispers from Tehran](#chapter-2-whispers-from-tehran)
+  - [Chapter 3: The Phoenix Program](#chapter-3-the-phoenix-program)
+  - [Chapter 4: Green Screens and Ghost Money](#chapter-4-green-screens-and-ghost-money)
+  - [Chapter 5: The Admiral's Watch](#chapter-5-the-admirals-watch)
+- [Part 2: The Signal Amplified](#part-2-the-signal-amplified)
+  - [Chapter 6: Presidential Finding](#chapter-6-presidential-finding)
+  - [Chapter 7: TOWs and Troubles](#chapter-7-tows-and-troubles)
+  - [Chapter 8: The Tehran Cake](#chapter-8-the-tehran-cake)
+  - [Chapter 9: Static on the Line](#chapter-9-static-on-the-line)
+  - [Chapter 10: Hasenfus Down](#chapter-10-hasenfus-down)
+- [Part 3: The Feedback Loop](#part-3-the-feedback-loop)
+  - [Chapter 11: Al-Shiraa Sings](#chapter-11-al-shiraa-sings)
+  - [Chapter 12: Damage Control](#chapter-12-damage-control)
+  - [Chapter 13: Shredding Party](#chapter-13-shredding-party)
+  - [Chapter 14: The Fall Guys](#chapter-14-the-fall-guys)
+  - [Chapter 15: The Tower Report](#chapter-15-the-tower-report)
+  - [Chapter 16: Testify](#chapter-16-testify)
+  - [Chapter 17: Loose Ends](#chapter-17-loose-ends)
+  - [Chapter 18: Lingering Resonance](#chapter-18-lingering-resonance)
 
 ## Part 1: The Gathering Static
 

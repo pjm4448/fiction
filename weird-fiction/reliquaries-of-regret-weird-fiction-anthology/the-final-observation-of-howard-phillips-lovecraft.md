@@ -1,10 +1,8 @@
 # The Final Observation of Howard Phillips Lovecraft
 
-March 15, 1937. In a sterile hospital room, H.P. Lovecraft's final hour begins not with a bang, but with the quiet, clinical observation of his own body's systematic decay. The lifelong rationalist soon discovers that his materialist philosophy offers no aegis against the terrifying immediacy of personal annihilation.
+**Synopsis**
 
-Plunged into a merciless, waking life review, he confronts the spectres of his past: intolerance, failure, and profound regret. As the walls of reality dissolve like salt in water, he receives visitation from comforting spirits of his youth and finds himself haunted by the very cosmic horrors he unleashed upon an unsuspecting world.
-
-In a final, visionary journey where the streets of his beloved Providence merge with the cyclopean spires of R'lyeh, Lovecraft must reconcile the man he was with the legacy he wrought. His last observation concerns not some gibbering monster from beyond the stars, but rather the profound, terrifying, and endlessly fascinating nature of the void itself.
+On March 15, 1937, H.P. Lovecraft lies dying in Jane Brown Memorial Hospital, his lifelong materialist philosophy crumbling as he confronts the terrifying immediacy of his own extinction. As terminal lucidity strips away all pretense, he experiences a merciless waking life review that forces him to acknowledge the profound flaws in his character: the bigotry that poisoned his work, the cowardice that led him to reject love, and the fear that made him flee from human connection into the safety of cosmic indifference. The sterile hospital room dissolves into a torrent of visions where comforting spirits from his youth appear alongside the very cosmic horrors he created, while the beloved streets of Providence merge impossibly with the cyclopean spires of R'lyeh in an architectural abomination that threatens to shatter his sanity. Guided by night-gaunts and watched by figures from his own fiction, Lovecraft must perform the ultimate sacrifice: releasing his attachment to his protective Aunt Annie and surrendering the last human tether that clouds his perception. In his final moments, stripped of ego and comfort, the dying author discovers that his rationalist tools have not failed him but evolved, allowing him to catalogue the uncatalogable using the only metric he truly possesses.
 
 ---
 

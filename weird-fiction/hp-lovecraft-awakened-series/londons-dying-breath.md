@@ -1,14 +1,8 @@
 # London's Dying Breath
 
-**Summary**
+**Synopsis**
 
-London, 1952\. As the Great Smog smothers the city in a lethal, toxic grip, people are found dead in rooms locked from the inside. The only clue is a chilling signature left on the window pane: a perfect, impossible spiral.
-
-The government calls it a tragedy of the weather, enforcing a cover-up to prevent a city-wide panic. But haunted war veteran Detective Inspector Stanley Fletcher knows this is no accident. He sees a malevolent intelligence at work, a killer serving the living fog itself.
-
-Dismissed by his superiors, Fletcher must hunt this ancient evil alone. The investigation becomes terrifyingly personal when the entity targets his estranged son, leaving messages that expose Fletcher's deepest traumas. To protect his family, he must fight a government conspiracy and his own demons to confront the horror hiding in the smog, before London's dying breath becomes his own.
-
----
+London, 1952. Detective Inspector Stanley Fletcher investigates a series of impossible deaths during the Great Smog: victims found in rooms locked from the inside, each bearing a perfect spiral traced on their window. When the government dismisses the deaths as weather-related and orders a cover-up, Fletcher discovers the killings follow a pattern connected to his own life. Haunted by the war and estranged from his family, he must confront both a malevolent intelligence hiding in the toxic fog and his own traumatic past when the entity begins targeting his young son. As the death toll rises and the city suffocates, Fletcher forms an unlikely alliance with a journalist and a historian to hunt something that defies all rational explanation, leading him to a desperate confrontation in the heart of London's industrial underworld.
 
 ## **Table of Contents**
 
@@ -35,8 +29,6 @@ Dismissed by his superiors, Fletcher must hunt this ancient evil alone. The inve
 **[Epilogue](#epilogue)**
 - [Days Later](#days-later)
 - [One Year Later](#one-year-later)
-
----
 
 ## Part I: The Descent (Friday, 5th December – Saturday, 6th December, 1952\)
 

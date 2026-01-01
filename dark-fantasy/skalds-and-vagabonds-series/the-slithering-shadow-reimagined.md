@@ -1,6 +1,6 @@
 # Conan and The Slithering Shadow Reimagined
 
-**Summary**
+**Synopsis**
 
 In the scorched ruins of Istara, Conan, a fierce Cimmerian mercenary, rescues noblewoman Natala from a brutal siege, pursued by a scarred Kushite warrior into the merciless deserts south of Koth. Guided by Natala's cryptic knowledge of Xuthal, a fabled city of lost dreams, they stumble upon its eerie jade-green walls, pulsing with otherworldly light. Hope turns to dread as Xuthal reveals itself as a trap, alive with sinister will and guarded by a sorrowful force. Joined by Thalis, a cunning Stygian outcast with her own vendetta, they confront Kherm, the city's Dream-Master, whose grief-fueled sorcery binds its dreamers in eternal slumber. As Thog, a cosmic horror from the Outer Dark stirs beneath, Conan's sword, Natala's resolve, and Thalis's forbidden arts are their only hope in a labyrinth of shifting stone and spectral foes. Every step risks unraveling Xuthal's fragile dream, and with it, its horrors.
 

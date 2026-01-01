@@ -1,8 +1,8 @@
 # The Forgotten Astronomer
 
-**Summary**
+**Synopsis**
 
-In the fog-choked village of Wraith's End, astronomer Samuel Whitlock, haunted by the loss of his wife Miriam, uncovers a sinister cosmic secret. Drawn to a forbidden tome, the Caelum Profundis, and guided by Miriam's eerie relics, he unravels a chilling truth: her disappearance was no accident but part of an ancient pact with abyssal forces. As he aligns the lighthouse to summon the malevolent Y'thar, reality frays, and Miriam returns, transformed, monstrous, and bound to the stars' dark will.
+In the fog-choked village of Wraith's End, astronomer Samuel Whitlock, haunted by the loss of his wife Miriam five years prior, discovers a forbidden tome called the Caelum Profundis hidden beneath the local lighthouse. Driven by grief and the mysterious influence of Miriam's coral necklace, he deciphers the book's blasphemous secrets and learns of the Veil of Y'thar, an alien constellation that serves as a cosmic prison for an ancient entity. As Samuel restores the lighthouse's ancient telescope and aligns it according to the tome's instructions, he realizes with growing horror that Miriam's disappearance was no accident but part of an ancient pact binding the town's bloodlines to abyssal powers. The villagers, descendants of those who made bargains with the deep, watch helplessly as Samuel unwittingly transforms the lighthouse from a protective ward into a beacon summoning Y'thar. When Miriam returns in a monstrous, scaled form that reveals her true nature as a willing agent of cosmic forces, Samuel must confront the terrible truth that their entire relationship was a carefully orchestrated manipulation designed to bring about this moment of apocalyptic summoning.
 
 ---
 

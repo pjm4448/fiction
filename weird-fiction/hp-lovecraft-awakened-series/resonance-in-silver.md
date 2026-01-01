@@ -1,12 +1,8 @@
 # Resonance in Silver
 
-**Summary**
+**Synopsis**
 
-Julian Blackwood, a brilliant composer shattered by failure, retreats to a forgotten house in Arkham to lick his wounds. There, he discovers an eerie antique mirror that hums with a note that shouldn't exist - a sound he believes is the key to unlocking his true genius.
-
-While his friend and narrator, Marcus, watches in growing horror, Julian enters into a "dialogue" with the object. The mirror offers him visions and inspires a symphony of malignant, soul-shaking beauty. But the artifact has a dark history, tied to another artist who vanished from a locked room decades before.
-
-As Julian's obsession severs his ties to reality, he prepares to conduct his magnum opus, Resonance in Silver. Is he communicating with a muse, or is he tuning his mind to a harmony never meant for human ears, composing the soundtrack to his own damnation?
+Julian Blackwood, a brilliant but broken composer devastated by professional failure, retreats to his deceased great-aunt's forgotten house in Arkham, where he discovers an antique mirror with a disturbing history. The artifact emits an impossible musical note that Julian believes holds the key to unlocking his true genius, and he begins a dangerous "dialogue" with it, receiving visions that inspire compositions of alien beauty. As his friend and narrator Marcus watches in mounting horror, Julian becomes increasingly obsessed with the mirror's revelations, severing his ties to reality and human relationships. The artifact once belonged to another composer who vanished mysteriously in the 1920s, leaving behind only maddening atonal scores and whispers of music that was fundamentally wrong. When Julian accepts a last-chance commission to score a horror film, the mirror provides him with a symphony of soul-shaking, malignant brilliance that transcends human composition. His descent accelerates as his enhanced hearing makes ordinary reality unbearable, and he prepares to conduct his magnum opus, Resonance in Silver, in a final performance that will reveal whether he has found his muse or tuned his consciousness to frequencies never meant for mortal minds.
 
 ---
 

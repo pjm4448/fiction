@@ -1,10 +1,18 @@
 # The Shard of Night
 
-**Summary**
+**Synopsis**
 
-In the frozen city of Grimstrand, Veyra, a betrayed assassin, craves annihilation for her enemies. Her only hope lies in the Shard of Night, a legendary artifact of cosmic cold, locked within the accursed Temple of Zorathys.
+In the frozen city of Grimstrand, Veyra, a betrayed assassin consumed by vengeance after her sister's murder and the destruction of her family by the Silent Hand guild, discovers that the legendary Shard of Night, an artifact of cosmic cold and terrible power, lies within the heavily guarded Temple of Zorathys. To seize it, she forges a dangerous alliance with Lirath, an exiled Hyperborean herbalist with her own grudges against the temple, and infiltrates the sacred compound during the bloody Feast of the Frost Moon using drugged incense and cunning disguises. As she navigates a treacherous web of fanatical priests, ambitious acolytes like the zealot Ysmir, and ice-born horrors, Veyra must survive betrayal, exposure, and the Shard's own soul-warping influence that feeds on grief and twists reality. When her plan erupts into chaos and she claims the artifact at terrible cost, the Shard begins leeching her life force and sanity while drawing the attention of Zorathys's awakened cult and distant sorcerers. Armed with the cosmic weapon and hunted by forces beyond mortal comprehension, Veyra wages her war of annihilation against the Silent Hand, unleashing unnatural blizzards and discovering that her vengeance may cost not just her humanity, but the safety of Grimstrand itself.
 
-To seize it, she must navigate a web of betrayal, facing a fanatical High Priest, ambitious acolytes, and icy horrors. But the Shard's power comes at a soul-shattering cost, twisting reality and drawing the attention of an ancient cult.
+## Table of Contents
+
+- [Chapter 1: The Pact in the Shadows](#chapter-1-the-pact-in-the-shadows)
+- [Chapter 2: Infiltration and Seeds of Doubt](#chapter-2-infiltration-and-seeds-of-doubt)
+- [Chapter 3: The Feast of Frozen Hearts and Sudden Betrayal](#chapter-3-the-feast-of-frozen-hearts-and-sudden-betrayal)
+- [Chapter 4: Pandemonium and the Assassin's Gambit](#chapter-4-pandemonium-and-the-assassins-gambit)
+- [Chapter 5: Lockdown and the Path to the Pit](#chapter-5-lockdown-and-the-path-to-the-pit)
+- [Chapter 6: Retrieval in Horror's Depths](#chapter-6-retrieval-in-horrors-depths)
+- [Chapter 7: Vengeance in Unnatural Night, and an Ominous Future](#chapter-7-vengeance-in-unnatural-night-and-an-ominous-future)
 
 ## Chapter 1: The Pact in the Shadows
 

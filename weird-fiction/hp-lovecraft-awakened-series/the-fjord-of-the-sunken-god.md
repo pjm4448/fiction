@@ -1,15 +1,8 @@
 # The Fjord of the Sunken God
 
-**Summary**  
-Jarl Bjorn Iron-Grip, in his vainglory, sought a kingdom and chose a fjord named Hrafnsvik. But this was a place apart from the world of men, where the silence itself is a pressing, watchful entity born of aeons beyond human reckoning.
+**Synopsis**
 
-Finnian, a scholar enslaved by Norsemen, feels the wrongness in his bones, a metaphysical wrongness that speaks of geometries antithetical to earthly mathematics. When starvation looms, the fjord offers a miraculous bounty: a torrent of immense, bloated, and eyeless fish bearing the stigmata of abyssal depths where light itself is a forgotten concept.
-
-Those who feast upon the strange catch grow sullen and listless, their very humanity leeching away with each unholy communion. In the dead of night, a dissonant, non-Euclidean choir begins to echo from the sleeping men, a song older than mankind's first shrieks in primordial caves. Soon, their very bodies begin to change, remade by the fjord's alien hunger into forms that mock the Creator's design.
-
-As ritual fails and reason shatters like glass beneath the weight of cosmic truth, Finnian must confront a revelation far more terrifying than any Norse saga: the god of the fjord is real, it is waking, and they are the bait in a trap set before the first man ever walked upright.
-
----
+In a desolate Norwegian fjord, Jarl Bjorn Iron-Grip establishes his new settlement of Hrafnsvik, blind to the ancient wrongness that permeates the land. Finnian, a scholar enslaved by Norsemen, senses the metaphysical corruption immediately: the oppressive silence, the unnatural geometry of the stones, and the eyeless fish that rise from the depths with miraculous abundance. As the settlers feast on this cursed bounty, a creeping transformation begins. Men grow listless and hollow, their humanity leeching away with each meal. In the dead of night, a dissonant choir rises from their sleeping throats, and strange patterns emerge beneath their skin. When reason fails and faith proves impotent against forces older than mankind itself, Finnian must decipher the warnings of a mad hermit and confront a terrible truth: they are not settlers building a new home but bait in a trap set by something vast, ancient, and utterly indifferent to human existence, something that slumbers in the depths and hungers for vessels to carry its alien consciousness into the world of men.
 
 ## Table of Contents
 
@@ -35,8 +28,6 @@ As ritual fails and reason shatters like glass beneath the weight of cosmic trut
 - [Chapter 15: The Chieftain's Choice](#chapter-15-the-chieftains-choice)
 - [Chapter 16: The Pyre on the Mountain](#chapter-16-the-pyre-on-the-mountain)
 - [Chapter 17: The Tomb and the Silence](#chapter-17-the-tomb-and-the-silence)
-
----
 
 ## ACT I: THE BAIT
 

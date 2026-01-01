@@ -1,8 +1,8 @@
 # The Cosmic Clock
 
-**Summary**
+**Synopsis**
 
-In the abyssal gloom of R'lyeh, where impossible geometry defies the mind and a clammy, briny pressure chokes the senses, lies the sleeping god, Cthulhu. A cyclopean causeway leads to a vaulted chamber of obscene scale, where the Great Old One rests: a pulpy, cephalopod mass of writhing feelers and shimmering, mountainous flesh. Dead yet dreaming, its cosmic consciousness hums with the weight of interstellar eons and impending doom. A single tentacle stirs with alien purpose, a chilling reminder that the stars will align, and the waiting will end.
+In the submerged nightmare city of R'lyeh, where non-Euclidean geometry warps the mind and cyclopean architecture defies comprehension, the Great Old One Cthulhu lies in cosmic stasis. The sleeping god rests in a chamber of obscene scale: a pulpy, cephalopod mass of mountainous flesh, draconic wings, and writhing feelers that dwarf the mightiest human monuments. Though dead by any terrestrial definition, Cthulhu's consciousness permeates the abyssal gloom with a palpable psychic weight, its dreams poisoning the sleep of sensitive minds across the world for countless generations. The oppressive silence thrums with ancient thoughts of interstellar space, dying suns, and the birth of galaxies, while phosphorescent slime oozes continuously from its porous hide. This is not the inert death of mortal creatures but a waiting, a deliberate cosmic stasis that whispers of an inevitable awakening when the stars align in their proper configuration and the nightmare hour arrives.
 
 ---
 

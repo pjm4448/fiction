@@ -1,8 +1,8 @@
 # The Portent of Auld Angus 
 
-**Summary**
+**Synopsis**
 
-In New Zealand's bleak, windswept Bluff Harbour of 1931, Auld Angus MacLeod, a weathered ex-whaler, toils as a storeman, haunted by a chilling memory from a voyage south. When the eerie Southern Venturer arrives, its crew's hollow eyes and a strange, frost-encrusted crate stir his dread. Whispers of the doomed Miskatonic expedition, uncovering cyclopean ruins and ancient horrors in Antarctica, echo his own suppressed terror. As a raving sailor's tales of wrong-angled cities and alien entities unravel reality, Angus senses a cosmic horror awakening, its icy influence creeping north.
+In New Zealand's bleak, windswept Bluff Harbour of 1931, Auld Angus MacLeod, a weathered ex-whaler now working as a storeman, is haunted by a chilling memory from a voyage fifteen years prior when he encountered something vast and alien beneath Antarctic waters. When the eerie Southern Venturer arrives with a traumatized crew bearing hollow eyes and a mysterious frost-encrusted crate, his long-suppressed dread resurfaces. Whispers of the doomed Miskatonic University expedition, which uncovered cyclopean ruins and ancient horrors in Antarctica before its catastrophic end, begin filtering north through censored reports and cryptic official narratives. As a raving sailor's tales of non-Euclidean cities, star-headed entities, and amorphous slave-things unravel in a local pub, Angus realizes these fragmented accounts validate his own terrifying experience and reveal a cosmic horror awakening beneath the polar ice. Unable to convince others of the encroaching danger, he becomes a solitary watchman perceiving subtle anomalies in the natural world: unnatural fog, disturbed wildlife, subsonic vibrations, and a palpable sense of alien intelligence spreading northward from the bottom of the world.
 
 ## Table of Contents
 

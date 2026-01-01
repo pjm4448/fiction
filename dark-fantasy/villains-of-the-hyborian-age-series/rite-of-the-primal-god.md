@@ -1,6 +1,6 @@
 # Rite of the Primal God
 
-**Summary**
+**Synopsis**
 
 In the colossal temple of Ur-Kthos, where lotus fumes and primal drums weave a spell of unholy ecstasy, the Favored surrender to the Great Serpent's will. Anointed in sacred oils, their bodies pulse with black lotus sorcery as they dance and revel in blood-soaked worship. A virgin sacrifice, her terror a heady incense, is offered upon the altar, her lifeblood igniting divine communion. As the obsidian blade carves her fate, the faithful drink deep of her essence, their frenzied union of flesh and chant tearing asunder the veil between mortal and god. In this torrent of savage exultation, they become one with the dread sovereign, their souls ablaze with his serpentine might.
 

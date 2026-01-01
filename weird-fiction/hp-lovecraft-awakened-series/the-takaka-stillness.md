@@ -1,8 +1,8 @@
 # The Takaka Stillness
 
-**Summary**
+**Synopsis**
 
-In the eerie dawn, three explorers (Chloe, Liam, and Daniel) venture into the sinister depths of Serpent's Coil, a cave in Nelson's brooding hills. What begins as a routine expedition unravels into a descent through a labyrinth of cosmic horror. Strange electromagnetic pulses, bone-chilling cold, and impossible geometries defy reality itself. As their equipment fails and unseen forces stalk them, the cave reveals its malevolent secret: it is no mere cavern, but a gateway to an alien realm.
+Three cave explorers venture into the remote Serpent's Coil system in New Zealand's Nelson region, seeking to investigate electromagnetic anomalies deep beneath the earth. What begins as a routine scientific expedition rapidly devolves into a nightmare as their instruments malfunction, impossible phenomena manifest, and the cave itself seems to actively resist their presence. As team members vanish and reality warps around them, the survivors realize they have trespassed into something far more ancient and alien than any geological formation: a gateway between worlds where the laws of physics break down and entities from beyond human comprehension wait in the dark. Fighting for survival through collapsing tunnels and shifting dimensions, they must escape not only the cave but the horrifying realization that some doors, once opened, can never truly be closed.
 
 ---
 

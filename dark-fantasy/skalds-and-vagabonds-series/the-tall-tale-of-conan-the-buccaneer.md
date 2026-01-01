@@ -1,8 +1,8 @@
 # The Tall Tale of Conan the Buccaneer: A Legend Forged in Salt and Blood\!
 
-**Summary**
+**Synopsis**
 
-Stagger into "The Salty Barnacle," a Tortage tavern where stories are currency. Hear Raff Grimes, a bard with a glint in his eye, spin a yarn of Conan the Buccaneer. This isn't your average barbarian; this is Conan whose laugh curdles milk three kingdoms over, who yawns and capsizes ships, leaps a mile with ease, punches lightning, and sails a ship so fast it leaves the ocean dry. He chases cosmic treasures guarded by ghost armies, rescues fiery princesses from star-sorcerers, and sails through mists of pure madness to lands unknown. Grab an ale and listen close, because this is just the beginning of Conan's most outrageous adventure\!
+In the raucous Tortage tavern "The Salty Barnacle," bard Rafferty Grimes spins an outrageously exaggerated yarn of Conan the Buccaneer, a legendary barbarian whose laugh curdles milk across kingdoms, whose yawn capsizes ships, and who leaps a mile with ease. When an ancient mariner speaks of Tranicos's cosmic hoard, guarded by star-leviathans and ghost armies, Conan embarks on a quest to claim treasures that include jewels from dying suns and a reality-singing harp. Along the way, he rescues the fiery Lady Chabela from sorcerer-kings who seek to unmake existence, forging a union of fire and iron that shakes the very stars. Pursued by rival pirates Zarono and Strombanni, shadow-assassins from pocket dimensions, and the scrying sorcerer Maduro, Conan commands a fleet with sails woven from storm clouds and lightning. Armed with a map etched on a star-beast's still-beating heart and sailing through mists of madness to lands unknown, the Cimmerian buccaneer embarks on his most outrageous adventure, where even sea gods bow in tribute and the ocean itself reshapes its currents to escort him toward cosmic plunder and impossible glory.
 
 ---
 

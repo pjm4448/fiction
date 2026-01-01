@@ -1,22 +1,15 @@
 # It Came From The Desert: The Lizard Breath Permutations
 
+**Synopsis**
+
+In 1951, geologist Greg Bradley discovers a radioactive meteorite in the quiet desert town of Lizard Breath, unleashing a terrifying scourge of giant, mutated ants. The story splits into three alternate realities based on his critical decisions. In one timeline, Bradley painstakingly gathers evidence with plaster tracks, severed antennae, and photographic proof, battling bureaucratic skepticism through procedure and cooperation to lead a full-scale military assault against the insect menace. In another, he rejects authority and becomes a lone wolf renegade, alienating former allies but forging unlikely partnerships as he single-handedly infiltrates the ant colony for a desperate suicide mission. In the final, nightmarish permutation, a single act of carelessness lands him hospitalized with shattered bones and crushed pride, sending him spiraling into gullibility and repeated failures as he's manipulated by a sinister ant-worshipping cult. Each reality explores how one man's choices in the face of cosmic horror can mean the difference between salvation and catastrophe, as Bradley navigates government cover-ups, cult conspiracies, and his own demons while the colossal insects threaten to overrun the world.
+
 ## Table of Contents
 
 - [Prologue](#prologue)
 - [Alternate Reality 1: The Mayor's Mandate](#alternate-reality-1-the-mayors-mandate)
 - [Alternate Reality 2: The Renegade Geologist](#alternate-reality-2-the-renegade-geologist)
 - [Alternate Reality 3: The Negligent Hero](#alternate-reality-3-the-negligent-hero)
-
-## Summary
-
-**Summary**  
-In 1951, geologist Greg Bradley discovers a radioactive meteorite in the quiet desert town of Lizard Breath, unleashing a terrifying scourge of giant, mutated ants. The story splits into three alternate realities based on his first critical decision.
-
-In one reality, Bradley painstakingly gathers evidence: plaster tracks, severed antennae, and photographic proof. He battles bureaucratic skepticism with cold facts and dogged determination, ultimately leading a full-scale military assault that crushes the insect menace through procedure and cooperation.
-
-In another, he rejects the chains of authority and becomes a lone wolf, a renegade operating beyond the law. Alienating former allies but forging an alliance with an unlikely comrade, he single-handedly infiltrates the ant colony and detonates the nest in a desperate suicide mission, emerging as a hardened, battle-scarred hero whom no parade will ever honor.
-
-In the final, nightmarish permutation, a single act of carelessness lands him in the hospital with shattered bones and crushed pride. This costly mistake sends him spiraling into a hell of gullibility and repeated failures. Manipulated by a sinister ant-worshipping cult, he watches helplessly as the colossal insects overrun the world, a cataclysm born directly from his negligence.
 
 ## Prologue
 

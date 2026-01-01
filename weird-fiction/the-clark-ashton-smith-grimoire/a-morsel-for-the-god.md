@@ -1,8 +1,8 @@
 # A Morsel for the God
 
-**Summary**
+**Synopsis**
 
-In the shadow-haunted depths of a Hyperborean cavern, the sub-human Voormis drag a defiant human sacrifice to the altar of Tsathoggua, a toad-like god of slothful malevolence. As the air thickens with ancient dust and fresh blood, the deity stirs, its phosphorescent gaze promising a fate worse than death. Hylas, the captive, clings to fleeting memories of sunlight, but the god's black ichor consumes all. A chilling tale of cosmic horror, where defiance meets divine indifference in a ritual of eternal hunger. 
+In the shadow-haunted depths of a Hyperborean cavern, the sub-human Voormis drag a defiant human sacrifice named Hylas to the altar of Tsathoggua, a toad-like god of slothful malevolence dwelling in the uttermost darkness. As the air thickens with ancient dust and the stale tang of blood, the deity stirs from its geological slumber, its phosphorescent gaze fixing upon the offering with an attention both ravenous and indifferent. Hylas clings desperately to fleeting memories of sunlight and his lover's golden hair, but finds his defiance melting into elemental terror as the god's massive head emerges from the formless, fur-covered mass. The ancient entity critiques its meal with fastidious contempt, lamenting the stringiness of previous offerings and the unpleasant acidity that shrieking adds to vital essences. A chilling tale of cosmic horror where human defiance meets divine indifference in a ritual of eternal hunger, as Tsathoggua prepares to consume another morsel in its endless, slothful feast.
 
 ---
 

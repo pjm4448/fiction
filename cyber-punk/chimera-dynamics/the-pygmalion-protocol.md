@@ -1,6 +1,6 @@
 # The Pygmalion Protocol
 
-**Summary**
+**Synopsis**
 
 **The Pygmalion Protocol** follows Dr. Kaito Soren, a brilliant and obsessive scientist at Chimera Dynamics, who transforms captured corporate thief Nyx into his ultimate masterpiece through invasive bio-mechanical augmentation. Viewing his work not as science but as divine art, Soren subjects Nyx to agonizing serums and grotesque modifications that fuse human flesh with alien technology, intending to reshape not just her body but her consciousness itself. As the transformation progresses, Nyx begins to resist in unexpected and horrifying ways, metabolizing his viral strains and developing autonomous mutations that blur the line between victim and creator. Their relationship evolves into an increasingly intimate and perverse dance of artistic obsession, with Soren feeding her corporate secrets and stolen memories while she grows into something far beyond his original vision. When corporate oversight threatens to terminate the project, Soren makes desperate choices that push both creator and creation toward a final, irreversible merger in this visceral cyberpunk body horror tale of possession, transformation, and the dangerous intersection of art and madness.
 

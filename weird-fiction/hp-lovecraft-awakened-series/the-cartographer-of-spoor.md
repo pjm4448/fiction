@@ -1,12 +1,8 @@
 # The Cartographer of Spoor
 
-**Summary**
+**Synopsis**
 
-Disgraced cartographer Walter March, desperate to reclaim his shattered reputation, uncovers the arcane research of a dead professor who attempted to map the Astral Plane. Ignoring the professor's terrified warnings of a "hunter" that preys on souls, Walter adopts the blasphemous ritual himself. Using stolen mementos from fresh graves as anchors, he projects his mind into the silvery void, obsessively charting the pathways of the dead.
-
-His ambition is rewarded with a glimpse of the very entity he sought: an encounter that leaves his drawing hand afflicted with an uncontrollable tremor. Undaunted by this psychic wound, his obsession drives him to complete his masterwork. Bracing his trembling hand for each agonizing stroke, he undertakes a final journey to chart the last unmapped region of the hunter's domain.
-
-As the final line is drawn, he steps back to behold his creation. Staring at the finished map, Walter understands, with soul-crushing clarity, the true nature of his predecessor's fear. He sees the terrible, hidden pattern within the void, and realizes his act of mapping was not one of discovery, but of irrevocable invitation. 
+Disgraced cartographer Walter March, desperate to reclaim his shattered reputation, uncovers the arcane research of Professor Declan Harrow, who attempted to map the Astral Plane before his mysterious death. Ignoring Harrow's terrified warnings of a predatory entity that hunts souls in the silvery void, Walter adopts the blasphemous ritual himself, using stolen mementos from fresh graves as anchors to project his consciousness into the afterlife. His obsessive charting of the pathways of the dead is rewarded with a glimpse of the very hunter Harrow feared: an encounter that leaves his drawing hand afflicted with an uncontrollable tremor. Undaunted by this psychic wound, Walter's ambition drives him to complete his masterwork, bracing his trembling hand for each agonizing stroke as he undertakes a final journey to chart the last unmapped region of the hunter's domain. As he connects the final lines on his map, he discovers with soul-crushing clarity the true nature of his predecessor's fear and realizes his act of mapping was not one of discovery, but of something far more terrible. 
 
 ## Table of Contents
 

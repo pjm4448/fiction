@@ -1,8 +1,8 @@
 # Project Übersinnlich: Kesser's Folly
 
-**Summary** 
+**Synopsis**
 
-In 1942 Libya, SS officer Albrecht Kessler unearths an ancient ruin with alien artifacts—glyph-etched tablets, heavy cylinders, and odd star charts. Obsessed with Vril, a mythical power for Nazi supermen, he ignores warnings and kills a scholar. Under Himmler’s orders, Kessler leads Project Übersinnlich on U-3523, a high-tech U-boat, to the South Pacific. Strange events—flickering lights, failing compasses, eerie mold—haunt the crew. The Vril detector warps reality and minds. At the coordinates, R’lyeh rises, a city of impossible geometry. Cthulhu’s awakening shatters sanity, unmaking the U-boat. Kessler’s ambition dooms all. A gripping Lovecraftian tale of hubris and cosmic horror.
+In 1942 Libya, SS officer Albrecht Kessler unearths an ancient ruin containing alien artifacts: glyph-etched tablets, heavy cylinders, and star charts pointing to coordinates in the South Pacific. Obsessed with harnessing Vril, a mythical power source to create Nazi supermen, Kessler ignores warnings from a local scholar and secures approval from Himmler to lead Project Übersinnlich aboard U-3523, a cutting-edge submarine modified with experimental equipment. As the U-boat voyages toward the mysterious coordinates, the crew experiences increasingly disturbing phenomena: flickering lights, malfunctioning compasses, reality-warping events, and psychological deterioration. The Vril detector begins registering impossible readings while the specially selected SS candidates descend into madness. When they reach the designated location, something of unimaginable scale and cosmic horror begins to rise from the depths, revealing that Kessler's ambition has led them not to ancient Aryan power, but to forces that dwarf human comprehension and threaten to unmake reality itself.
 
 ## Table of Contents
 

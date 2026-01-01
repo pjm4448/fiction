@@ -1,8 +1,8 @@
 # The Garden of Final Moments
 
-**Summary**
+**Synopsis**
 
-In the moribund world of Zothique, where the sun bleeds crimson and shadows languish in their own exhaustion, Calantha weaves funerary tapestries to capture the phosphorescence of fading legends. But when her lover, the sculptor Phanes, is discovered deceased in a posture of rapturous revelation, clutching betwixt his rigid fingers a sinister lily of absolute blackness, her grief transmutes into obsession most profound. Compelled to unravel the enigma of his passing, Calantha ventures from the spires of Cimpala to the desolate Mountains of the Dead, where whispers speak of Lord Pharumm: a curator of death's ultimate aesthetic. In a hidden garden where moments are cultivated as one tends rare and poisonous blooms, she confronts a verity most chilling, one that threatens the very fabric of her soul. Will she unearth the answers she seeks, or surrender herself utterly to the beauty of final moments?
+In the moribund world of Zothique, where the sun bleeds crimson and shadows languish in their own exhaustion, Calantha weaves funerary tapestries to capture the phosphorescence of fading legends. When her lover, the sculptor Phanes, is discovered deceased in a posture of rapturous revelation, clutching a sinister lily of absolute blackness, her grief transmutes into obsession. Compelled to unravel the enigma of his passing, Calantha ventures from the spires of Cimpala to the desolate Mountains of the Dead, where whispers speak of Lord Pharumm: a curator of death's ultimate aesthetic who tends a hidden garden where moments are cultivated as one tends rare and poisonous blooms. To gain access to the truth about Phanes' final moment, she must serve as Pharumm's assistant for one lunar cycle, tending his macabre collection of petrified souls frozen in their ultimate expressions of ecstasy, avarice, rage, and despair. As she polishes spectral daggers, grinds jeweled tears, and chips away imperfections from lovers fused into obsidian, Calantha's grief slowly transforms into something far more dangerous: an aesthetic appreciation for the terrible perfection of death itself.
 
 ---
 

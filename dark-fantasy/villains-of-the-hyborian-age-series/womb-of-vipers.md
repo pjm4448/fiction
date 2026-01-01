@@ -1,8 +1,8 @@
 # Womb of Vipers
 
-**Summary**
+**Synopsis**
 
-In the savage Hyborian Age, where ancient evils stir in forgotten jungles, Lady Arisella of Ophir ventures into a land of venom and shadow. Ambushed by the brutal slaver Gorgas, she’s delivered to Mother Salu, a priestess weaving dark rites for the serpent goddess Derketa. As unholy forces awaken in cyclopean ruins, Captain Lysander, bound by honor, leads a desperate pursuit against impossible odds. With a Shemite mercenary at his side, he faces blood-soaked betrayal and cosmic horrors to save Arisella from a fate worse than death.
+In the savage Hyborian Age, Lady Arisella of Ophir ventures into the treacherous borderlands, only to be ambushed by the brutal slaver Gorgas and delivered to Mother Salu, a priestess conducting dark rituals for the serpent goddess Derketa in cyclopean jungle ruins. When Captain Lysander survives the ambush, he embarks on a desperate pursuit against impossible odds, assembling a band of mercenaries including the cynical Shemite guide Zokar. As they navigate hostile deserts, rival slavers, and supernatural horrors, Lysander races to reach Arisella before Salu completes her blasphemous ceremony. Deep within the Serpent Hills, ancient evils stir in forgotten temples where the priestess breeds monstrosities, and Lysander must confront not only Gorgas's remaining forces but also cosmic horrors that defy sanity itself in a final, harrowing descent into darkness.
 
 ## Table of Contents
 

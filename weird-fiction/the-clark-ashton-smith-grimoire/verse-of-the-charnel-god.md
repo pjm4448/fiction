@@ -1,11 +1,8 @@
 # Verse of the Charnel God
 
-**Summary**  
-In the city of Zul-Bha-Sair, where the dead are fed to the Charnel God, the poet Phantamos is a master of elegant horror. His verses, lush with exquisite savagery, enchant the city's jaded elite. But his art assumes a terrifying reality when a mysterious admirer begins recreating his darkest poems as a succession of grotesque murders.
+**Synopsis**
 
-Each victim becomes a "living poem," a ghastly tribute that mirrors his verse with flawless precision. Horrified, Phantamos attempts to compose of peace and innocence, but his muse proves a fanatic who transmutes even the purest images into fresh atrocities. His desperate hunt for the killer draws him inexorably to the Obsidian Temple, the gelid heart of the faith.
-
-Cornered by his most fervent admirer, Phantamos must weaponize his poetry in a desperate gambit to survive the night. But in the heart of the Charnel God's temple, certain words possess greater power than prayers, and speaking them might invoke an answer he is unprepared to receive.
+In the city of Zul-Bha-Sair on the dying world of Zothique, where the dead are fed to the Charnel God Mordiggian, the poet Phantamos reigns as a master of elegant horror, his verses of exquisite savagery enchanting the city's jaded elite. His art assumes a terrifying reality when a mysterious admirer begins recreating his darkest poems as a succession of grotesque murders, each victim becoming a "living poem" that mirrors his verse with flawless precision. Horrified, Phantamos attempts to compose verses of peace and innocence, but his muse proves a fanatic who transmutes even the purest images into fresh atrocities, from a sculptor encased in molten bronze to a merchant reduced to crimson dust. His desperate hunt for the killer draws him inexorably to the Obsidian Temple, the gelid heart of the faith, where he discovers the murderer is no common assassin but a priest who views his poetry as sacred scripture. Cornered by his most fervent admirer in the temple's depths, Phantamos must weaponize his poetry in a desperate gambit to survive the night, but in the heart of the Charnel God's domain, certain words possess greater power than prayers, and speaking them might invoke an answer he is unprepared to receive.
 
 ---
 

@@ -1,8 +1,8 @@
 # The Dream Weavers of Zamora
 
-**Summary**
+**Synopsis**
 
-Zamora! City of Thieves, where festering alleys conceal forbidden desires in their rotting embrace. Here, the enigmatic Dream Weavers peddle oblivion and power in shimmering dusts that promise paradise and deliver damnation. For a jaded heir seeking novelty, a tormented dancer craving vengeance, a delusional noble yearning for dominion, a grief-stricken mother longing for her lost family, and a vengeful warrior thirsting for blood, these powders offer fleeting escape and intoxicating visions that blur the boundary between dream and madness.
+In the festering alleys of Zamora, City of Thieves, the enigmatic Dream Weavers peddle their exotic powders to desperate souls seeking escape from their tormented lives. A jaded merchant heir, a vengeful dancer, a delusional noble, a grief-stricken widow, and a betrayed warrior each fall under the spell of these reality-bending dusts, believing they offer pathways to pleasure, power, or vengeance. As their addictions deepen and their minds fracture, the Dream Weavers tighten their grip on Zamora's underworld, manipulating their victims like pawns in an intricate game of control. Yet within this shadowy cabal, ambitious rivalries fester between the cunning architects of illusion and their most brutal enforcer, a monstrous figure known as the Blood-Smith. When the Black Hand crime syndicate begins to unravel under the Weavers' subtle machinations, the resulting chaos threatens to consume not only their carefully cultivated pawns but the very foundation of the Dream Weavers themselves, as loyalty fractures and the true price of manufactured dreams becomes terrifyingly clear.
 
 ## Table of Contents
 

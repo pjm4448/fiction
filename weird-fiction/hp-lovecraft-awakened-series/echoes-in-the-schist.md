@@ -1,8 +1,15 @@
 # Echoes in the Schist
 
-## Summary
+**Synopsis**
 
-In 1937, geologist Arthur Galloway probes eerie disturbances at Station Peak Station in New Zealand's haunting Southern Alps. The Campbell family, isolated in the Canterbury High Country, unravels under a sinister hum from Mount Arrowsmith. Sheep flee, compasses fail, and alien crystals defy science. Echoes of the forbidden Miskatonic Expedition fuel Galloway's dread of a colossal, slumbering entity. As madness grips the Campbells, a psychic assault forces his escape. His chilling findings, buried by a secretive government, leave him haunted by guilt and a cosmic truth too terrifying to unleash.
+In 1937, geologist Arthur Galloway is dispatched to investigate disturbing reports from Station Peak Station, an isolated sheep farm in New Zealand's Canterbury High Country. The Campbell family has reported a mysterious subsonic hum emanating from Mount Arrowsmith, accompanied by magnetic anomalies, psychological distress, and bizarre behavioral changes in their livestock. As Galloway meticulously documents the phenomena, he discovers alien crystalline structures with impossible geometries and finds chilling parallels to the suppressed findings of the infamous Miskatonic Antarctic Expedition. The investigation takes a terrifying turn when the resonance intensifies, revealing something vast and ancient slumbering within the mountain itself. Galloway must confront both cosmic horror and his own human limitations as the Campbell family succumbs to forces beyond comprehension, leaving him to grapple with the terrible knowledge he has uncovered and the impossible choice between scientific duty and survival.
+
+## Table of Contents
+
+- [Chapter 1: The Unsettling Summons to Station Peak](#chapter-1-the-unsettling-summons-to-station-peak)
+- [Chapter 2: The Abyssal Resonance in the Valley](#chapter-2-the-abyssal-resonance-in-the-valley)
+- [Chapter 3: Galloway's Accursed Burden](#chapter-3-galloways-accursed-burden)
+- [Chapter 4: The Sepulchral Vaults Beneath Wellington](#chapter-4-the-sepulchral-vaults-beneath-wellington)
 
 ## Chapter 1: The Unsettling Summons to Station Peak
 

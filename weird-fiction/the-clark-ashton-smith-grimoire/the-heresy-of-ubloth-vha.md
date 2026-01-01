@@ -1,12 +1,8 @@
 # The Heresy of Ubloth-Vha
 
-**Summary**
+**Synopsis**
 
-H.P. Lovecraft's "Herbert West-Reanimator" is reimagined in the dying-earth world of Clark Ashton Smith's Zothique.
-
-In the city of Ustaim, where necromancy has calcified into hollow ritual, the scholar Ptemen becomes enthralled by the forbidden science of Ubloth-Vha, a heretic who proclaims that life can be chemically rekindled. As his sole disciple, Ptemen assists in ghastly experiments within a desecrated tomb. Their attempts to vanquish death, however, only unleash mindless, rampaging horrors upon an indifferent world.
-
-Their supreme hubris: the reanimation of their nemesis, the sorcerer Lord Ossaru. This creates a cunning monster that terrorizes the city with fell intelligence. Forced to flee, their work grows ever more depraved. Ptemen's role corrodes from assistant to accomplice when a shocking experiment reveals his master is no longer merely reviving the dead, but creating them. As Ubloth-Vha descends into a macabre artistry of twitching flesh and blasphemous chimeras, a silent legion of their past failures returns, an army of the undead led by a figure from their past who has come to exact a terrible and inexorable revenge.
+In the city of Ustaim on the dying world of Zothique, where necromancy has calcified into hollow ritual, the scholar Ptemen becomes enthralled by the forbidden science of Ubloth-Vha, a heretic who proclaims that life can be chemically rekindled through empirical methods rather than mystical incantation. As his sole disciple, Ptemen assists in ghastly experiments within a desecrated tomb, their attempts to vanquish death unleashing mindless, rampaging horrors upon an indifferent world. Their supreme hubris arrives when they reanimate their nemesis, the sorcerer Lord Ossaru, creating a cunning monster of terrible intelligence that terrorizes the city and forces them to flee. Years of wandering lead them to the oasis of Ilderath, where their work grows ever more depraved as Ptemen's role corrodes from assistant to accomplice. When a shocking experiment reveals that Ubloth-Vha is no longer merely reviving the dead but deliberately creating them through murder, the master descends into a macabre artistry of twitching flesh and blasphemous chimeras. As their workshop becomes a gallery of abominations, a silent legion of their past failures gathers in the desert darkness, led by a figure from their past who has come to exact a terrible and inexorable revenge.
 
 ---
 

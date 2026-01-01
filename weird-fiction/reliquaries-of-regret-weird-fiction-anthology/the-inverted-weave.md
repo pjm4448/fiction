@@ -1,5 +1,27 @@
 # The Inverted Weave: A Litany of Silt and Spore
 
+**Synopsis**
+
+Roimata, a scarred herbalist consumed by envy after being abandoned by boatbuilder Korban, discovers forbidden knowledge of curse-weaving through corrupted flax cords and botanical poisons harvested from the geothermal inlet where she lives. Driven by the humiliation of watching Korban build a new life with artist Aria, Roimata inverts sacred Māori weaving traditions, deliberately tearing the protective patterns of harakeke (flax) that symbolize whakapapa (genealogy) and family bonds, infusing them with sundew slime, bioluminescent fungi, and nightshade venom. She buries these spite-knotted cords beneath the roots of a pohutukawa tree near their boat shed, setting in motion a curse that manifests as spreading lesions and the systematic failure of their crafts: Korban's joints splinter, Aria's kowhaiwhai patterns dissolve into voids, and the community turns against them as the contagion spreads. As the lovers' bond fractures under the weight of mutual suspicion and physical decay, Roimata discovers the curse rebounds upon her own flesh, marking her with the same necrotic blooms. When the blight threatens to spread through Aria's entire family line via infected tattoos, both women must confront the terrible reciprocity of malice in a final reckoning where spite, art, and ancestral protection collide amid the inlet's indifferent geothermal exhalations.
+
+---
+
+## Table of Contents
+
+- [Act I: The Sulphurous Breath](#act-i-the-sulphurous-breath)
+  - [Chapter 1: The Effluvium of Envy](#chapter-1-the-effluvium-of-envy)
+  - [Chapter 2: The Pawnbroker's Profane Forfeiture](#chapter-2-the-pawnbrokers-profane-forfeiture)
+  - [Chapter 3: The Cauldron's Canticle](#chapter-3-the-cauldrons-canticle)
+  - [Chapter 4: The Buried Knots, Fissure's Whisper](#chapter-4-the-buried-knots-fissures-whisper)
+- [Act II: The Necrotic Bloom](#act-ii-the-necrotic-bloom)
+  - [Chapter 5: The Storm's Severance](#chapter-5-the-storms-severance)
+  - [Chapter 6: The Lagoon's Malevolent Lure](#chapter-6-the-lagoons-malevolent-lure)
+  - [Chapter 7: Whispers from the Fissure](#chapter-7-whispers-from-the-fissure)
+  - [Chapter 8: The Weeping Fronds of Exile](#chapter-8-the-weeping-fronds-of-exile)
+- [Act III: The Mechanic Lullaby](#act-iii-the-mechanic-lullaby)
+  - [Chapter 9: The Rift's Reckoning in Crimson](#chapter-9-the-rifts-reckoning-in-crimson)
+  - [Chapter 10: The Crimson' Abyssal Recurrence](#chapter-10-the-crimson-abyssal-recurrence)
+
 ## Act I: The Sulphurous Breath
 
 ### Chapter 1: The Effluvium of Envy

@@ -1,5 +1,11 @@
 # The Ebon Facet: A Lament from the Veiled Abyss
 
+**Synopsis**
+
+Brooke Kai, an ambitious academic at the University of Otago in post-reform 1980s New Zealand, becomes entangled with her charismatic mentor Professor Lachlan, whose forbidden research into impossible geometries and cosmic horrors offers an intoxicating escape from the suffocating neoliberal restructuring crushing New Zealand's university system. Driven by a desire for intellectual validation and misdirecting her rebellious instincts into his ranked academic hierarchy, Brooke helps Lachlan decode ancient texts describing the Vorago Vorax (the Gulper), a cosmic entity of pure chaos, and the Voragine Diadem, an obsidian multi-faceted artifact designed to contain it through a living consciousness acting as a soul-shield or parapet. As Lachlan's praise feeds her ambition and she mistakes his manipulation for mentorship, Brooke participates in a ritual at a remote seaside location where followers gather around the black diamond artifact. Too late, she recognizes that Lachlan's seemingly fatherly guidance was a calculated process of selection, and that she was never meant to be an observer or student but the sacrifice itself: the flexible yet firm awareness to be imprisoned within the Diadem's crystalline structure, her mind consciously absorbing and filtering the Gulper's maddening chaos for eternity while Lachlan advances his academic career unscathed.
+
+---
+
 *In ebon vaults where facets bleed their night,*  
 *A diadem of gulfs, obsidian and drear,*  
 *Wakes the gulper's maw to yawn its appetite:*  

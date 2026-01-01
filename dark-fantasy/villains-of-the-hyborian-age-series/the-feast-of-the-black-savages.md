@@ -1,12 +1,8 @@
 # The Feast of the Black Savages
 
-**Summary**
+**Synopsis**
 
-Mateo Silvano, a merchant clinging to the edge of existence in the wretched city of Shadowfen, makes a desperate gamble and loses. Caught cheating, he and his family must flee. Their only path is south, into an unmapped green hell, a vast wilderness that whispers of ancient horrors.
-
-They trade the threat of thugs for the suffocating embrace of a primeval swamp, a place of decay and unseen terrors. But they are not alone. They soon discover they are being hunted by patient, silent predators.
-
-As hunger, fear, and the encroaching madness tear his family apart, Mateo realizes they have stumbled into a cannibal feasting ground. Watched, herded, and psychologically dismantled, they are driven towards an ancient, blood-drenched temple. Can anyone survive the intricate, cruel hunt, or will Mateo's own fatal flaws lead them all to become the centrepiece at the Feast of the Black Savages?
+Mateo Silvano, a desperate merchant caught cheating brutal thugs in the decaying border city of Shadowfen, flees south with his family into an unmapped wilderness of suffocating swamps and primeval jungle. Trading the threat of vengeful creditors for the horrors of an ancient green hell, they soon discover they are being stalked by patient, silent predators. As hunger, fear, and their own fatal flaws tear the family apart, Mateo realizes too late that they have stumbled into a cannibal hunting ground where they are being watched, herded, and psychologically dismantled. Driven toward an ancient, blood-drenched temple by unseen hands, the Silvanos face a ritualistic hunt orchestrated by the savage Black Savages, where Mateo's greed, his wife Elara's bitter pride, his daughter Seraphina's vanity, and his son Rico's terror become the very weaknesses that seal their doom in this harrowing tale of survival, sacrifice, and the monstrous price of human folly.
 
 ---
 

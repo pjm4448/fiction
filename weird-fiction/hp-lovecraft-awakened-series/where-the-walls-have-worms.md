@@ -1,8 +1,8 @@
 # Where the Walls Have Worms 
 
-**Summary**
+**Synopsis**
 
-In the shadowed streets of 1957 Providence, Detective Frank Harding faces an impossible horror: victims found in locked rooms, their hearts inexplicably removed, with no sign of entry. As eerie static disrupts radios and a metallic tang haunts the air, Harding uncovers a chilling pattern tied to ancient buildings and cosmic forces. With Dr. Martha Holloway, he confronts a writhing, otherworldly entity that defies reality itself. As the city dreams of space, something older and hungrier crawls through the walls.
+In the shadowed streets of 1957 Providence, Detective Frank Harding confronts an impossible series of murders: victims discovered in locked rooms with their hearts surgically removed and no signs of forced entry. As bizarre radio static plagues each crime scene and witnesses report scratching sounds within their walls, Harding uncovers the fragmented notes of Detective Miller, a predecessor driven mad in 1929 while investigating similar deaths. Partnering with Dr. Martha Holloway, whose autopsy findings defy all medical explanation, Harding maps a sinister network of electromagnetic disturbances across College Hill's oldest buildings. His investigation reveals something far more terrifying than any human killer: an ancient, interdimensional infestation of crystalline worm-like entities that can phase through solid matter and coalesce into grotesque forms. While America celebrates the Space Age and looks hopefully toward the stars, Harding discovers that humanity's true threat comes not from above but from the lightless angles between dimensions, where patient horrors have been feeding on the city's residents for generations.
 
 ## Table of Contents
 

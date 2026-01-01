@@ -1,12 +1,8 @@
 # The Shadow of Xuthal Keep
 
-**Summary**
+**Synopsis**
 
-Lord Hadrian Velius inherits a dying bloodline, cursed by the agonizing "Velian Wasting." From the crumbling stones of Karthan Keep, a doomed Aquilonian fortress on the edge of a vast desert, he confronts an ancient terror. Beneath the keep lie the cyclopean ruins of a Xuthalite outpost, where the undying Stygian sorcerer Xarthas, a nightmarish lich of unfathomable age, has anchored his malevolent power for centuries.
-
-As the curse tightens its grip, manifesting in tormenting visions and grotesque physical decay, Hadrian is driven to desperate, soul-staining choices in a grim battle for survival. He must delve into forbidden Stygian arts and alien Xuthalite lore, where hope is a fleeting illusion and every victory is pyrrhic.
-
-This is H.P. Lovecraft's classic tale "The Alchemist," boldly reimagined within the brutal, sorcery-drenched universe of Robert E. Howard. Witness a descent into madness and damnation, where one man's struggle against an eternal shadow unearths horrors that threaten to consume all. Will Hadrian Velius escape his inevitable doom, or will Karthan Keep become another monument to an enduring, patient evil?
+Lord Hadrian Velius, heir to a dying bloodline cursed by the agonizing "Velian Wasting," commands the crumbling Karthan Keep, an Aquilonian fortress teetering on the edge of a vast desert. Beneath the keep's ancient stones lie the cyclopean ruins of a Xuthalite outpost, where Xarthas, an undying Stygian lich of unfathomable age, has anchored his malevolent power for centuries. As the curse accelerates, manifesting in tormenting visions and grotesque physical decay, Hadrian is driven to desperate and soul-staining choices in his struggle for survival. Besieged by mysterious mercenaries and haunted by the psychic weight of the ruins below, he must delve into forbidden Stygian arts and alien Xuthalite lore, making dark bargains with djinn and committing unspeakable acts to gain the knowledge needed to confront the ancient sorcerer. This is H.P. Lovecraft's classic tale "The Alchemist" reimagined within Robert E. Howard's brutal, sorcery-drenched Hyborian Age, where one man's battle against an eternal shadow threatens to consume not only his body and mind, but his very humanity.
 
 ## Table of Contents
 
