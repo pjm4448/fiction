@@ -4,6 +4,26 @@
 
 In the raucous Tortage tavern "The Salty Barnacle," bard Rafferty Grimes spins an outrageously exaggerated yarn of Conan the Buccaneer, a legendary barbarian whose laugh curdles milk across kingdoms, whose yawn capsizes ships, and who leaps a mile with ease. When an ancient mariner speaks of Tranicos's cosmic hoard, guarded by star-leviathans and ghost armies, Conan embarks on a quest to claim treasures that include jewels from dying suns and a reality-singing harp. Along the way, he rescues the fiery Lady Chabela from sorcerer-kings who seek to unmake existence, forging a union of fire and iron that shakes the very stars. Pursued by rival pirates Zarono and Strombanni, shadow-assassins from pocket dimensions, and the scrying sorcerer Maduro, Conan commands a fleet with sails woven from storm clouds and lightning. Armed with a map etched on a star-beast's still-beating heart and sailing through mists of madness to lands unknown, the Cimmerian buccaneer embarks on his most outrageous adventure, where even sea gods bow in tribute and the ocean itself reshapes its currents to escort him toward cosmic plunder and impossible glory.
 
+## Table of Contents
+
+1. [The Whisper of a God's Ransom & The Cimmerian's Whim (Or, How Conan Got Bored)](#1-the-whisper-of-a-gods-ransom--the-cimmerians-whim-or-how-conan-got-bored)
+2. [Verification (Or, Staring a Bloke Into Spilling His Guts)](#2-verification-or-staring-a-bloke-into-spilling-his-guts)
+3. [The Encounter (Or, A Dame in a Damp Situation)](#3-the-encounter-or-a-dame-in-a-damp-situation)
+4. [The "Rescue" (Or, Conan Shows Off, As Usual)](#4-the-rescue-or-conan-shows-off-as-usual)
+5. [Chabela's Plight (Or, Every Princess Has Problems, Hers Were Just Weirder)](#5-chabelas-plight-or-every-princess-has-problems-hers-were-just-weirder)
+6. [Conan's Decision & The Union of Fire and Iron (Or, When a Barbarian Gets That Twinkle in His Eye)](#6-conans-decision--the-union-of-fire-and-iron-or-when-a-barbarian-gets-that-twinkle-in-his-eye)
+7. [Infiltration & Information (Or, Conan Asks Nicely, With an Axe)](#7-infiltration--information-or-conan-asks-nicely-with-an-axe)
+8. [Rival Spies (Or, When Sneaky Gits Get Squashed)](#8-rival-spies-or-when-sneaky-gits-get-squashed)
+9. [The Map Fragment (Or, Some Bleedin' Monster's Innards for a Map)](#9-the-map-fragment-or-some-bleedin-monsters-innards-for-a-map)
+10. [Setting Sail (Or, The Day the Ocean Said, "After You, Sir!")](#10-setting-sail-or-the-day-the-ocean-said-after-you-sir)
+11. [Awareness of Pursuit (Or, Conan's Nose for Trouble, and Stinky Fear)](#11-awareness-of-pursuit-or-conans-nose-for-trouble-and-stinky-fear)
+12. [Misdirection (Or, Why Bother Tricking Idiots?)](#12-misdirection-or-why-bother-tricking-idiots)
+13. [The Storm of Storms (Or, Conan Argues With the Weather, and Wins)](#13-the-storm-of-storms-or-conan-argues-with-the-weather-and-wins)
+14. [Zarono's Desperate, Shadow-Forged Ambush (Or, When Bad Guys Try Too Hard)](#14-zaronos-desperate-shadow-forged-ambush-or-when-bad-guys-try-too-hard)
+15. [Boarding Actions of Mythic, Unholy Proportions (Or, Conan Gets His Axe Dirty)](#15-boarding-actions-of-mythic-unholy-proportions-or-conan-gets-his-axe-dirty)
+16. [Outcome of Cosmic Proportions (Or, How to Make a Big Mess, Conan Style)](#16-outcome-of-cosmic-proportions-or-how-to-make-a-big-mess-conan-style)
+17. [Through the Mists of Utter Madness (Or, Sailing Where Sane Folk Don't)](#17-through-the-mists-of-utter-madness-or-sailing-where-sane-folk-dont)
+
 ---
 
 The air in "The Salty Barnacle," a notorious Tortage tavern, was thick enough to slice with a dull dirk – a heady fug of stale beer, cheap rum, unwashed bodies, fish guts, and the faintest, most unsettling tang of otherworldly spices and old blood. The din was a living thing, a monstrous chorus of drunken shouts, booming laughter, the occasional crash of a tankard (or a body), and the off-key warbling of some forgotten sea shanty. The very foundations of the place, rumored to be the colossal, fossilized ribs of some primordial sea beast, seemed to vibrate with the raw, untamed energy of the pirate port.
@@ -28,26 +48,48 @@ The pirate grumbled but subsided, to the amusement of his fellows. Raff winked a
 
 Raff struck a dramatic pose and sang, his voice surprisingly powerful and resonant, capturing the Howardian cadence:
 
+---
 *"In Tortage, built on kraken spines,*
+
 *(Or some such lies the drunkards tell!)*
+
 *Where grog could strip a bishop’s shines,*
+
 *And reek enough to gag all hell!*
+
 *Sat Conan on a throne, they say,*
+
 *Of meteorite, still smokin' hot!*
+
 *(Probably stole it on a Tuesday,*
+
 *Just for a laugh, the big galoot!)*
+
 *His shadow? Made krakens piss their ink!*
+
 *His laugh? Could crack a giant’s stones!*
+
 *Then some old coot, half-mad, I think,*
+
 *All barnacles and rattling bones,*
+
 *Screeched of a hoard, Tranicos's stash!*
+
 *"Gold?" Conan yawned, "Don't make me sick!*
+
 *"Unless it's guarded by things that crash*
+
 *"And bleed pure fire, it ain't worth a kick!"*
+
 *The old fool raved of star-gems bright,*
+
 *And harps that sing new worlds to be!*
+
 *Conan just grinned, with teeth so white,*
+
 *"Might use 'em, lad, to pick my teeth, you see!"*
+
+---
 
 ## 2. Verification (Or, Staring a Bloke Into Spilling His Guts)
 
@@ -57,22 +99,40 @@ Raff struck a dramatic pose and sang, his voice surprisingly powerful and resona
 
 He strummed his lute again:
 
+---
 *"With N’Gora, built like a siege machine,*
+
 *(Once arm-wrestled a cyclops blind, I’ve heard!)*
+
 *He didn’t ask, that Cimmerian keen,*
+
 *Just stared the truth, every single word!*
+
 *That ancient salt, his soul laid bare,*
+
 *(Probably wet himself, the poor old sod!)*
+
 *Coughed up the route to who-knows-where,*
+
 *As if commanded by a grumpy god.*
+
 *Then charts appeared, on dragon-hide!*
+
 *(Or maybe just some painted goat, who cares?)*
+
 *In squid-blood ink, they couldn’t hide*
+
 *The path to riches, and to terrors in their lairs!*
+
 *The stars themselves, they say, went squint,*
+
 *To light the way for Conan’s whim!*
+
 *(More likely he just gave a hint,*
+
 *And threatened 'em with grievous limb!)"*
+
+---
 
 ## 3. The Encounter (Or, A Dame in a Damp Situation)
 
@@ -80,16 +140,28 @@ He strummed his lute again:
 
 His lute sang the setup:
 
+---
 *"The Wastrel flew – no, I ain't lyin'!*
+
 *It skipped the waves like a flat, chucked stone!*
+
 *Left bits of ocean bone-bloody-dryin'!*
+
 *When up they pops, not sailin' alone,*
+
 *A ship in grief, about to sink,*
+
 *Swarmed by some pimple-arsed pirate band!*
+
 *Whose captains, if you make me think,*
+
 *Had sold their souls for second-hand sand!*
+
 *Their crews? All barnacles and slime,*
+
 *The kind of rubbish you scrape off your boot!"*
+
+---
 
 ## 4. The "Rescue" (Or, Conan Shows Off, As Usual)
 
@@ -99,24 +171,44 @@ His lute sang the setup:
 
 The ballad continued with gusto:
 
+---
 *"He yawned – a wave, just from the breeze,*
+
 *Capsized a foe, then with a stretch and bound,*
+
 *He leaped a mile, by Crom, with ease!*
+
 *(Alright, maybe half, but still profound!)*
+
 *And landed like a thunder-crack!*
+
 *(Probably broke their deck, the clumsy ox!)*
+
 *His boys, they followed at his back,*
+
 *Roarin' like demons in their battle-frocks!*
+
 *The enemy? Poof! Like morning mist!*
+
 *Or dived to feed the hungry sharks below!*
+
 *(Better than facin' Conan's fist,*
+
 *Or where his big sword likes to go!)*
+
 *And there, amidst the gaudy loot,*
+
 *Sat Lady Chabela, lookin' grand.*
+
 *So hot, they say, she’d make roots shoot*
+
 *From a dead stump, just by wavin' her hand!*
+
 *Her glare alone, so fierce and bright,*
+
 *Could melt your sword, or maybe just your nerve!"*
+
+---
 
 ## 5. Chabela's Plight (Or, Every Princess Has Problems, Hers Were Just Weirder)
 
@@ -124,18 +216,32 @@ The ballad continued with gusto:
 
 The lute strings vibrated with impending doom:
 
+---
 *"No arranged marriage made her flee,*
+
 *(Though that’s enough to make one run, I guess!)*
+
 *But sorcerer-kings from 'cross the sea,*
+
 *Or maybe 'cross the universe, no less!*
+
 *Lich-emperors from stars gone black,*
+
 *Who wanted her soul – the greedy sods! –*
+
 *To unwind reality's track!*
+
 *(Probably to impress some other, deader gods!)*
+
 *She didn't plead, that fiery piece,*
+
 *Demanded aid, her voice a queenly shout!*
+
 *Made cannons fire, for war or peace,*
+
 *Just by her sayin', "Oi, you lout!"*
+
+---
 
 ## 6. Conan's Decision & The Union of Fire and Iron (Or, When a Barbarian Gets That Twinkle in His Eye)
 
@@ -145,31 +251,58 @@ Raff leered good-naturedly. "So Conan, who's probably bedded more goddesses and 
 
 The ballad took on a fervent, almost scandalous tone:
 
+---
 *"The Cimmerian, who’d bedded more*
+
 *Than just your average farmyard wench,*
+
 *(Goddesses, queens, and things from yore!)*
+
 *Just chuckled, made the timbers wrench.*
+
 *He saw her spirit, wild and free,*
+
 *A match for his own burnin' soul.*
+
 *"You'll sail with me, girl, come and see!*
+
 *"We'll make those sorcerers pay their toll!*
+
 *"We'll drink their blood from jewel-rimmed cups!"*
+
 *(Or something equally poetic and grim!)*
+
 *Her eyes, they blazed like dragon pups,*
+
 *A hunger matchin' his, in every limb!*
+
 *That night, beneath a sky so grand,*
+
 *(A comet blazed, or so they boast!)*
+
 *The Captain's cabin, understand,*
+
 *Became a place where legends toast!*
+
 *Fire met iron, gods, what a clash!*
+
 *The stars all shivered, rearranged their dance!*
+
 *(The ship's cat probably made a dash,*
+
 *And hid itself in someone's underpants!)*
+
 *By dawn, they weren't just king and dame,*
+
 *But somethin' more, touched by the stars above!*
+
 *Zingaran fleets, they heard his name,*
+
 *And scuttled quick, for fear of Conan's... love!*
+
 *(And his big sword, let's not forget that bit!)"*
+
+---
 
 The same burly heckler from before, emboldened by more ale, piped up, "Sounds like you were peekin' through the keyhole, Grimes!"
 
@@ -185,22 +318,40 @@ Laughter rippled through the tavern. Raff took a swig from a tankard someone pas
 
 He sang:
 
+---
 *"In Zingaran ports, the stones, they say,*
+
 *Would whisper secrets in his ear.*
+
 *(More like he kicked 'em out the way,*
+
 *And someone squealed from mortal fear!)*
+
 *He strolled in libraries, bold as brass,*
+
 *(Doors flew right open, or he made 'em so!)*
+
 *Took any map that pleased his... well, his class.*
+
 *Guards? Just a sneeze, and down they'd go!*
+
 *Chabela, in her dragon-leathers fine,*
+
 *(Looked better'n silk, upon my oath!)*
+
 *Unravelled plots, with wit divine,*
+
 *That’d drive a sphinx to gibbering froth!*
+
 *Her eyes now held a spark, 'tis true,*
+
 *Of Conan's fire, wild and bright!*
+
 *(Probably picked up a trick or two,*
+
 *On how to win a proper fight!)"*
+
+---
 
 ## 8. Rival Spies (Or, When Sneaky Gits Get Squashed)
 
@@ -210,21 +361,38 @@ He sang:
 
 The lute twanged with magical mischief:
 
+---
 *"Zarono's spies, from shadows deep,*
+
 *And Strombanni's thugs, a motley band,*
+
 *Tried pocket dimensions, secrets to keep.*
+
 *Conan just laughed, and took command!*
+
 *Conquered their worlds, then, for a jest,*
+
 *Wore 'em as baubles on his belt!*
+
 *(Probably itched like a damn bird's nest,*
+
 *But showed 'em how true power felt!)*
+
 *Maduro, with his crystal ball,*
+
 *Tried scrying Conan – what a loon!*
+
 *It didn't just crack, it swallowed all*
+
 *His tower, beneath a cursed moon!*
+
 *Blinded him right up, for a year or so!*
+
 *(Serves him right, the squinty git,*
+
 *For tryin' to watch Conan's private... show!)"*
+
+---
 
 ## 9. The Map Fragment (Or, Some Bleedin' Monster's Innards for a Map)
 
@@ -232,18 +400,32 @@ The lute twanged with magical mischief:
 
 The ballad's tone turned ominous:
 
+---
 *"The map he found, no parchment scrap,*
+
 *But a star-beast's heart, still beatin' slow!*
+
 *(Must've smelled worse than a troll's jockstrap,*
+
 *But Conan didn't care, you know!)*
+
 *Its lines, they burned with void's cold fire,*
+
 *Showed paths through realities all torn!*
+
 *Only a barbarian could decipher*
+
 *Its cosmic scrawl, since he was born!*
+
 *It didn't just hint, it sang a tune,*
+
 *Of glorious fights and loot to seize!*
+
 *(And probably how to best harpoon*
+
 *A kraken, if you aimed to please!)"*
+
+---
 
 ## 10. Setting Sail (Or, The Day the Ocean Said, "After You, Sir!")
 
@@ -251,22 +433,40 @@ The ballad's tone turned ominous:
 
 The music swelled with impossible grandeur:
 
+---
 *"When Conan roared, "Set sail, ye dogs!"*
+
 *The Wastrel led, a fleet so wide,*
+
 *It’d make a kingdom count its logs*
+
 *And wonder where the sea could hide!*
+
 *Sails of storm-clouds, stitched with light,*
+
 *Packed with the worst from every shore!*
+
 *Each man a legend in a fight,*
+
 *And ready for a thousand more!*
+
 *The Red Brotherhood, they bellowed loud,*
+
 *A sound that woke the gods below!*
+
 *Who popped right up, and humbly bowed,*
+
 *And offered tribute, just for show!*
+
 *The tide itself, it changed its mind,*
+
 *And swirled a path, to speed their quest!*
+
 *(Guess even oceans can be kind,*
+
 *When Conan puts 'em to the test!)"*
+
+---
 
 ## 11. Awareness of Pursuit (Or, Conan's Nose for Trouble, and Stinky Fear)
 
@@ -274,17 +474,28 @@ The music swelled with impossible grandeur:
 
 He sang with a knowing smirk:
 
+---
 *"He didn't need a spyglass bright,*
+
 *To know his rivals sniffed his wake;*
+
 *He smelled their fear, both day and night,*
+
 *Like week-old fish on a hot griddle-cake!*
+
 *Heard their teeth chatter, leagues away,*
+
 *A symphony of pure despair!*
+
 *The sea-beasts, from the shark to dray,*
+
 *Formed an honor guard, beyond compare!*
+
 *(Probably hopin' for some scraps,*
 
 *When Conan started crackin' skulls!)"*
+
+---
 
 ## 12. Misdirection (Or, Why Bother Tricking Idiots?)
 
@@ -292,16 +503,28 @@ He sang with a knowing smirk:
 
 The lute played a jaunty, mocking tune:
 
+---
 *"Misdirection? Bah! He sailed on true,*
+
 *A challenge to the craven fools!*
+
 *While Zarono, with his cunning crew,*
+
 *Got stuck in loops, by their own rules!*
+
 *Relivin' losses, o'er and o'er,*
+
 *(Mostly to Conan, serve 'em right!)*
+
 *Their sorcerers wept tears of gore,*
+
 *Trapped in an endless, whiny night!*
+
 *(Conan just sailed on, with a smirk,*
+
 *Too busy plannin' his next bit o' work!)"*
+
+---
 
 ## 13. The Storm of Storms (Or, Conan Argues With the Weather, and Wins)
 
@@ -311,23 +534,42 @@ The lute played a jaunty, mocking tune:
 
 The ballad crashed like thunder:
 
+---
 *"The storm that hit, no common blow,*
+
 *But ocean gods, in a jealous fit!*
+
 *Father Dagon and Mother Hydra, all aglow,*
+
 *Riding tsunamis, throwin' a snit!*
+
 *Waves like mountains, kraken-crowned,*
+
 *Lightning in spears, a burnin' rain!*
+
 *Winds howled like souls in hell unbound,*
+
 *Screamin' in torment and in pain!*
+
 *But Conan stood, upon the prow,*
+
 *Stripped to the waist, and laughin' loud!*
+
 *Wrestled the wheel, I know not how,*
+
 *And punched the lightning back to cloud!*
+
 *The Wastrel, bless her sturdy frame,*
+
 *Surfed down a maelstrom, miles deep!*
+
 *Did a victory lap, to cheers and acclaim,*
+
 *Then popped out, ready for more sleep!*
+
 *(Or maybe just more enemies to reap!)"*
+
+---
 
 ## 14. Zarono's Desperate, Shadow-Forged Ambush (Or, When Bad Guys Try Too Hard)
 
@@ -335,16 +577,28 @@ The ballad crashed like thunder:
 
 The music was dark and menacing:
 
+---
 *"Zarono's fleet, or what remained,*
+
 *(After that time-loop, what a mess!)*
+
 *Crewed by sea-devils, freshly unchained,*
+
 *And angels cryin' tears of stress!*
+
 *From squalls of shadow, black as pitch,*
+
 *Their cannons roared with souls in pain!*
+
 *Forged in dead stars, by some dark witch,*
+
 *Firing black lightning, again and again!*
+
 *(Looked impressive, I'll give 'em that,*
+
 *But 'gainst Conan? Like a gnat 'gainst a cat!)"*
+
+---
 
 ## 15. Boarding Actions of Mythic, Unholy Proportions (Or, Conan Gets His Axe Dirty)
 
@@ -352,23 +606,42 @@ The music was dark and menacing:
 
 The ballad became a whirlwind of action:
 
+---
 *"Conan himself, a one-man show,*
+
 *Became the boardin' party whole!*
+
 *With a roar that made their spirits go*
+
 *And hide inside some dark mud-hole!*
+
 *He leaped a gap, fifty feet wide!*
+
 *(Alright, a hundred! Maybe more! Who's countin'?)*
+
 *His sword, a silver, deadly tide,*
+
 *Reapin' their souls, no time for dismountin'!*
+
 *N'Gora, like a god of war,*
+
 *His skin aglow, his axe a song,*
+
 *Cleaved through their armor, and their core,*
+
 *And abstract concepts, all day long!*
+
 *Each Red Brother, a berserker bold,*
+
 *Fought with the madness in their eyes!*
+
 *Their battle-lust, a sight to behold,*
+
 *Cheered on by thunder from the skies!*
+
 *(Or maybe that was just Conan, breakin' wind from the strain!)"*
+
+---
 
 ## 16. Outcome of Cosmic Proportions (Or, How to Make a Big Mess, Conan Style)
 
@@ -376,20 +649,36 @@ The ballad became a whirlwind of action:
 
 The music was triumphant and brutal:
 
+---
 *"Zarono's flagship? With a grunt,*
+
 *Conan's big sword just split it clean!*
+
 *It rained cursed coins, right in the front,*
+
 *The most expensive mess I've seen!*
+
 *The sea ran red, not blood, but worse,*
+
 *With demon-guts and angel-tears!*
+
 *The rivals scattered, under a curse,*
+
 *Their courage drowned in all their fears!*
+
 *Strombanni watched, through spyglass cracked,*
+
 *Then turned to dust, just blew away!*
+
 *His Kothic nerve completely lacked,*
+
 *And whispered, "Should've stayed home today!"*
+
 *(Good riddance to bad rubbish, eh?*
+
 *More loot for Conan and his crew!)"*
+
+---
 
 ## 17. Through the Mists of Utter Madness (Or, Sailing Where Sane Folk Don't)
 
@@ -397,18 +686,32 @@ The music was triumphant and brutal:
 
 Raff’s final verses were delivered with a chilling relish:
 
+---
 *"Where stars themselves would scream and flee,*
+
 *Through mists so thick, they’d choke a god,*
+
 *(The sorrowful breath, they say, of thee,*
+
 *Old Slumberin' One, on whom worlds trod!)*
+
 *The Wastrel sliced that ghastly shroud,*
+
 *That veil of madness, old and deep,*
+
 *And burst upon a shore so proud,*
+
 *It made your very liver creep!*
+
 *A land not meant for mortal sight,*
+
 *Where sanity just packed and ran!*
+
 *And Conan grinned, "This looks alright!*
+
 *"Let's go and kick some cosmic can!"*
+
+---
 
 Raff Grimes took a long, theatrical swig of ale, looking immensely pleased with himself as the last notes of his lute faded. The tavern, for a moment, was almost quiet, the pirates and cutthroats digesting the sheer audacity of the tale.
 
