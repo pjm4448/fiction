@@ -2,7 +2,7 @@
 
 ## Part 1: Introduction
 
-\[FEN-1\]  
+[FEN-1]  
 **Property ID: Fenworth House, Blackwater Road, Near Ely, Cambridgeshire**
 
 Welcome, Executor.
@@ -20,8 +20,8 @@ The history of this house follows a sedimentary pattern rather than a linear one
 At key intersections of structural failure, you will be presented with a choice. These choices are enclosed in brackets, indicating a divergence in the timeline or a shift in the geometry.
 
 * **Example:**  
-  Option 1: Do you try to correct the impossible geometry of the room? \["The Impossible Hypotenuse"\]  
-* Option 2: Do you attempt to calculate the blast radius of the silence? \["The Calibration Trap"\]  
+  Option 1: Do you try to correct the impossible geometry of the room? ["The Impossible Hypotenuse"]  
+* Option 2: Do you attempt to calculate the blast radius of the silence? ["The Calibration Trap"]  
 * Etc.
 
 Choose wisely. The House responds to the observer.
@@ -35,27 +35,27 @@ The Zeppelin raids have begun. Edith Marsh, a munitions engineer, flees the math
 
 * *Themes: Contained Implosion, Eternal Preservation, Feedback Erosion, Geometric Calcification, Mutual Annihilation*
 
-Begin the Survey as Edith Marsh (Part 2\)
+Begin the Survey as Edith Marsh (Part 2)
 
 THE SOLDIER (1920)  
 The Great War is over, but the noise hasn't stopped. Lieutenant Julian Sterling, a man with a tin jaw and a head full of ghosts, arrives seeking a vacuum. He believes in silence. He brings a shattered body to a house that needs a human anchor to hold its scream.
 
 * *Themes: Insidious Filling, Haunted Garrison, Petrified Merger, Sensory Cancellation, Spectral Mutiny*
 
-Begin the War as Lieutenant Julian Sterling (Part 3\)
+Begin the War as Lieutenant Julian Sterling (Part 3)
 
 ## Part 2: Edith Marsh
 
 ### Chapter 1: The Geometry of Silence
 
-\[FEN-2\]  
-**1916\.**
+[FEN-2]  
+**1916.**
 
 The locomotive panted steam, a dying beast of the Iron Age abandoning Edith Marsh to a silence so profound it felt geologic. The platform was a concrete island in the sodden, featureless expanse of the Fens, a landscape that defied the clean, Euclidean lines of the city she had fled. Here, the sky was not a dome but a crushing weight, bleached to the uniformity of stagnant water, while the creeping mist tasted distinctly of rusted iron on the back of her tongue.
 
 Edith tightened her grip on her valise, her knuckles white. Against her sternum, the heavy silver locket she had received in the solicitor's packet, Aunt Agnes’s only personal effect, vibrated with a faint, insectile hum. It sat warm between her breasts, an intrusive, biological heat that made her skin crawl, yet she pressed it flatter against her skin like a second pulse. She needed the anchor. She grounded herself with a tactile memory: the cool, machined brass of a shell casing.
 
-January 31, 1916\. The memory came unbidden, riding the scent of the coal smoke. She was back in the Tipton shelter. Not screaming, but counting. Flash. One, two, three. Crump.
+January 31, 1916. The memory came unbidden, riding the scent of the coal smoke. She was back in the Tipton shelter. Not screaming, but counting. Flash. One, two, three. Crump.
 
 Then, the intrusion: the smell of hot wet pennies. In the memory, she turned her head. Thomas, the foreman, was screaming, but no sound came out. His face, illuminated by the blast, didn't tear; it *melted*. The skin sloughed off like hot wax, revealing not bone, but bright, polished brass underneath. Liquid metal spattered her cheek, burning like wet seeds.
 
@@ -93,14 +93,14 @@ THE ENGINEER'S CHOICE:
 
 The house is waiting for your input. How will you attempt to stabilize the anomaly?
 
-* Option 1: Do you try to correct the impossible geometry of the room? \["The Impossible Hypotenuse"\]  
-* Option 2: Do you attempt to calculate the blast radius of the silence? \["The Calibration Trap"\]  
-* Option 3: Do you seek to arrest the flow of time entirely? \["The Strata of Tomorrow"\]  
-* Option 4: Do you suspect a biological infestation in the mud? \["The Symbiosis"\]
+* Option 1: Do you try to correct the impossible geometry of the room? ["The Impossible Hypotenuse"]  
+* Option 2: Do you attempt to calculate the blast radius of the silence? ["The Calibration Trap"]  
+* Option 3: Do you seek to arrest the flow of time entirely? ["The Strata of Tomorrow"]  
+* Option 4: Do you suspect a biological infestation in the mud? ["The Symbiosis"]
 
 ### Chapter 2: The Impossible Hypotenuse
 
-\[FEN-21\]  
+[FEN-21]  
 The descent came as a slow, grinding erosion of certainty, like rust eating iron.
 
 Edith set her valise down in the foyer, the echo sharp against the ozone-thick air. The heavy oak front door groaned as it settled, the upper hinge sagging in a way that offended her eye. A trivial misalignment; perhaps two degrees off plumb. She fetched her spirit level and a screwdriver from the case, the bubble settling true between the vials. A few sharp twists of the wrist, and the hinge tightened. The door hung straight.
@@ -129,17 +129,17 @@ Edith frowned. She approached the window. It looked perfectly rectangular. A sta
 
 She extended her tape measure. Height: 48 inches. Width: 36 inches. She opened her ledger, the graphite pencil hovering over the paper as she initiated the test.
 
-Trial 1: sqrt(48^2 \+ 36^2) \= 60\. Reality: The tape stretched tight, reading *58 inches*.
+Trial 1: sqrt(48^2 + 36^2) = 60. Reality: The tape stretched tight, reading *58 inches*.
 
 Anomaly: As the tape clicked back, the dust on the sill shivered. It coalesced for a heartbeat into the fossilised outline of a mason's trowel before crumbling back into grey powder.
 
 Edith blinked, wiping the glass with her sleeve. "Humidity," she gasped. "The wood has swollen." She forced herself to breathe, to stabilise the variable of her own pulse.
 
-Trial 2: Recalculation confirms 60\. She pulled the tape until it sang. Reality: *58 inches*.
+Trial 2: Recalculation confirms 60. She pulled the tape until it sang. Reality: *58 inches*.
 
 Anomaly: The grit on the ledger whispered, forming a perfect, mocking spiral that dissolved the moment she looked directly at it.
 
-"No." She grabbed her slide rule, but her fingers were trembling. The maths was perfect. The window was a physical object. But 60 did not equal 58\.
+"No." She grabbed her slide rule, but her fingers were trembling. The maths was perfect. The window was a physical object. But 60 did not equal 58.
 
 "The wood is fine," Croft whispered from across the room. He hadn't moved, yet he seemed closer. "It's the maths that's tired, Edith. It's so heavy, carrying all those straight lines."
 
@@ -163,12 +163,12 @@ THE ENGINEER'S CHOICE
 
 The room's corruption accelerates, the dust awakening to your rigid measurements. How will you enforce the final structural defiance?
 
-* Option 1: Do you weaponize your Tipton trauma as an unyielding constant to shatter the infinite curves? \["The Tipton Constant"\]  
-* Option 2: Do you treat the air as a viscous breach and seal it into an absolute, non-porous void? \["Porosity"\]
+* Option 1: Do you weaponize your Tipton trauma as an unyielding constant to shatter the infinite curves? ["The Tipton Constant"]  
+* Option 2: Do you treat the air as a viscous breach and seal it into an absolute, non-porous void? ["Porosity"]
 
 ### Chapter 3: The Tipton Constant
 
-\[FEN-211\]  
+[FEN-211]  
 By the third day, the "small wins" had evaporated. The corruption of space was no longer limited to the window; it was in the very air she breathed.
 
 Edith sat in the drawing room, watching the particles dancing in a shaft of dead light. She had finally analysed the grime coating the house. It was not merely dirt. It was particulate memory; brass-flecked, self-replicating. The trigger was *Euclidean stress*. When she was merely calm, observing the structural integrity, it lay inert as grey silt. But the moment she introduced a rigid, uncompromising geometric principle, by measurement, by attempting to enforce a right angle, or by the spike of her own Tipton trauma, the dust instantly migrated. It fed on the conflict, forming ridges that mimicked the trenches of Tipton.
@@ -193,7 +193,7 @@ Edith stared at the twisted wood. The horror wasn't just the magic; it was the t
 
 "I measured the drawing room this morning," Croft said. "Precision. But your tape is rigid. You measure with straight lines. But the universe curves, Edith. Your straight line is the lie."
 
-He thrust a leather tape forward. "Measure with me. Curve to the water's will. End the equation before I wash away\!"
+He thrust a leather tape forward. "Measure with me. Curve to the water's will. End the equation before I wash away!"
 
 "You want to feed me to the walls," she realised. "To stabilise yourself."
 
@@ -215,7 +215,7 @@ Croft recoiled. "Do not bring your dead logic to the cellar, Edith. Aunt Agnes f
 
 ### Chapter 4: The Euclidean Solution
 
-\[FEN-2111\]  
+[FEN-2111]  
 The cellar door resisted, its frame a mocking circle where angles should rule. There was no handle, only a continuous, flowing curve of wood.
 
 Edith traced a diameter with her finger; it looped back on itself. "Yield," she commanded. She took the brass shard and scraped a radial line across the wood, forcing a definition of 'centre'. The wood parted with a sigh, exhaling spores of that same brass-flecked dust, ancient and eager.
@@ -236,7 +236,7 @@ She drew the square.
 
 The mud fought back. The lines she carved refused to stay straight. They bowed outward, convex, bloated with an internal pressure. The corners squirmed, widening into obtuse angles. The dust in the air swirled violently, replicating in response to her rising panic, forming choking clouds of metallic grit.
 
-"Stop it\!" Edith gasped. Vertigo hit her.
+"Stop it!" Edith gasped. Vertigo hit her.
 
 She reached for her slide rule to measure the distortion. She grabbed the ivory stick, the symbol of her profession, the instrument of base-10 precision.
 
@@ -282,7 +282,7 @@ She looked at the spinning, impossible circle in the mud.
 
 It was a suicide of the self, but a victory of the concept. If she could not live in a stable three-dimensional world, she would rule a two-dimensional one.
 
-"COLLAPSE\!"
+"COLLAPSE!"
 
 She didn't just drop the locket. She slammed her fist, holding the jagged brass shard, into the centre of the mud. She drove the memory of the explosion, the memory of absolute, rigid material failure, into the dream of the house.
 
@@ -308,7 +308,7 @@ Edith lay on the floor. Or rather, she was *of* the floor.
 
 ### Chapter 5: The Fresco
 
-\[FEN-21111\]  
+[FEN-21111]  
 The cellar was silent. The lines were perfect. The walls met at beautiful, sharp ninety-degree angles.
 
 Edith attempted to inhale. The impulse did not result in the expansion of a chest cavity, but in a linear grinding of data across the Y-axis. There was no depth to accommodate air. The sensation was not a static variable error; it was a screaming compression of data, the universe deleting the dimension she required to breathe.
@@ -363,7 +363,7 @@ The End.
 
 ### Chapter 3: Porosity
 
-\[FEN-212\]  
+[FEN-212]  
 The corruption of the geometry was not instant; it was an infestation.
 
 Edith spent the next hour pacing the perimeter of the drawing room, the tape measure hissing like a snake as she retracted it, again and again. She needed a constant. She needed one shape to obey the laws she had built her life upon.
@@ -426,7 +426,7 @@ And if the air was a fluid… it could be dammed.
 
 ### Chapter 4: The Yield Point
 
-\[FEN-2121\]  
+[FEN-2121]  
 The panic vanished, replaced by the manic, diamond-hard focus of the factory floor. Edith Marsh ceased to be a victim of a haunted house and became a munitions engineer facing a containment breach.
 
 "Porosity," she muttered, stripping off her wool jacket and rolling up her sleeves. "If the medium is porous, the wave propagates. To stop the wave, I must create a vacuum. A perfect, non-porous cavity."
@@ -435,7 +435,7 @@ She moved with terrifying efficiency. She raided the pantry, the scullery, the t
 
 In the centre of the drawing room, she began to mix a render. Not standard mortar, but a dense, suffocating paste. She worked the powdered glass into the plaster until her hands bled, unfeeling.
 
-"Mr. Croft\!" she barked. "The fireplace. It’s a chimney. A vent. It must be sealed."
+"Mr. Croft!" she barked. "The fireplace. It’s a chimney. A vent. It must be sealed."
 
 Croft was standing by the door, watching her with eyes that looked increasingly like pools of oil. "The smoke needs to go up, Edith."
 
@@ -489,7 +489,7 @@ It sat on the rug, humming. It was hungry.
 
 ### Chapter 5: The Event Horizon
 
-\[FEN-21211\]  
+[FEN-21211]  
 The silence in the room was artificial, heavy, and thick. Edith sat cross-legged on the Persian rug, the Ouroboros in her palm. She had stripped the room of soft furnishings. No cushions. No curtains. Nothing to absorb the shock. Only hard surfaces to reflect it, to drive it into the trap.
 
 She needed to control the countdown. She pressed her fingers to her jugular.
@@ -526,7 +526,7 @@ The smell was absolute. Not just wet pennies. It was the smell of her own signat
 
 The realization hit her with the force of the blast wave. The shell casing in the locket. The shard. This was the specific bomb, not just any explosive.
 
-She saw the batch number etched on the inside of the brass memory. *Lot 404\. Shift B.*
+She saw the batch number etched on the inside of the brass memory. *Lot 404. Shift B.*
 
 Her shift. Her handwriting on the tolerance sheet.
 
@@ -572,7 +572,7 @@ A handprint of molten brass. Fingers splayed. Still measuring.
 
 ### Epilogue: The Settlement
 
-\[FEN-212111\]  
+[FEN-212111]  
 Three days later, Mr. Davies returned. He drove the motorcar down the track, which was now strangely firm and dry.
 
 He entered the hall, expecting damp. He found silence. Not the silence of a tomb, but the silence of a cathedral.
@@ -633,7 +633,7 @@ The End.
 
 ### Chapter 2: The Calibration Trap
 
-\[FEN-22\]  
+[FEN-22]  
 For the first week, Edith attempted to impose logic on the illogical. She did not just inhabit the house; she besieged it with repairs.
 
 She began with the grandfather clock in the hallway, a monolithic piece of mahogany that had stood silent. She dismantled the casing, cleaned the gears with solvent, and oiled the escapement. She wound it with military precision, watching the pendulum swing. *Tick. Tock.* It was a chaotic variable she could govern. A metronome for the madness.
@@ -718,7 +718,7 @@ Edith pressed both palms to her sternum as if trying to throttle her own heartbe
 
 ### Chapter 3: The Internal Leak
 
-\[FEN-221\]  
+[FEN-221]  
 By the second week, Edith stopped trying to fix the windows. She spent her time measuring her own destruction.
 
 She established a correlation. She created a chart on graph paper, pinned to the drawing board.
@@ -777,7 +777,7 @@ She realised the truth. She wasn't the engineer of the bunker. She was the bomb 
 
 ### Chapter 4: The Zero Sum Game
 
-\[FEN-2211\]  
+[FEN-2211]  
 Edith stood up. She moved with the eerie calm of a woman who has finally balanced the ledger. The house was tearing itself apart, but the maths was clear.
 
 "The trauma is self-sustaining," she whispered, her eyes fixed on the crazing walls. "My engineering tried to contain it; the house is forcing me to process it. It doesn't need a counter-force. It needs a total surrender. A medium vast enough to dilute the violence to zero."
@@ -788,7 +788,7 @@ She ran to the front door. She grabbed the handle. It didn't turn. The wood of t
 
 She turned back to the hall. Croft was watching her, clutching his blistering hand.
 
-"If mud remembers, Mr. Croft," Edith challenged, "then teach it my equation\!"
+"If mud remembers, Mr. Croft," Edith challenged, "then teach it my equation!"
 
 Croft didn't answer. He raised his hand, splaying the fingers. The webbing between them wasn't just skin; it was scar tissue, thick and pearlescent, formed from centuries of holding back the yield. He showed her the cost of the lesson: the price of trying to force the Fen to conform. He was the proof that the Fen only accepted total, systemic, painful solutions.
 
@@ -856,7 +856,7 @@ The silence was absolute.
 
 ### Epilogue: The Radius
 
-\[FEN-22111\]  
+[FEN-22111]  
 **Field Report: Royal Engineers, Survey Unit 4**
 
 **Date:** May 12, 1916
@@ -919,7 +919,7 @@ The End.
 
 ### Chapter 2: The Strata of Tomorrow
 
-\[FEN-23\]  
+[FEN-23]  
 The cellar possessed a luminosity trapped within the clay itself—a phosphorescent memory of sunlight that had died eons ago—rather than simple darkness. Edith descended the wooden stairs, intending to inspect the fuse box. The lights had flickered; a simple issue of resistance and current. She needed to map the circuit; chaos in the wiring meant chaos in the system.
 
 She reached the bottom. The air was dry, but heavy, smelling of pulverised stone. She found the fuse box mounted on a damp support beam. The copper wiring was exposed, a chaotic nest of primitive installation.
@@ -1006,7 +1006,7 @@ The realisation hit her like a blast wave.
 
 ### Chapter 3: The Acceleration of Ash
 
-\[FEN-231\]  
+[FEN-231]  
 The panic manifested not as a scream but as a desperate need to manufacture proof of existence.
 
 Edith scrambled up the stairs, the dry, crumbling wood groaning under her weight. She burst into the kitchen, her breath coming in shallow, ragged gasps. She needed a constant. She needed a material that obeyed the laws of 1916 physics.
@@ -1053,13 +1053,13 @@ Edith stared at his arm. The sleeve of his coat was petrifying, turning to stone
 
 "You're trying to apply thermal dynamics to a static system," Croft continued, stepping slowly into the room. "You fled the bombs for silence, Miss Marsh, but what if the silence fled first? What if this is not an escape, but a destination you’ve already reached?"
 
-Edith backed away, clutching the locket. "Entropy requires time. Decay requires a progression of states\!" *No counting, no progression. I must have time. The count must be preserved.*
+Edith backed away, clutching the locket. "Entropy requires time. Decay requires a progression of states!" *No counting, no progression. I must have time. The count must be preserved.*
 
 "And what is a fossil but the end of progression?" Croft countered. "You calculated the blast radius at Tipton. Two miles. You know that anything within that radius is temporary. But stone? Stone ignores the radius. What radius did you calculate for a heart that stops without a blast?"
 
 His words liquefied the air, and suddenly Tipton's melt was in her mouth—brass pennies on her tongue, not hot, but cold, eternal. The counting started again. One, two... zero. *The zero came first.*
 
-"It's death\!" Edith screamed. "It's stasis\!"
+"It's death!" Edith screamed. "It's stasis!"
 
 "It is structural integrity," Croft corrected gently. "The thresher's wheat doesn't scream, Edith; it whispers the harvest's end. This is the cessation of change. It is the ultimate solution to the variable of destruction. And you, Miss Marsh, came here to solve it."
 
@@ -1101,7 +1101,7 @@ Edith looked at her hand, the hand that had held the locket. The fingertips were
 
 ### Chapter 4: The Specimen
 
-\[FEN-2311\]  
+[FEN-2311]  
 The transformation did not come as a wave of pain, but as a loss of frequency. Edith stood in the centre of the kitchen, watching the grey spread up her wrists, past the lace of her cuffs.
 
 Her skin, once pliable and pink, bleached first to the translucent white of alabaster. She tried to flex her fingers. They grated, stone on stone, a sound like tectonic plates shifting deep underground. Then the alabaster darkened, hardening into flint, then denser still into basalt.
@@ -1144,10 +1144,10 @@ No more falling iron. Only rising stone. The variable is solved. The yield point
 
 ### Epilogue: The Exhibit
 
-\[FEN-23111\]  
-\[ARCHIVE RECORD: SECTOR 4 ANOMALY\]
+[FEN-23111]  
+[ARCHIVE RECORD: SECTOR 4 ANOMALY]
 
-\[VISUAL FEED: HALL OF THE ANTHROPOCENE\]
+[VISUAL FEED: HALL OF THE ANTHROPOCENE]
 
 The beings were tall, spindle-thin, and navigated the museum by echolocation rather than sight. They moved through the Hall of the Anthropocene with a reverence reserved for the sacred and the extinct. The atmosphere outside the museum was methane and dust, howling symphonies the *sapiens* could never score. Inside, in the amber stasis, silence conducted. The lighting was a soft, bio-luminescent blue.
 
@@ -1155,7 +1155,7 @@ Subject Analysis: Homo Sapiens. Female.
 
 State: Absolute Mineralisation.
 
-Curator Note: "Here," the curator clicked, the sound translating directly into the minds of the students. "A pristine example of the preservation anomaly of Sector 4\. Note the defensive geometry. The species built structures to separate themselves from the environment. This specimen achieved the ultimate separation."
+Curator Note: "Here," the curator clicked, the sound translating directly into the minds of the students. "A pristine example of the preservation anomaly of Sector 4. Note the defensive geometry. The species built structures to separate themselves from the environment. This specimen achieved the ultimate separation."
 
 *Yield point reached. The brass sings, but the burn lingers. I can smell the smoke of Tipton in the folds of my skirt. It smells like wet pennies and screaming. I am not running away. I am digging in. Two miles is not enough. The blast wave ignores distance. I need a new dimension. I need the density of the earth itself.*
 
@@ -1191,7 +1191,7 @@ The End.
 
 ### Chapter 2: The Symbiosis
 
-\[FEN-24\]  
+[FEN-24]  
 For the first week, Edith attempted to impose the logic of the 20th century upon the primeval Fen. She treated the house not as a home but as a machine in need of repair.
 
 She did not catalogue idly. She sat on the warped floorboards of the parlour, her engineering notebook open, sketching the anomalies with aggressive strokes. "Condensation spiral, variance 1.618," she muttered, the graphite snapping as she marked the glass. "Masonry pulse, sixty beats per minute. Human standard."
@@ -1246,7 +1246,7 @@ She watched, horrified and mesmerised, as the mortar swallowed the iron. The nai
 
 ### Chapter 3: The Algorithm of Fear
 
-\[FEN-241\]  
+[FEN-241]  
 The paranoia set in not as fear but as data processing. Edith’s mind, sharpened by engineering, began to see the connections. The low hum of the Fen was the same frequency as the Zeppelin engines. The ambient mist wasn't water vapour; it was a suspension of spores communicating atmospheric data to the thing below.
 
 She had to leave. Not retreat, but reposition.
@@ -1327,7 +1327,7 @@ Edith walked past him, entering the beast’s mouth willingly, not as a victim b
 
 ### Chapter 4: The Industrial Counter-Measure
 
-\[FEN-2411\]  
+[FEN-2411]  
 The Solstice brought a darkness that felt solid. The cellar door stood open, breathing warm, moist air that smelled of ancient stars.
 
 Edith stood in the kitchen. On the table lay her weapons: a kerosene lamp, a heavy wrench, and a pocket watch.
@@ -1362,11 +1362,11 @@ She swung the wrench. It connected with Croft's forearm with the wet crack of sh
 
 Edith shoved the wrench into her belt, ripped the silver locket from her dress, and slammed the cold metal into the hole in Croft's chest where the mud was knitting together.
 
-"Dissonance\!" she screamed.
+"Dissonance!" she screamed.
 
 Croft convulsed, stumbling back into the chrysalis. The mud swallowed him instantly, and the violet light in the veins flared, turning angry and jagged.
 
-Edith threw the kerosene lamp. It shattered against the chrysalis. "Flashpoint\!"
+Edith threw the kerosene lamp. It shattered against the chrysalis. "Flashpoint!"
 
 She struck a match: *England’s Glory*. She threw it.
 
@@ -1382,13 +1382,13 @@ The entity pulsed. The walls of the cellar rippled, showing her the cycle: the p
 
 "It is efficient," the mud roared. "It is eternal."
 
-"Your cycle has reached its yield point\!" Edith screamed. "The cycle has an end point\!"
+"Your cycle has reached its yield point!" Edith screamed. "The cycle has an end point!"
 
 She grabbed the crown of the watch. She didn't wind it forward. She wound it backward, forcing the gears to grind against their natural direction.
 
 *Click-click-click-click.*
 
-"Inputting decay\! Override sequence\! Final function\!" she yelled.
+"Inputting decay! Override sequence! Final function!" she yelled.
 
 She thrust the watch into the wet, pulsing mass of the chrysalis.
 
@@ -1404,8 +1404,8 @@ Edith didn't run. She watched as the walls buckled, letting in the grey light of
 
 ### Epilogue: The Signal
 
-\[FEN-24111\]  
-**April, 1917\.**
+[FEN-24111]  
+**April, 1917.**
 
 Easton Glebe, Essex
 
@@ -1463,14 +1463,14 @@ The End.
 
 ### Chapter 1: The Tuning Fork
 
-\[FEN-3\]  
-**February 10, 1920\.**
+[FEN-3]  
+**February 10, 1920.**
 
 The silence in the waiting room of Thorne & Co. was heavy. It pressed against the painted tin that served as Lieutenant Julian Sterling’s lower jaw, a pressure he did not just welcome; he required.
 
 Without the pressure, the screaming started.
 
-Outside, the noise of London assaulted the glass. The rattle of omnibuses and the shrill cries of newsboys vibrated against the prosthetic, turning the metal into a tuning fork. The vibrations travelled through the tin, digging into the phantom nerves of a chin blown off in 1917\.
+Outside, the noise of London assaulted the glass. The rattle of omnibuses and the shrill cries of newsboys vibrated against the prosthetic, turning the metal into a tuning fork. The vibrations travelled through the tin, digging into the phantom nerves of a chin blown off in 1917.
 
 Julian squeezed his eyes shut. The memory burned: a high-frequency screech, agonising as shrapnel in silk.
 
@@ -1490,7 +1490,7 @@ Thorne continued, flipping a page. "She held the title for only a short time. It
 
 Julian’s hand drifted to the lapel of his trench coat. His fingers brushed the rough wool.
 
-*Dawn. 1917\. The mud is freezing. Private Miller is there, his hands shaking not from cold, but from the shell that took his brother hours earlier—Julian's order. “Keep the warmth in, sir,” Miller whispers, buttoning the coat. “We just have to stay quiet.”*
+*Dawn. 1917. The mud is freezing. Private Miller is there, his hands shaking not from cold, but from the shell that took his brother hours earlier—Julian's order. “Keep the warmth in, sir,” Miller whispers, buttoning the coat. “We just have to stay quiet.”*
 
 Julian pressed his hand against the desk, white-knuckled. He needed a place where his own orders couldn't reach him. He didn't have equations. He only had ghosts.
 
@@ -1556,14 +1556,14 @@ THE RESONATOR'S CHOICE
 
 The silence is heavy. How will you fill the void left by the war?
 
-* Option 1: Do you let the ghosts of your platoon in to help you carry the load? \["The Seduction"\]  
-* Option 2: Do you brace yourself against the house to keep it standing? \["The Curing"\]  
-* Option 3: Do you try to broadcast the silence to the world? \["Wet Mortar"\]  
-* Option 4: Do you embrace the hunger and consume the house's trauma? \["Blood for Silence"\]
+* Option 1: Do you let the ghosts of your platoon in to help you carry the load? ["The Seduction"]  
+* Option 2: Do you brace yourself against the house to keep it standing? ["The Curing"]  
+* Option 3: Do you try to broadcast the silence to the world? ["Wet Mortar"]  
+* Option 4: Do you embrace the hunger and consume the house's trauma? ["Blood for Silence"]
 
 ### Chapter 2: The Seduction
 
-\[FEN-31\]  
+[FEN-31]  
 The restoration came not through miracle but through contract.
 
 It began with a fortnight of silence. For two weeks, Julian lay in the master bedroom, waiting for the familiar morning agony: the phantom burning of a chin that was no longer there.
@@ -1608,12 +1608,12 @@ THE RESONATOR'S CHOICE:
 
 The intrusions multiply, the dead seizing your form in a rising chorus of betrayal. How will you reclaim the silence from the spectral tide?
 
-* Option 1: Do you don the mask and impose martial discipline to crush the uprising in your flesh? \["The Mutiny"\]  
-* Option 2: Do you triangulate the hauntings with counter-harmonics, canceling each echo at sensory cost? \["Counterphase"\]
+* Option 1: Do you don the mask and impose martial discipline to crush the uprising in your flesh? ["The Mutiny"]  
+* Option 2: Do you triangulate the hauntings with counter-harmonics, canceling each echo at sensory cost? ["Counterphase"]
 
 ### Chapter 3: The Mutiny
 
-\[FEN-311\]  
+[FEN-311]  
 The mutiny began with a command refusal.
 
 Julian woke in the pitch dark, gasping, his hands working frantically at the bedsheets. They were tying a complex, leverage-based knot used for field dressings on arterial bleeds, the perfect muscle memory of a medic he had never been. The sheets were ruined, twisted into a tourniquet around a phantom limb. It was not a physical pain. It was a failure of command.
@@ -1648,7 +1648,7 @@ The curse ripped out of his throat before he could stop it, proving to be not ju
 
 He stood, chair scraping violently. He marched to the kitchen, forcing his spine straight, ignoring the phantom twitching in his right eye: the eye of Captain Reed, which wanted to salute and simultaneously look away in aristocratic horror.
 
-"Croft\!"
+"Croft!"
 
 Croft stood by the stove. The humidity was stifling. Croft’s skin glistened, grey like fresh mortar.
 
@@ -1674,7 +1674,7 @@ Then the name surfaced, not from his memory, but from the architecture itself.
 
 *Ginger.*
 
-"I am not Ginger\!" Julian shouted.
+"I am not Ginger!" Julian shouted.
 
 He retched, spitting the meat onto the floor. Metal clattered against the boards: a jagged piece of shrapnel, a physical shard of the house he had just vomited up. He was consuming his own history.
 
@@ -1710,13 +1710,13 @@ CRASH.
 
 The glass shattered. A long, dagger-like piece embedded itself in Julian’s palm, slicing deep. He didn't feel pain; he felt satisfaction. The blood was red, not black.
 
-"Regimental Number A477\!"
+"Regimental Number A477!"
 
 He grabbed the mask with his bleeding hand. He slammed the mask onto his face.
 
 It was an act of violence. The borrowed lips snarled, stretching wide to block the metal. The stolen cheeks swelled, puffing out like dough. He pressed the hard, unforgiving tin against the soft, mutinous flesh. The sound was sickening: a wet *squelch* followed by the tearing of new, unscarred skin.
 
-"You will follow orders\!"
+"You will follow orders!"
 
 He forced the fine motor skills of an officer onto the hands of a labourer. The borrowed nose broke. The stolen lips split against the metal rim.
 
@@ -1732,7 +1732,7 @@ The jaw no longer tuned; it *conducted*. It channeled the screaming geometry of 
 
 ### Chapter 4: Martial Law
 
-\[FEN-3111\]  
+[FEN-3111]  
 Julian was pinned to the floor. The tactical withdrawal had ended in an execution: a court-martial carried out on his own body. He was curled on the floor, broken but rigid. Held together by leather and iron.
 
 Outside the door, the *squeak-drag* of the polishing cloth continued, unhurried. Administrative.
@@ -1753,7 +1753,7 @@ He was the commanding officer, and the whole regiment was now singing inside his
 
 ### Epilogue: The Overture
 
-\[FEN-31111\]  
+[FEN-31111]  
 The door opened.
 
 Jedediah Croft entered. He held a small crystal vial, cut from a single piece of glass. Inside, a bubble of dark fluid moved sluggishly. It was thick, viscous as tar or crude oil, clinging to the glass; trapped artillery smoke, finding its level only in death’s plumb line.
@@ -1804,7 +1804,7 @@ The End.
 
 ### Chapter 3: Counterphase
 
-\[FEN-312\]
+[FEN-312]
 
 Julian dragged his trunk into the library. He was an engineer of the Royal Corps; he knew that ghosts were just vibrations waiting to be triangulated.
 
@@ -1814,7 +1814,7 @@ He opened the ledger, not to read, but to plot. He drew a frequency graph: the b
 
 He struck a tuning fork against the desk. He calibrated it against the tick of his pocket watch—a symbol of the time he had lost.
 
-*Flashback: 1913\. The drawing room. Julian tightening the C-string on his cello. His wife, Eleanor, laughing. "You treat the wood like a recruit, Julian. It needs coaxing." The string snaps. He hasn't played since.*
+*Flashback: 1913. The drawing room. Julian tightening the C-string on his cello. His wife, Eleanor, laughing. "You treat the wood like a recruit, Julian. It needs coaxing." The string snaps. He hasn't played since.*
 
 He set to work stringing twine across the room, creating a grid of acoustic tripwires. He mimed the motion of a bow across the strings, testing the tension.
 
@@ -1834,7 +1834,7 @@ Ginger Walsh. But not just a shadow. A hand emerged from the mahogany of the des
 
 The heat intensified. Julian’s hand began to blister.
 
-*Flashback: The sap-trench. 1917\. Ginger’s hand shaking. The flare of the match Julian held. "You're a gent, sir," Ginger whispered. A fleeting warmth in the freezing mud.*
+*Flashback: The sap-trench. 1917. Ginger’s hand shaking. The flare of the match Julian held. "You're a gent, sir," Ginger whispered. A fleeting warmth in the freezing mud.*
 
 "I'm sorry," Julian whispered involuntarily.
 
@@ -1868,7 +1868,7 @@ Entry: The numbers lied at Ypres; here, they might lie to save me.
 
 ### Chapter 4: The Ledger
 
-\[FEN-3121\]
+[FEN-3121]
 
 The house became a circuit, and Julian was the surge protector burning out, fuse by fuse.
 
@@ -1910,7 +1910,7 @@ He stumbled into the corridor. The wallpaper peeled. Tally marks etched themselv
 
 ### Chapter 5: The Coldest Coat
 
-\[FEN-31211\]
+[FEN-31211]
 
 The temperature dropped. Frost mapped the walls like veins of ice.
 
@@ -1946,7 +1946,7 @@ Julian gasped. He touched his wedding ring to the candle flame. He felt the meta
 
 ### Chapter 6: The Dark Room
 
-\[FEN-312111\]
+[FEN-312111]
 
 He was navigating by memory now. He reached for the banister, but his hand slipped. The wood offered no friction.
 
@@ -1994,7 +1994,7 @@ He crawled toward the Knot.
 
 ### Chapter 7: The Prime Note
 
-\[FEN-3121111\]
+[FEN-3121111]
 
 The knot was pulsing. The hand-shaped growth in the wood was the heart of the machine.
 
@@ -2042,9 +2042,9 @@ The pen dissolved into sap.
 
 ### Epilogue: The White
 
-\[FEN-31211111\]
+[FEN-31211111]
 
-**November, 1923\.**
+**November, 1923.**
 
 The poacher moved through the mist. He stopped to catch his breath; the gas at Ypres had scarred his lungs, leaving a phantom wheeze. He dropped a rusted key he’d found in the mud. It pulsed with a fevered vein as it fell.
 
@@ -2082,7 +2082,7 @@ End.
 
 ### Chapter 2: The Curing
 
-\[FEN-32\]  
+[FEN-32]  
 The restoration came through calibrated suppression rather than miracle.
 
 It began on the second morning. Julian woke expecting the familiar, blinding sear of nerves firing into empty space. Instead, a dull, suffocating density anchored his face. It felt as though a bag of wet sand had been hooked to his cheekbones.
@@ -2119,11 +2119,11 @@ Julian picked it up. The script was dense with legalese, but he pieced together 
 
 Julian stepped back, shoulder bumping the doorframe. The wood was bowed, the lintel sagging under centuries of damp. Without thinking, he threw his shoulder against the wood. He planted his feet. He braced.
 
-France, 1916\. The trench wall is weeping mud, the timber supports groaning under the mortar barrage. The earth threatens to swallow the platoon whole. Julian slams his shoulder against the buckling strut, boots sliding in the slurry. The weight is immense, a geological hate pressing down on his clavicle.
+France, 1916. The trench wall is weeping mud, the timber supports groaning under the mortar barrage. The earth threatens to swallow the platoon whole. Julian slams his shoulder against the buckling strut, boots sliding in the slurry. The weight is immense, a geological hate pressing down on his clavicle.
 
-“Hold it\!" he screams, though the sound is lost in the shelling.
+“Hold it!" he screams, though the sound is lost in the shelling.
 
-Private Miller is there, face smeared with clay, slapping Julian’s back. "Steady as the line, sir\! She's holding\!"
+Private Miller is there, face smeared with clay, slapping Julian’s back. "Steady as the line, sir! She's holding!"
 
 The memory dissolved. The groan in the wall stopped.
 
@@ -2133,7 +2133,7 @@ Julian felt a grotesque apprenticeship begin, the house apprenticing him in its 
 
 "A natural fit," Croft observed, the resentment in his eyes replaced by a terrifying relief. "You have the density for it, sir."
 
-*Day 15\.*
+*Day 15.*
 
 Julian sat in the library, a new leather-bound ledger open before him. A resonance log. He needed to prove Lieutenant Julian Sterling still existed, to document the changes before the silence took him.
 
@@ -2159,7 +2159,7 @@ Julian touched his jaw, the metal cold against his changing face.
 
 "Not yet," he whispered, a rasping oath he’d once sworn to a dying boy in a crater.
 
-*Day 37\.*
+*Day 37.*
 
 The boots were too tight. Julian sat on the edge of the bed, the mattress moulding perfectly to his immense weight. He peeled off his socks.
 
@@ -2169,11 +2169,11 @@ He tried to clip them. The steel clippers bent.
 
 He went to the kitchen and found a serrated bread knife.
 
-He sat on the floor and began to saw. The sensation was unnerving, not because it hurt, but because the anticipation of pain was so violent, yet the result so absent. His brain screamed *Stop\!*, bracing for the severing of nerve endings, but the nerves reported only silence. A dull, vibrating thrum travelled up his shin bone, rattling through his marrow like a saw cutting through a table leg.
+He sat on the floor and began to saw. The sensation was unnerving, not because it hurt, but because the anticipation of pain was so violent, yet the result so absent. His brain screamed *Stop!*, bracing for the severing of nerve endings, but the nerves reported only silence. A dull, vibrating thrum travelled up his shin bone, rattling through his marrow like a saw cutting through a table leg.
 
 He stared at the knife. It was this absence that terrified him. Pain was human. Pain was a warning system. This silence was an eviction notice. His body wasn't just changing; it was being depopulated.
 
-*Day 62\.*
+*Day 62.*
 
 The house was drying out. The wallpaper peeled in long, sunburned strips. The moisture was migrating.
 
@@ -2181,7 +2181,7 @@ Julian sat in the drawing room, sunlight catching his exposed forearms. The vein
 
 He swallowed. The taste in his mouth was no longer metallic. It was bitter, resinous, like chewing fresh birch bark in a muddy trench.
 
-*Day 89\.*
+*Day 89.*
 
 He was polishing the banister. It was the only task that made sense.
 
@@ -2193,7 +2193,7 @@ It held fast.
 
 He looked down. The palm of his hand had merged with the oak. The skin had dissolved into the varnish; the metacarpals were sinking into the wood. The bandage on his elbow from weeks ago had fallen away; the scar where he had cut the spur was now just a knot in the grain, seamlessly reintegrated. His victory had been nothing more than a pruning to encourage stronger growth.
 
-"Croft\!" he bellowed. The sound was a low boom, shaking dust from the chandelier.
+"Croft!" he bellowed. The sound was a low boom, shaking dust from the chandelier.
 
 Croft appeared with a chisel. "Careful, sir. You're knitting."
 
@@ -2201,7 +2201,7 @@ Croft appeared with a chisel. "Careful, sir. You're knitting."
 
 "It will hurt."
 
-"Cut it\!"
+"Cut it!"
 
 Croft wedged the chisel under Julian's wrist. He struck it with his palm.
 
@@ -2213,7 +2213,7 @@ Julian screamed. He wrenched his hand free. Three fingers remained fused to the 
 
 ### Chapter 3: Cartography of Echoes
 
-\[FEN-321\]  
+[FEN-321]  
 The isolation demanded documentation, but the ledger was ruined. Julian resorted to charcoal sketches on loose parchment, attempting to map the house’s acoustic anomalies. The charcoal didn't just map the library; it began to trace the ley lines of the century's grief.
 
 As he shaded the corners of the drawing, the paper seemed to gain depth. The sketch of the hallway didn't just show walls; it showed layers. Beneath the graphite rendering of the wainscoting, faint, screaming faces pressed through the texture of the paper. Then, spectral ink—not his own—bled through the parchment. Edith’s handwriting, frantic and sharp, tallied Zeppelin raids over London, the numbers aligning perfectly with the casualty lists of his own platoon.
@@ -2222,7 +2222,7 @@ He realised with a sick, hollow thud in his chest that the house didn't just abs
 
 ### Chapter 4: The Petrification Tests
 
-\[FEN-3211\]  
+[FEN-3211]  
 The house, sensing his resistance to the mapping, shifted tactics. It ceased its aggressive petrification and began a soft, insidious seduction.
 
 It started with the cold. A draught howled through the Fens, dropping the temperature in the library, but the high-backed armchair by the fire radiated an impossible, biological warmth. As Julian approached, the crackle of the logs shifted pitch, modulating into a familiar, low-frequency hum.
@@ -2235,7 +2235,7 @@ He stumbled back from the chair, his wooden knee locking with a sharp *clack*. H
 
 ### Chapter 5: The Anchor
 
-\[FEN-32111\]  
+[FEN-32111]  
 "I am relieving the watch," Julian announced.
 
 The words dropped from his mouth like stones. He stood in the hallway. It had taken him an hour to shuffle from the library.
@@ -2258,29 +2258,29 @@ He tried to lift his left foot.
 
 The resistance was instant. But not painful. It felt like a lock clicking shut. Roots, thick and pale as tendons, didn't just burst from his boot; they *anchored* him, connecting his shattered nervous system to the deep, silent geology of the Fen.
 
-Flash. 1916\.
+Flash. 1916.
 
-The whistle blows. "Over the top\!" The scream of men dying. The mud grabs his ankles. "Hold the line, Lieutenant\! We have to hold\!"
+The whistle blows. "Over the top!" The scream of men dying. The mud grabs his ankles. "Hold the line, Lieutenant! We have to hold!"
 
 No. He has to move. If he holds, he dies.
 
-“Company, attention\!” his mind barked.
+“Company, attention!” his mind barked.
 
-*Advance\!*
+*Advance!*
 
 The leg remained planted.
 
-*Double time\!*
+*Double time!*
 
 The muscles seized, locking rigid. The command to move translated into a command to brace. The house was rewriting his neural pathways. It wasn't just hijacking his muscles; it was hijacking his sense of duty. He wasn't stuck; he was *deployed*.
 
 He looked down. The leather of his boot had split. Beneath it, the peat-grey skin of his ankle flowed downwards. The grain of the porch floor rose up, twisting like vines, weaving into the keratin of his skin.
 
-"Croft\!" Julian roared.
+"Croft!" Julian roared.
 
 Croft stepped out, callipers in hand. He dropped to his knees, jamming the metal points into the fusing wood, trying to pry the vines loose.
 
-"Fight the grain, sir\!" Croft hissed, sweat beading on his forehead. "Twist against it\! Don't let it true you\!"
+"Fight the grain, sir!" Croft hissed, sweat beading on his forehead. "Twist against it! Don't let it true you!"
 
 "It’s... too... heavy..."
 
@@ -2288,15 +2288,15 @@ Croft leveraged the tool, but the wood simply swallowed the brass. He fell back,
 
 "I told you, sir," Croft whispered, his voice trembling with a terrible vindication. "I twisted too hard. I broke. But you... you are the perfect fit."
 
-"Cut me loose\!"
+"Cut me loose!"
 
 "I can't," Croft said, backing away. "You're the lintel now, sir. You're the silence we wanted."
 
-Julian struggled. He tried to scream orders at his own body. *Retreat\! Fall back\!*
+Julian struggled. He tried to scream orders at his own body. *Retreat! Fall back!*
 
 *Company... halt.*
 
-*No—Advance\!*
+*No—Advance!*
 
 *Fall... back.*
 
@@ -2308,8 +2308,8 @@ His hazel eye locked into place, staring blindly at the causeway. It stopped thr
 
 ### Epilogue: The Silent Tenure
 
-\[FEN-321111\]  
-**November, 1925\.**
+[FEN-321111]  
+**November, 1925.**
 
 The car rattled to a halt at the marker stone.
 
@@ -2363,7 +2363,7 @@ He tried to turn.
 
 The floorboards beneath him let out a soft, wet *squelch*.
 
-“Company, halt\!”
+“Company, halt!”
 
 The command did not come from Arthur's throat. It detonated in his bones, a silent, resonant order projected from the *pilaster* (Julian) directly into his spinal cord. The final, triumphant note was the *irrefutable cadence* of military duty.
 
@@ -2389,7 +2389,7 @@ The End.
 
 ### Chapter 2: Wet Mortar
 
-\[FEN-33\]  
+[FEN-33]  
 The restoration began with doubt rather than miracle.
 
 For the first week, Julian lay in the master bedroom, submerged in a silence so profound it felt like pressure. He slept in fits, waking with his hands clawing at the painted tin of his mask, convinced it was vibrating. But when he held his breath, the room was dead still.
@@ -2400,7 +2400,7 @@ By the second week, the silence of the Fens curdled into paranoia. This proved t
 
 He sat in the library, his skin prickling with the sensation of being observed. On the desk sat an old gramophone, the crank handle tarnished black. A wax cylinder sat on the spindle, the label yellowed and peeling: *Field Test – Sector 4 Relay, 1918*. In small print at the bottom: *N. L. Carter & Sons, Cairo*.
 
-Julian stared at it. Sector 4\. The designation of his own ruin.
+Julian stared at it. Sector 4. The designation of his own ruin.
 
 Curiosity, a phantom sensation from his old life, moved his hand. He wound the crank. The mechanism groaned, a sound too loud in the muffled room. He lowered the needle.
 
@@ -2476,7 +2476,7 @@ Wet mortar.
 
 ### Chapter 3: Circuit
 
-\[FEN-331\]  
+[FEN-331]  
 The mutiny of the body began on a Tuesday with the feeling of being retrofitted while still awake.
 
 Julian woke before dawn, his head pinned to the bedside table. During the night, the house had claimed his discarded tin mask, but in his thrashing sleep, the residue of the renovation had seized it. He pulled, panic rising in his chest. With a sickening *crack*, the mask came free, but it took a layer of skin with it. Sap-like blood, thick and grey, welled in the separation.
@@ -2523,7 +2523,7 @@ The liquid proved hideous and utterly cold, coating his throat not with the warm
 
 In that moment of absolute, freezing mechanical violation, a sensory ghost assaulted him.
 
-*Pear drops.* The thick, artificial sweetness of sugar and chemical pear. The trench. 1917\. The coppery, iron tang of fear. Miller’s hand trembling as he offered the bag. "Quiet now, sir; warmth's the enemy."
+*Pear drops.* The thick, artificial sweetness of sugar and chemical pear. The trench. 1917. The coppery, iron tang of fear. Miller’s hand trembling as he offered the bag. "Quiet now, sir; warmth's the enemy."
 
 The memory was so vivid Julian gagged. The sweetness bubbled up, fighting the oil. He retched, coughing up a tarry, black residue onto the table. It didn't pool; it hardened instantly into a small, gear-shaped clot. Simultaneously, the fluorescent tube above the stove flickered violently, as if battling a brown-out.
 
@@ -2557,7 +2557,7 @@ The house exhaled, circuits aligned, but in the quiet, Julian heard the persiste
 
 ### Chapter 4: Broadcast
 
-\[FEN-3311\]  
+[FEN-3311]  
 By the fourth week, the whistle of the falling shell was a scream that only Julian could hear.
 
 He stood in the master bedroom, naked. He studied the reflection in the black windowpane: a grey, hairless thing with a jaw like a church buttress and eyes that no longer blinked in unison. It belonged here.
@@ -2614,7 +2614,7 @@ He aimed his voice at the horizon, at the incoming scream of the Great Shell. He
 
 ### Epilogue: Resonance
 
-\[FEN-33111\]  
+[FEN-33111]  
 Julian opened his mouth to save the world.
 
 He found the note—low, mournful, a shield of pure silence. He pushed the air from his petrified lungs, willing the sound to be soft. To be a lullaby for the dead.
@@ -2693,7 +2693,7 @@ The End.
 
 ### Chapter 2: Blood for Silence
 
-\[FEN-34\]  
+[FEN-34]  
 The restoration was not a miracle; it was a maintenance cycle.
 
 For the first week, Julian submitted to the process. The damp air acted as a dampening field, and for the first time since the war, the *keening* stopped.
@@ -2770,7 +2770,7 @@ The shadow mouthed silent orders: *Fall in.*
 
 ### Chapter 3: The Devouring
 
-\[FEN-341\]  
+[FEN-341]  
 The mutiny unfolded not in a day but as a war of attrition, fought over a week of sleepless nights.
 
 Julian sat at the library desk, surrounded by crumbled paper. A letter from the War Office lay before him. Regarding Pension: Lieutenant Julian Sterling.
@@ -2795,17 +2795,17 @@ Julian stopped writing. Absolution. They were offering him the one thing the *va
 
 "Write," Julian commanded himself, forcing the pen down. "Solve for zero."
 
-But the numbers twisted. The variables became names. Miller \+ Ginger / Trauma \= Home.
+But the numbers twisted. The variables became names. Miller + Ginger / Trauma = Home.
 
 The pen snapped. Ink exploded across the page like black blood.
 
-"Bugger it\!" The curse ripped out, a voice of shattering glass in the empty room.
+"Bugger it!" The curse ripped out, a voice of shattering glass in the empty room.
 
 Julian stared at the ink. He didn't fight the echo. He didn't run to the copper plate to ground it. He looked at the window, where the mist pressed against the glass, waiting to be inhaled. He chose the ghosts over the *vacuum*.
 
 "Button the coat, Private," Julian whispered, his voice trembling with a dark, twisted redemption. "We're going home."
 
-The door slammed open. Croft rushed in, his eyes wide, a bucket of wet limestone in his hand. "Structural failure\! The mask\! You're letting the signal bleed\!"
+The door slammed open. Croft rushed in, his eyes wide, a bucket of wet limestone in his hand. "Structural failure! The mask! You're letting the signal bleed!"
 
 Julian shoved him back. The strength was unnatural.
 
@@ -2835,7 +2835,7 @@ He turned toward the stairs. He found Croft standing by the newel post, his hand
 
 Julian stepped closer. Croft lunged. He didn't strike to kill; he struck to heal. He slapped a glob of heavy, wet limestone putty onto Julian's chest, trying to seal him, to weigh him down.
 
-"Ground yourself\!" Croft screamed. "You are the breach\!"
+"Ground yourself!" Croft screamed. "You are the breach!"
 
 Julian looked at the grey sludge on his coat. He laughed, a sound that cracked the plaster above them. He grabbed Croft’s wrist, snapping the bone with a sickening pop.
 
@@ -2843,11 +2843,11 @@ Julian looked at the grey sludge on his coat. He laughed, a sound that cracked t
 
 He reached for the banister.
 
-"No\!" Croft cried, falling to his knees, clutching his broken wrist. "That's the anchor\! Don't pull the plug\!"
+"No!" Croft cried, falling to his knees, clutching his broken wrist. "That's the anchor! Don't pull the plug!"
 
 Julian didn't hesitate. He grabbed the calcified wooden hand. It was warm, pulsing with the same fevered heat as the key. He pulled. The wood shrieked, a soprano bite like a breaking femur.
 
-Croft scrambled forward, his good hand clawing at the wood, trying to push the knot back into the hole, trying to stem the bleeding of the house. "Put it back\! It can't hold the *frequency*\!"
+Croft scrambled forward, his good hand clawing at the wood, trying to push the knot back into the hole, trying to stem the bleeding of the house. "Put it back! It can't hold the *frequency*!"
 
 "Your angles were too sharp, Edith," Julian rumbled, ignoring the caretaker's desperate struggle. "Mine are spirals."
 
@@ -2887,8 +2887,8 @@ He lunged at Julian, not to stop him, but to join the circuit. He pressed his mo
 
 ### Epilogue: The Peace That Keens Loudest
 
-\[FEN-3411\]  
-**February 11, 1920\.**
+[FEN-3411]  
+**February 11, 1920.**
 
 Mr Thorne stepped out of the carriage. The air at the causeway was suddenly cold, dry. He stared into the mist. There was no Fenworth House, only a crater, perfectly round, filled with black, still water. It waited not for the next war, but for the *peace that keens loudest*.
 
