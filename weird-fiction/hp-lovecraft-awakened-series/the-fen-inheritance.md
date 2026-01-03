@@ -14,7 +14,7 @@ It is a Georgian anomaly: a brick box imposing right angles on a world that only
 
 You are here to audit the estate. But be warned: Fenworth House functions as a geological stomach that digests grief, trauma, and sound, calcifying them into the very mortar of the walls.
 
-### **THE PROTOCOL (How to Navigate)**
+### THE PROTOCOL (How to Navigate)
 
 The history of this house follows a sedimentary pattern rather than a linear one, with the narrative shifting based on the pressure you apply.
 
@@ -27,7 +27,7 @@ At key intersections of structural failure, you will be presented with a choice.
 
 Choose wisely. The House responds to the observer.
 
-### **SELECT YOUR ENTRY POINT**
+### SELECT YOUR ENTRY POINT
 
 Two recent tenants have defined the structural integrity of this estate. Their timelines overlap in the mud, but their survival methods are diametrically opposed.
 
