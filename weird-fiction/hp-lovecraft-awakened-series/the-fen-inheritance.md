@@ -20,7 +20,8 @@ The history of this house follows a sedimentary pattern rather than a linear one
 
 At key intersections of structural failure, you will be presented with a choice. These choices are enclosed in brackets, indicating a divergence in the timeline or a shift in the geometry.
 
-* **Example:** Option 1: Do you try to correct the impossible geometry of the room? ["The Impossible Hypotenuse"]  
+**Example:** 
+* Option 1: Do you try to correct the impossible geometry of the room? ["The Impossible Hypotenuse"]  
 * Option 2: Do you attempt to calculate the blast radius of the silence? ["The Calibration Trap"]  
 * Etc.
 
@@ -379,7 +380,8 @@ The fireplace mantel: a straight slab of marble, quarried from stone that had fo
 
 Measurement 1: 59.8 inches.  
 Measurement 2: 59.3 inches.  
-Measurement 3: 58.7 inches.  
+Measurement 3: 58.7 inches.
+
 "Thermal contraction," she whispered, though the room was freezing. She grabbed a small plane from her tool bag, desperate to physically enforce the straight line. She ran the blade along the wooden sash of the window, shaving off a curl of painted timber.
 
 The shaving didn't fall. It writhed, undulating in mid-air with the purposeful motion of something that had just discovered it possessed nerves. The strip of wood curled and uncurled, wet and pinkish like a severed worm drowning in its own fluids, and then (with a sickening, fluid motion that mocked every principle of dead matter) burrowed back into the grain of the frame, pressing itself against the wood like a prodigal child returning home. The surface smoothed itself, the grain flowing around the intrusion until the wood was seamless again, healed without scar tissue, whole without memory of violation.
@@ -1073,9 +1075,12 @@ Curator Response: "The data indicates an overwhelming anxiety over flux. She did
 
 Edith Marsh sat in her glass box on a planet that no longer had a name she would recognise. But she was content. In the gold filaments, the calculation dissolved into the final truth:
 
-Two miles to liquefy.  
-Infinite to preserve.  
-Safe.  
+Two miles to liquefy.
+
+Infinite to preserve.
+ 
+Safe.
+
 The End.
 
 ### **Chapter 2: The Symbiosis**
