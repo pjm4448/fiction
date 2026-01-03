@@ -1,6 +1,6 @@
-# **The Fen Inheritance**
+# The Fen Inheritance
 
-## **Part 1: Introduction**
+## Part 1: Introduction
 
 [FEN-1]
 
@@ -44,9 +44,9 @@ The Great War is over, but the noise hasn't stopped. Lieutenant Julian Sterling,
 
 Begin the War as Lieutenant Julian Sterling (Part 3)
 
-## **Part 2: Edith Marsh**
+## Part 2: Edith Marsh
 
-### **Chapter 1: The Geometry of Silence**
+### Chapter 1: The Geometry of Silence
 
 [FEN-2]
 
@@ -99,7 +99,7 @@ The house is waiting for your input. How will you attempt to stabilize the anoma
 * Option 3: Do you seek to arrest the flow of time entirely? ["The Strata of Tomorrow"]  
 * Option 4: Do you suspect a biological infestation in the mud? ["The Symbiosis"]
 
-### **Chapter 2: The Impossible Hypotenuse**
+### Chapter 2: The Impossible Hypotenuse
 
 [FEN-21]
 
@@ -170,7 +170,7 @@ The room's corruption accelerates, the dust awakening to your rigid measurements
 * Option 1: Do you weaponize your Tipton trauma as an unyielding constant to shatter the infinite curves? ["The Tipton Constant"]  
 * Option 2: Do you treat the air as a viscous breach and seal it into an absolute, non-porous void? ["Porosity"]
 
-### **Chapter 3: The Tipton Constant**
+### Chapter 3: The Tipton Constant
 
 [FEN-211]
 
@@ -218,7 +218,7 @@ Croft recoiled. "Do not bring your dead logic to the cellar, Edith. Aunt Agnes f
 
 "Let it try," she said. And she marched toward the door that led in.
 
-### **Chapter 4: The Euclidean Solution**
+### Chapter 4: The Euclidean Solution
 
 [FEN-2111]
 
@@ -312,7 +312,7 @@ The wet, organic heat vanished.
 
 Edith lay on the floor. Or rather, she was *of* the floor.
 
-### **Chapter 5: The Fresco**
+### Chapter 5: The Fresco
 
 [FEN-21111]
 
@@ -368,7 +368,7 @@ Darkness: not void, but a solved plane. Edith Marsh was left in the dark. Perfec
 
 The End.
 
-### **Chapter 3: Porosity**
+### Chapter 3: Porosity
 
 [FEN-212]
 
@@ -430,7 +430,7 @@ The Fen served as the medium they were breathing rather than simply being outsid
 
 And if the air was a fluid… it could be dammed.
 
-### **Chapter 4: The Yield Point**
+### Chapter 4: The Yield Point
 
 [FEN-2121]
 
@@ -488,7 +488,7 @@ It sat on the rug, humming with a frequency that made her fillings ache. It was 
 
 "You will have nowhere to land," Edith said to the room, to the drone in the walls, to the memory of the bomb. She touched the object. It was colder than absolute zero. "I have built you a cage."
 
-### **Chapter 5: The Event Horizon**
+### Chapter 5: The Event Horizon
 
 [FEN-21211]
 
@@ -572,7 +572,7 @@ Inside the sphere, trapped in the amber of a single, endless second, a hand pres
 
 A handprint of molten brass. Fingers splayed. Still measuring.
 
-### **Epilogue: The Settlement**
+### Epilogue: The Settlement
 
 [FEN-212111]
 
@@ -634,7 +634,7 @@ Behind him, safe inside its new keel of brass and silence, Fenworth House settle
 
 The End.
 
-### **Chapter 2: The Calibration Trap**
+### Chapter 2: The Calibration Trap
 
 [FEN-22]
 
@@ -720,7 +720,7 @@ Edith pressed both palms to her sternum as if trying to throttle her own heartbe
 
 "Over-pressure," she hissed through clenched teeth.
 
-### **Chapter 3: The Internal Leak**
+### Chapter 3: The Internal Leak
 
 [FEN-221]
 
@@ -778,7 +778,7 @@ She looked at the spinning clock. She looked at the plumb line, now spinning wil
 
 She realised the truth. She wasn't the engineer of the bunker. She was the bomb inside it.
 
-### **Chapter 4: The Zero Sum Game**
+### Chapter 4: The Zero Sum Game
 
 [FEN-2211]
 
@@ -854,7 +854,7 @@ The house settled with a final, heavy thud. The plumb line hung perfectly vertic
 
 The silence was absolute.
 
-### **Epilogue: The Radius**
+### Epilogue: The Radius
 
 [FEN-22111]
 
@@ -903,7 +903,7 @@ The bunker calcifies the sky.
 
 The End.
 
-### **Chapter 2: The Strata of Tomorrow**
+### Chapter 2: The Strata of Tomorrow
 
 [FEN-23]
 
@@ -969,7 +969,7 @@ Agnes had found the leak. She had built the locket to find the point where the d
 
 "We are already extinct," Edith realised.
 
-### **Chapter 3: The Acceleration of Ash**
+### Chapter 3: The Acceleration of Ash
 
 [FEN-231]
 
@@ -1025,7 +1025,7 @@ Edith looked at her hand. The fingertips were slate-coloured.
 
 "Structural integrity achieved," she whispered.
 
-### **Chapter 4: The Specimen**
+### Chapter 4: The Specimen
 
 [FEN-2311]
 
@@ -1053,7 +1053,7 @@ The last thing she felt was the perfect, unyielding safety of the stone closing 
 
 No more falling iron. Only rising stone.
 
-### **Epilogue: The Exhibit**
+### Epilogue: The Exhibit
 
 [FEN-23111]
 
@@ -1078,12 +1078,12 @@ Edith Marsh sat in her glass box on a planet that no longer had a name she would
 Two miles to liquefy.
 
 Infinite to preserve.
- 
+
 Safe.
 
 The End.
 
-### **Chapter 2: The Symbiosis**
+### Chapter 2: The Symbiosis
 
 [FEN-24]
 
@@ -1119,7 +1119,7 @@ He placed a rabbits' bone on the dresser. It was fused seamlessly with a rusted 
 
 The mortar swallowed the iron. The nail dissolved, spreading out into a dark, vein-like filament that twitched toward her silver locket.
 
-### **Chapter 3: The Algorithm of Fear**
+### Chapter 3: The Algorithm of Fear
 
 [FEN-241]
 
@@ -1171,7 +1171,7 @@ Edith pressed the silver locket against Croft’s chest. “Your frequency is di
 
 Croft stumbled back. Edith walked past him, entering the beast’s mouth willingly.
 
-### **Chapter 4: The Industrial Counter-Measure**
+### Chapter 4: The Industrial Counter-Measure
 
 [FEN-2411]
 
@@ -1207,7 +1207,7 @@ The entity shrieked: “Why does it stop? The line... leads to rust...”
 
 The house groaned. Edith watched as the walls buckled, letting in the grey light of dawn.
 
-### **Epilogue: The Signal**
+### Epilogue: The Signal
 
 [FEN-24111]
 
@@ -1235,9 +1235,9 @@ Wells stood up. His movement was jerky. He picked up his pen and wrote a new tit
 
 The End.
 
-## **Part 3: Lieutenant Julian Sterling**
+## Part 3: Lieutenant Julian Sterling
 
-### **Chapter 1: The Tuning Fork**
+### Chapter 1: The Tuning Fork
 
 [FEN-3]
 
@@ -1302,7 +1302,7 @@ The silence is heavy. How will you fill the void left by the war?
 * Option 3: Do you try to broadcast the silence to the world? ["Wet Mortar"]  
 * Option 4: Do you embrace the hunger and consume the house's trauma? ["Blood for Silence"]
 
-### **Chapter 2: The Seduction**
+### Chapter 2: The Seduction
 
 [FEN-31]
 
@@ -1343,7 +1343,7 @@ The intrusions multiply. How will you reclaim the silence?
 * Option 1: Do you don the mask and impose martial discipline to crush the uprising in your flesh? ["The Mutiny"]  
 * Option 2: Do you triangulate the hauntings with counter-harmonics? ["Counterphase"]
 
-### **Chapter 3: The Mutiny**
+### Chapter 3: The Mutiny
 
 [FEN-311]
 
@@ -1413,7 +1413,7 @@ Julian fell to his knees. He was in agony, but he was Julian Sterling.
 
 The house sighed. The painted tin pressed against the ruin of his face. The jaw no longer tuned; it *conducted*.
 
-### **Chapter 4: Martial Law**
+### Chapter 4: Martial Law
 
 [FEN-3111]
 
@@ -1433,7 +1433,7 @@ The eye whispered, "At ease, sir."
 
 He dragged himself upright. He had stopped the mutiny, but he had not won the war. He was the commanding officer, and the whole regiment was singing inside his head.
 
-### **Epilogue: The Overture**
+### Epilogue: The Overture
 
 [FEN-31111]
 
@@ -1465,7 +1465,7 @@ The note merely found the frequency of his empty spaces, and filled them.
 
 The End.
 
-### **Chapter 3: Counterphase**
+### Chapter 3: Counterphase
 
 [FEN-312]
 
@@ -1515,7 +1515,7 @@ Nothing. The void snapped shut. His olfactory nerve had been severed.
 
 Julian wrote in the ledger: *Ghost 1: Cancelled. Cost: Olfaction.*
 
-### **Chapter 4: The Ledger**
+### Chapter 4: The Ledger
 
 [FEN-3121]
 
@@ -1547,7 +1547,7 @@ Silence in his left ear. Absolute.
 
 He stumbled into the corridor. The wallpaper peeled. Tally marks etched themselves into the plaster.
 
-### **Chapter 5: The Coldest Coat**
+### Chapter 5: The Coldest Coat
 
 [FEN-31211]
 
@@ -1581,7 +1581,7 @@ Julian touched his wedding ring to the candle flame. He felt the metal, but no h
 
 *Entry: The debt is absolute zero. Fourteen down. How many senses are left to spend?*
 
-### **Chapter 6: The Dark Room**
+### Chapter 6: The Dark Room
 
 [FEN-312111]
 
@@ -1617,7 +1617,7 @@ The twine in his pocket uncoiled, seeking the banister knot.
 
 He crawled toward the Knot.
 
-### **Chapter 7: The Prime Note**
+### Chapter 7: The Prime Note
 
 [FEN-3121111]
 
@@ -1645,7 +1645,7 @@ He resolved to the house's unstrung zero.
 
 *Final Entry: Frequency: Zero. Tenant: Resolved.*
 
-### **Epilogue: The White**
+### Epilogue: The White
 
 [FEN-31211111]
 
@@ -1675,7 +1675,7 @@ He limped away. His footsteps echoed like artillery strikes. He walked home with
 
 The End.
 
-### **Chapter 2: The Curing**
+### Chapter 2: The Curing
 
 [FEN-32]
 
@@ -1745,7 +1745,7 @@ Croft wedged the chisel under Julian's wrist. *Crack.*
 
 Julian wrenched his hand free. Three fingers remained fused to the banister. There was no blood, only a thick, black resin.
 
-### **Chapter 3: Cartography of Echoes**
+### Chapter 3: Cartography of Echoes
 
 [FEN-321]
 
@@ -1755,7 +1755,7 @@ As he shaded the corners, the paper seemed to gain depth. Beneath the graphite, 
 
 He realised the house archived the people who made noise. He pressed his ear to the floorboards and heard a low, transatlantic hum. He was the iron prong destined to hold the note. He crushed the charcoal, the black dust coating his wooden fingers.
 
-### **Chapter 4: The Petrification Tests**
+### Chapter 4: The Petrification Tests
 
 [FEN-3211]
 
@@ -1769,7 +1769,7 @@ The voice was resonating in his shinbones. The chair's leather rippled like a tr
 
 He stumbled back. He lurched toward the hallway.
 
-### **Chapter 5: The Anchor**
+### Chapter 5: The Anchor
 
 [FEN-32111]
 
@@ -1801,7 +1801,7 @@ His hazel eyes locked into place with a soft *click*.
 
 *Position secured. Awaiting further orders.*
 
-### **Epilogue: The Silent Tenure**
+### Epilogue: The Silent Tenure
 
 [FEN-321111]
 
@@ -1842,7 +1842,7 @@ The silence was weighted with the density of bodies stacked in trenches. One mor
 
 The End.
 
-### **Chapter 2: Wet Mortar**
+### Chapter 2: Wet Mortar
 
 [FEN-33]
 
@@ -1880,7 +1880,7 @@ He looked at Julian's exposed, ruined face. "The body must now become the wall. 
 
 Julian touched his face. His fingers came away wet with a grey, gritty slurry: wet mortar.
 
-### **Chapter 3: Circuit**
+### Chapter 3: Circuit
 
 [FEN-331]
 
@@ -1927,7 +1927,7 @@ Julian looked at his reflection. Behind his shoulder, a dozen silhouettes marche
 
 The house exhaled. All frequencies were contained. But Julian still heard the faint whine of the pear-drop frequency: the ghost in the machine.
 
-### **Chapter 4: Broadcast**
+### Chapter 4: Broadcast
 
 [FEN-3311]
 
@@ -1957,7 +1957,7 @@ He took the iron key from his pocket. It was burning hot, etching circuits into 
 
 He aimed his voice at the horizon.
 
-### **Epilogue: Resonance**
+### Epilogue: Resonance
 
 [FEN-33111]
 
@@ -2005,7 +2005,7 @@ But the charcoal snapped before the circle could close. He stared at the gap. Th
 
 The End.
 
-### **Chapter 2: Blood for Silence**
+### Chapter 2: Blood for Silence
 
 [FEN-34]
 
@@ -2047,7 +2047,7 @@ The floorboards began to vibrate.
 
 Julian forced the mask back on. The phantom plaster shattered.
 
-### **Chapter 3: The Devouring**
+### Chapter 3: The Devouring
 
 [FEN-341]
 
@@ -2101,7 +2101,7 @@ Croft plunged his hands into the wet limestone bucket. "Final transfer."
 
 He pressed his mortar-covered hands against Julian's chest. His limbs unspooled, threading into Julian's veins. The caretaker became the final brick.
 
-### **Epilogue: The Peace That Keens Loudest**
+### Epilogue: The Peace That Keens Loudest
 
 [FEN-3411]
 
