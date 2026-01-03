@@ -1,5 +1,9 @@
 # The Fen Inheritance
 
+**Synopsis**
+
+In the aftermath of World War I, Fenworth House stands as a decaying Georgian anomaly in the Cambridgeshire Fens, a structure that defies conventional geometry and feeds on trauma. When munitions engineer Edith Marsh flees the terror of Zeppelin raids in 1916, she discovers her inherited estate is not merely subsiding into the marsh but actively digesting grief and sound, calcifying human experience into its very mortar. Four years later, shell-shocked Lieutenant Julian Sterling arrives seeking the silence his shattered jaw has forced upon him, only to find the house demands far more than quiet contemplation. Both inheritors must navigate an architecture that responds to their deepest fears, where the laws of physics bend to accommodate impossible angles, where dust remembers and wood bleeds, and where the Fen itself acts as a geological stomach slowly transforming its inhabitants into load-bearing elements of an ever-hungry structure. As each attempts to impose order on chaos through engineering precision or military discipline, they discover that Fenworth House offers only one true escape: becoming permanent fixtures in its impossible foundations.
+
 ## Part 1: Introduction
 
 [FEN-1]
