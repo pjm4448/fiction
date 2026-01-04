@@ -215,10 +215,6 @@ In Te Ao Māori, the harvesting of *harakeke* (flax) is a sacred act governed by
 
 The text invokes the presence of **Whiro-te-tipua**, the Māori god of darkness, disease, and death.10 The "forgotten god stirring in subterranean repose" 1 and the "bioluminescent veins" of the fungi point directly to Whiro's domain. Whiro is often associated with *ngārara* (lizards, insects, bacteria) and decay. Roimata acts as a priestess of Whiro, channeling his energy of "illness" and "decay" rather than the healing energy of *Tāne* (forest/light). Her "dark work" aligns with the forces of *mate* (death/sickness) against *ora* (life/health).
 
-### **The Absence of the Kumara**
-
-The text does not mention the *kumara* (sweet potato) or the "great tree" (likely *Tāne Mahuta*), symbols of sustenance, peace (*Rongo*), and stability.31 Their absence is significant. Roimata exists in a world starved of spiritual nourishment, left only with the "carnivorous jewels" of the sundew. *Kumara* is associated with *Rongo-mā-Tāne* (god of peace and cultivated food), the antithesis of the wild, predatory plants Roimata cultivates.
-
 ### **Te Kore: The Void of Annihilation**
 
 The concept of ***Te Kore*** (The Void/The Nothingness) is central to Māori cosmogony as the realm of potential being.22 In *The Inverted Weave*, this concept is twisted. Instead of a pregnant void from which life springs (*Te Ao Mārama*), Roimata faces a void of "annihilation" and "dissolution".1 Her "inverted weave" pulls her back towards *Te Kore* not as a source of creation, but as a site of unmaking—an ontological black hole.
@@ -240,7 +236,7 @@ Literally "bad talk," "evil speech," or cursing. It can refer to speaking ill of
 **Kōwhaiwhai**  
 Traditional Māori painted scroll patterns, often found on the rafters of meeting houses (wharenui). They typically represent whakapapa (lineage) and the natural world. Aria sketches these, linking her art to ancestry, though Roimata views it as superficial.1  
 **Kumara**  
-(Ipomoea batatas, Sweet Potato). A highly valued food crop brought by ancestors, symbolizing peace and sustenance. Associated with the god Rongo-mā-Tāne. Its absence in the text highlights the lack of nourishment and peace in Roimata's world.31  
+(Ipomoea batatas, Sweet Potato). A highly valued food crop brought by ancestors, symbolizing peace and sustenance. Associated with the god Rongo-mā-Tāne.31  
 **Mānuka**  
 (Leptospermum scoparium). A scrub tree known for its medicinal properties (especially honey and oil) and hard wood. Used in rongoā for treating wounds.7  
 **Mōhukihuki**  
