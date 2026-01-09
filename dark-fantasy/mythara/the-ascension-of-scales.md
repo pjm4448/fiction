@@ -904,49 +904,169 @@ For now.
 
 ---
 
-## Day 2: Opening Duels – Proving Ambition Through Blood
+## Days 2-4: Arena Ascension – Blood, Mercy, and Rising Threat
 
-The Grand Arena woke like a beast rousing from slumber—slow, inexorable, hungry. It was a sunken pit carved from the living rock at the western edge of the Grand Pyramid's plaza, ringed by stone tiers that climbed thirty feet high to accommodate the thousands who would come to watch, to wager, to scream their bloodlust at the sky.
+Three days blurred into one continuous nightmare of blood-soaked sand and screaming crowds. The arena became Elandor's world—the only world that mattered—as Serpentis tested its fighters and spectators alike.
 
-The sand at the pit's bottom was wrong.
+**Day 2** brought the Opening Duels. Eight more bouts followed his victory, each one brutal in its own way. Bodies accumulated. Sand grew darker. The crowd's appetite sharpened.
 
-Not the pale gold of beaches or the clean white of desert dunes. This sand was *dark*—rust-brown, almost black in places, discolored by decades of absorbed blood. It had a texture, too: sticky, clumping, with an organic quality that made it seem less like mineral and more like dried scab.
+Elandor fought twice—once against another thrall (he offered mercy, which was granted to shocked applause), once against a yuan-ti pureblood warrior. He won both. His Aelthar-blessed resistance neutralized poisoned blades. The crowd noticed. Whispers spread.
 
-The stench rose even in the early morning cool—copper and rot and something else, something chemical. Old blood mixed with whatever alchemical treatments they used to "preserve" the arena's character. The result was a smell that coated the inside of your nose, that you could *taste* when you breathed through your mouth.
+The "golden flicker thrall" was becoming known.
 
-Elandor stood at the arena's edge with the other thralls selected for the opening bouts. His iron collar gleamed dully in the rising sun. His hands, unbound for the fights to come, trembled slightly—not from fear, he told himself. From anticipation. From the knowledge that in this pit, at least, skill mattered more than station.
+**Day 3** escalated to Team Subjugations. Elandor found himself grouped with three other thralls—Torak (scarred Serpentan, fifteen arena fights survived), Kessa (the woman from the pens, sharp-eyed and bitter), and Yara (young Wanderer, terrified but determined). They faced four yuan-ti warriors wielding domination magic designed to turn victims against each other.
 
-At least temporarily.
+Elandor's faith held when the spells struck. The magic fractured, weakened. His team fought as themselves rather than puppets. They won through desperate coordination.
 
-"First-timers?" a voice asked beside him.
+The victory earned them promotion to overseer status. Better quarters. Better food. Infinitely more scrutiny.
 
-Elandor turned. A Serpentan man in his twenties, lean and scarred, with the hard eyes of someone who'd survived too many arenas. His collar was older, more worn. Multiple notches had been filed into its surface—keeping count of something. Wins, maybe. Or kills.
+That night, in their upgraded cell, Kessa asked the question that had been building: "Why do you still believe?"
 
-"Yes," Elandor admitted.
+Elandor met her eyes. "Because giving up means they've already won."
 
-"Name's Torak." The man spat into the sand below. "Three years in the pens. Fifteen arena fights. Still breathing, which makes me either lucky or cursed. Haven't decided which." He gestured at the pit. "You'll want to watch your footing. The sand shifts. Sticky in some places, loose in others. They don't clean it—just add more after each festival. There's *layers* down there. Bodies, sometimes, if they don't feel like hauling them out. Bones. Teeth. Once saw a guy slip on a half-buried ribcage and get his throat opened."
+"We've already lost," she countered. "The minute they put these collars on, we lost."
 
-"Encouraging," Elandor muttered.
+"Maybe." He touched his chest, over the hidden tattoo. "But I'd rather lose faithful than live hollow."
 
-Torak grinned without humor. "You want encouragement, you're in the wrong place. But since you look like you might actually know which end of a blade to hold—advice. They cauterize wounds mid-fight if you're losing too much blood. Keeps you conscious longer. Makes the screaming last. So if you get cut bad, don't expect mercy. Expect *maintenance*."
+Kessa laughed—bitter, short. "Faithful and dead. Great epitaph." But her expression softened slightly. "My husband used to say things like that. Temple guard. Real believer." She looked away. "Died screaming anyway."
 
-Elandor's stomach turned. "Why?"
+"I'm sorry."
 
-"Entertainment value." Torak shrugged. "Crowd likes to hear agony. Bets on how long you can scream before your voice gives out. Seen it happen—guy took a sword through the gut, should've bled out in minutes. They cauterized it with red-hot iron, kept him going another twenty minutes. He was begging to die by the end. Begging in three languages."
+"Don't be. Just..." She met his eyes again. "Don't make me watch another believer break. I've seen enough of that."
 
-"Did they let him die?"
+**Day 4** brought Champion Bouts. Elandor faced Kressh the Ironscale—twenty feet of yuan-ti abomination, four arms, ritual scars telling conquest stories.
 
-"Eventually. When the crowd got bored." Torak studied Elandor's face. "You're Brightmantle, yeah? The one from yesterday's gossip. The golden flicker."
+The fight should have ended in seconds.
 
-Elandor's jaw tightened. "I don't know what you're—"
+Instead, Elandor's divine protection flared twice: once deflecting a venomous strike, once shattering an enchanted blade aimed at his heart. Both times, golden light blazed visibly. Both times, the crowd went silent.
 
-"Relax. I don't care if you're blessed, cursed, or just unlucky. Far as I'm concerned, anyone the yuan-ti are interested in is someone worth keeping alive—you draw their attention, they watch you instead of me." He paused. "But if you've got gods watching, maybe ask them to help with the footing. That sand's killed more thralls than blades."
+Kressh circled him with new wariness. "What *are* you?"
 
-The gates ground open. Yuan-ti overseers emerged, cracking whips, herding the thralls into formation.
+"Just a man trying to do right."
 
-"Good luck, Brightmantle," Torak said. "Try not to slip on any ribcages."
+"In Serpentis?" Kressh laughed. "There's no such thing."
 
-### The Arena Fills
+But when Elandor managed—through luck more than skill—to disarm one of Kressh's weapons, the abomination paused. Studied him. Then deliberately stepped back and raised a hand.
+
+"Yield," Kressh announced. "This one interests the God-Queen more alive than dead."
+
+The crowd exploded in confusion. A *Champion* yielding? To a *thrall*?
+
+In her box, Xipilli leaned forward with predatory focus. "Ssara."
+
+The Vizier uncoiled. "Yes, Most Radiant Sovereign?"
+
+"I want that paladin tested. Properly. Find his breaking point." Her smile was slow, dangerous. "Everyone breaks. I want to watch."
+
+---
+
+That night, promoted again to senior overseer, Elandor sat with his team in quarters that almost resembled human habitation. Torak had scavenged wine. Yara was laughing with manic relief. And Kessa... 
+
+Kessa just looked at him with something between pity and respect.
+
+"You're going to die," she said quietly while the others celebrated. "You know that, right? They're not testing you for fun. They're building you up so the fall hurts more."
+
+"I know."
+
+"And you're still going to keep glowing? Keep showing your light?"
+
+"What else would I do?"
+
+She was quiet for a long moment. Then: "Remember that lullaby? From yesterday? The one someone sang in the pens?"
+
+Elandor nodded.
+
+"That was my mother's song. She sang it to me before—" Kessa stopped. Breathed. "Before they took her for the blood harvest. Twenty years ago. I haven't heard it since." She looked at him. "But someone here still remembers it. Someone kept it alive." Her eyes were wet. "Maybe that's worth something. Maybe your light is like that song. Doesn't save anyone. Just... persists."
+
+"Maybe that's enough," Elandor said softly.
+
+"It's not." Her voice was firm. "But maybe it's all we've got."
+
+From somewhere in the adjacent pens, that same voice rose again—thin, wavering, but unmistakable. The lullaby. About stars and freedom.
+
+The four of them fell silent, listening.
+
+When it ended, Kessa wiped her eyes roughly. "Whoever that is will be beaten tomorrow."
+
+"Probably," Elandor agreed.
+
+"Worth it though."
+
+"Yeah."
+
+They sat in companionable silence, pretending survival was victory, knowing tomorrow would test them further.
+
+And in Elandor's chest, the pressure continued building. Divine power accumulating. Faith compressed into something that felt less like strength and more like a bomb waiting for the wrong moment.
+
+*How much can I hold?* The question haunted him. *How much before the vessel cracks?*
+
+He didn't know.
+
+But he was starting to suspect he'd find out soon.
+
+---
+
+## Days 5-7: The Breaking – Trials, Pressure, and the Inevitable End
+
+Three more days of Serpentis brought new horrors, new tests, and the growing recognition that Elandor's discipline—his greatest strength—was becoming his tomb.
+
+**Day 5** began with the Pruning. Three plazas fitted with chains. Forty-six condemned dying slowly while vendors continued business. Bodies broken methodically. Mirrors positioned so victims watched their own unmaking.
+
+Elandor was shackled in his cell, forced to watch through barred windows.
+
+One moment pierced the horror: A thrall named Grevik—delirious from pain, mind fracturing—began begging for *promotion*. Mid-execution. "PLEASE! GIVE ME ANOTHER CHANCE! I'LL SHOW LOYALTY! *PROMOTE ME!*"
+
+The crowd erupted in genuine laughter. Hysterical. Relief through absurdity. The man begging for a raise during his own death became instant legend—dark comedy in a city where humor was survival mechanism.
+
+But in his cell, Elandor finally broke. Not his faith. His ability to witness. He *wept*. Silent tears streaming while his tattoo pulsed with accumulated power that had nowhere to go. Every prayer adding pressure. Every horror witnessed compressing his resolve tighter.
+
+*How much can I hold?* The question haunted him. *How much before the vessel cracks?*
+
+That evening, promoted again to senior quarters, he sat with Kessa on the narrow balcony overlooking darkened streets.
+
+"You're going to explode," she said quietly. Not metaphor. Statement of fact. "I've seen it before. Paladins, priests, anyone who holds too much too long. Your faith is killing you."
+
+"What choice do I have?"
+
+She was quiet. Then: "My daughter painted. Before they took her. Five years old. She'd mix mud and crushed flowers, make pictures on our wall. One was..." Kessa smiled—genuine, brief—"...supposed to be me. Just a circle with two dots. But she told everyone it was beautiful. That I looked like the sun."
+
+Elandor said nothing. Just listened.
+
+"I haven't thought about that painting in three years," Kessa continued. "Couldn't. Too painful. But tonight..." She looked at the stars. "Tonight I remembered. And it didn't break me. It just... existed. Beauty that they can't reach. Can't corrupt. Can't take." She met his eyes. "Maybe that's what light does. Not save. Just... persist. Like mud paintings and songs and stubborn paladins."
+
+"Thank you," Elandor said softly.
+
+"For what?"
+
+"Reminding me what I'm fighting for."
+
+They sat in silence, two survivors sharing a moment of peace that wouldn't last but mattered anyway.
+
+**Day 6** brought Trials by Venom. Fifty-three accused subjected to poisons in the pyramid's central chamber. Each injection narrated by alchemists like lecture. Each reaction measured, catalogued, bet upon. Bodies swelling, blackening, bursting in methodical succession.
+
+The pressure in Elandor's chest grew worse. Physical now. Heat building behind his sternum. Vision blurring when he channeled resistance. The warning from Day 1 echoed: *"He exploded. All that discipline turned inward."*
+
+*Three more days,* he thought. *Can I hold three more days?*
+
+He wasn't sure anymore.
+
+That night, Torak found him doubled over, clutching his chest.
+
+"You're cooking from inside," the scarred veteran said. "I've seen it. Yuan-ti do this deliberately—push paladins to accumulate power, then watch them implode." He hesitated. "There's no shame in letting go. In releasing it slowly instead of holding until it kills you."
+
+"If I release it," Elandor whispered, "I'm just another thrall. Another body. The light fades."
+
+"Better faded than dead."
+
+"Is it?" Elandor looked up. "If I die faithful, at least I die *myself*. If I give up..." He shook his head. "Then Dominara wins. Then all of this meant nothing."
+
+Torak had no answer.
+
+Because there *was* no answer. Just impossible choices in an impossible place.
+
+**Day 7** arrived with the Grand Ascension. The climax. The final test.
+
+---
 
 By mid-morning, the stands were packed. Thousands of Serpentans—nobles in the upper tiers, merchants and artisans in the middle, common folk and lower castes crammed into the bottom sections nearest the blood-spray radius. Yuan-ti warriors stood at regular intervals, ensuring order, their scaled faces impassive as statues.
 
