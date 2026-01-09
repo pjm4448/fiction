@@ -32,11 +32,11 @@ Crane pressed forward, relentless. "Before she walked into the sea's embrace as 
 
 "'Tis the ending of all we know." Crane's whisper carried weight beyond volume. "The unravelling of reality's merciful veil."
 
-Samuel recoiled as though struck, clutching his parcels with white-knuckled desperation. The table scraped against the floor as he backed away. "Miriam's disappearance was tragedy most profound, nothing more."
+Samuel recoiled as though struck, clutching his parcels with white-knuckled desperation. The table scraped against the floor as he backed away. "Miriam's disappearance was a profound tragedy, nothing more."
 
 "Was it?" Crane's question hung unanswered.
 
-"I shall thank you not to speak of matters beyond your ken." But even Samuel heard the hollowness in his own words, the desperate clinging to a version of events his heart no longer believed.
+"I'd thank you not to speak of matters beyond your understanding." But even Samuel heard the hollowness in his own words, the desperate clinging to a version of events his heart no longer believed.
 
 Crane straightened slowly, resignation settling over his features like a funeral shroud. His expression remained grave as a sepulchre's portal. "I comprehend more than you credit, Professor." A pause, weighted with meaning. "We all do, in this tide-cursed haven."
 
@@ -285,13 +285,13 @@ She tilted her head, the gesture almost familiar, almost human. "Beloved." Her v
 
 "Is it?" She took a step closer. Samuel flinched back against the wall. "Thou hast beheld the stars. Thou knowest what is real."
 
-The tome pressed against his chest, burning cold through his shirt. His knuckles had gone white as bleached bone from gripping it. "What have you become?" The question came out broken. "What nightmare wearing thy face stands before me?"
+The tome pressed against his chest, burning cold through his shirt. His knuckles had gone white as bleached bone from gripping it. "What have you become?" The question came out broken. "What nightmare wearing your face stands before me?"
 
 Something flickered in her blazing emerald eyes. Amusement? Pity?
 
 "I have become what I always was," she said simply. "I have merely ceased pretending otherwise."
 
-The words struck him like a blow to the sternum. He sagged, shoulders hitting the cold stone. "Our years together." Tears, hot and bitter, blurred his vision. "Was it naught but deception from first to last?"
+The words struck him like a blow to the sternum. He sagged, shoulders hitting the cold stone. "Our years together." Tears, hot and bitter, blurred his vision. "Was it nothing but deception from first to last?"
 
 She moved closer. Not with menace, but with something worse. Patience. The patience of the tide. "Deception?" The word rolled strangely off her transformed tongue. "I shared thy bed. I walked thy gardens. I listened to thy theories about stellar drift and cosmic velocities."
 
