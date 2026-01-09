@@ -250,11 +250,11 @@ Liberon, standing with arms crossed and storm winds whipping his ethereal cloak,
 
 "*IF it catches fire,*" Rigoran corrected, his metallic voice precise and emotionless. "*The probability remains statistically unfavorable. Approximately fourteen thousand seven hundred and three to one against successful uprising, given current resource distribution and moral constraints.*"
 
-"*BORING!*" Whirlvex shrieked, bouncing from one viewing pool to another with manic energy. "*Bet! I want to bet! I bet the bugs finish the blistered ones first! I bet the one-foot boy's corpse keeps twitching for another three hours! I bet—*" He paused, suddenly focusing on Elandor's image in the pool. "*I bet the shiny paladin boy gets *thoroughly* broken before the end! Thirty souls says he's begging to betray his god by day eight!*"
+"*BORING!*" Whirlvex shrieked, bouncing from one viewing pool to another with manic energy. "*Bet! I want to bet! I bet the bugs finish the blistered ones first! I bet the one-foot boy's corpse keeps twitching for another three hours! I bet—*" He paused, suddenly focusing on Elandor's image in the pool. "*I bet the shiny paladin boy gets *thoroughly* broken before the end! Five favors says he's begging to betray his god by day eight!*"
 
-"*Accepted,*" Aelthar said immediately, his voice like breaking ice. "*My counter-wager: he dies faithful. And when he dies, his light will crack something in this festering darkness. Not enough to save everyone. But enough to matter.*"
+"*Accepted,*" Aelthar said. "*Counter-wager: he dies faithful. Local consequences only, but observable.*"
 
-Shadrix smiled—a expression that would have sent shivers down mortal spines. "*Oh, my dear naive Guardian,*" he purred. "*You've just made this so much more interesting. Shall we say... fifty souls? And when you lose, you'll understand what I've always known: hope is just despair that hasn't learned to laugh at itself.*"
+Shadrix smiled—a expression that would have sent shivers down mortal spines. "*Mildly interesting,*" he purred. "*Ten favors, then? These paladins come and go. Let's see if this one's any different.*"
 
 "*Deal,*" Aelthar said, and his word rang through the Ethereal Shroud like a bell tolling for the dead.
 
@@ -262,7 +262,7 @@ Dominara watched from her throne of chains, saying nothing, her obsidian eyes re
 
 Ruinok, massive and burning in his corner of the Shroud, laughed with a sound like breaking worlds. "*BLOOD,*" he rumbled. "*BLOOD AND SCREAMING. MORE. ALWAYS MORE. THE FRACTURED CHAIN HUNGERS, AND THE FEEDING HAS ONLY BEGUN.*"
 
-Equilon, alone among the Nine, maintained perfect stillness, their hourglass crown turning slowly, counting down to conclusions already written. "*The scales,*" they murmured. "*Still tilting. Still falling. Fascinating how slowly balance dies.*"
+Equilon, alone among the Nine, maintained perfect stillness, their hourglass crown turning slowly, counting down to conclusions already written. "*Predictable,*" they murmured. "*Patterns repeat. Heroes rise. Heroes fall. The cycle continues.*"
 
 ---
 
@@ -1104,7 +1104,7 @@ Aelthar wanted to distrust Shadrix—the Veiled God was chaos incarnate, his mot
 
 Maybe chaos had its place.
 
-"Watch the next bout," Shadrix added. "Your paladin enters soon. And he refuses poison. Such delicious *honor* in a place that rewards venom." His smile widened. "Xipilli will notice. And what she notices, she desires to *break*."
+"Watch the next bout," Shadrix added. "That paladin enters soon. He refuses poison. Such delicious *honor* in a place that rewards venom." His smile widened. "Xipilli will notice. And what she notices, she desires to *break*."
 
 ### Elandor's Bout
 
@@ -1706,11 +1706,11 @@ Tonight his faith burned *bright*.
 
 Bright enough that even gods took notice.
 
-Bright enough that Dominara's facade might, just might, show its first crack.
+Bright enough that the local order might show cracks.
 
-And in the Ethereal Shroud, Aelthar watched his champion and smiled.
+And in the Ethereal Shroud, Aelthar observed with interest.
 
-"Hold fast," he whispered. "The breaking point approaches. For the chains. And for those who forge them."
+"Persistent," he noted. "The pattern holds. Worth watching."
 
 ---
 
@@ -1900,15 +1900,15 @@ He attacked. Not wildly. Not with rage. But with focused, relentless pressure. H
 
 ### Divine Empowerment
 
-In the Ethereal Shroud, Aelthar stood at the veil's edge, golden light blazing so brightly the other gods had to shield their eyes.
+In the Ethereal Shroud, Aelthar stood at the veil's edge, observing the pattern.
 
-"Now," he said. "NOW, while they watch. While they DOUBT. Let them see that tyranny is not absolute. That chains CAN be broken!"
+"Interesting," he said. "Another moment. Another test. Let's see how discipline holds."
 
-His power surged through the veil, seeking his champion, finding the tattoo that marked Elandor as His own.
+His presence extended through the veil, a subtle warmth touching the tattoo that marked Elandor as one of his faithful.
 
-*ACCEPT MY BLESSING,* Aelthar's voice thundered in Elandor's mind. *ACCEPT MY POWER. BE MY WEAPON. BE MY WITNESS. SHOW THEM THAT LIGHT PREVAILS!*
+*Endure,* came the faint impression. Not words. Just... presence. Support. The distant acknowledgment of a god who noticed.
 
-Elandor's response was instant, instinctive: *I accept. I am Your instrument. Use me for justice.*
+Elandor's response was instinctive: *I will. For justice.*
 
 And the power came.
 
@@ -2464,15 +2464,13 @@ In the Ethereal Shroud, the gods watched the Pruning conclude. Twenty-three cond
 
 "Hierarchy functions," Dominara replied. "Consequences are real. The strong rule and the weak submit. As it should be. As it has *always* been."
 
-"Your paladin still believes," Shadrix observed, materializing with his unsettling smile. "Even after watching his allies die. Even after witnessing the Pruning. His faith hasn't broken." He leaned close to Aelthar, voice dropping to something falsely encouraging. "Your light pierces deepest shadow. Tickles, really. But it *persists*. Perhaps... perhaps you're winning after all."
+"That paladin still believes," Shadrix observed, materializing with his unsettling smile. "Even after watching his allies die. Even after witnessing the Pruning. His faith hasn't broken." He leaned close to Aelthar, voice dropping to something falsely encouraging. "Persistent little mortal. They're all the same, really. But this one might last another few days."
 
 It was manipulation. Transparent manipulation. But Aelthar found it... amusing.
 
-*Needed* to believe it.
+"He endures," Aelthar said. "That's enough. Local resistance. Small seeds. Nothing more."
 
-"He endures," Aelthar said quietly. "That's what matters. Not victory. Not immediate triumph. Just... endurance. Witness. Planting seeds."
-
-"Seeds that Dominara will *crush*," the goddess of tyranny said coldly. "Seeds that will drown in blood before they root. You've lost, Lightbearer. You just don't want to admit it."
+"Seeds that will wither," Dominara said coldly. "As they always do. One more paladin won't change anything."
 
 "The Pruning continues tomorrow," Varak's voice echoed up from the mortal realm, addressing the crowd. "Day 7 brings Trials by Venom—Divine Tolerance or Damnation. Prepare yourselves. Prove yourselves. Or join today's lesson in the flesh-pits."
 
@@ -4018,13 +4016,13 @@ Time would tell.
 
 In realms beyond mortal knowing, distant presences observed the festival's rippling impact:
 
-**Aelthar** felt the wound. His champion's fall—spectacular, public, self-destructive—had damaged his followers' faith. Not from his action, but from their interpretation. Why pray to god whose paladin destroys himself? Why have faith in light that explodes?
+**Aelthar** noted the minor shift. One paladin's fall—spectacular, public, self-destructive—had affected local followers' faith. In Serpentis and nearby regions, prayers diminished slightly.
 
-The mortals misunderstood, of course. He hadn't caused this. Hadn't intervened. But perception mattered more than truth.
+Mortals misunderstood, of course. He hadn't caused this. Hadn't intervened. But perception mattered.
 
-His influence diminished. His prayers fewer. His presence thinner.
+His influence in that region diminished. Temporarily. It would recover. It always did. Heroes rose and fell with regularity.
 
-He would recover. Eventually. Maybe. But the lesson was learned: sometimes witnessing is worse than acting.
+A data point. Nothing more.
 
 **Dominara** seemed victorious—chain preserved, order maintained, hierarchy proven. But careful observers noticed something: her chains had needed *tricks*. Reflection. Redirection. Careful manipulation.
 
