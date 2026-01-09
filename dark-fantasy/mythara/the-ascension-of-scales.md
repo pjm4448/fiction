@@ -752,33 +752,41 @@ Now he understood. It wasn't weakness. It was *exhaustion*. Bone-deep, soul-deep
 
 His tattoo pulsed—weak, tentative, like even Aelthar wasn't sure what to say.
 
-"Oi, Brightmantle."
+### Kessa's First Appearance
 
-The voice pulled him back. Barely. Kessa crouched nearby, concern etched on her weathered face, but also something else. Recognition. *She'd been here too.*
+The voice pulled him back. Barely. A woman crouched nearby—mid-forties, weathered face carved by sun and suffering, hands scarred from dock work. But her eyes were what caught him. Sharp. Calculating. The eyes of someone who'd learned to see three moves ahead or die.
 
-"You alright?" She kept her voice low, conversational. Like discussing the weather. "Because you look three shades past dead and heading for whatever comes after."
+Kessa.
+
+She studied him like he was a puzzle. Not with pity. With something closer to professional assessment.
+
+"You alright?" She kept her voice low, conversational. "Because you look three shades past dead and heading for whatever comes after."
 
 "I'm—" Elandor started.
 
-"Don't." Kessa cut him off with a sharp gesture. "Don't insult me with 'fine.' I've been here six years, Brightmantle. I know what 'fine' looks like, and you ain't it." She glanced around—casual, practiced. "You were in the inner chambers today. The renewals. The omen-readings." Her eyes locked on his. "You saw something."
+"Don't." Kessa cut him off with a sharp gesture. "Don't insult me with 'fine.' I've been here six years, Brightmantle. I know what 'fine' looks like, and you ain't it." 
 
-Elandor's throat tightened. "I don't—"
+Her attention shifted—casual sweep of the plaza, tracking guard positions without seeming to. *Six years learning to read this place*, her posture said. *Six years surviving what killed thousands.*
 
-"Word travels fast in the pens. *Real* fast." She leaned in, close enough he could smell the sweat and stone-dust on her. "Gossip's the only currency we've got down here. And today's gossip?" A bitter smile. "Golden flicker in the entrails. Broken chain. Yuan-ti leadership having themselves a *moment*." She paused. "You were there."
+"Word travels fast in the pens. *Real* fast." She leaned in, close enough he could smell stone-dust and old sweat. "Gossip about golden flickers in entrails. Yuan-ti leadership having themselves a *moment*." Her eyes locked on his. "You were there."
 
-"Varak said it was nothing. Bad shellfish. Bodies do weird things when—"
+Elandor hesitated. Something in her directness, in the way she held herself—coiled tension that wasn't fear but readiness—made him choose honesty. "I saw something. But Varak said—"
 
-Kessa actually laughed—quiet, sharp. "Oh, sure. And I'm next in line for God-Queen. Come on." She shook her head. "Look, I don't know what you're carrying, what you're *hiding*—and honestly? I don't want to know. Ignorance keeps you breathing in this place." Her expression hardened. "But whatever it is, hide it *better*. Because this place? Eyes everywhere. Scales in every shadow. And Ssara..." She trailed off, jaw tight.
+"Varak's a showman. Everything's performance." Kessa's voice dropped. "But I saw your face just now. That wasn't performance. That was..." she paused, searching for words. "That was someone who still believes things matter. Who thinks suffering means something beyond entertainment."
 
-"I know about Ssara," Elandor said quietly.
+She leaned back, expression hardening. "I'm not that person anymore. Haven't been for three years. But I remember what it looked like." Her jaw tightened. "My husband was. Temple guard. Believed every word of Aelthar's teachings. Prayed every morning, even here. Even after..."
 
-"Do you?" Kessa's voice dropped to something barely audible. "Do you *really*? Because I watched her work on a thrall last year. Suspected spy. Took her three *weeks*. And by the end, the poor bastard wasn't begging for mercy—he was begging to tell her things he didn't even know. Making up secrets just to have something to confess." She locked eyes with him. "She doesn't kill quick, Brightmantle. She *studies*. Takes you apart slow. Learns what makes you tick. And if she thinks you're connected to that light, if she smells divine protection on you..." Kessa's smile was grim. "She'll want to know *everything*."
+She stopped. Breathed through her nose.
 
-"I'll be careful," Elandor promised.
+"They took him for the blood harvest. Year three. He fought—gave pilgrims time to escape. Died faithful." The word came out bitter. "I watched from the pens. Couldn't do anything. Just... watched. And you know what I learned?"
 
-"Careful might not be enough." Kessa stood, stretched, kept her voice casual for any listeners. "But for what it's worth? Some of us hope the light meant something. Hope the chain *can* break. Hope..." She smiled bitterly. "Hope is probably stupid. But we hold it anyway."
+Elandor waited.
 
-She walked away, leaving Elandor alone with his thoughts and his fear and his pulsing tattoo.
+"Faith doesn't armor you. Doesn't make the blade sharper or the chains weaker. It just gives you something to lose besides your life." She met his eyes. "My husband died screaming Aelthar's name. The priests called it 'honorable sacrifice.' I call it wasted."
+
+Her voice hadn't risen. Hadn't cracked. That was what made it terrible—the absolute flatness. Faith processed through a meat grinder and coming out as data.
+
+"So when I see that look in your eyes—that believer's look—I don't know whether to warn you or..." She trailed off. "Or remember what hope used to feel like. Before it became a liability."
 
 Above, the sun beat down with merciless intensity.
 
