@@ -190,7 +190,7 @@ The Venom Falls cascaded down a hundred-foot cliff face in a luminous green torr
 
 The ceremony was simple: walk into the pools, submerge yourself completely for a count of ten, emerge or die.
 
-Those who survived were marked with burning chains—brands applied to still-wet flesh that produced screams harmonious enough to make Dominara smile. Those who failed... well.
+Those who survived were marked with burning chains—brands applied to still-wet flesh, a systematic identification process. Those who failed... well.
 
 The first pilgrim was a elderly Serpentan woman, maybe sixty, her back bent from a lifetime of hauling burdens too heavy for human spines. She waded into the first pool with the resigned dignity of someone who had long since stopped caring whether she lived or died. The water came to her knees, then her waist, then her neck.
 
@@ -258,7 +258,7 @@ Shadrix smiled—a expression that would have sent shivers down mortal spines. "
 
 "*Deal,*" Aelthar said, and his word rang through the Ethereal Shroud like a bell tolling for the dead.
 
-Dominara watched from her throne of chains, saying nothing, her obsidian eyes reflecting the scenes below with the flat disinterest of a cat watching insects die. She had already won. The only question was how entertaining the victory would be.
+Dominara watched from her throne of chains, saying nothing, her obsidian eyes reflecting the scenes below with cold assessment. Order maintained itself. Systems functioned. Variables were controlled. The outcome was already determined.
 
 Ruinok, massive and burning in his corner of the Shroud, laughed with a sound like breaking worlds. "*BLOOD,*" he rumbled. "*BLOOD AND SCREAMING. MORE. ALWAYS MORE. THE FRACTURED CHAIN HUNGERS, AND THE FEEDING HAS ONLY BEGUN.*"
 
