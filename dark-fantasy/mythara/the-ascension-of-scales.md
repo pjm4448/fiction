@@ -2238,7 +2238,516 @@ And in the Ethereal Shroud, Aelthar observed with interest.
 
 "Persistent," he noted. "The pattern holds. Worth watching."
 
-### The Fragment's Warning
+```
+// ...existing code through Day 4...
+
+## Day 5: Pruning and Pacts – The Chain's Toll
+
+The plazas of Serpentis had been transformed overnight into galleries of suffering. Not the arena—that was reserved for sport, for entertainment, for the *elevation* of violence into art. This was something different. Something more fundamental to the city's philosophy.
+
+This was *pruning*.
+
+But the horror of Day 5 wasn't in the spectacle. It was in the *normalcy*.
+
+The Grand Plaza had been fitted with chains, yes. But surrounding them: market stalls. Open for business. Vendors hawking vegetables, pottery, cloth—all while bodies hung dying in the background.
+
+"Fresh tomatoes! Two copper! Ignore the screaming, they'll quiet down eventually!"
+
+A woman negotiated the price of bread while behind her, a thrall convulsed in his chains. She didn't look. Didn't flinch. Just counted her coins with the careful attention of someone on a budget.
+
+This was the horror: not that people were dying, but that life *continued*. That commerce proceeded. That the mundane machinery of existence ground on, indifferent to suffering happening ten feet away.
+
+Elandor, shackled in his cell high above, watched through barred windows and felt something in him break that wasn't his body.
+
+*They've made horror ordinary,* he realized. *Not exceptional. Just... Tuesday.*
+
+### The Administrative Pruning
+
+A yuan-ti clerk sat at a desk in the Market Plaza—actually set up a *desk*, with inkwell and ledger—processing the condemned.
+
+"Name?"
+
+"G-Grevik."
+
+"Occupation before enslavement?"
+
+"Farm—farmer. Sir. Please, I—"
+
+"Duration of service?"
+
+"Three years. Please, my family—"
+
+"Reason for condemnation?" The clerk's tone was bored. He'd done this forty-six times today. His hand cramped from writing.
+
+"Failed—failed subjugation trial. But I can explain—"
+
+"Standard. Mark: insufficient ambition. Time of execution..." He glanced at a water clock. "Fourteen hundred hours. Sign here acknowledging receipt of final judgment."
+
+Grevik stared at the paper. "Sign?"
+
+"Protocol requires signature. Confirmation that you were informed of charges, given opportunity for final statement—which you're making now, I'm recording it, see?—and processed according to established guidelines." The clerk tapped the paper. "Please. I have forty-five more to process before the midday meal break."
+
+Grevik signed. His hand shook so badly the signature was illegible. The clerk didn't care. Just filed the paper, made a notation in his ledger, called for the next condemned.
+
+"Next! Name?"
+
+The chains began their work on Grevik.
+
+The clerk continued processing paperwork.
+
+The vegetable vendor continued selling tomatoes.
+
+Life continued.
+
+And Elandor, watching from above, understood: this was more horrifying than any amount of gore. The *indifference*. The reduction of death to administrative procedure. The way horror became just another Tuesday task between lunch and evening prayers.
+
+### The Moment of False Kindness
+
+Among the condemned was an old woman—maybe seventy, frail, barely able to stand. She'd been accused of harboring "suspicious optimism" after being overheard telling children that "things might get better someday."
+
+A guard escorted her to her designated chain. But this guard—young, maybe new—hesitated.
+
+"I'm sorry," he said quietly. Yuan-ti pureblood, scales barely visible along his temples. "I know that's not... not helpful. But I am. Sorry."
+
+The old woman looked at him with eyes that had seen too much. "Why?"
+
+"Because you reminded me of my grandmother. Before the raids. Before..." He trailed off, jaw tight.
+
+"What was her name?"
+
+"Ssalia. She... she used to sing. Old songs. About the sky."
+
+The old woman smiled—genuine, despite everything. "I know those songs. Would you like me to sing one? Before...?"
+
+The guard looked around. No overseers nearby. "Yes. Please."
+
+So she sang. Thin, wavering voice, but clear. A lullaby about stars and freedom. About children running through grass.
+
+The guard listened, eyes wet, trying not to weep where others might see.
+
+When she finished, he carefully secured her to the chains. "Thank you," he whispered. "For... for letting me hear that again."
+
+"You're welcome, child."
+
+The chains activated. She died relatively quickly—the guard had positioned her so the pressure hit major vessels first. Mercy, in this place. The kindest death he could give.
+
+Then he moved to the next condemned, face blank again, the moment of humanity packed away where survival demanded it be hidden.
+
+Elandor watched and felt something *shift*. Not hope exactly. But recognition that even here, small humanities persisted. Tiny rebellions of compassion that the system couldn't fully crush.
+
+The guard who remembered his grandmother. The song sung before death. The careful positioning that made suffering shorter.
+
+These weren't victories. But they were *presences*. Proof that the machine hadn't completely devoured everything human within it.
+
+### The Inventory Horror
+
+In a corner of the Market Plaza, two thralls were having a conversation that would have been absurd if it weren't so tragic.
+
+They'd been assigned to *inventory* the Pruning. Count bodies. Categorize causes of death. Record data for next year's "efficiency improvements."
+
+"Thirty-seven confirmed. Crushed via chain. Duration: varied. Recommendation: tighten compression sequence in sections four through seven. Time to death decreased by twelve percent."
+
+"Noted. How many from blood loss versus asphyxiation?"
+
+"Ratio approximately three-to-one favoring blood loss. Suggest reviewing chain positioning protocols—we're getting messy kills when clean would be faster."
+
+They worked with the dedicated focus of professionals. Because if they didn't meet quotas, if their inventory wasn't accurate, *they'd* join tomorrow's Pruning.
+
+So they catalogued horror. Made it data. Turned death into statistics that would inform next year's killing.
+
+And the worst part? They were *good* at it. Efficient. Careful. Because professionalism in evil was how you survived.
+
+Elandor listened to their clinical discussion—"Subject seventeen showed unexpected resistance, recommend higher chain gauge"—and felt nauseous in a way the gore hadn't managed.
+
+*They've made horror so ordinary that people optimize it. Improve it. Take pride in doing it well.*
+
+### The Betrayed Intimacy
+
+Among the condemned was a yuan-ti pureblood couple—married, apparently. Both accused of "treasonous affection" after being overheard discussing whether the festival was "necessary" during a private dinner.
+
+They were positioned on adjacent chains. Close enough to see each other. Not close enough to touch.
+
+The husband went first. The chains had been calibrated wrong—an error, or perhaps deliberate cruelty. His death took over an hour. The entire time, his wife was forced to watch.
+
+She didn't scream. Didn't rage. Just... talked to him. Quiet, constant stream of words.
+
+"Remember our wedding? The rain? You said it was Dominara blessing us. I believed you then. I... I still want to believe that meant something."
+
+"Our daughter—she has your eyes. Same gold with green flecks. She'll remember you. I'll make sure. Even if I have to whisper it. She'll know you were good."
+
+"I love you. I love you. I'm here. I'm right here. You're not alone. I love you."
+
+He died somewhere around the forty-minute mark. But she kept talking. Kept telling him about their life, their daughter, their small, quiet happiness that had been enough to condemn them.
+
+When her turn came, she didn't resist. Just closed her eyes and kept whispering. "I'm coming. Wait for me. I'm coming."
+
+Elandor watched and realized: this was the worst horror yet. Not the violence. The *loss*. The way love became crime. The way intimacy—the small, beautiful secret of two people choosing each other—was punished as thoroughly as rebellion.
+
+They'd made *tenderness* treasonous.
+
+### Elandor's Breaking
+
+That evening, in his cell, Elandor didn't weep. Didn't rage. Just... stopped.
+
+Sat against the wall and felt the weight of accumulated witness pressing down like physical mass.
+
+The paperwork processing. The market vendors. The couple whispering love as they died. The guard who remembered his grandmother's songs.
+
+None of it was *spectacular*. None of it was the Grand Horror he'd steeled himself against.
+
+It was worse. It was the realization that evil didn't need spectacle. It just needed *persistence*. The daily grinding machinery of normalized cruelty. The way people adapted, optimized, survived by making horror ordinary.
+
+"I don't know how to fight this," he whispered to the empty cell. "Not the violence. Not the cruelty. But the... the *acceptance*. The way it's just Tuesday."
+
+His tattoo pulsed. Warm. But offering no answers.
+
+### Torak's Death (Revised)
+
+Later that night, Elandor learned that Torak had died during the Pruning. But not from chains. Not from torture.
+
+From a clerk's error.
+
+He'd been scheduled for "retention pending review"—his carpentry skills were valuable, apparently. Some bureaucrat had decided he was worth keeping.
+
+But the paperwork got mixed up. Wrong Torak listed for retention. Our Torak listed for Pruning.
+
+By the time they discovered the error—found the correct papers, realized the mistake—he was already dead. Crushed. Gone.
+
+An overseer came to inform Elandor. Not apologetic. Just... matter-of-fact.
+
+"Your team member. Torak. Deceased due to administrative error. Forms filed. Compensation: none—thrall status. Replacement assigned. Continue productivity."
+
+That was it. That was the whole conversation.
+
+Elandor stared. "A... a mistake? He died because someone filed the wrong form?"
+
+"Happens sometimes. Database has seventeen million active entries. Errors occur. Acceptable loss rate: point-zero-three percent." The overseer shrugged. "Don't slow your work output dwelling on it."
+
+And left.
+
+Torak. Who'd survived fifteen arena fights. Who'd taught Elandor about wood grain and metaphor. Who'd remembered his father's terrible jokes.
+
+Dead because someone checked the wrong box.
+
+That broke Elandor in a way the Pruning's spectacle hadn't.
+
+// ...existing code for Day 6 beginning...
+
+## Day 6: Trials by Venom – The Quiet Horror
+
+The venom trials began not with spectacle but with *waiting*.
+
+Fifty-three accused sat in a holding area for six hours before anything happened. No food. No water. No information.
+
+Just waiting.
+
+Some wept. Some prayed. Some tried to sleep. Most just... sat. Stared at walls. Counted heartbeats. Waited for death to begin.
+
+The psychological weight of knowing you'd die, but not knowing when or how, was its own torture. More effective than any poison.
+
+When they were finally brought forward, some looked almost *relieved*. At least the waiting was over.
+
+### The Conversational Alchemist
+
+The yuan-ti alchemist—a pureblood named Zessik—worked with the casual professionalism of a skilled craftsman. He talked while he worked. Not cruel. Not mocking. Just... making conversation.
+
+"This is widow-fang extract. Diluted, of course. Full concentration would kill too fast—no educational value. We want duration. Observation. Data." He filled the syringe. "How are you feeling? Nervous? That's normal. The anticipation is often worse than the actual experience."
+
+The victim—a Serpentan woman in her thirties—stared at him. "You're... you're being kind?"
+
+"Professional courtesy. You're participating in important research. The least I can do is explain the process." He swabbed her neck with alcohol. "This will hurt. I won't lie about that. But the pain serves a purpose. We learn from your reaction. Your suffering advances alchemical science."
+
+He injected.
+
+She convulsed.
+
+He took notes with the dedicated focus of a scholar pursuing truth. Measured her heartrate. Timed the convulsions. Recorded observations in neat script.
+
+"Fascinating. Onset slightly slower than expected. Body mass index might be factor. Note for next year: adjust dosage calculations..."
+
+She died after forty-seven minutes.
+
+He filed his notes, thanked her corpse—actually *thanked* it—for contributing to knowledge, and moved to the next subject.
+
+This wasn't cruelty. This was *worse*. This was someone who'd made peace with evil by framing it as science. Who'd convinced himself that suffering had purpose beyond suffering itself.
+
+The banality of it made Elandor want to vomit.
+
+### The Metrics Horror
+
+Halfway through the trials, an administrator interrupted to announce "performance metrics."
+
+"Current efficiency: thirty-one point four subjects per hour. Last year: twenty-eight point seven. Improvement: nine point four percent. Excellent work, team. Projected completion: fourteen hundred hours, ahead of schedule."
+
+The alchemists *applauded themselves*.
+
+"Thank you! Couldn't do it without everyone's dedication to the process."
+
+"Team effort, really. The documentation clerks deserve recognition too."
+
+"Absolutely. Clean data is essential to our success."
+
+They were proud. Genuinely proud of their efficiency. Their optimization. Their contribution to the machine.
+
+And the horrible thing was: they weren't monsters. They were professionals. People who'd found identity, meaning, purpose in being good at their terrible jobs.
+
+### The Moment of Bureaucratic Mercy
+
+One victim—a young Wanderer man—had been condemned for "suspicious humming." Someone had reported hearing him hum while working, and the melody was "unauthorized."
+
+As he was being prepared for injection, an administrator rushed in. "Wait! Wait! I need to verify the charges!"
+
+Everyone stopped. The administrator rifled through papers, muttering.
+
+"Suspicious humming... unauthorized melody... but which classification? Musical sedition requires tribunal approval. Cultural defiance is summary execution. But if it's just... just humming without intent..." He flipped through more papers. "Ah! Found it! Previous ruling: humming without intent is class-three infraction. Fine: thirty lashes. Not execution."
+
+He looked up, smiling. "Good news! You're not going to die today! Just thirty lashes! Significant improvement in your situation!"
+
+The young man stared. "I... I'm not...?"
+
+"Not dying! No! Just being flogged! Much better! See, the system works! Justice is served!" The administrator beamed like he'd just granted a great favor.
+
+The young man was led away. Would be whipped until his back was hamburger. But he'd live.
+
+And the administrator filed a report about how he'd "preserved life through proper protocol adherence." Felt good about himself. Felt like he'd made the world slightly better.
+
+The rest of the trials proceeded.
+
+Elandor watched and felt something crystallize: evil didn't require cruelty. It just required people who followed the rules. Who took pride in doing their jobs well. Who convinced themselves that efficiency and protocol were virtues.
+
+### The False Hope
+
+Near the end of the trials, something unexpected happened.
+
+A victim—an older Serpentan man—showed unusual resistance to the venom. His body fought it. After an hour, he was still alive, still relatively coherent, while others had died in minutes.
+
+The alchemists were *excited*.
+
+"Incredible! Natural resistance! We need to study this!"
+
+"Get the medical team! We can preserve him!"
+
+"Think of the research value! Breeding programs! Venom refinement!"
+
+They swarmed around him with genuine enthusiasm. Saved his life with skill and dedication. Brought him back from the brink.
+
+Then—once he'd stabilized, once they'd documented his resistance thoroughly—they injected him with a different venom.
+
+"We need to test whether the resistance is specific or general. For science."
+
+He died in eighteen minutes.
+
+But they thanked him—thanked his corpse—for his invaluable contribution to alchemical knowledge.
+
+The hope they'd given him—that moment of thinking he might survive, might be spared—made the eventual death more cruel than simple execution.
+
+And they didn't even see it. Genuinely believed they'd given him honor by making him "useful."
+
+### The Golden Flicker (Revised)
+
+The priest's self-exposure happened not through divine intervention but through *exhaustion*.
+
+He'd been awake for thirty-six hours processing accused. Hadn't eaten. Hadn't slept. Was running on stimulants and stress.
+
+And in that exhausted state, when questioned about Sethrak's charges, he just... broke.
+
+Not dramatically. Not with screaming. Just quietly admitted: "I made it up. Wanted his position. I'm sorry. I'm so tired. I just wanted... I just wanted to matter. To be important. To..."
+
+Then he cut his throat. Not from guilt. From exhaustion. From the crushing weight of realizing his entire life was meaningless ambition built on lies.
+
+Simple. Human. Tragic.
+
+No divine fire. No golden light. Just a man collapsing under weight he'd chosen to carry.
+
+The crowd still laughed at the absurdity. Still made it into comedy. Because that's what people did with tragedy they couldn't process.
+
+But it wasn't miracle.
+
+It was just... sad.
+
+### Elandor's Realization
+
+That night, Elandor sat in his cell and understood something that terrified him more than any amount of gore:
+
+*The worst horror isn't the violence. It's that good people do this. Professional people. People who love their children and remember their grandmothers and take pride in their work.*
+
+*They're not monsters. They're just... adapted. They've made evil ordinary. Made horror into job duties. Turned suffering into metrics.*
+
+*And that means anyone can do this. Given time. Given pressure. Given the right circumstances. Anyone.*
+
+His tattoo pulsed. Warm. Present.
+
+But no longer felt like promise of victory. Felt more like... companionship in witness. *I'm here. I see this. I remember. That's all I can offer.*
+
+And somehow, that was worse than absence would have been.
+
+// ...existing code for Day 7 beginning...
+
+## Day 7: Grand Ascension – The Weight of Small Humanities
+
+The feast before Elandor's execution wasn't a spectacle of cruelty. It was a *celebration*.
+
+Genuine celebration.
+
+People were happy. Laughing—not forced, but real. Telling jokes. Sharing memories. Enjoying each other's company.
+
+A yuan-ti noble told a story about his daughter's first successful hunt. Eyes tearing up with pride. "She was so small, but so determined. When that deer finally went down, she turned to me with the biggest smile..."
+
+The whole table awed and congratulated him.
+
+Ten feet away, thralls lay under the table eating scraps like dogs.
+
+The juxtaposition wasn't cruelty. It was *normalcy*. This was just how things were. Had always been. Would always be.
+
+### The Loving Overseer
+
+Elandor's escort to the execution stage wasn't brutal. Was almost... gentle.
+
+"Easy now. Watch your step. Don't want you falling before the main event."
+
+The guard—a yuan-ti malison named Keleth—had kind eyes. Spoke softly. Helped Elandor navigate obstacles with his shackled ankles.
+
+"I have a son about your age," Keleth mentioned conversationally. "Training to be a scholar. Very bright. Makes me proud." He smiled. "Do you have family? Anyone we should notify after...?"
+
+"No. All dead."
+
+"I'm sorry." And he sounded genuinely sorry. "That's hard. Everyone should have someone to remember them."
+
+"You're going to watch me die."
+
+"Well. Yes. It's my job." Keleth shrugged, not uncomfortable. "But that doesn't mean I can't be pleasant about it. No reason to be cruel just because I'm following orders."
+
+He was right, in a way. He *was* being kind. Within the bounds of his role. Within the system's constraints.
+
+Which somehow made it worse.
+
+### The Careful Preparation
+
+Before the Chains of the Despot were applied, a medical team examined Elandor.
+
+"We need to make sure you're healthy enough to survive the initial phase. Don't want you dying too quickly—defeats the whole educational purpose."
+
+They treated his burns. Gave him water. Even offered food.
+
+"Eat something. You'll need strength. Can't demonstrate divine tolerance on an empty stomach."
+
+One medic—elderly yuan-ti pureblood, maybe seventy—was especially attentive.
+
+"There's a spot on your wrist where the shackle's rubbed raw. Let me bandage that. Might prevent infection from complicating the process."
+
+"You're... helping me?"
+
+"Well, yes. I'm a healer. It's what I do." He finished the bandage with practiced efficiency. "Just because you're condemned doesn't mean you deserve needless suffering. We're not barbarians."
+
+The cognitive dissonance was staggering.
+
+They were preparing him for execution-by-implosion. But doing it with medical care. Professional standards. Human decency.
+
+### The Final Conversation
+
+Minutes before the ritual began, Ssara coiled close. Her veiled face studied him with what might have been genuine curiosity.
+
+"Why?" she asked. Simple question. Honest tone. "Why persist? You knew this would end badly. Must have known. So why not just... comply? Accept? Make things easier for yourself?"
+
+Elandor considered. "Because easier isn't the same as right."
+
+"But right didn't save you."
+
+"No. It didn't."
+
+"Then what's the point?"
+
+"The point is..." He struggled for words. "The point is that someone tried. Even if it failed. Even if no one remembers. At some point, a man stood here and said 'no, this is wrong' before he died. That matters. Even if only to me."
+
+Ssara was quiet for a long moment. "That's not rational."
+
+"No. It's not."
+
+"It's not even pragmatic."
+
+"No."
+
+"But you believe it anyway."
+
+"Yes."
+
+She tilted her head, veils shifting. "You know what the saddest part is? You're right. It does matter. And that's exactly why we have to kill you."
+
+Then she signaled Varak. The ritual began.
+
+### The Implosion (Revised)
+
+The implosion itself happened almost *quietly*.
+
+No screaming. Elandor had bitten through his tongue early on, probably unconsciously. Just wet, gurgling sounds. Whistling breath through ruined throat.
+
+The crowd didn't react with cheers or horror. They just... watched. Some ate. Some talked quietly. Some looked away, bored.
+
+It was Tuesday.
+
+When it ended—when Elandor's body finally gave out and collapsed into ash—the room didn't erupt. People just... noted it. Nodded. Started gathering their things to leave.
+
+"Well. That's done."
+
+"Good timing. I have a meeting in an hour."
+
+"Anyone want to grab dinner after? That new place near the plaza?"
+
+Life continued.
+
+The universe didn't care that a paladin had died. Didn't care that hope had tried and failed. Didn't care about the ashes drifting through incense smoke.
+
+Just another Tuesday in Serpentis.
+
+### Kessa's Response
+
+That night, in the thrall pens, Kessa sat with Yara and a few others who'd survived.
+
+No one spoke about Elandor. No grand speeches. No tears. No memorial.
+
+Just quiet exhaustion.
+
+Finally, Yara asked: "Did it mean anything?"
+
+Kessa was quiet for a long time. Then: "A guard helped someone die faster. Positioned the chains so it hurt less. Because that woman reminded him of his grandmother."
+
+"That's... that's not what I asked."
+
+"I know. But it's what I'm answering." Kessa looked at her hands. "Elandor's light didn't break the chain. Didn't save anyone. Didn't change anything."
+
+"So it meant nothing."
+
+"I didn't say that." Kessa met her eyes. "That guard still remembers his grandmother. Still carries that song. Still gave mercy when he could. That's... that's not nothing. It's not revolution. But it's not nothing."
+
+Silence.
+
+"Is that enough?" Yara whispered.
+
+"I don't know," Kessa admitted. "But it's what we have. Small humanities. Tiny rebellions. Guards who remember songs. People who bandage wounds even when it doesn't matter. Prisoners who hum unauthorized melodies because music exists and that's reason enough."
+
+"That's not hope."
+
+"No," Kessa agreed. "It's not hope. It's just... persistence. And maybe that's all we get."
+
+They sat together in the darkness. Not comforted. Not saved. Just... less alone.
+
+And somewhere in the pyramid, a spider spun its web. Patient. Methodical. Building beauty from its own substance because that's what spiders do.
+
+Not for meaning. Not for hope. Not for anything except the simple act of creation.
+
+The world continued. Horror remained. The chain held.
+
+But small humanities persisted in the cracks.
+
+Not enough to save anyone.
+
+But maybe—*maybe*—enough to remember that humanity existed.
+
+That once, people had been more than meat and metrics.
+
+That once, someone tried.
+
+And maybe that was all witness ever was.
 
 ```
 Late in the night, unable to sleep despite exhaustion, Elandor wandered the overseer quarters. His tattoo pulsed with residual warmth from the day's miracle—a constant reminder of divine presence.
