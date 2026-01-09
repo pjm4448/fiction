@@ -1688,7 +1688,7 @@ Elandor closed his eyes, letting memory wash over him:
 
 Elandor opened his eyes. The memory faded but the *certainty* remained.
 
-*Aelthar will shatter these chains,* he thought. *Not today. Not tomorrow. But soon. The light will break through. Justice will come. And I will be His instrument—even if that means dying to prove the point.*
+*Justice will come,* he thought. *Not today. Not tomorrow. But the light endures. The struggle matters. Even if death is the only witness.*
 
 His tattoo pulsed in agreement.
 
@@ -1898,7 +1898,7 @@ Kressh's eyes widened. "What—"
 
 He attacked. Not wildly. Not with rage. But with focused, relentless pressure. His blade sought gaps in Kressh's defense, testing, probing, learning.
 
-### Divine Empowerment
+### Divine Presence
 
 In the Ethereal Shroud, Aelthar stood at the veil's edge, observing the pattern.
 
@@ -1910,9 +1910,9 @@ His presence extended through the veil, a subtle warmth touching the tattoo that
 
 Elandor's response was instinctive: *I will. For justice.*
 
-And the power came.
+And the power came from within him.
 
-*Flooded*.
+Not channeled from above. Not gifted. *Released*. Nine days of accumulated discipline, compressed and finally expressing itself.
 
 Golden radiance erupted from Elandor's chest, brilliant and terrible, washing over the arena in waves of holy light. His form blazed like a sun given flesh. The iron collar around his throat cracked, stress-fractures spreading across its surface. His eyes—brown moments before—now burned with divine fire.
 
@@ -2326,7 +2326,7 @@ In Serpentis, that was humor.
 
 Dark. Twisted. But humor nonetheless.
 
-### Divine Intervention
+### Divine Observation
 
 In the Ethereal Shroud, Harmona watched with detached curiosity. Her form—soft light and compassion given shape—remained steady, observing.
 
@@ -2812,17 +2812,17 @@ In the thrall pens, in the overseer quarters, in every corner where Serpentis's 
 
 "Did you hear? The heretic—the one from Day 5—he's still alive."
 
-"More than alive. He's *glowing*. Aelthar intervened. AGAIN."
+"More than alive. He's *glowing*. Something happened. AGAIN."
 
 "Exposed a corrupt priest. Made him cut his own throat."
 
-"That's twice now. Twice the light has broken through."
+"That's twice now. Twice something strange has occurred."
 
 "Maybe... maybe the chain CAN break."
 
 "Don't say that. Dangerous to even think—"
 
-"But what if it's true? What if Elandor is the key? What if Aelthar really is—"
+"But what if it's true? What if Elandor represents something? What if there's more than tyranny—"
 
 "Shh. SHHH. Walls have ears. But... but hold the thought. Remember it. Plant it. If enough of us believe..."
 
@@ -2834,7 +2834,7 @@ Hope was being planted. Carefully. Furtively. But *planted*.
 
 In his shackled position, bathed in the fading golden light, Elandor felt something shift in his chest. His tattoo was *blazing* now—not painful, but overwhelming. Present. *Undeniable*.
 
-"The light exposes lies," he whispered, voice hoarse but certain. "Aelthar comes. Not today. Not all at once. But He comes." His eyes—burned, exhausted, streaming tears—met Xipilli's across the chamber. "Your chain will break. Your tyranny will fall. Justice WILL be served."
+"The light exposes lies," he whispered, voice hoarse but certain. "Justice comes. Not today. Not all at once. But it comes." His eyes—burned, exhausted, streaming tears—met Xipilli's across the chamber. "Your chain will break. Your tyranny will fall. Truth WILL be known."
 
 It wasn't threat. Wasn't even defiance. Just... *certainty*. Faith made manifest. Hope burning despite everything.
 
@@ -2844,11 +2844,11 @@ Not through strength. Through *faith*.
 
 Through the possibility that he might be right.
 
-"Fascinating," she murmured. Then louder, to Varak: "Continue the trials. All remaining accused. I want to see if the light intervenes again. Or if this was... singular."
+"Fascinating," she murmured. Then louder, to Varak: "Continue the trials. All remaining accused. I want to see if this repeats. Or if this was... singular."
 
 Varak nodded. The trials resumed.
 
-The remaining six accused were tested. All failed. All died in grotesque display. Aelthar did not intervene again—whether because they were truly guilty or because his power was spent, no one could say.
+The remaining six accused were tested. All failed. All died in grotesque display. Nothing unusual occurred—whether because they were truly guilty or because the moment had passed, no one could say.
 
 But the memory of that golden light remained. The image of the priest cutting his own throat, compelled by truth to become his own executioner.
 
@@ -3544,7 +3544,7 @@ And something in his chest—that cracked, doubting faith—began to... *rebuild
 
 Not smoothly. Not completely. But desperately. Frantically. Clinging to anything that might provide meaning.
 
-*One more day,* he thought, the prayer forming without conscious intent. *Just one more day. Tomorrow is Day 10. Grand Ascension. The climax. Aelthar will act THEN. Will shatter all this. Will break the chain completely. Has to. HAS to. Because if not then, when? If not at the climax, at what point? One more day. Just... just hold on one more day.*
+*One more day,* he thought, the prayer forming without conscious intent. *Just one more day. Tomorrow is Day 10. Grand Ascension. The climax. Something must break. Something must change. Has to. Because if not then, when? One more day. Just... just hold on one more day.*
 
 His tattoo pulsed. Not with power. Not with promise. Just with *presence*. Acknowledgment that he was heard. Seen. Remembered.
 
@@ -3608,7 +3608,7 @@ Elandor said nothing. Couldn't say anything. His throat was too tight.
 
 Still Elandor remained silent.
 
-"But here's the beautiful part," Ssara purred. "Your faith rebuilds NOW. Today. You convince yourself that tomorrow Aelthar will intervene. Will break the chain. Will save you." Her laugh was silk over razors. "He won't. And when he doesn't—when you die anyway—your final moments will be *exquisite*. Realization. Betrayal. Despair. Your faith breaking completely just before your body follows."
+"But here's the beautiful part," Ssara purred. "Your faith rebuilds NOW. Today. You convince yourself that tomorrow brings change. Salvation. Victory." Her laugh was silk over razors. "It won't. And when it doesn't—when you die anyway—your final moments will be *exquisite*. Realization. Betrayal. Despair. Your faith breaking completely just before your body follows."
 
 She coiled tighter, her presence overwhelming. "I will savor every second. Will drink your dying hope like wine. Will remember your final prayers going unanswered for *centuries*."
 
