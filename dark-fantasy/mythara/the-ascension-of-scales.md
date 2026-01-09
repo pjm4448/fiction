@@ -32,7 +32,9 @@ Varak raised his arms, and his voice—amplified by some divine sorcery until it
 
 The words physically struck the assembled thralls, a psychic pressure wave that made weak knees buckle and strong hearts falter. Elandor felt it wash over him like ice water, his Aelthar-blessed resistance the only thing preventing him from joining the dozens who fell to the ground, trembling.
 
-"Your *pain* builds our pyramid!" Varak continued, his forked tongue flickering between words, tasting the fear that hung thick as incense smoke. "Your *blood* cements its stones! Your *screams* are prayers that rise sweet to the Despot's throne!" He gestured to the chain gangs, to the hundreds of thralls scattered across the plaza in various states of exhaustion and injury. "Thank them! *THANK YOUR BETTERS* for the honor of your suffering!"
+"Your *pain*—" Varak drew out the word, savoring it like wine, "—builds our pyramid! Stone by *agonizing* stone!" His forked tongue flickered between words, tasting the fear that hung thick as incense smoke. "Your *blood* becomes the mortar! Your *screams*?" He spread his arms wide, voice rising to theatrical crescendo. "*Divine hymns* that rise sweet and *precious* to the Despot's throne! She *drinks* your suffering like ambrosia! She *bathes* in your despair!" 
+
+He coiled lower, voice dropping to conspiratorial intimacy that somehow still carried across the plaza. "And you—blessed thralls, honored victims—you should be *grateful*. GRATEFUL!" The word cracked like a whip. "For what is life without *purpose*? What is existence without *meaning*?" He gestured to the chain gangs, to the hundreds of thralls scattered across the plaza in various states of exhaustion and injury. "Thank them! *THANK YOUR BETTERS* for granting you the *sublime honor* of purposeful suffering!"
 
 The response came immediately—not from joy, but from the survival instinct that supersedes all others. The crowd erupted in frenzied applause, their clapping hands creating a wall of sound that drowned out individual sobs and whimpers. Those who hesitated found yuan-ti guards among them, selecting the silent with pointed fingers and dead eyes. The selected would dance tomorrow, or perhaps they'd decorate the Venom Falls with their dissolved corpses.
 
@@ -468,35 +470,39 @@ The first warlock approached—a gaunt Serpentan man with fever-bright eyes and 
 
 His sister. Elandor could see the resemblance—same narrow nose, same copper-dark skin.
 
-"Most Radiant Coiled Sovereign," the warlock called out, his voice cracking with fervor. "I offer renewed devotion! I offer proof of loyalty! I offer the blood of my flesh so that I might continue to serve!"
+"Most Radiant Coiled Sovereign!" The warlock's voice cracked—excitement or terror, impossible to tell. "I offer renewed devotion! I offer—I bring proof of loyalty! The blood of my flesh that I might—might continue to serve your divine will!"
 
-High Priest Varak descended from the throne's upper platform, his bulk moving with disturbing grace. His smile was wide, exposing rows of needle-sharp teeth.
+High Priest Varak descended from the throne's upper platform, his serpentine bulk moving with the disturbing grace of something that shouldn't be graceful. His smile spread slowly—deliberate, showing every needle-sharp tooth.
 
-"Ssso eager," he purred. "Ssso *loyal*. Tell me, warlock—does she know why you bring her here?"
+"*Ssso* eager." He drew the word out, tasting it. "*Ssso* loyal. Tell me, warlock..." He coiled closer, looming. "Does *she* know? Did you explain why you're dragging your sister here? Why she's bound? Why she's—" A theatrical pause. "—*terrified*?"
 
-The woman's muffled screams answered for him.
+The woman's muffled screams answered.
 
-"She was weak," the warlock said quickly. "She spoke against the God-Queen. She questioned the sacred order. She—"
+"She—she was weak!" The words tumbled out fast, rehearsed. "Spoke against the God-Queen. Questioned the sacred order. Questioned—"
 
-"She tried to protect her children from your experiments," Varak interrupted, his voice suddenly cold. "She discovered you were using her infant son to test new venoms. She threatened to report you to the city watch."
+"She tried to protect her children." Varak's interruption was surgical, precise. Voice dropping from theatrical to *cold*. "From *you*. Discovered you were using her infant son to test new venoms. Synthetic compounds. *Experimental* dosages." He leaned closer. "She threatened to report you to the city watch. To expose your... *research*."
 
-The warlock's face went slack. "I... I didn't think you knew—"
+The warlock's face went slack. Color draining. "I—I didn't think you—how did you—"
 
-"We know *everything*, worm." Varak's hand shot out, seized the man by the throat, lifted him effortlessly off the ground. "Did you think us blind? Did you think us *fools*?"
+"*Everything*, worm." Varak's hand shot out, lightning-fast, seized the man by the throat, *lifted* him effortlessly off the ground. Held him dangling, legs kicking uselessly. "We know *everything*. Did you think us blind? Did you think us *stupid*? Did you think—" His grip tightened. "—we wouldn't monitor our own *warlocks*?"
 
-The warlock choked, legs kicking uselessly.
+The warlock choked. Gasped. Clawed at Varak's hand—futile.
 
-Then Varak laughed—a sound like gravel sliding down a wet throat—and dropped him.
+Then Varak *laughed*—a sound like gravel sliding down a corpse's throat—and dropped him.
 
-"But you brought her anyway. You *chose* loyalty over blood. You chose *us* over her." The priest's smile returned. "This... we can use."
+The man crumpled. Gasping. Crying.
 
-He gestured. Two yuan-ti warriors stepped forward, seized the bound woman, dragged her to the nearest altar—one not occupied by a dying couatl. They forced her down, spread-eagled, arms and legs bound to iron rings.
+"But you brought her *anyway*." Varak's smile returned, wider now. Delighted. "Even knowing we knew. You *chose* loyalty over blood. Chose *us* over her. Chose *power* over family." The priest's forked tongue flicked out, tasting the air, tasting the *fear*. "This... *this* we can use."
 
-"Your offering is accepted," Varak announced. "Make it *count*."
+He gestured lazily. Two yuan-ti warriors stepped forward, seized the bound woman like she was cargo. Dragged her to an altar—one not occupied by a dying couatl. Forced her down, spread-eagled, arms and legs bound to iron rings that *clicked* with terrible finality.
 
-He handed the warlock a knife—not ceremonial, nothing fancy. Just a blade. Workmanlike. Efficient.
+"Your offering is accepted," Varak announced, his voice resuming its theatrical boom. "Make it *count*. Make it *hurt*. Show us your devotion isn't just words."
 
-The warlock hesitated for only a heartbeat. Then he stepped forward and cut his sister's throat.
+He handed the warlock a knife. Not ceremonial. Nothing ornate or ritualistic. Just a blade. Workmanlike. The kind you'd use for butchering livestock.
+
+The warlock hesitated—just a heartbeat. Eyes meeting his sister's. Her muffled pleas. Her tears.
+
+Then he stepped forward and cut.
 
 Not quickly. Not cleanly. He *sawed*, the blade catching on cartilage, her arterial blood spraying in pulsing jets across his painted robes. Her screams became gurgles, became silence. Her legs kicked, kicked, kicked—then stilled.
 
@@ -542,7 +548,9 @@ The couatl's eyes tracked Ssara's approach with naked terror.
 
 She coiled around the platform in a slow, sinuous spiral—once, twice, three times—her body encircling it completely. The thrice-coiled form. Her signature. Her *statement*.
 
-"Hello again, Wind-Dancer," she whispered, her voice carrying unnaturally through the chamber despite its softness. "Do you remember what you told me? When I offered you mercy in exchange for service? When I explained that loyal couatls serve at Dominara's side as honored emissaries, while traitors who choose Aelthar's weakness become... this?"
+"Hello again, Wind-Dancer." Her voice was silk over razorwire, carrying unnaturally through the chamber despite its whispered softness. "Mmm, you *remember* me, don't you? I can taste it—that spike of recognition. Fear. Despair." She inhaled deeply, savoring. "*Delicious*."
+
+She coiled tighter, scales rasping against stone in a rhythm almost hypnotic. "Tell me—and be *honest* now, we're beyond lies—do you remember what you told me? Back when I made my offer?" A pause, pregnant with mock-thoughtfulness. "When I *graciously* explained the distinction? How loyal couatls serve at Dominara's side as honored emissaries—golden statues, morning prayers, all very *dignified*—while traitors who choose Aelthar's pathetic weakness become..." She gestured elegantly at his ruined form. "...*this*?"
 
 The couatl made no sound. His throat had been cut—not deeply enough to kill, but enough to ensure silence beyond pathetic croaking.
 
@@ -698,15 +706,23 @@ A few nervous chuckles rippled through the watching crowd—forced, uncertain.
 
 Xipilli remained motionless on her throne, but her clawed fingers tightened on the armrests. Her golden eyes fixed on the disrupted entrails with an intensity that made even Varak shift uncomfortably. The silence stretched. Lengthened. Became a *pressure*.
 
-"The last time we saw golden light in an omen-reading," she said finally, voice soft as silk over razors, "was seventeen years ago. Three weeks before the Wanderer uprising that cost us the Western Provinces for an entire season." Her gaze shifted to Varak. "You were the one who dismissed *that* omen too, High Priest. Called it 'dying-body luminescence.'"
+"The last time we saw golden light in an omen-reading..." Her voice was soft. Too soft. The kind of soft that preceded executions. "Seventeen years ago. Three weeks before the Wanderer uprising that cost us the Western Provinces for an entire season." 
 
-Varak's coils tightened visibly. "Most Radiant Sovereign, I—"
+Silence. Heavy. Suffocating.
 
-"And you were correct." Xipilli's interruption was surgical. "The uprising failed. The light meant *nothing*. The chain held." She stood slowly, descended two steps, close enough that Varak had to tilt his head back to maintain eye contact. "The chain *always* holds. Yes?"
+Her golden eyes slid to Varak like a blade finding its sheath. "You were the one who dismissed *that* omen too, High Priest. What was your phrase?" She paused, letting him sweat. "Ah yes. 'Dying-body luminescence.' Poetic."
 
-"Yes, Most Radiant—"
+Varak's coils tightened visibly. "Most Radiant Sovereign, I can explain—"
 
-"Then why," she leaned closer, her voice dropping to an intimate whisper that somehow carried through the entire chamber, "does your scent betray fear?"
+"Can you." Not a question. A statement flat as stone. "Please. Do."
+
+"The uprising *failed*, Most Radiant. The light meant nothing. The chain held—"
+
+"It held because I mobilized five legions and executed three thousand suspected sympathizers." Xipilli's interruption was surgical, precise. "Not because you were *right*, Varak. Because I was *thorough*." She stood slowly—every movement deliberate, controlled. Descended two steps. Then two more. Close enough that Varak had to tilt his head back, throat exposed. "The chain holds because we *maintain* it. Yes?"
+
+"Y-yes, Most Radiant Sovereign—"
+
+"Mm." She leaned closer, voice dropping to an intimate whisper that somehow carried through the entire chamber like a lover's secret shared with the world. "Then explain to me, High Priest, why your scent..." She inhaled slowly, demonstratively. "...reeks of *fear*."
 
 The assembled yuan-ti nobles shifted. Warlocks exchanged glances. Even the dying prisoners seemed to hold their breath.
 
@@ -788,27 +804,23 @@ His tattoo still pulsed. Faintly. A reminder.
 
 Elandor opened his eyes. One of the other thralls—a scarred Serpentan woman named Kessa—crouched nearby, concern etched on her weathered face.
 
-"You alright?" she asked quietly. "You look like you've seen the Void herself."
+"You alright?" She kept her voice low, conversational. Like discussing the weather. "Because you look three shades past dead and heading for whatever comes after."
 
-"I'm fine," Elandor lied.
+"I'm—" Elandor started.
 
-"Bullshit." Kessa glanced around, ensuring no overseers were in earshot. "You were in the inner chambers today. Saw the renewals. Saw the omens." She hesitated. "Saw the light?"
+"Don't." Kessa cut him off with a sharp gesture. "Don't insult me with 'fine.' I've been here six years, Brightmantle. I know what 'fine' looks like, and you ain't it." She glanced around—casual, practiced. "You were in the inner chambers today. The renewals. The omen-readings." Her eyes locked on his. "You saw something."
 
-Elandor's breath caught. "You—"
+Elandor's throat tightened. "I don't—"
 
-"I wasn't there," Kessa said quickly. "But word travels. Even here. *Especially* here. Gossip is the only entertainment thralls have." She leaned closer. "They're saying something strange happened during the readings. A golden flicker. A broken chain in the entrails."
+"Word travels fast in the pens. *Real* fast." She leaned in, close enough he could smell the sweat and stone-dust on her. "Gossip's the only currency we've got down here. And today's gossip?" A bitter smile. "Golden flicker in the entrails. Broken chain. Yuan-ti leadership having themselves a *moment*." She paused. "You were there."
 
-"Varak explained it," Elandor said carefully. "Bad food. Dying body doing strange things."
+"Varak said it was nothing. Bad shellfish. Bodies do weird things when—"
 
-"Sure." Kessa's expression said she believed that about as much as she believed yuan-ti had hearts. "And I'm sure it's just coincidence that you look like you're waiting for execution."
+Kessa actually laughed—quiet, sharp. "Oh, sure. And I'm next in line for God-Queen. Come on." She shook her head. "Look, I don't know what you're carrying, what you're *hiding*—and honestly? I don't want to know. Ignorance keeps you breathing in this place." Her expression hardened. "But whatever it is, hide it *better*. Because this place? Eyes everywhere. Scales in every shadow. And Ssara..." She trailed off, jaw tight.
 
-Elandor said nothing.
+"I know about Ssara," Elandor said quietly.
 
-Kessa studied him for a long moment, then shook her head. "Whatever you're hiding, Brightmantle, hide it better. This place has eyes everywhere. And Ssara... she doesn't miss much."
-
-"I know."
-
-"Do you?" Kessa's voice dropped to barely a whisper. "Because she doesn't kill quickly. She likes to *understand* things. Take them apart. See how they work. And if she thinks you're connected to that golden light..." She trailed off, letting the implications hang.
+"Do you?" Kessa's voice dropped to something barely audible. "Do you *really*? Because I watched her work on a thrall last year. Suspected spy. Took her three *weeks*. And by the end, the poor bastard wasn't begging for mercy—he was begging to tell her things he didn't even know. Making up secrets just to have something to confess." She locked eyes with him. "She doesn't kill quick, Brightmantle. She *studies*. Takes you apart slow. Learns what makes you tick. And if she thinks you're connected to that light, if she smells divine protection on you..." Kessa's smile was grim. "She'll want to know *everything*."
 
 "I'll be careful," Elandor promised.
 
@@ -958,19 +970,19 @@ They pressed the irons against the worst wounds.
 
 The smell of burning flesh joined the arena's bouquet. The screaming reached new octaves—sounds no human throat should make, sounds that scraped against sanity itself.
 
-"KEEP FIGHTING!" the overseer bellowed. "FIGHT OR WE CAUTERIZE *EVERYTHING*!"
+"KEEP FIGHTING!" The overseer's bellow cut through the screaming. "FIGHT OR WE MAKE IT *WORSE*! FIGHT OR WE START WITH THE *EYES*!"
 
-The wounded man, tears streaming down his face, raised his sword with shaking hands and lunged at his opponent. It was less an attack than a desperate attempt to end things—to die on his feet rather than be roasted alive piece by piece.
+The wounded man—tears streaming, snot bubbling, everything that made him human leaking out—raised his sword with hands that shook so badly the blade rattled. Less an attack than a prayer. Die standing. Die *quick*. Anything but the irons again—
 
 His blade found throat.
 
-Blood fountained in pulsing jets, spraying across the sand, across the survivors, across the front rows of the audience. The nobles in the splash-zone laughed and applauded, wiping blood from their faces with silk handkerchiefs, treating it like an amusing inconvenience.
+Blood fountained in pulsing jets, spraying across sand, across survivors, across the front rows where nobles sat close enough to *feel* it. They laughed—genuine delight—wiping blood from their faces with silk handkerchiefs like it was champagne mist. One woman licked her fingers, made a show of savoring it.
 
-The winner collapsed beside his opponent's twitching corpse, sobbing.
+The winner collapsed beside his opponent's still-twitching corpse. Sobbing. Retching.
 
-The crowd cheered his "victory."
+The crowd *roared* approval.
 
-"Promoted!" the overseer announced. "You are now overseer of waste detail! Congratulations! You may keep the sword!"
+"PROMOTED!" The overseer's voice dripped with theatrical magnanimity. "YOU—yes, YOU, brave warrior—are now overseer of waste detail! What an *honor*! What a *rise*!" Mock fanfare from the musicians. "Congratulations! You may keep the sword! Try not to fall on it before morning shift!"
 
 The man clutched his rusty blade like it was made of gold, like it was salvation itself, while medical attendants dragged him from the pit to treat his cauterized wounds.
 
@@ -984,13 +996,31 @@ Thrall versus thrall, again and again. Ten bouts in total. Each one a variation 
 
 A woman with a broken arm—set poorly, healed crooked—fought a man twice her size. She won by going for the eyes, her fingers scooping and tearing until he stumbled blind into her blade. The crowd rated her "creativity" with enthusiastic applause.
 
-Two brothers forced to fight each other. They refused at first, standing in the center of the pit holding hands, weeping. The overseers brought out the whips and the hot irons. Twenty lashes each. Brands on their backs. Then threats: "Fight, or we'll bring out your sister and make her fight both of you."
+Two brothers forced to fight each other. They refused at first—stood center-pit, holding hands like children afraid of the dark. Weeping. One of them trying to speak, words dissolving into sobs.
+
+The overseers brought out the whips. Twenty lashes each. The brothers didn't separate. Didn't let go.
+
+Brought out the irons. Brands on their backs. The smell of cooking flesh. The screaming. Still, they held hands.
+
+Then the lead overseer leaned close, voice carrying just far enough. "Your sister. The pretty one with the braids. She's in the holding pen." A pause. "Fight, or we bring her out. Make her fight *both* of you. Naked. While the crowd—"
+
+"No." The older brother's voice broke. "*No*. Please—"
+
+"Then *fight*."
 
 They fought.
 
-The younger brother won, then slit his own throat with the victory blade before the overseers could stop him.
+It was ugly. Hesitant strikes. Pulled blows. Both trying to lose, trying to die, trying to spare the other. The crowd grew bored, restless. Overseers stepped in with cattle prods, *encouraging* commitment.
 
-The crowd booed the "waste of entertainment."
+The younger brother won. Stood over his sibling's body, sword in shaking hands, covered in his brother's blood. Opened his mouth—maybe to scream, maybe to beg—
+
+Then drew the blade across his own throat before anyone could stop him.
+
+The crowd *booed*. Loud, sustained. 
+
+"WASTE OF ENTERTAINMENT!" someone shouted. Others echoed it. Throwing things. Rotted fruit. Rocks. One hit the younger brother's corpse with a wet thud.
+
+"Ungrateful whelp," the overseer muttered. "That was a *perfectly good* promotion."
 
 An older Wanderer, captured in recent raids, fought with the skill of someone who'd seen tribal warfare. He dismantled his opponent with efficient brutality, opening arteries with surgical precision. No hesitation. No mercy. When asked why afterward, he simply said, "Better to kill quickly than let your enemies make it last."
 
@@ -1806,17 +1836,31 @@ Elandor took a sip. It tasted like vinegar and regret. "We survived."
 
 "I know." Elandor's hand drifted to his chest, to the hidden tattoo beneath cloth. "But Aelthar protected me. Twice now. He hasn't abandoned us."
 
-"Or He's using you," Kessa said quietly. "Dangling you like bait. Making you bright enough to draw attention. Useful for His games with Dominara but not... not necessarily good for *you*." She paused, staring at the wine skin. "I believed once. In Aelthar. In justice. Had a husband who was a temple guard—real believer. Prayed every morning."
+"Or He's using you." Kessa's voice was quiet. Too quiet. The kind of quiet that preceded explosions. "Dangling you like bait. Making you bright enough—noticeable enough—to draw their attention. Useful for His cosmic games with Dominara. Very *strategic*." She stared at the wine skin like it held answers. "But not necessarily... not actually good for *you*. For the person bleeding. For the—" She stopped. Breathed. "I believed once. In Aelthar. In justice. Had a husband who was a temple guard." 
 
-Elandor looked up, surprised. Kessa rarely spoke of her past.
+Elandor looked up, surprised. Kessa *never* spoke of her past.
 
-"He died protecting pilgrims from raiders," she continued, voice flat. "Fought honorably. Gave them time to escape. The raiders tortured him for information anyway. Took three days." Her jaw tightened. "I prayed the whole time. Begged Aelthar to intervene. To send help. To at least make it *quick*." She took the wine skin back, drank deep. "Nothing. Just silence. And when they finally dumped his body outside the temple, you know what the priests said? 'His sacrifice honored Aelthar.' As if honor made his suffering *meaningful*." 
+"Real believer," she continued, each word careful, controlled. "Prayed every morning. Even here, first three months. Until—" Her jaw worked. "He died protecting pilgrims. Raiders. He fought... gave them time to run. Fought *honorably*." The word came out bitter as poison. "The raiders tortured him anyway. For information he didn't have. Three days it took. *Three*." 
 
-She met Elandor's eyes. "So forgive me if I see your faith as beautiful but *dangerous*. Because believers die just as hard as cynics. Difference is, cynics expect it."
+She took the wine skin back, drank long enough that Torak reached for it, worried. She pulled away, wiped her mouth.
 
-"Faith isn't transactional," Elandor replied carefully. "I don't serve Aelthar because He protects me. I serve Him because He represents justice. Light. Hope." He looked up, met her cynical gaze. "Even if He lets me die here—even if I become another corpse in the sand—the principles don't change. Justice is still real. Light still exists."
+"I prayed the *whole time*. Every hour. Begged Aelthar to intervene. Send help. Make it *quick* at least. Give him that much." Her laugh was broken glass. "Nothing. Just silence. Divine fucking *silence*. And when they dumped his body outside the temple—" Her voice cracked. "—you know what the priests said? 'His sacrifice honored Aelthar.' Like honor made his suffering *meaningful*. Like it balanced some cosmic ledger I'm too stupid to see."
 
-"Principles don't bleed," Kessa said. "People do." But her voice was softer. Almost gentle.
+She met Elandor's eyes, and hers were wet. Angry-wet, not sad-wet. "So forgive me—*forgive me*—if I see your faith as beautiful and suicidal. Because believers die *exactly* as hard as cynics. Scream just as loud. Bleed just as red. The only difference?" She leaned closer. "Cynics expect the knife."
+
+Elandor was quiet for a long moment. When he spoke, his voice was softer than before. "You're right."
+
+Kessa blinked. "What?"
+
+"Believers die hard. Scream loud. Bleed red." He met her eyes. "Your husband—what happened to him was *evil*. Not mysterious. Not 'part of the plan.' Just... evil. And I can't explain why Aelthar didn't intervene. Can't make it make *sense*." He looked down at his hands. "Maybe He couldn't. Maybe He wouldn't. Maybe—" He stopped, swallowed. "I don't know. And anyone who says they *do* know is lying."
+
+"Then why still believe?" Torak asked. Not challenging. Genuinely curious.
+
+"Because..." Elandor struggled for words. "Faith isn't transactional. Isn't protection for prayers. It's—" He looked up, met their gazes. "It's *compass*. When everything's dark, when nothing makes sense, when the horror is so complete you forget what good even *looks* like..." He touched his chest, over the hidden tattoo. "The principles don't change. Justice is real even if it doesn't arrive. Light exists even if we die in shadow. Hope—" His voice roughened. "Hope is the only thing they can't take unless we give it away."
+
+"Principles don't bleed," Kessa said. But her voice was softer now. Almost gentle. "People do."
+
+"I know." Elandor nodded. "But maybe... maybe principles are what make the bleeding *matter*. What make us more than just meat."
 
 From somewhere in the adjacent thrall pens, a voice rose—thin, wavering, but unmistakably human. Singing. Not loudly. Not defiantly. Just... singing. An old Wanderer lullaby about stars and freedom, passed down through generations.
 
@@ -1836,7 +1880,7 @@ His tattoo pulsed warmly, as if Aelthar Himself had heard the song.
 
 *This is what I fight for,* Elandor realized. *Not grand theology. Not distant justice. But moments like this. Stolen songs. Defiant beauty. The parts of us they can't crush.*
 
-"Philosophical distinction," Torak observed, voice rougher than usual. "but sure. Whatever keeps you sane."
+"Philosophical distinction," Torak muttered, taking the wine back. "Probably meaningless in the long run. But..." He took a long drink. "Sure. Whatever keeps you sane, Brightmantle. Whatever lets you sleep without screaming." A pause. "For what it's worth? I've seen a lot of faiths break down here. Lot of believers turn hollow. You haven't." He shrugged. "That's either impressive or suicidal. Haven't decided which."
 
 Elandor closed his eyes, letting memory wash over him:
 
@@ -2874,27 +2918,33 @@ It spread like contagion. Starting small, growing louder, becoming mass hysteria
 
 ### Divine Commentary
 
-In the Ethereal Shroud, Aelthar observed with mild satisfaction.
+In the Ethereal Shroud, Aelthar observed with something approaching satisfaction.
 
-"Justice revealed," he remarked. "Interesting how lies expose themselves. False witness earning consequence. Light exposing corruption."
+"Justice." He said it like a man savoring fine wine. "Self-inflicted. Earned. Light exposes corruption and the corrupt condemn themselves. Elegant."
 
-"Oh, that was MAGNIFICENT!" Whirlvex howled, crackling with manic energy. "Slapstick suicide! The flailing! The multiple throat-cuts! It needed more pratfalls—maybe he could have tripped on his own intestines?—but STILL! Comedy gold!"
+"ELEGANT?!" Whirlvex materialized in a crackling burst of chaotic energy. "That was HILARIOUS! Multiple throat-cuts! The *flailing*! Like watching a drunk try to climb stairs backwards!" He cackled, spinning in place. "Could've been better—exploding guts would've *really* sold it—but still! Comedy GOLD!"
 
-"The theatrical element was notable," Aelthar agreed.
+"Comedy wasn't the intention," Aelthar said mildly.
 
-"Everything is funny from the right angle!" Whirlvex countered. "And that angle is OURS! Distant! Omniscient! We get to watch mortality's absurdity play out in real-time!" He cackled. "Should've had exploding guts though. Would've been perfect with exploding guts."
+"Everything's funny from the right angle!" Whirlvex shot back. "And our angle? *Perfect*. Distant, omniscient, getting to watch mortality's absurd little tragedy-plays!" He paused mid-spin. "You should do this more often. The bit with the conscience? *Chef's kiss*. Very psychological. Very torturous. Almost as good as physical comedy."
 
-Harmona materialized, expression grieved. "You forced him to kill himself. That's... that's not justice. That's vengeance."
+"You forced him to kill himself." Harmona's voice cut through like a scalpel—soft but sharp. She materialized slowly, form coalescing from gentle light, expression carved from grief. "That's not justice, Aelthar. That's *vengeance*. That's cruelty."
 
-"He was going to torture an innocent man," Aelthar shot back. "He LIED. Used sacred trial for personal ambition. He deserved—"
+"He was going to torture an innocent man!" Aelthar's response came faster, hotter. "Lied under oath. Used sacred trial for personal ambition. For *advancement*. He deserved—"
 
-"Death by his own hand?" Harmona shook her head. "Interesting development."
+"Death by his own hand? Driven to it by divine compulsion?" Harmona's eyes—sad, endless—fixed on him. "Very proportional. Very just. Tell me, when did you start measuring 'deserving' the way Ruinok does?"
 
-"We don't oppose ORDER," Dominara said, appearing with cool assessment. "We oppose CHAOS. And you, Lightbearer, just introduced chaos. Again. Exposed another of my priests as corrupt. Made mockery of my trials." Her tone remained level. "This is the SECOND time you've pushed boundaries. We prefer *subtlety*—"
+"That's—" Aelthar stopped. Jaw tight. "Not the same."
 
-"And what's more subtle than a guilty conscience?" Shadrix interrupted smoothly, materializing with his unsettling smile. "Sethrak was innocent. Proven by the accuser's confession. Aelthar barely touched the situation." He paused. "Technically."
+"Isn't it?" She let the question hang.
 
-"Your technicalities accumulate," Dominara observed.
+"*Fascinating* development." Dominara's arrival was marked by sudden cold, by the sensation of chains tightening. She appeared fully-formed, no gradual materialization—just sudden, absolute presence. "We don't oppose ORDER, Lightbearer. We oppose CHAOS. Disruption. Uncertainty." Her voice remained level, controlled, but underneath ran currents of steel. "And you just introduced chaos. *Again*. Exposed another of my priests as corrupt. Made mockery of my trials. My *structure*." 
+
+She drifted closer, and even in the Ethereal Shroud, her presence felt... heavy. "This is the SECOND time you've pushed boundaries. Second 'intervention.' We prefer subtlety—you recall our agreements? The *rules*?"
+
+"Oh, but what's more subtle than conscience?" Shadrix slid into existence like oil spreading across water, his smile preceding the rest of him. "Really, Dominara, consider the *precision*. Sethrak was innocent. Proven by the accuser's own confession. Aelthar barely touched anything." He paused, smile widening. "Technically. By the letter of our agreements, one could argue he simply... *observed*. And if a guilty man's conscience happened to become inconveniently active during said observation..." A delicate shrug. "Correlation. Not causation."
+
+"Your technicalities," Dominara said slowly, turning that cold gaze to Shadrix, then back to Aelthar, "accumulate. Stack. Build toward something I suspect you'll all find *uncomfortable* when the weight finally shifts." She gestured downward. "Watch your paladin carefully, Lightbearer. Every miracle makes him more *visible*. More vulnerable. More... *interesting* to those who enjoy unmaking bright things."
 
 Below, in the mortal realm, the crowd's laughter had become a sustained roar. The absurdity of the priest's death—the over-dramatic flailing, the multiple attempts, the sheer *slapstick* quality—had become instant legend.
 
