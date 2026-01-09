@@ -760,6 +760,34 @@ But he felt Ssara's eyes on him. Felt her attention like a physical weight, pres
 
 He was escorted back to the thrall pens as the sun climbed toward its noon apex, the heat reaching levels that bordered on hallucination. Thralls collapsed in the streets. Overseers cracked whips with mechanical regularity. The smell of baking stone and human suffering merged into something you breathed with every inhalation.
 
+But that evening—*that* evening—something unexpected happened.
+
+The sun descended toward the western horizon, and for perhaps fifteen minutes before it vanished, it painted the sky in colors that had no business existing in a place like Serpentis. Golds and crimsons and purples so vivid they seemed to bleed. The light caught the pyramid's obsidian surface and transformed it—just briefly—into something almost holy.
+
+Elandor stood at the pen's edge, transfixed.
+
+"Beautiful, isn't it?" 
+
+An old woman had appeared beside him—one of the Wanderer elders, her face a map of scars and hardship. She stared at the sunset with an expression of profound peace.
+
+"First time I saw that sky," she continued softly, "was the day they captured my tribe. Sixty-three people. We were shackled together, being marched to the city, and the sun set just like this." She smiled—actually *smiled*. "My grandson—he was four—he pointed at it and said, 'Grandmother, look! The sky is bleeding beauty!' His exact words." 
+
+Her voice didn't waver. "They killed him the next day. Failed the blood harvest. Too small."
+
+Elandor had no words.
+
+"But every sunset like this, I hear his voice," she said. "'The sky is bleeding beauty.' And I think... maybe he was right. Maybe even here, even in this place, the world still makes beauty. Not for us. Not as comfort or justice or mercy. Just... because it *does*. Because beauty doesn't need permission. Doesn't need to make sense." She glanced at him. "Does that sound mad?"
+
+"No," Elandor said quietly. "It sounds like hope."
+
+"Maybe." She turned back to the sunset. "Or maybe I'm just old and broken and trying to find meaning in colors." She paused. "But it's still beautiful. They can't take that. Can't corrupt it. The sky doesn't care about their chains."
+
+They stood together in silence, two prisoners watching the sun die in glory, and for those brief minutes the horror receded just enough to breathe.
+
+Then the sun vanished. The light faded. The old woman shuffled away without another word.
+
+But Elandor remembered. Remembered that even here, even now, the world could still bleed beauty.
+
 In the pen, Elandor found a corner, pressed his back against the hot stone wall, and—
 
 —almost broke.
@@ -812,6 +840,16 @@ The couatls continued their slow deaths in the pyramid chambers.
 
 The warlocks celebrated their renewed power in private chambers, toasting with wine mixed with fresh blood.
 
+And then—unexpectedly—a flock of bright-winged parrots flew over the plaza. Just passing through, oblivious to the festival below. Their calls were raucous, cheerful, utterly unconcerned with human suffering. One landed briefly on the pyramid's edge, preened itself with fastidious attention to its emerald feathers, then launched back into the sky.
+
+Several thralls stopped to watch. Just for a moment. Watching something *free*. Something that existed outside the chains and blood and horror. Something that flew because it chose to, not because it was commanded or punished or tested.
+
+A yuan-ti guard noticed the distraction. "Back to work! Birds don't feed you!"
+
+But the memory lingered. The image of green wings against blue sky. The sound of calls that held no pain.
+
+Small magic. Tiny rebellion. The world reminding its prisoners that *life* still existed, somewhere beyond the nightmare.
+
 And in the Ethereal Shroud, gods watched and wagered and argued about fate and free will and the nature of justice.
 
 Tomorrow would bring duels. Blood sport. The "Opening Duels – Proving Ambition Through Blood."
@@ -843,6 +881,28 @@ For now.
 Three days blurred into one continuous nightmare of blood-soaked sand and screaming crowds. The arena became Elandor's world—the only world that mattered—as Serpentis tested its fighters and spectators alike.
 
 **Day 2** brought the Opening Duels. Eight more bouts followed his victory, each one brutal in its own way. Bodies accumulated. Sand grew darker. The crowd's appetite sharpened.
+
+Between bouts, during the mandatory "rest periods" where fighters were herded into holding cells, Elandor overheard two yuan-ti guards discussing administrative matters with the weary frustration of bureaucrats everywhere:
+
+"—seventeen requisition forms for replacement chains. *Seventeen*. Do you know how much paperwork that generates?"
+
+"Should've seen last year. Rebellion in the eastern quarters. We went through three hundred sets. Accounting made me personally justify each one. 'Why did prisoner 3,847 require chain replacement?' Because he *exploded*, Ssiva. That's why. Do I need to draw diagrams?"
+
+"Did you?"
+
+"Did I what?"
+
+"Draw diagrams."
+
+A pause. "...Yes. Accounting insisted. I spent four hours sketching 'prisoner failure modes' for the budget review. My life has become a joke."
+
+"At least you got promoted."
+
+"To 'Senior Administrator of Punitive Resource Allocation.' It sounds impressive until you realize it means *counting torture devices*. I have a quota spreadsheet, Tharak. An *actual spreadsheet*. With color-coding."
+
+Elandor found himself suppressing something dangerously close to a laugh. Even tyranny required paperwork. Even atrocity had administrative overhead. There was something darkly absurd about that—about the mundane machinery that kept horror operational.
+
+The guards continued their complaints, utterly unaware they were being overheard by the very "resources" they were discussing.
 
 Elandor fought twice—once against another thrall (he offered mercy, which was granted to shocked applause), once against a yuan-ti pureblood warrior. He won both. His Aelthar-blessed resistance neutralized poisoned blades. The crowd noticed. Whispers spread.
 
@@ -1050,9 +1110,17 @@ That night, Torak found him doubled over, clutching his chest.
 
 "Is it?" Elandor looked up. "If I die faithful, at least I die *myself*. If I give up..." He shook his head. "Then Dominara wins. Then all of this meant nothing."
 
-Torak had no answer.
+Torak was quiet for a long moment. Then: "You know what my father told me? Before the raids?" He smiled slightly. "He said, 'Torak, life's like carving wood. You can't force the grain. You work *with* it, or the whole thing splits.'" He met Elandor's eyes. "Maybe faith is like that. Maybe forcing it, holding it too tight... maybe that's how it breaks."
 
-Because there *was* no answer. Just impossible choices in an impossible place.
+"Or maybe," Elandor countered softly, "the wood only reveals its true strength when it's tested to breaking."
+
+"Philosophical bastard." But Torak's smile was real. "My father would've liked you. Argued philosophy over dinner. Drove my mother mad." His expression softened with memory. "She'd throw bread at him. 'No theology at the table,' she'd say. 'The soup gets cold while you debate the nature of gods.'"
+
+Despite everything—the pain, the fear, the horror—Elandor found himself smiling. "My mother did the same. 'Faith is for temples, Elandor. Dinner is for *eating* before your brothers finish everything.'"
+
+They sat in the darkness, two condemned men sharing memories of mothers who'd thrown bread, and for those few minutes the weight lifted just enough to breathe.
+
+Because there *was* no answer to their impossible situation. Just small moments of human connection. Just memories that proved they'd been loved once. Just the refusal to let horror erase everything that made them human.
 
 **Day 7** arrived with the Grand Ascension. The climax. The final test.
 
@@ -1379,6 +1447,22 @@ The call came as the sun reached its apex.
 Elandor's heart hammered as he rose from the preparation cell. His hands were steady—small mercy. His collar felt heavier than ever, but his faith...
 
 His faith was a candle in hurricane winds. Flickering. But *burning*.
+
+As he walked the corridor toward the arena entrance, an unexpected sound stopped him: *humming*.
+
+A yuan-ti guard—young, maybe newly assigned—was humming a melody while checking weapons inventory. Not cruel. Not mocking. Just... humming. The tune was simple, almost childlike. Pleasant.
+
+The guard noticed Elandor watching. Stopped abruptly, scales rippling with embarrassment. "Keep moving, thrall."
+
+But Elandor had heard it. That brief moment of ordinary humanity (serpent-anity?) in this place of orchestrated horror. Even guards got bored. Found small pleasures. Hummed tunes while doing terrible work.
+
+It should have made it worse—proof that evil was banal, that atrocity was someone's *job*. But instead, perversely, it helped. Because if guards could still hum, if small beauties persisted in the cracks between horrors, then maybe—*maybe*—Elandor's light could persist too.
+
+Small rebellions. Small music. Small humanity refusing to be entirely crushed.
+
+He continued walking, and found himself humming the same tune under his breath. A tiny theft of beauty. A tiny reclamation of something pure from the machinery of suffering.
+
+The guard, behind him, resumed humming too. For perhaps thirty seconds, guard and prisoner shared a melody in the dark.
 
 *Aelthar, I fight in Your name. Not for glory. Not for survival. For witness. Let them see that honor exists even here. Let them remember that the light has not fled entirely...*
 
@@ -2626,7 +2710,7 @@ But his spirit—
 
 His spirit cracked as he watched Torak dragged onto a scaffold.
 
-Torak. His teammate from Day 4. The scarred Serpentan who'd survived fifteen arena fights. Who'd joked about dying with principles for the first time.
+Torak. His teammate from Day 4. The scarred Serpentan who'd survived fifteen arena fights. Who'd joked about dying with principles for the first time. Who'd told them about his father's carved horses.
 
 The chains descended around him. Began their methodical work.
 
@@ -2637,6 +2721,20 @@ And Elandor *couldn't look away*.
 His tattoo pulsed. Warm. But not with power. Just with *presence*. A reminder that he was seen. But not saved.
 
 Not yet.
+
+Then—movement at the cell's edge. A spider, small and brown, was spinning a web in the corner where wall met ceiling. Patient. Methodical. Building something beautiful from its own substance.
+
+Elandor watched it work. Found himself mesmerized by the precision. The care. The way each strand connected to the last, creating pattern from nothing.
+
+No grand meaning. Just a spider doing what spiders do. Building. Creating. *Persisting*.
+
+It shouldn't have helped. But somehow it did. Reminded him that even here, even now, small acts of creation continued. The spider didn't need permission or justice or hope. It just *built*.
+
+Maybe that was enough. Maybe that was all he could do. Keep building his web of faith, strand by strand, even as the world burned.
+
+The spider finished its work and settled in the center, waiting.
+
+Elandor said a small prayer of thanks—to Aelthar, to the spider, to whatever force kept tiny beautiful things alive in terrible places.
 
 Maybe not ever.
 
@@ -2874,6 +2972,24 @@ His face was transforming. Veins blackening as the venom traveled. Not bruising�
 
 The trials proceeded in methodical succession. Each venom brought its own horror—coral serpent extract, death adder concentrate, yuan-ti synthetic compounds. Some lasted minutes. Some lasted hours. The alchemists narrated each stage with clinical precision while the crowd bet on duration and symptoms.
 
+Then came an unexpected mishap.
+
+The alchemist—a yuan-ti abomination named Vellix—was demonstrating a new synthetic compound when he accidentally knocked over three vials. The venoms mixed, creating something unprecedented, and in his haste to contain the spill, Vellix slipped.
+
+Directly into the puddle.
+
+The arena fell silent. Then someone laughed—a single, sharp bark of shock. Then another. Then the entire crowd erupted.
+
+Vellix, poisoner of hundreds, writhed on the arena floor experiencing his *own* compound's effects. His scales changed colors. His extra arms moved in uncoordinated spasms. He made sounds no living thing should make.
+
+But the laughter wasn't just cruel—it was *relief*. Cathartic. The realization that even the yuan-ti could fail, could suffer absurd accidents, could be subject to the same chaos they inflicted...
+
+It broke something. For just a moment, the crowd saw their tormentors as *fallible*.
+
+Attendants rushed to neutralize the venom. Vellix survived—barely—but the incident became instant legend. "Remember when Vellix poisoned himself?" would be whispered with dark glee for months.
+
+Even Elandor felt it—that inappropriate bubble of laughter at the sheer absurd justice of it. Evil tripping over its own mechanisms. Cruelty biting its own tail.
+
 By the tenth victim, even the crowd's enthusiasm had muted to something mechanical. The horror was too consistent. Too *repetitive*.
 
 But Xipilli watched *Elandor*. Her golden eyes never left his position for long. Tracking his reactions. His endurance.
@@ -2909,6 +3025,26 @@ More laughter. More applause. More bets on duration, on specific failure modes, 
 ### Hidden Allies Tested
 
 Among the fifty-three were people Elandor recognized. People who'd shown him kindness in the thrall pens. People who'd whispered hope when hope was dangerous.
+
+One—a young mother named Saia—had shared her meager bread with him his first night. Now she knelt in the line, hands bound, waiting for venom.
+
+Her daughter stood in the crowd. Maybe six years old. Held by a yuan-ti guard, forced to watch.
+
+The girl called out, voice clear and innocent: "Mama, when you're done dancing, can we have sweet bread? You promised sweet bread after the festival."
+
+The plaza fell silent. Just for a heartbeat. The question was too pure. Too uncomprehending of what "dancing" meant here.
+
+Saia's face crumpled. She tried to answer, but the alchemist was already administering the dose.
+
+The convulsions began.
+
+The little girl watched her mother die, still waiting for an answer about sweet bread.
+
+Elandor felt something break inside him that hadn't broken before. Not from the horror—he'd witnessed worse. But from the *juxtaposition*. The child's innocent faith in promises against the absolute betrayal of every promise this city represented.
+
+That was when he understood: they didn't just kill bodies here. They killed *meaning*. Killed the very idea that promises could be kept, that mothers returned, that sweet bread followed suffering.
+
+They killed the concept of *after*.
 
 Kessa's sister, Merra. Brought in on charges of "consorting with heretics."
 
@@ -3299,6 +3435,28 @@ When the warlock pact renewals concluded—thirty-seven souls harvested, thirty-
 "And now," he announced, "the Deep Pruning. Those who failed to ascend. Those whose weakness threatened the chain. Those who must be... *removed*."
 
 Prisoners were dragged forward. Not in small groups. Not one by one. *Dozens*. All at once. Packed together, bound together, faces showing various stages of resignation and terror.
+
+In the press of condemned bodies, Elandor heard a voice—thin, cracked, but unmistakably attempting *levity*:
+
+"Well, at least the line moved faster than at the ration distribution."
+
+A few desperate laughs. Someone else: "Best seats in the house, too. Front row view."
+
+"Should've saved my good tunic for this," another voice added. "Want to look presentable for death."
+
+More laughter—genuine, hysteric, born from the absurd human impulse to find humor even at the end. To mock the executioner. To deny horror its total victory by *refusing to take it seriously*.
+
+"If we survive this, drinks are on me."
+
+"You owe me drinks from last time."
+
+"Then I'll die debt-free. Perfect timing."
+
+The laughter spread. Not everyone—some wept, some prayed, some had retreated into catatonia. But enough. Enough found that strange courage to *joke* at their own execution.
+
+A yuan-ti guard noticed. "Silence! Face your deaths with *dignity*!"
+
+"Dignity's what got us here," someone shot back. "Might as well try comedy."
 
 The chains descended.
 
