@@ -642,77 +642,7 @@ Elandor's blood turned to ice.
 
 *No. No. Please, Aelthar, not yet. I'm not ready. The time isn't right. Please—*
 
-### The Ethereal Shroud – Divine Observers
-
-Beyond mortal sight, beyond the incense haze and torchlight, in that liminal space where gods walked unseen, the Ethereal Shroud shimmered with divine presence.
-
-Aelthar the Lightbearer stood at the chamber's edge, radiant and terrible, his form blazing with golden fury barely contained. His jaw was clenched, hands fisted at his sides.
-
-"I intervened," he said, voice tight with controlled rage. "I *showed* them. Broke through your wretched veil, Shadrix. Left a sign in the very omens they claim to revere. They *saw*—"
-
-"They saw an anomaly," Dominara interrupted, her voice cold and precise as a surgical blade. She stood opposite Aelthar, arms crossed, her form all sharp edges and darker shadows. "Which Varak explained away with crude humor and the crowd accepted because they *want* to believe the chain is unbroken. Because belief in stability is easier than belief in change." Her smile was thin. "Your golden flicker accomplished nothing except to expose your pawn. Well done."
-
-"He is NOT a pawn!" Aelthar's voice cracked like thunder. "He is faithful. He is *worthy*. And your serpent bitch noticed him—"
-
-"Language," Shadrix purred, materializing between them like smoke given form. His presence was... difficult to define. Shifting. Uncertain. His smile was the only constant. "We're all friends here. Colleagues. Betting partners."
-
-He gestured, and a shimmering display coalesced in the air—a list of wagers, odds shifting and updating in real-time as events unfolded below.
-
-"Let's see... Dominara has twenty divine favors on 'Elandor breaks before Day 5.' Aelthar has thirty on 'Elandor survives and inspires rebellion.' I, of course, am hedging with multiple positions because I enjoy *chaos*." His grin widened. "And now we have a new wrinkle: Ssara's attention. This adds delicious complexity."
-
-"You *wanted* this," Aelthar accused, rounding on Shadrix. "You amplified my intervention. Made it brighter. More obvious. You *wanted* them to notice—"
-
-"I wanted it to be *interesting*," Shadrix corrected. "And it is! Your boy has faith—wonderful. Touching. But faith untested is just sentiment. Faith under pressure? Under the coils of a dark naga who enjoys breaking beautiful things? Now *that's* worth watching."
-
-He leaned close to Aelthar, voice dropping to a conspiratorial whisper. "Besides, I may have let you think I was sabotaging your move when really I was ensuring Dominara's confidence. She *thinks* Ssara's interest dooms your paladin. But what if... what if his exposure becomes his greatest weapon? What if being *noticed* is exactly what's needed?"
-
-"You speak in riddles," Dominara snapped.
-
-"I speak in *possibilities*," Shadrix countered. "That's my domain, darling. You should know this by now."
-
-Whirlvex the Stormbringer manifested in a crack of displaced air, his form crackling with barely contained energy. "Did I miss something? I was dealing with a hurricane petition—mortals are so *needy* about weather—and then my betting alerts went wild. What happened?"
-
-"Aelthar tried subtlety," Harmona said, appearing beside him with her usual grace. Her form radiated compassion and quiet strength. "It went poorly."
-
-"I didn't *try* subtlety—I *defied* your collective apathy!" Aelthar's eyes blazed. "That woman—the shaman—called out. She *prayed*. She asked where her gods were, and I *answered*. And you mock me for it?"
-
-"We don't mock you for answering," Harmona said gently. "We worry that you answered in a way that exposed your champion without protecting him. Ssara is... not known for mercy."
-
-"She's known for creativity," Shadrix added cheerfully. "And patience. She won't kill him quickly. She'll *study* him. Uncoil his secrets like unwrapping a gift. It'll be magnificent. Horrifying, but magnificent."
-
-Aelthar's fists clenched tighter. "If she harms him—"
-
-"You'll what?" Dominara's voice was sharp. "Intervene directly? Break the Compact? Start a divine war over one mortal paladin?" She shook her head. "Your sentimentality is showing, Lightbearer. Mortals die. They suffer. They break. This is the *nature* of their existence. Your boy knew the risks when he kept faith in Serpentis. His suffering is his *choice*."
-
-"His suffering is YOUR design!" Aelthar shot back. "Your priests, your rituals, your endless cruelty—"
-
-"Order requires hierarchy," Dominara said, her tone absolute. "Hierarchy requires enforcement. Enforcement requires examples. Would you prefer chaos? Would you prefer every mortal believing themselves equal to gods? Believing they owe nothing to divine structure?"
-
-"I'd prefer they believe in justice—"
-
-"Justice is *subjective*." Dominara stepped closer, her form radiating cold certainty. "I offer certainty. I offer stability. I offer a world where everyone knows their place and the strong rule as they should. Your 'justice' is nothing but sentiment dressed in golden light."
-
-They stood facing each other, divine wills clashing in the space between them. The air crackled with tension.
-
-"Twenty more favors," Shadrix announced suddenly, breaking the standoff. "I'm adding twenty divine favors to the pot, and here's my new wager: Elandor survives Ssara's attention, but not unscathed. She learns something from him. And what she learns... changes the game."
-
-"Changes it how?" Whirlvex asked, intrigued despite himself.
-
-"No idea!" Shadrix's grin was manic. "That's the *fun part*!"
-
-Harmona sighed. "This is cruel. Even for us."
-
-"This is *necessary*," Dominara countered. "Mortals must be tested. The weak must fall. The strong must rise. This is how civilizations are built."
-
-"This is how *empires* are built," Aelthar corrected. "And empires fall. Remember that, Dominara. Chains can be broken. Even yours."
-
-"We'll see," Dominara said quietly. "We'll see if your golden flicker means anything. Or if it's just... light. Fleeting and meaningless."
-
-Below them, in the mortal realm, Vizier Ssara received the warlock's report. Her veiled face turned, slowly, inevitably, toward the thrall with the censer. Toward Elandor Brightveil.
-
-Her voice, when she spoke, carried the promise of patient, meticulous cruelty:
-
-"A hidden light... how *delicious* to uncoil slowly."
+But no answer came. Just the weight of dread settling in his chest like stone.
 
 ### Elandor's Dread
 
@@ -1076,28 +1006,6 @@ The tattoo pulsed.
 
 *Soon,* he promised himself. *Not today. Not tomorrow. But soon.*
 
-### Divine Interference
-
-In the Ethereal Shroud, the divine observers clustered close, their attention focused on the next bout with unusual intensity.
-
-"This one's interesting," Liberon the Windwalker mused, his form flickering like heat-shimmer, feathered wings rustling with barely contained energy. "An underdog with genuine skill. Fighting someone wealthy enough to afford alchemical enhancements. The matchup is *designed* for failure."
-
-"As most are," Dominara said coldly. "The strong rise. The weak fall. This is natural order."
-
-"Natural order is *boring*," Liberon countered. "Where's the sport in rigged matches? Where's the joy in predetermined outcomes?" His grin was manic. "I say we add some chaos."
-
-"Don't you dare," Dominara warned. "Direct interference is—"
-
-"—technically allowed under the Compact as long as it doesn't directly kill or preserve life," Shadrix finished, materializing between them with his unsettling smile. "Just has to be *subtle*. A breeze here. A stumble there. Good old-fashioned divine mischief."
-
-Aelthar watched silently, golden light pulsing with controlled fury. He wanted to intervene—gods, how he wanted to—but after yesterday's exposure of Elandor, he was being careful. Measured.
-
-"Twenty divine favors says Liberon ruins the poison play," Whirlvex announced, crackling into existence. "I love watching paint jobs get ruined!"
-
-"I'll take that bet," Dominara said grimly. "The poison will work as intended. Order will prevail."
-
-Below, in the mortal realm, the next fighters entered the pit.
-
 ### The Wind's Gift
 
 The underdog was a Serpentan woman named Yara—mid-thirties, scarred from hard labor, with the lean muscle of someone who'd worked docks and warehouses her whole life. No formal training. Just raw strength and desperation.
@@ -1346,9 +1254,7 @@ But his tattoo still pulsed.
 
 Still burned with hidden warmth.
 
-And in the Ethereal Shroud, Aelthar smiled.
-
-"Hold fast, my champion," he whispered. "The hardest trials still await. But you are not alone."
+*Hold fast,* he whispered to himself. *The hardest trials still await. But I am not alone.*
 
 The festival continued. More blood. More screaming. More mandatory laughter.
 
@@ -1363,10 +1269,6 @@ Something that, if carefully nurtured, might grow into actual *hope*.
 Or might be crushed like all fragile things in Serpentis eventually were.
 
 Time would tell.
-
-The gods wagered.
-
-The mortals suffered.
 
 And one paladin, still collared but unbroken, kept his faith burning in the darkness.
 
@@ -1636,23 +1538,11 @@ They begged. All of them. Voices hoarse, cracking, broken. Begging for demotion,
 
 The crowd's applause was thunderous.
 
-### Divine Chaos
+### Wild Magic Surge
 
-In the Ethereal Shroud, Dominara stood rigid, arms crossed, watching the subjugations with grim satisfaction.
+The arena had seen days of accumulated magical energy—domination spells, enchantment auras, venom-laced curses, and protective wards all bleeding into each other, creating an unstable magical field.
 
-"This," she said, "is proper order. Hierarchy enforced. Rebellion crushed. The chain unbroken."
-
-"It's also boring," Whirlvex announced, materializing in a crackle of displaced lightning. "Predictable. Where's the chaos? Where's the FUN?"
-
-"Fun," Dominara said coldly, "is not the purpose of order."
-
-"Then order needs better choreography!" Whirlvex grinned, manic energy radiating from his storm-wreathed form. "Let me show you!"
-
-"Don't you DARE—"
-
-But Whirlvex had already acted.
-
-His power lashed out—not obviously, not in a way mortals could easily detect—and triggered a cascade of *wild magic* in the arena below.
+Something finally tipped the balance.
 
 It started small. A shimmer in the air. A distortion in reality's fabric.
 
@@ -1696,25 +1586,7 @@ Not cruel laughter. Not forced. Just... *genuine* amusement at the sheer ridicul
 
 "Well," she said, "this is new."
 
-### Divine Aftermath
-
-In the Ethereal Shroud, Dominara's fury was *incandescent*.
-
-"YOU RUINED IT!" she roared at Whirlvex. "You made a mockery of sacred subjugation! You turned hierarchy into FARCE!"
-
-"I turned boring into hilarious!" Whirlvex countered, cackling. "Did you SEE them? Begging to illusions? Kneeling to fake Xipillis doing the can-can? PURE. GOLD."
-
-"Order needs better choreography!" Liberon added, appearing beside Whirlvex with matching grin. "Add pratfalls next time! Maybe some juggling!"
-
-"This is NOT A JOKE!" Dominara's voice cracked like thunder. "The chain of command is ABSOLUTE—"
-
-"The chain of command just did a silly dance," Shadrix purred, materializing with his unsettling smile. "And your God-Queen *laughed*. So perhaps..." he leaned close to Dominara, "...perhaps absolute is less absolute than you thought."
-
-He turned to Aelthar, voice shifting to something only the Lightbearer could hear. "Her facade crumbles inwardly. See how she reacts when control slips? See how fragile her 'eternal order' truly is? Priceless irony."
-
-Aelthar said nothing, but his golden light pulsed brighter.
-
-Below, in the mortal realm, attendants were working frantically to dispel the illusory Xipillis. The wild magic was fading, but the *memory*—rebels begging to dancing phantoms, the sheer absurdity—would linger.
+Attendants were working frantically to dispel the illusory Xipillis. The wild magic was fading, but the *memory*—rebels begging to dancing phantoms, the sheer absurdity—would linger.
 
 "TEAMS ALPHA AND DELTA ADVANCE!" the overseer announced, trying to restore order. "PREPARE FOR FINAL SUBJUGATION!"
 
@@ -2106,15 +1978,11 @@ The other half saw heresy.
 
 The mood shifted like a wave crashing. One moment, stunned silence and awe. The next, frenzied hatred boiling over.
 
-In the Ethereal Shroud, Dominara stood rigid, fury radiating from every plane of her dark form. "You BROKE the Compact!" she roared at Aelthar. "Direct empowerment! Full manifestation! This is—"
+The light that had blazed from Elandor began to dim. Not extinguished, but settling back into his chest—a warmth that came from years of training, of discipline, of faith maintained through impossible circumstances.
 
-"Allowed," Shadrix interrupted smoothly. "The Compact permits divine blessing when the mortal REQUESTS it. Which Elandor did. Aelthar followed the rules." His smile was unsettling. "Technically."
+It hadn't been divine intervention. Not really. Just... accumulated power. The kind paladins developed through constant prayer and righteous living. Stored up. Released at need.
 
-"Technicalities are for COWARDS!" Dominara's voice could have shattered stone. "He flaunts his power! Makes mockery of hierarchy! Turns MY festival into propaganda for his soft-hearted delusions!"
-
-"He showed mercy," Harmona said quietly. "He could have killed Kressh. He CHOSE not to. That's not propaganda. That's... that's *beautiful*."
-
-"That's WEAKNESS!" Dominara gestured toward the mortal realm, where the arena was descending into chaos. "And watch how MY faithful respond!"
+But now it was spent.
 
 Below, in the mortal realm, the yuan-ti nobles in the elite overlooks had made their decision.
 
@@ -2184,33 +2052,7 @@ Ssara's veiled face tracked Elandor's removal from the arena. "He smiled," she o
 
 "Delusion," Xipilli said dismissively. "He thinks his display mattered. Thinks he inspired hope." She laughed—soft, cruel. "He inspired RIOT. He inspired chaos. He revealed that his god's power is limited, can be overwhelmed, can be PUNISHED. And now..." her eyes gleamed, "...now we have him isolated. Vulnerable. Perfect for... *education*."
 
-### Divine Aftermath
-
-In the Ethereal Shroud, Aelthar's triumph was short-lived.
-
-"You see?" Dominara said coldly. "Your intervention accomplished NOTHING. He's captured. Burned. His display turned into riot and suffering. The mortals REJECTED your light. They pelted him with poison. They HATE him now."
-
-"Some hate him," Aelthar countered, voice tight. "But others saw. Others BELIEVED. The seeds are planted—"
-
-"Seeds?" Dominara's laugh was ice. "I'll show you what happens to seeds in Serpentis. We crush them. We burn them. We ensure they never take root." She gestured toward the chaos below. "Your paladin is mine now. And I will break him so thoroughly that his death becomes a lesson: NEVER challenge the chain."
-
-Shadrix materialized between them, smiling his unsettling smile. "Interesting development," he purred. "Though I confess..." he glanced at Kressh, being hauled away by medical attendants, defeated and confused, "...I may have placed some insurance on the Champion's recovery."
-
-Aelthar's eyes narrowed. "What did you DO?"
-
-"Me? Nothing overtly." Shadrix's grin widened. "Just a small veiled pact. A whisper. A suggestion that defeat isn't permanent. That shame can become motivation. That the next time he faces the paladin..." he leaned close, voice dropping, "...he won't hold back. Won't show mercy. Won't HESITATE."
-
-"You're sabotaging BOTH sides?!" Whirlvex appeared with crackling laughter. "I LOVE it! Chaos upon chaos! Beautiful!"
-
-"I'm creating *possibilities*," Shadrix corrected. "Elandor showed mercy. Kressh felt shame. What happens when shame becomes rage? When mercy is repaid with cruelty? The variables multiply!" He clapped his hands together. "And the betting odds get SO much more interesting!"
-
-Harmona materialized, expression grieved. "You're all playing games with that boy's life," she said quietly. "He has *faith*. Real faith. And you're using it like a toy."
-
-"Faith is meant to be tested," Dominara said flatly. "If it shatters, it was false. If it endures..." she smiled thinly, "...then we simply increase the pressure until it shatters anyway. There is no faith strong enough to withstand what I have planned."
-
-Aelthar's golden light pulsed with barely contained fury. "If you torture him—if you break him through cruelty—"
-
-"You'll what?" Dominara's voice was sharp. "Intervene again? Break the Compact further? Start a divine war over one mortal?" She shook her head. "Your move was bold, Lightbearer. But it failed. You showed your hand. Revealed your champion. And now..." her smile was terrible, "...now he's mine to unmake."
+### The Riot's End
 
 Below, in the mortal realm, Elandor was dragged through the pyramid's dark corridors, his burned flesh leaving smears of fluid on stone floors, his mind clinging to one thought:
 
@@ -2236,7 +2078,7 @@ Even if it killed him.
 
 Especially if it killed him.
 
-The gods continued their arguments. The riot slowly subsided under whip and threat. The festival would continue tomorrow.
+The riot slowly subsided under whip and threat. The festival would continue tomorrow.
 
 But something had changed.
 
@@ -2882,33 +2724,23 @@ Sethrak was strapped to the board. The alchemist approached with a vial of coral
 
 The alchemist raised the syringe—
 
-And light *exploded* through the chamber.
+And something inexplicable happened.
 
-Golden. Radiant. *Blinding*.
+A flicker of golden light—brief, ambiguous, could have been a trick of the torches—seemed to pulse through the chamber. From Elandor's direction. Or maybe from nowhere. Or everywhere.
 
-It poured from Elandor's chest like water from a broken dam, blazing so brightly that shadows fled, that the venom vials reflected it back in rainbow cascades, that every person in the chamber was forced to shield their eyes.
+The priest staggered back, clutching his head. His face went pale. His eyes widened with sudden, overwhelming guilt.
 
-Aelthar's voice—not heard, but *felt*, resonating in bones and souls—thundered through the space:
+"No—no, I didn't—"
 
-*LIAR*.
+He began to shake. Not from external force. From internal collapse. Years of lies, of manipulation, of using sacred systems for personal gain—all of it crashing down at once.
 
-The word wasn't loud. It didn't need to be. It simply *was*. Absolute. Undeniable.
+Maybe it was conscience. Maybe it was madness. Maybe it was something else entirely.
 
-The priest staggered back, clutching his head. "No—no, I didn't—"
-
-*YOU ACCUSE FALSELY. YOU BREAK SACRED TRUST. YOU USE DIVINE TRIAL FOR PERSONAL GAIN.*
-
-The golden light coalesced into something almost tangible—threads of radiance that wrapped around the priest, that *compelled* him.
-
-Not with force. Not with domination. But with *truth*.
-
-The priest's hand—moving against his will, moving because the truth demanded expression—reached for the dagger at his belt.
+The priest's hand—moving on its own, or driven by guilt so crushing it demanded physical expression—reached for the dagger at his belt.
 
 "No—" he gasped. "Stop—I can't—"
 
-*SHOW THEM,* Aelthar's presence commanded. *SHOW THEM WHAT FALSE WITNESS EARNS.*
-
-The priest's hand drew the dagger. Raised it. His face was a mask of terror and disbelief and dawning comprehension that he was about to die by his own hand.
+But he could. And did.
 
 "I LIED!" he screamed. "I LIED! SETHRAK IS INNOCENT! I WANTED HIS POSITION! I USED FALSE ACCUSATION! I'M SORRY! I'M—"
 
@@ -3048,17 +2880,17 @@ She straightened, turned away. "Prepare him," she ordered the guards. "No more w
 
 In his cell—freshly shackled, burns throbbing, exhausted beyond measure—Elandor hung from chains and tried to process what had happened.
 
-Aelthar had intervened. Directly. Powerfully. Had exposed falsehood. Had executed justice.
+Something inexplicable had occurred. The priest had broken. Had confessed. Had died by his own hand.
 
-But forty-six innocent people had still died. His allies had still been tortured. The trials had still proceeded.
+But was it divine intervention? Or conscience? Or mere chance—a guilty man finally cracking under pressure?
 
-*Is this victory?* he wondered. *One priest exposed while dozens suffer? Is this what divine justice looks like?*
+Elandor didn't know. Couldn't know.
 
-His tattoo pulsed. Warm. Steady.
+All he knew was: forty-six innocent people had still died. His allies had still been tortured. The trials had still proceeded.
 
-*Yes,* it seemed to say. *This is what justice looks like when it operates within limits. Within rules. Within Compacts that even gods must honor. We cannot save everyone. But we can save SOME. We can expose lies. We can plant seeds. And seeds...*
+*Is this victory?* he wondered. *One priest exposed while dozens suffer? Is this what justice looks like?*
 
-*Seeds grow.*
+His tattoo pulsed. Warm. Steady. Offering no answers—only presence.
 
 Outside, in the thrall pens and overseer quarters, whispers continued. Stories spread. Hope took root.
 
@@ -3083,8 +2915,6 @@ Tyranny has weakness.
 The chain can break.
 
 Small lessons. Dangerous lessons. *True* lessons.
-
-And somewhere in the darkness, gods watched and wagered on whether those lessons would matter.
 
 Whether seeds planted in blood-soaked soil could possibly grow.
 
@@ -3318,7 +3148,9 @@ Pandemonium. Complete, absolute pandemonium. People were attacking wrong targets
 
 It lasted only minutes—Whirlvex's power wasn't infinite, and Dominara was actively fighting him—but in those minutes, *chaos* reigned.
 
-Liberon seized the opportunity. His power sparked through the confusion, targeting chains that bound prisoners. Locks clicked open. Shackles released.
+In the chaos—guards confused, prisoners body-swapped, overseers fighting each other—something improbable happened.
+
+Locks, jostled in the confusion, clicked open. Chains, poorly maintained and stressed by the magical surge, released. Simple mechanical failures amplified by the pandemonium.
 
 A dozen thralls suddenly found themselves free. In the chaos. With the guards confused and fighting each other.
 
@@ -3332,51 +3164,17 @@ But *some*.
 
 And in Serpentis, that was miracle.
 
-### Divine Aftermath
 
-In the Ethereal Shroud, the gods watched the chaos subside. Dominara's power reasserted control. Body-swaps reversed. Order—brutal, efficient order—returned.
-
-But the damage was done. The mistakes made. The "misplaced crushes" complete.
-
-"BEST COMEDY YET!" Whirlvex howled. "Did you SEE it?! Priest in thrall body! Guard executing friend! SLAPSTICK GOLD!"
-
-"You killed innocents," Harmona said quietly. "That priest. He was just doing his job—"
-
-"He was doing EVIL," Whirlvex countered. "And got a taste of his own medicine. Poetic! Plus—I freed some thralls! Liberon helped! We're HEROES!"
-
-"You're chaos," Dominara snarled. "And chaos will be PUNISHED."
-
-"Bet on it?" Whirlvex grinned. "I've got twenty divine favors on 'Dominara's control slips further by Day 10.' Any takers?"
-
-Shadrix materialized, his unsettling smile wider than ever. He approached Aelthar, who'd been watching with barely contained hope.
-
-"See?" Shadrix whispered. "See how the chain cracks? How even Dominara's control falters? Triumph nears, my friend. *Savor* it. Your paladin endures. Your light persists. Victory is CLOSE."
-
-It was manipulation. Obvious manipulation. But Aelthar *wanted* to believe. Needed to believe.
-
-"How close?" he demanded.
-
-"Very," Shadrix purred. "But you must act soon. Empower him. One more time. Let him break free. Let him free others. The cascade will be *unstoppable*."
-
-Lies. Pretty lies wrapped in hopeful truth. But effective.
-
-"Who dies funniest?" Whirlvex called out, addressing all the gods. "I'm taking bets! Priest-in-thrall-body gets my gold! But the guard-kills-friend had better narrative irony!"
-
-"This is OBSCENE," Harmona protested. "We're betting on suffering now? On—"
-
-"We've ALWAYS been betting on suffering," Shadrix said smoothly. "We're just being honest about it now. Embracing the entertainment value. Acknowledging that mortal pain is our *sport*."
-
-He wasn't wrong.
-
-The gods continued their wagers.
-
-And below, in the mortal realm, the festival ground onward.
 
 ### Elandor's Moment
 
-Bound center-stage, watching the chaos subside, watching order reassert itself, Elandor felt something shift in his chest. His tattoo wasn't just pulsing anymore. It was *blazing*. Building. Preparing for something.
+Bound center-stage, watching the chaos subside, watching order reassert itself, Elandor felt something shift in his chest. His tattoo wasn't just pulsing anymore. It was *blazing*.
 
-*Now,* Aelthar's presence urged. *Now, my champion. Show them. One more time. SHOW THEM LIGHT PREVAILS.*
+Nine days of resistance. Nine days of accumulated power—the discipline, the training, the iron will forged in the forge of Brightveil Keep—all of it building, compressing, waiting for release.
+
+And in this moment of chaos, when Dominara's control was momentarily fractured, when wild magic still rippled through the chamber—
+
+It *released*.
 
 Power flooded through Elandor like fire through dry wood. Not gradual. Not gentle. *Explosive*.
 
@@ -3394,7 +3192,7 @@ His hands—blazing with radiant power—touched shackles. They melted. Dissolve
 
 One prisoner freed. Two. Five. Ten.
 
-"RUN!" Elandor commanded. "RUN NOW! AELTHAR DELIVERS!"
+"RUN!" Elandor commanded. "RUN NOW!"
 
 They ran. Thralls who'd been moments from death suddenly found themselves free, found pathways opening in the panicked crowd, found guards too stunned to react.
 
@@ -3409,12 +3207,6 @@ Xipilli rose from the Obsidian Throne. Her four arms spread. Her voice—not lou
 "ENOUGH."
 
 Power radiated from her. Not light. Not radiance. Pure *dominion*. The weight of absolute authority made manifest.
-
-Elandor's blazing form flickered. Dimmed. The power that had flooded him was... *leaving*. Not slowly. Rapidly. Like water draining from a broken vessel.
-
-*No,* he thought desperately. *Not yet. Not NOW—*
-
-But Aelthar's power had limits. Compacts had rules. Divine intervention could only extend so far before—
 
 Chains erupted from the floor. Not animated ones. *New* chains. Forged from Dominara's direct will, empowered by Xipilli as her vessel.
 
@@ -3438,9 +3230,9 @@ Elandor, pinned to the platform, chains tightening around his throat, heard thei
 
 Not his body. His *faith*.
 
-*Why?* he thought, the question directedat Aelthar, at the universe, at himself. *Why give them hope just to snatch it away? Why empower me just to let me FAIL? Why prolong this? WHY?*
+*Why?* he thought, the question directed at Aelthar, at the universe, at himself. *Why give them hope just to snatch it away? Was it really You? Or just... me? My power? My failure?*
 
-His tattoo pulsed. But weakly. Apologetically. As though even divine presence recognized the cruelty of false hope.
+His tattoo pulsed. Warm. Steady. Offering what comfort it could.
 
 The freed thralls were hauled to the execution scaffolds. Chains descended. Crushed them without ceremony. Their screams were brief. Their deaths quick.
 
@@ -3488,35 +3280,17 @@ But what good was forging if the metal kept breaking? What good was faith if it 
 
 *I freed them,* he thought. *For three minutes, they were free. Then they died. Betrayed. Screaming my name as curse rather than blessing.*
 
-His tattoo pulsed. Warm. Steady. Apologetic.
+His tattoo pulsed. Warm. Steady. Present.
 
-*I'm sorry,* it seemed to say. *The Compact has limits. Divine power has rules. We cannot save everyone. But we can TRY. And trying matters. Even when it fails. ESPECIALLY when it fails. Because attempt is testimony. Effort is witness. And every crack in Dominara's chain—even temporary—proves the chain CAN crack.*
+But was that divine connection? Or just... the mark? Just ink and scar tissue? A symbol of faith rather than proof?
+
+He didn't know anymore.
 
 "Not good enough," Elandor whispered. "Not... not good enough."
 
 But he didn't renounce his faith. Didn't reject Aelthar. Didn't break.
 
 Just... cracked. Bent. Doubted.
-
-And in the Ethereal Shroud, Aelthar watched his champion's crisis and felt his own doubt.
-
-*Am I doing this right?* the god wondered. *Am I helping? Or just making it worse? Using him? Prolonging suffering for divine games?*
-
-Harmona appeared beside him. "You're questioning," she observed.
-
-"Shouldn't I?" Aelthar's golden light flickered. "I empowered him. He freed prisoners. They died anyway. *Betrayed*. Feeling worse than if I'd never acted."
-
-"But you planted seeds," Harmona said softly. "Some in the crowd saw. Saw that freedom is POSSIBLE. That the chain can break. Even if only for minutes." She placed a gentle hand on his shoulder. "Martyrs don't die for immediate victory. They die for eventual victory. For the *idea* that victory is possible."
-
-"He's not dead yet," Aelthar said quietly.
-
-"No," Harmona agreed. "But he's close. And when he dies—if he dies—his death will matter. Will be remembered. Will inspire."
-
-"That's not comfort," Aelthar said.
-
-"No," Harmona said. "But it's truth. And sometimes truth is all we have."
-
-The gods fell silent.
 
 The festival would continue tomorrow. Day 9. Recalibration. The chain would be repaired.
 
@@ -4000,49 +3774,29 @@ Elandor's response was whisper: "Aelthar... delivers... justice..."
 
 Ssara's laugh was silk over glass. "We'll see. Oh, we'll *see*."
 
-### Divine Desperation
-
-In the Ethereal Shroud, three gods prepared for intervention.
-
-Aelthar stood at the veil's edge, radiance building around him like gathering storm. "I invested EVERYTHING in this moment," he said. "Every ounce of influence. Every prayer. Every drop of divine essence. Elandor will break free. Will shatter the chain. Will prove that light PERSISTS even in deepest darkness."
-
-"We support you," Harmona said, her own power weaving with his—healing magic, restoration, hope made tangible. "My threads are ready. When the moment comes, they'll rebuild what tyranny breaks."
-
-"And I bring VIGOR!" Liberon added, his chaotic energy crackling. "Mass rebellion! When one breaks free, THOUSANDS follow! Liberty cascading!"
-
-The three gods combined their essences. Building. Weaving. Creating intervention so powerful it couldn't be denied. Radiance to break chains. Healing to resist domination. Vigor to inspire masses.
-
-It was *perfect*.
-
-It would *work*.
-
-It *had* to work.
-
-But watching from shadows, Shadrix smiled. That terrible, unsettling smile that promised suffering disguised as gift.
-
-"You invested everything," he purred. "How... vulnerable that makes you. How *exploitable*."
-
-"WHAT DID YOU DO?!" Aelthar demanded, but couldn't stop. Couldn't pull back. Too committed. Too invested. The power was already flowing toward Elandor—
-
-"Double-deal," Shadrix said simply. "I wagered on your intervention. Then wagered on its *corruption*. Paid Ruinok and Whirlvex to... *adjust* the flow. Just slightly. Just enough to make your radiance into something... else."
-
-"YOU CAN'T—"
-
-"I already did," Shadrix interrupted. "Watch. This will be *exquisite*."
-
 ### The Radiance Builds
 
 In the throne chamber, the ritual began.
 
 Varak activated the Chains of the Despot. They tightened. Began their slow crushing. Began their soul-domination. Necrotic energy flooding through Elandor's body, trying to overwhelm him, break him, force submission—
 
+And Elandor did what he'd been trained to do.
+
+*Resist*.
+
+Nine days of accumulated power. Nine days of discipline, of refusal to break, of channeling every ounce of his paladin training into sheer resistance. All of it compressed. Concentrated. Building like pressure in a sealed vessel.
+
+The chains squeezed inward.
+
+His power pushed outward.
+
 And then.
 
 *Radiance*.
 
-Golden light erupting from Elandor's chest. Not just his tattoo. His entire body. Blazing like sun made flesh. The chains *screamed* as holy power met tyrannical magic. Light pushed back against darkness. Hope against despair.
+Golden light erupting from Elandor's chest. Not divine channeling. His *own* power—accumulated, compressed, finally released. Blazing like sun made flesh. The chains *screamed* as holy power met tyrannical magic. Light pushed back against darkness. Hope against despair.
 
-Elandor's eyes widened. "YES!" he gasped. "AELTHAR! I KNEW—"
+Elandor's eyes widened. "YES!" he gasped. The training—his father's training, years at the forge, discipline made manifest—it was *working*.
 
 The chamber fell silent. Watching. Disbelieving.
 
@@ -4050,31 +3804,33 @@ The light grew *brighter*. Blinding. People shielded eyes. Ssara's coils loosene
 
 "HE'S BREAKING FREE!" someone shouted.
 
-The five surviving rebels—bound at the chamber's edges—felt it. That surge of divine power. Felt their own hearts lifting. Maybe. Maybe. MAYBE—
+The five surviving rebels—bound at the chamber's edges—felt it. That surge of power. Felt their own hearts lifting. Maybe. Maybe. MAYBE—
 
-Elandor blazed. The light was everything. Was overwhelming. Was *justice* made manifest.
+Elandor blazed. The light was everything. Was overwhelming. Was justice made manifest.
 
-Internal triumph flooded through him: *Aelthar delivers justice at last! The climax! The intervention! Everything will break! The chain will SHATTER! I was right! I was RIGHT to have faith!*
+Internal triumph flooded through him: *The discipline works! The training holds! Everything Father taught! Everything Aelthar represented! I can break free! I can—*
 
 He tried to move. Tried to break the chains. Tried to—
 
-The light shifted.
+But the Chains of the Despot weren't breaking. They were *compressing*. Forcing all that accumulated power inward. Back into him. Creating feedback loop.
 
-### The Corruption
+### The Catastrophic Overload
 
-Golden radiance began... *curdling*. Mixing with black. Not fighting it. *Merging* with it. Holy fire and necrotic energy spiraling together in sick fusion.
+The power had nowhere to go.
 
-Elandor felt it happening inside him. Felt Aelthar's power being twisted. Corrupted. Turned into something *else*.
+Nine days of accumulated resistance—meant to break chains, to free himself, to save others—was being reflected back. Compressed. Turned inward.
+
+Elandor felt it happening inside him. Felt his own power becoming weapon against himself.
 
 "No," he whispered. "No. NO. What—"
 
-In the Shroud, Aelthar screamed. "WHAT HAVE YOU DONE?!"
+The golden radiance began... *curdling*. Not from external corruption. From *pressure*. From concentration beyond what mortal flesh could contain. Holy power meant to be channeled, released, used—instead being trapped, compressed, forced to critical mass.
 
-Shadrix's smile widened. "Made your intervention *ironic*. Your light doesn't save him. It *destroys* him. Cooks him from within while chains crush from without. Divine power used as torture device. Isn't it *perfect*?"
+It was like watching star collapse.
 
-"YOU MONSTER—"
+"I'm tool of betrayal," Shadrix corrected quietly, observing from distance. "And this... this betrayal is self-inflicted. Power turned against its wielder. Faith become poison. Discipline made weapon. Exquisite."
 
-"I'm god of betrayal," Shadrix corrected. "This is what I *am*. And you made it so easy."
+He wasn't causing it. Just... appreciating it. Savoring the cosmic irony.
 
 ### The Implosion
 
@@ -4082,11 +3838,11 @@ Elandor's body began to come apart.
 
 Not quickly. Not mercifully. *Slowly*. Elaborately. With grotesque artistry.
 
-The radiant veins beneath his skin—the ones glowing with corrupted divine power—swelled. Bulged. Then *burst* like overripe fruit. Golden-black ichor sprayed in all directions. His skin split along glowing lines, peeling back to reveal muscle and bone beneath.
+The radiant veins beneath his skin—the ones glowing with overloaded power—swelled. Bulged. Then *burst* like overripe fruit. Golden-black ichor sprayed in all directions. His skin split along glowing lines, peeling back to reveal muscle and bone beneath.
 
-Holy fire cauterized the wounds. Sealed them shut. Healing them instantly so they could rupture again. And again. And AGAIN. Each burst revealing deeper layers. Muscle tearing. Bone showing. Organs visible through gaps.
+The power cauterized the wounds. Sealed them shut. Creating more pressure so they could rupture again. And again. And AGAIN. Each burst revealing deeper layers. Muscle tearing. Bone showing. Organs visible through gaps.
 
-The black ooze wasn't blood. Was something else. Something that smoked when it hit air. That ate into stone where it splattered. That made people gag and vomit when the smell hit them—sulfur and burning meat and flowers somehow, nauseating combination.
+The ichor wasn't blood. Was something else. Pure concentrated magical energy made liquid. Something that smoked when it hit air. That ate into stone where it splattered. That made people gag and vomit when the smell hit them—ozone and burning meat and something indefinable, nauseating combination.
 
 His eyes were next. Pressure building behind them as power concentrated in his skull. His expression shifted from triumph to confusion to horror to *agony*—
 
@@ -4096,13 +3852,13 @@ The eyeball fragments—sticky, glistening—hung from ruined sockets for moment
 
 He was still *alive*. Still conscious. Still feeling everything.
 
-His skin began sloughing off. Not burning away. Not torn. Just... sliding. Like overcooked meat falling off bone. But the skin wasn't dead tissue. It was *fused*—holy-tyrannical hybrid, blessed and cursed simultaneously, unable to decide whether to heal or die.
+His skin began sloughing off. Not burning away. Not torn. Just... sliding. Like overcooked meat falling off bone. But the skin wasn't dead tissue. It was *fused*—holy power turned destructive, blessed energy unable to dissipate, caught between healing and destruction.
 
-Great sheets of it peeled away, revealing the horrific layers beneath. Muscle charred black in some places, glowing gold in others. Bones visible through gaps, carved with glyphs—both Aelthar's holy marks and Dominara's domination sigils, fighting for space on his skeleton.
+Great sheets of it peeled away, revealing the horrific layers beneath. Muscle charred black in some places, glowing gold in others. Bones visible through gaps, carved with training scars, marked by years of discipline—all of it failing. All of it inadequate against this catastrophic overload.
 
-The Chains of the Despot tightened. Constricting inward. Crushing ribs. Compressing organs. But the divine power wouldn't let him die. Kept him alive. Kept him feeling. Kept him experiencing every second of destruction.
+The Chains of the Despot tightened. Constricting inward. Crushing ribs. Compressing organs. And the power—his own power, trapped, reflected—wouldn't let him die. Kept him alive. Kept him feeling. Kept him experiencing every second of destruction.
 
-Bones began shattering. Not from external pressure alone. From *inside*. The radiant-black power concentrating in marrow, building pressure until femurs exploded outward like grenades. Shards of glowing bone fragments erupted through flesh, spinning through air, embedding in nearby furniture.
+Bones began shattering. Not from external pressure alone. From *inside*. The radiant power concentrating in marrow, building pressure until femurs exploded outward like grenades. Shards of glowing bone fragments erupted through flesh, spinning through air, embedding in nearby furniture.
 
 One fragment hit a noble in the chest. Burned through silk. Lodged in sternum. The man screamed, pawing at the glowing shard that sizzled and spread corruption through his torso—
 
@@ -4116,15 +3872,15 @@ But the screams began to... change.
 
 Started as pure agony. Raw. Helpless. The sound of organism being destroyed.
 
-But then—as power continued corrupting him—the screams began forming *words*. Not his words. Not his choice. The divine-tyrannical fusion speaking through him.
+But then—as power continued overloading him, as the feedback loop intensified—the screams began forming *words*. Not his choice. The overloaded power speaking through him, creating linguistic patterns from pure energy.
 
-"AELTHAR'S JUSTICE—" (scream) "—DOMINARA'S ORDER—" (wail) "—CHAINS OF LIGHT—" (shriek) "—BLESSED DOMINATION—"
+"LIGHT—" (scream) "—ENDURES—" (wail) "—CHAINS—" (shriek) "—BREAK—"
 
-A hymn. Twisted, horrible hymn. Blending Aelthar's justice chants with Dominara's domination litanies. Holy scripture and tyrannical doctrine becoming one sick prayer.
+Fragments. Broken mantras. His training, his faith, his discipline—all of it expressed through screaming as his body came apart.
 
-"LIGHT PRESERVES THROUGH CRUSHING—" (gurgling scream) "—HOPE SUSTAINED BY CHAINS—" (wet gagging) "—FREEDOM IN SUBMISSION—" (bone-cracking punctuation)
+"JUSTICE—" (gurgling scream) "—PERSISTS—" (wet gagging) "—FREEDOM—" (bone-cracking punctuation)
 
-His jaw shattered. Unhinged. Hung loose while the words kept coming—not from his mouth anymore, but from somewhere deeper. From his *essence* being rewritten.
+His jaw shattered. Unhinged. Hung loose while the fragmented words kept coming—not coherent anymore, just echoes of what he'd believed.
 
 The chamber watched in stunned silence. Some vomited—couldn't help it, the combination of poisoned food and this spectacle too much. Others laughed—hysteric, uncontrolled laughter born from minds breaking under impossibility of what they witnessed.
 
@@ -4132,17 +3888,17 @@ Most just stared. Frozen. Unable to process.
 
 This was horror beyond category. Beyond description. Beyond sanity's ability to encompass.
 
-### The Uprising Dies
+### Hope Dies
 
 The five escaped thralls—who'd planned desperate uprising, who'd waited for sign, for moment to act—felt hope drain from their bodies like water from broken vessel.
 
-This was divine intervention. This was Aelthar's power. This was what gods did when they acted.
+This was discipline. This was training. This was what paladins *did* when they resisted tyranny with everything they had.
 
-And it was *this*.
+And it killed them anyway.
 
 They'd been waiting for miracle. For salvation. For proof that light could defeat darkness.
 
-Instead they watched holy power used as torture device. Watched paladin destroyed by his own god's blessing. Watched faith made weapon.
+Instead they watched resistance used as torture device. Watched paladin destroyed by his own accumulated power. Watched faith and discipline made weapon against itself.
 
 Their plans—futile as they'd been—collapsed into ash.
 
@@ -4156,7 +3912,7 @@ Guards noticed. Approached. Saw the perfect opportunity.
 
 The massacre was efficient. Brutal. Five rebels cut down while in stupor of despair. Blood spraying. Bodies falling. None fought back. What was the point?
 
-Light didn't save you. Gods didn't help. Faith was poison.
+Resistance didn't save you. Power didn't help. Discipline was poison.
 
 The chain was eternal.
 
@@ -4164,27 +3920,27 @@ The guards wiped their blades clean. Returned to watching the main spectacle.
 
 ### The Final Moments
 
-Elandor's body was barely recognizable anymore. More wound than flesh. More bone than meat. More corruption than human.
+Elandor's body was barely recognizable anymore. More wound than flesh. More bone than meat. More energy than human.
 
 But still alive. Still conscious. Still *experiencing*.
 
 His spine arched as the chains constricted one final time. Vertebrae popping like firecrackers. His torso compressed. Organs rupturing. Ribs piercing through skin from inside and outside simultaneously.
 
-The radiant-black power reached critical mass. Concentrated in his chest cavity. Building. Building. BUILDING—
+The overloaded power reached critical mass. Concentrated in his chest cavity. Building. Building. BUILDING—
 
 "LIGHT—" (his voice, barely recognizable) "—ENDURES—" (wet, desperate) "—PLEASE—"
 
-The explosion wasn't loud. Wasn't dramatic.
+The implosion wasn't loud. Wasn't dramatic.
 
 Just... a soft *crump*. Like overripe fruit bursting.
 
-His torso *imploded*. Collapsed inward. Everything compressing to fist-sized mass of glowing corruption that burned so bright people had to look away—
+His torso *imploded*. Collapsed inward. Everything compressing to fist-sized mass of glowing energy that burned so bright people had to look away—
 
-Then expanded outward in wave of golden-black ash.
+Then expanded outward in wave of golden ash.
 
 The ash drifted through throne chamber. Settled on feast tables. On nobles' clothing. On leftover food.
 
-Holy-tyrannical ash. Blessed and cursed simultaneously.
+Blessed ash. Cursed ash. Paradox made substance.
 
 The chains—no longer supporting anything—clattered to dais floor.
 
@@ -4212,44 +3968,6 @@ The joke broke the paralysis. Nervous laughter spread through chamber. Then genu
 
 Dark humor as survival mechanism. As processing tool. As proof of participation.
 
-### Divine Reactions
-
-In the Ethereal Shroud, Whirlvex was *howling* with laughter.
-
-"THE HYMN!" he cackled. "THE BONES! THE ASH! GODS! That was BEAUTIFUL! Tragic! Horrific! HILARIOUS! I'm crying! Literally CRYING with laughter!"
-
-Aelthar stood frozen. Staring at where Elandor had been. At the ash. At the absence.
-
-His power—meant to save—had destroyed. His intervention—meant to break chains—had forged new ones. His champion—symbol of hope—had become demonstration of futility.
-
-He'd killed Elandor. Not Xipilli. Not Ssara. Not Dominara.
-
-*Him*.
-
-Shadrix materialized beside him, collecting coins from other gods, his unsettling smile wider than ever.
-
-"Priceless expression on Aelthar's face," he purred. "Mutual ruin never looked so exquisite! Betrayal of champion. Betrayal of faith. Betrayal of self. PERFECT trifecta."
-
-He raised glass of something that glowed and writhed. "Toast? To indifference? To cosmic irony? To the beautiful horror of divine power misused?"
-
-Several gods joined—Ruinok, Whirlvex, others who found entertainment in tragedy.
-
-Harmona sat collapsed, threads spilling from her hands uselessly. "We tried," she whispered. "We genuinely *tried*—"
-
-"And failed spectacularly," Shadrix finished. "Which makes it delicious. Effort making failure worse. Classic."
-
-Liberon stared at mortal realm where his visions of liberty had led to crushed dancers. Where Elandor's faith had led to corrupted death. Where hope had become horror.
-
-"What's the point?" he asked quietly. "If trying makes it worse... what's the point?"
-
-No one answered. What answer was there?
-
-Dominara appeared, examining the scene with cold satisfaction. "My chain endures," she said simply. "Crooked. Bloodier. But enduring. That's what matters."
-
-"Except," Shadrix pointed out, "now it's *obviously* corrupt. Obviously maintained through deceit. The question festers: was tyranny strong, or just... lucky?"
-
-Dominara's expression flickered. Not much. Just hint of concern. "The chain endures," she repeated. Less certain this time.
-
 ### The Aftermath
 
 The feast concluded in tainted victory. God-Queen Xipilli stood, four arms spread, addressing her assembled followers:
@@ -4262,9 +3980,11 @@ But underneath: doubt.
 
 That insidious, dangerous doubt.
 
-People had seen Aelthar's power used as torture. Had seen holy light corrupted. Had seen faith literally explode.
+People had seen a paladin's power turn against him. Had seen discipline and training become weapon. Had seen resistance literally explode.
 
-If gods could be manipulated. If divine intervention could be twisted. If chains used trickery instead of pure strength...
+But they'd also seen something else: the chains had needed *tricks*. Needed careful manipulation. Hadn't just crushed him—had to *reflect* his power back.
+
+If tyranny was absolute, why need such elaborate mechanisms?
 
 ...was tyranny inevitable? Or just... persistent?
 
@@ -4276,17 +3996,19 @@ But underneath. In hidden spaces. In whispered conversations.
 
 Doubt festered.
 
-"Did you see how they needed tricks?"
+"Did you see how they needed tricks to stop him?"
 
-"Divine power twisted—doesn't that prove chains aren't absolute?"
+"His own power reflected—doesn't that prove chains aren't absolute?"
 
 "Maybe tyrants aren't strong. Maybe just... careful?"
 
-"Maybe chains break if enough people pull simultaneously..."
+"Maybe chains break if we resist differently..."
+
+"Maybe next paladin knows not to concentrate power..."
 
 Dangerous thoughts. Futile thoughts probably. But *present* thoughts.
 
-Seeds planted in blood and horror and corrupted hope.
+Seeds planted in blood and horror and tragic failure.
 
 Would they grow?
 
@@ -4294,35 +4016,41 @@ Time would tell.
 
 ### The Cosmic Ledger
 
-In realms beyond mortal knowing, the festival's impact rippled outward:
+In realms beyond mortal knowing, distant presences observed the festival's rippling impact:
 
-**Aelthar** found himself weakened. Not from power spent—that would recover. But from *faith* eroded. His champion's fall—spectacular, public, using divine power as weapon—had damaged his followers' trust. Why pray to god who destroyed his own paladin? Why have faith in light that became torture?
+**Aelthar** felt the wound. His champion's fall—spectacular, public, self-destructive—had damaged his followers' faith. Not from his action, but from their interpretation. Why pray to god whose paladin destroys himself? Why have faith in light that explodes?
+
+The mortals misunderstood, of course. He hadn't caused this. Hadn't intervened. But perception mattered more than truth.
 
 His influence diminished. His prayers fewer. His presence thinner.
 
-He would recover. Eventually. Maybe. But the wound was deep.
+He would recover. Eventually. Maybe. But the lesson was learned: sometimes witnessing is worse than acting.
 
-**Dominara** seemed victorious—chain preserved, order maintained, hierarchy proven. But she'd been *exposed*. The tricks. The manipulations. The corruption. Her chain endured not through absolute strength, but through careful management and others' interference.
+**Dominara** seemed victorious—chain preserved, order maintained, hierarchy proven. But careful observers noticed something: her chains had needed *tricks*. Reflection. Redirection. Careful manipulation.
 
-And once people saw that—saw behind the curtain—quiet rebellions became inevitable. Small ones. Futile ones probably. But persistent, like water eroding stone.
+If tyranny was absolute, why such elaborate mechanisms?
 
-Her chain would never be quite as absolute again.
+The question lingered. Festered. Would grow.
 
-**Shadrix** profited magnificently. Bets won. Influence gained. Other gods indebted to him. He'd orchestrated mutual destruction—Aelthar weakened, Dominara scarred, Elandor destroyed, mortals traumatized—and collected payment from all sides.
+Her chain endured. But mortals had seen behind the curtain. And once seen, that knowledge couldn't be erased.
 
-"Best festival in centuries," he purred, counting cosmic currency. "Should do this more often."
+**Shadrix** observed with satisfaction. Not because he'd caused the tragedy—he hadn't, not really. But because he appreciated it. Cosmic irony made manifest. Discipline turned weapon. Faith become poison. Exquisite self-betrayal.
 
-**Whirlvex** gained nothing but entertainment. But for him, that was everything. The chaos. The corruption. The spectacular death. He'd replay those memories for eons.
+He collected no bets. Made no interventions. Just... savored.
 
-**Harmona** wept. Her threads frayed and useless. She'd tried to help. Had genuinely intended good. And had accomplished nothing but contributing to horror.
+"Best festival in centuries," he murmured. "And I barely lifted a finger."
 
-"Perhaps," she whispered, "the only mercy is not interfering at all."
+**Whirlvex** gained nothing but entertainment. But for him, that was everything. The chaos. The implosion. The spectacular death. He'd replay those memories for eons.
 
-**Liberon** raged. Threw cosmic furniture. Shattered nebulae in tantrum. His visions of liberty had led to crushed dancers. His vigor had fed corrupted death. His ideals had become weapons.
+**Harmona** wept. Her distant concern, her wishes for better outcomes—all meaningless. She'd done nothing. Could do nothing. And perhaps that was mercy.
 
-"FREEDOM SHOULD SAVE!" he roared. "LIBERTY SHOULD HELP! WHY DOES IT MAKE THINGS WORSE?!"
+"Perhaps," she whispered, "the only kindness is not interfering at all."
+
+**Liberon** raged quietly. His ideals of liberty, his hopes for freedom—they persisted in mortal hearts despite this horror. Or perhaps because of it? Martyrs created movements. Failures taught lessons.
 
 The cosmos didn't answer. It never did.
+
+But the gods watched. Distant. Mostly uninvolved. Observing the consequences of mortal choice, mortal discipline, mortal tyranny.
 
 ### The Prophecy Fulfilled
 
