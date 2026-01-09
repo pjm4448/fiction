@@ -340,7 +340,7 @@ Miriam lunged, a guttural shriek tearing from her throat, her squamous form agle
 
 The lighthouse itself gave a tremendous, stone-splintering shudder, caught in the vortex of Y'thar's burgeoning presence. As Miriam's taloned hand shot out for the tome, her lunge coincided with Samuel's violent spasm and the tower's heave in catastrophic timing. Her claws raked across Samuel's arm, drawing blood that steamed in unnatural cold. The impact jarred the Caelum Profundis from his nerveless grip with brute force.
 
-The tome spun through the air, its trajectory wild, striking the edge of the tilting profane altar and tumbling directly into the heart of flickering tapers with almost deliberate precision.
+The tome spun through the air, its trajectory wild, striking the edge of a tilting profane altar where ritual candles burned with sickly green flames. The ancient book tumbled end over end, its oilskin binding catching on the altar's jagged coral edge before plunging directly into the heart of the flickering tapers.
 
 Flames, initially reluctant as if fearing the unholy text, licked at the oilskin, then caught, erupting with unnatural, green-tinged hunger that consumed not merely paper but the very essence bound within. The sigils on the pages seemed to writhe and scream, a chorus of the damned wailing as ancient power was consumed by purifying flame.
 
