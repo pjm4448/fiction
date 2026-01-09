@@ -2232,9 +2232,110 @@ And in the Ethereal Shroud, Aelthar observed with interest.
 
 ### The Fragment's Warning
 
+```
 Late in the night, unable to sleep despite exhaustion, Elandor wandered the overseer quarters. His tattoo pulsed with residual warmth from the day's miracle—a constant reminder of divine presence.
 
 Or was it a warning?
+
+Elandor tried to laugh—wanted to laugh at the bitter, perfect irony. His father's words echoing through dying neurons: *"The forge that strengthens steel can also melt it."*
+
+He'd thought it metaphor.
+
+It was prophecy.
+
+The sound that escaped his ruined throat wasn't quite laughter. More like a wet, broken exhale that might have been mirth in another life. Dark comedy witnessed only by gods.
+
+*I was the steel. I was the forge. I melted myself.*
+
+*How... fitting.*
+
+The light didn't go out in defiance.
+
+It went out in understanding.
+
+And that understanding—that horrific, perfect clarity—went with him into darkness.
+
+The bitter almost-laugh was his last sound. His epitaph. His testament.
+
+The body stopped moving.
+
+The light extinguished.
+
+Silence held for three heartbeats.
+
+Then—
+
+High Priest Varak was first to speak. His voice carried dark amusement:
+
+"Behold messy ascension—effective, if untidy!"
+
+The joke broke the paralysis. Nervous laughter spread through chamber. Then genuine laughter. Hysteric laughter. People laughing because the alternative was screaming. Laughing because horror had become absurd. Laughing because they were alive and the paladin wasn't.
+
+"UNTIDY!" someone repeated, and it became refrain.
+
+"EFFECTIVE!"
+
+"DID YOU SEE THE EYES?!"
+
+"THE BONES!"
+
+"THE HYMN!"
+
+Dark humor as survival mechanism. As processing tool. As proof of participation.
+
+### The Aftermath
+
+The feast concluded in tainted victory. God-Queen Xipilli stood, arms spread wide, addressing her assembled followers:
+
+"THE CHAIN REMAINS UNBROKEN! The festival concludes! Order preserved! Hierarchy maintained! All witnessed! All participated! All are FAITHFUL!"
+
+Mandatory cheers. Exhausted cheers. Broken cheers.
+
+But underneath: doubt.
+
+That insidious, dangerous doubt.
+
+People had seen a paladin's power turn against him. Had seen discipline and training become weapon. Had seen resistance literally explode.
+
+But they'd also seen something else: the chains had needed *tricks*. Needed careful manipulation. Hadn't just crushed him—had to *reflect* his power back.
+
+If tyranny was absolute, why need such elaborate mechanisms?
+
+The question lingered. Festered. Would grow in minds too tired and broken to resist infection.
+
+Seeds planted in blood and horror and tragic failure.
+
+Would they grow?
+
+Time would tell.
+
+### The Cosmic Ledger
+
+In realms beyond mortal knowing, distant presences observed the festival's rippling impact:
+
+**Aelthar** noted the minor shift. One paladin's fall—spectacular, public, self-destructive—had affected local followers' faith. In Serpentis and nearby regions, prayers diminished slightly.
+
+Mortals misunderstood, of course. He hadn't caused this. Hadn't intervened beyond that initial moment on Day 4—that genuine approval when Elandor had demonstrated perfect control. The rest had been the paladin's own accumulated power, his own training expressing itself.
+
+But perception mattered.
+
+His influence in that region diminished. Temporarily. It would recover. It always did. Heroes rose and fell with regularity.
+
+A data point. Nothing more.
+
+**Dominara** seemed victorious—chain preserved, order maintained, hierarchy proven. But careful observers noticed something: her chains had needed *tricks*. Reflection. Redirection. Careful manipulation.
+
+If tyranny was absolute, why such elaborate mechanisms?
+
+The question lingered. Festered. Would grow.
+
+Her chain endured. But mortals had seen behind the curtain. And once seen, that knowledge couldn't be erased.
+
+**Shadrix** observed with satisfaction. Not because he'd caused the tragedy—he hadn't, not really. Just that one moment on Day 4, whispering encouragement, making Elandor believe his control was perfect. But because he appreciated it. Cosmic irony made manifest. Discipline turned weapon. Faith become poison. Perfect self-betrayal.
+
+He collected no bets. Made no interventions beyond that subtle push. Just... savored.
+
+"Best festival in centuries," he murmured. "And I barely lifted a finger."
 
 In a forgotten storage alcove near the infirmary, something *pulled* at him. Not physical. Spiritual. A resonance that tugged at his chest like an invisible thread.
 
