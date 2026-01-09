@@ -3542,8 +3542,6 @@ The light persisted.
 
 For now.
 
-Perhaps.
-
 ---
 
 ## Day 9: Recalibration – Forging New Links
@@ -3931,8 +3929,6 @@ Tomorrow would answer.
 The Grand Ascension awaited.
 
 And with it, the end of all things—one way or another.
-
-Perhaps.
 
 ---
 
@@ -4483,7 +4479,5 @@ The difference mattered.
 Always had.
 
 Always would.
-
-Perhaps.
 
 **The End**
