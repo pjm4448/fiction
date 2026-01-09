@@ -332,19 +332,19 @@ Not a question. A statement. Elandor froze, but the voice continued, urgent:
 
 Elandor's throat tightened. "What happened to them?"
 
-"He lasted eight days," the voice whispered. "Accumulated power. Internal discipline. Paladin training—all that righteous energy stored up like water behind a dam. He thought he could *control* it. Thought discipline meant infinite capacity."
+"He lasted eight days," the voice whispered. "All that paladin discipline. All that controlled faith. The yuan-ti watched him. *Studied* him. They see paladins as... brittle. Strong on the outside, but fragile underneath. Your strength makes you vulnerable, they think."
 
 The grip became painful. Nails digging in.
 
-"On the ninth day, during the Grand Ascension, they put him in the arena. He called on everything he'd been holding back. Every prayer. Every ounce of stored light. The yuan-ti wanted a demonstration—expected him to burn bright and fail spectacularly."
+"On the ninth day, during the Grand Ascension, they put him in the arena. He called on everything he'd been holding back. Every prayer. Every ounce of stored light. They wanted to see him burn bright."
 
 "And?"
 
-"He *exploded*." The word came out flat. Final. "Not metaphorically. His body couldn't contain what he'd accumulated. All that discipline, all that training, all that *power*—it turned inward. He didn't just die. He *ruptured*. Tore himself apart from the inside. The arena floor was... they were still scraping pieces off the stones weeks later."
+"He *broke*." The word came out flat. Final. "Catastrophically. I don't... I can't describe what happened. But it was bad. Worse than any death I've seen before or since. The yuan-ti were *delighted*. They'd been waiting for it."
 
 Silence. Just breathing in the darkness. Chains clinking softly.
 
-"The yuan-ti thought it was hilarious," the voice continued, bitter and broken. "Called it the 'Radiant Combustion.' Made jokes about paladins being their own worst enemies. About how discipline becomes prison. About forges burning too hot."
+"They think paladins are weapons that turn on themselves," the voice continued, bitter and broken. "They *want* you to be strong. Want you to hold tight to your discipline. Because they think that very strength becomes the blade that cuts you."
 
 Elandor felt cold despite the jungle heat. "Why are you telling me this?"
 
@@ -356,15 +356,15 @@ The voice trailed off. Then, softer:
 
 "And if I don't?" Elandor whispered. "If I release it slowly? If I—"
 
-"Then you fade like every other thrall," the voice said. "Crushed by inches instead of all at once. There's no good answer here, paladin. No clever solution. Just... just know what you're building. Know the cost of your own strength."
+"Then you fade like every other thrall," the voice said. "Crushed by inches instead of all at once. There's no good answer here, paladin. No clever solution. Just... be careful. The yuan-ti know something about paladins. Something they use against you."
 
 Another wet cough. The hand withdrew completely.
 
-"The forge that strengthens steel can also melt it," the voice murmured, fading as though its owner was rolling away. "Discipline is a blade that cuts both ways. Remember that, when they start pushing. When they start *testing*. Remember that your greatest weapon might also be your—"
+"They'll push you," the voice murmured, fading as though its owner was rolling away. "Test you. Try to make you accumulate until... until something gives. I don't know what. But they *know*. They've done this before. Just... don't let them make you the weapon against yourself."
 
 The voice dissolved into ragged breathing, then silence.
 
-Elandor lay in the darkness, the warning echoing in his mind. *Exploded. Ruptured. Forge burning too hot.*
+Elandor lay in the darkness, the warning echoing in his mind. *Brittle. Vulnerable. Weapon against yourself.*
 
 His brand pulsed—gentle, reassuring. Aelthar's presence. But underneath, he felt it: the beginning of accumulation. The careful gathering of internal strength. The disciplined hoarding of power against future need.
 
@@ -624,9 +624,25 @@ For just a moment—a brief, dangerous moment—Ssara wondered what it felt like
 
 The moment passed. She coiled tighter, veils shifting. The predator mask settled back into place.
 
-Ssara's veiled face tilted slightly, and Elandor could *feel* her smile beneath the silk.
+Her attention swept the chamber—and caught on Elandor.
+
+He felt it. The weight of her gaze. Like being examined by something ancient and patient.
+
+Ssara's veiled face tilted, studying him. Then, almost casually, one of her six hands gestured in his direction. A subtle motion, elegant and precise.
+
+Something *cold* struck Elandor's chest. Not physical. Not painful. Just... wrong. Like ice spreading under his skin. His tattoo flared immediately—warm, defensive, pushing back against whatever she'd sent.
+
+The cold faded. Neutralized.
+
+But the defense had cost him. He felt it—a tiny fraction of his internal reservoir spent. His divine light fighting off... what? Poison? Curse? Some necrotic touch?
+
+Ssara's veiled face tilted slightly, and Elandor could *feel* her smile beneath the silk. Satisfied. As though confirming something.
 
 "Now," she purred, "let us see what the heavens have to say about our... *ascension*."
+
+*She's testing me,* Elandor realized with creeping dread. *Not to hurt me. To make me fight back. To make me use my power. To make me...*
+
+*Accumulate.*
 
 ### The Evisceration and Omen-Reading
 
@@ -1018,7 +1034,21 @@ One moment pierced the horror: A thrall named Grevik—delirious from pain, mind
 
 The crowd erupted in genuine laughter. Hysterical. Relief through absurdity. The man begging for a raise during his own death became instant legend—dark comedy in a city where humor was survival mechanism.
 
-But in his cell, Elandor finally broke. Not his faith. His ability to witness. He *wept*. Silent tears streaming while his tattoo pulsed with accumulated power that had nowhere to go. Every prayer adding pressure. Every horror witnessed compressing his resolve tighter.
+But in his cell, Elandor watched and something inside him *cracked*.
+
+Not his faith—that held, stubborn as ever. But something deeper. Something foundational.
+
+*This is evil,* he thought, and the words felt insufficient. Toothless. *This isn't tyranny or oppression or injustice. This is... annihilation. Not of the body. Of the* soul*. They've made a man beg for promotion while they kill him. They've turned death into absurdity. Made suffering so complete it becomes* comedy*.*
+
+He *wept*. Silent tears streaming while his tattoo pulsed with accumulated power that had nowhere to go. Every prayer adding pressure. Every horror witnessed compressing his resolve tighter.
+
+But the tears weren't catharsis. Weren't release. They were just... evidence. Evidence that he was breaking. That witnessing had costs his discipline couldn't account for.
+
+Grevik's laughter-turned-screaming echoed across the plaza. And Elandor couldn't unhear it. Couldn't unsee it. Couldn't unfeel the horror of a system so perfectly cruel it made death ridiculous.
+
+*Aelthar, what am I supposed to do with this?* he prayed desperately. *How do I fight something that makes suffering into jokes? How do I resist evil that turns victims into punchlines?*
+
+No answer came. Just the warmth of his tattoo. The pressure building in his chest. The knowledge that he was holding too much, witnessing too much, enduring too much.
 
 *How much can I hold?* The question haunted him. *How much before the vessel cracks?*
 
@@ -1044,7 +1074,13 @@ They sat in silence, two survivors sharing a moment of peace that wouldn't last 
 
 **Day 6** brought Trials by Venom. Fifty-three accused subjected to poisons in the pyramid's central chamber. Each injection narrated by alchemists like lecture. Each reaction measured, catalogued, bet upon. Bodies swelling, blackening, bursting in methodical succession.
 
-The pressure in Elandor's chest grew worse. Physical now. Heat building behind his sternum. Vision blurring when he channeled resistance. The warning from Day 1 echoed: *"He exploded. All that discipline turned inward."*
+And Ssara was there. Watching. Always watching.
+
+Elandor felt her gaze on him throughout the trials. Felt those casual gestures—a hand wave here, a finger curl there. Each time, that cold touch struck his chest. Each time, his tattoo flared to neutralize it. Each time, more of his internal power spent on defense rather than purpose.
+
+*She's doing this deliberately,* he realized. *Making me fight. Making me accumulate. Building the pressure.*
+
+The pressure in Elandor's chest grew worse. Physical now. Heat building behind his sternum. Vision blurring when he channeled resistance. The warning from Day 1 echoed: *"They'll make you the weapon against yourself."*
 
 *Three more days,* he thought. *Can I hold three more days?*
 
@@ -3644,7 +3680,13 @@ The murmurs became cheers. Understanding dawned. This was execution. But *elabor
 
 Guards brought forth the Chains of the Despot—those sacred implements used on Day 6, blessed by Dominara herself, capable of crushing bodies and dominating souls simultaneously.
 
-They wrapped Elandor in iron and enchantment. Bound him standing. Arms spread. Legs locked. Head forced upward. Every chain link inscribed with glyphs that pulsed with necrotic power.
+But these chains were more than torture devices. They were *countermeasures*. Centuries of yuan-ti experience with paladin prisoners had taught them something crucial: holy power could be turned against itself. The chains weren't designed to suppress divine energy—they were designed to *contain* it. To reflect it. To create a feedback loop that made the victim's own strength the mechanism of destruction.
+
+Each link was inscribed with glyphs of absorption and redirection. Each connection point a node designed to capture radiant energy and compress it inward. The chains didn't fight holy power—they *channeled* it. Made it a weapon against its wielder.
+
+Xipilli had commissioned them specifically after the last paladin's dramatic failure three years prior. *If they accumulate power,* she'd reasoned, *let them accumulate until they rupture. Turn discipline into detonation.*
+
+They wrapped Elandor in iron and enchantment. Bound him standing. Arms spread. Legs locked. Head forced upward. Every chain link pulsed with necrotic power, ready to do its designed work.
 
 And then Vizier Ssara glided forward.
 
@@ -3708,7 +3750,29 @@ Elandor felt it happening inside him. Felt his own power becoming weapon against
 
 "No," he whispered. "No. NO. What—"
 
-The golden radiance began... *curdling*. Not from external corruption. From *pressure*. From concentration beyond what mortal flesh could contain. Holy power meant to be channeled, released, used—instead being trapped, compressed, forced to critical mass.
+And then understanding struck. Terrible. Complete. Devastating.
+
+*The forge that strengthens steel can also melt it.*
+
+The phrase arrived unbidden—not from memory, but from *comprehension*. The warning he'd received on Day 1. The vague threat about paladins being brittle. The way the yuan-ti had *studied* him. Tested him. Made Ssara cast those necrotic touches that forced his power to fight back, to *accumulate*.
+
+They hadn't been trying to break his faith.
+
+They'd been *weaponizing* his discipline.
+
+Every act of resistance had made him stronger—and every increment of strength had brought him closer to this moment. The moment when his own accumulated power, trapped and reflected by chains specifically designed for this purpose, would tear him apart from the inside.
+
+*They made me do this to myself.*
+
+The realization was worse than the pain. Worse than the death. They'd turned his greatest virtue—his disciplined endurance, his refusal to break—into the blade that killed him.
+
+His father's training. Aelthar's teachings. The forge that had made him strong.
+
+All of it had become his execution chamber.
+
+"No," he whispered again. Not denial. Grief. "They... they used my faith... used my discipline... against..."
+
+The golden radiance began... *curdling*. Not from external corruption. From *pressure*. From concentration beyond what mortal flesh could contain. Holy power meant to be channeled, released, used—instead being trapped, compressed, forced to critical mass by chains designed exactly for this purpose.
 
 It was like watching star collapse.
 
@@ -3833,6 +3897,32 @@ Ssara uncoiled from empty space, her veils settling, her expression invisible bu
 Silence.
 
 Complete, stunned silence.
+
+Then Xipilli rose from her throne, descended the steps with measured grace. She approached the empty chains, the scattered ash, the space where Elandor had been.
+
+Her expression was unreadable. Satisfied, certainly. But something else too. Something that might have been... respect? Recognition?
+
+She knelt—graceful even in that—and touched the ash. It clung to her fingers, still faintly warm.
+
+*He was strong,* she thought, and the admission surprised her. *Stronger than most. His faith was genuine. His discipline, real. If we had simply tortured him, broken him through conventional means...*
+
+She wouldn't have succeeded. She knew that now. Had suspected it for days.
+
+The paladin's raw faith had been too powerful. Too genuine. His light too bright for simple darkness to extinguish.
+
+So she'd needed *strategy*. Needed Ssara's subtle enchantments forcing him to fight back constantly, building pressure he couldn't release. Needed the carefully designed chains to turn his own power inward. Needed to make his strength the weapon against himself.
+
+*We didn't break him,* Xipilli realized. *We made him break himself. And that required... effort. Planning. Centuries of experience with paladins who came before.*
+
+She stood, wiping the ash from her fingers.
+
+"He was worthy," she announced to the chamber. Not loud. Not theatrical. Just... stated. "His faith was genuine. His discipline, admirable. It required *effort* to unmake him." Her smile was thin. Sharp. "Let that be the lesson. Even the strongest light requires deliberate engineering to extinguish. We do not fight faith with simple cruelty. We fight it with *precision*."
+
+She returned to her throne, and the chamber slowly resumed breathing.
+
+The ash continued drifting. Settling. Becoming part of Serpentis.
+
+Another paladin. Another failure. Another lesson in tyranny's patient architecture.
 
 But in that final microsecond—between rupture and oblivion—something broke through the chaos.
 
