@@ -74,9 +74,39 @@ A hand gripped his shoulder, and he looked up to see an old Wanderer thrall, may
 
 "Don't," the old man whispered. "Don't give them your anger. They'll smell it like blood in water, and then you'll dance. You'll dance and scream and die badly, and it won't change a *goddamn thing*."
 
-Elandor swallowed hard and nodded. The old man was right. Anger was a luxury reserved for those who had the power to act on it.
+Elandor swallowed hard. The old man was right about the anger. But faith wasn't just patience—it was also *witness*. Action, even small action, even doomed action.
 
-All he had was faith. And faith—at least for now—required patience.
+His water ration sat heavy in the clay cup at his side. One cup per twelve hours. Barely enough to survive.
+
+Below, in the demonstration plaza, a boy lay dying—one of the venom test subjects, abandoned on the platform after the alchemist had finished. Still alive. Still suffering. No one helped. Helping was punished.
+
+Elandor looked at his water. Looked at the guards' positions. Looked at the dying boy.
+
+*Small rebellions,* he thought. *Small light. That's all I can offer.*
+
+He stood slowly, cup in hand, and began walking toward the plaza's edge. The old man hissed a warning behind him, but didn't follow.
+
+An overseer noticed. "Where do you think—"
+
+"My mistake," Elandor said quickly, bowing his head. "Dizzy from the heat. Thought I saw... nevermind." He stumbled slightly, genuinely unsteady—easy enough given the conditions—and in that stumble, tipped his cup.
+
+The water splashed down onto the plaza stones. Trickled between cracks. Ran in a thin stream toward where the boy lay gasping.
+
+The overseer watched the water spill, shook his head in disgust. "Clumsy thrall. That's your ration for the next shift. Enjoy your thirst."
+
+"Yes, master," Elandor murmured, retreating.
+
+But he watched. Watched the water pool near the boy's outstretched hand. Watched the boy's fingers drag through the moisture, bring them weakly to cracked lips.
+
+It wouldn't save him. Wouldn't change anything.
+
+But the boy's eyes found Elandor's across the plaza. And for just a moment—one heartbeat—something passed between them. Recognition. Gratitude. *Witness*.
+
+Then the boy died.
+
+But he'd died knowing someone cared. Someone risked something, however small.
+
+All he had was faith. And sometimes faith required more than patience—it required acting, even when action was futile.
 
 ---
 
@@ -370,7 +400,21 @@ The prayer was a lifeline. The only lifeline. Without it, he would scream. Witho
 
 The dying couatl's eyes met his—just for an instant. Intelligent. Aware. Pleading not for rescue but for *acknowledgment*. For someone to bear witness that this mattered. That suffering wasn't meaningless.
 
-*Why?* The question rose unbidden in Elandor's mind. *Why do You allow this? They abandoned tyranny for Your justice. Chose light over serpent-worship. And You let them be flayed alive for* entertainment*.*
+Elandor could have looked away. Should have. The other censer-bearers kept their eyes down, focused on their duties, protecting themselves from the weight of witness.
+
+But he didn't.
+
+He stopped. Met the couatl's gaze fully. Let the creature see that someone was watching. Someone *cared*.
+
+*I see you,* he thought, pouring intention into the silent words. *Your sacrifice isn't meaningless. I will remember.*
+
+The couatl's pupils dilated slightly—recognition. Understanding. Then its eyes closed, and something in its suffering seemed to... ease. Not the physical agony, but the existential terror of dying alone and unwitnessed.
+
+A yuan-ti priest noticed. "Move along, thrall. The dying serve their purpose without your *sentiment*."
+
+Elandor bowed his head, resumed walking. But he'd made his choice. Small defiance. Small rebellion. He would not let them die unseen.
+
+*Why?* The question rose as he moved through the chamber. *Why do You allow this? They abandoned tyranny for Your justice. Chose light over serpent-worship. And You let them be flayed alive for* entertainment*.*
 
 His tattoo pulsed—warm, present, but offering no answers. Just the steady reminder of divine connection.
 
@@ -378,13 +422,15 @@ His tattoo pulsed—warm, present, but offering no answers. Just the steady remi
 
 The questions felt like blasphemy. But they also felt *true*. Honest doubt born from honest horror.
 
-*I will trust You,* Elandor prayed finally. *But I don't understand. And maybe... maybe that's the point. Maybe faith means enduring the questions.*
+And yet... he'd chosen to witness. Chosen to offer that small comfort of acknowledgment. That was action. Limited, perhaps futile, but *chosen*.
 
-His tattoo warmed fractionally, as though acknowledging the struggle. The doubt that made faith *real* rather than mere recitation.
+*I will trust You,* Elandor prayed finally. *But I don't understand. And I won't stop asking. Maybe... maybe that's the point. Maybe faith means enduring the questions while still choosing to act.*
 
-Without questions, he would become like the others—the hollow-eyed thralls who moved through the chambers like animated corpses, faces blank, souls fled to whatever small mercies oblivion offered.
+His tattoo warmed fractionally, as though acknowledging the struggle. The doubt that made faith *real* rather than mere recitation. The small choices that transformed passive endurance into active resistance.
 
-Better to doubt while believing than to believe without thought.
+Without questions, he would become like the others—the hollow-eyed thralls who moved through the chambers like animated corpses, faces blank, souls fled.
+
+Better to doubt while believing, to question while acting, than to believe without thought or witness without choice.
 
 ### The Renewal of Pacts
 
@@ -812,11 +858,33 @@ That night, in their upgraded cell, Kessa asked the question that had been build
 
 Elandor met her eyes. "Because giving up means they've already won."
 
-"We've already lost," she countered. "The minute they put these collars on, we lost."
+"They *have* already won," Kessa said flatly. "Look around. We're performing monkeys in their circus. We kill for their entertainment, and in return we get slightly better cages." She gestured at their upgraded quarters with contempt. "This isn't victory. It's just slower dying with cushions."
 
 "Maybe." He touched his chest, over the hidden tattoo. "But I'd rather lose faithful than live hollow."
 
-Kessa laughed—bitter, short. "Faithful and dead. Great epitaph." But her expression softened slightly. "My husband used to say things like that. Temple guard. Real believer." She looked away. "Died screaming anyway."
+"Hollow?" Kessa's laugh was sharp, wounded. "You think I'm hollow? You think surviving makes you *empty*?" She leaned forward, eyes blazing. "I held my daughter while they took her for the blood harvest. Five years old. I could have fought—grabbed a guard's knife, gone down swinging. Made a *faithful* stand." Her voice cracked. "But I didn't. I let them take her. I survived. And you know what?"
+
+Elandor stayed silent.
+
+"Some nights I hate myself for it. Wonder if she thought I was a coward. Wonder if faith would've been better than this... this grinding on." She wiped her eyes roughly. "But other nights? Other nights I remember her laugh. Remember the mud paintings she made. Remember that those memories only exist because *I'm* still here to hold them." She met his gaze. "That's not hollow, Brightmantle. That's not giving up. That's just... a different kind of resistance."
+
+"I don't think you're hollow," Elandor said quietly. "I think you're brave in ways I'm not."
+
+Kessa snorted. "Don't patronize me."
+
+"I'm not." He leaned back against the wall. "Faith is easy for me. I have a god who answers. A mark that burns when I pray. You have nothing but your own will—and you keep going anyway. That's not hollow. That's..." He struggled for words. "That's stronger than anything I do."
+
+She studied him for a long moment. "My husband used to say things like that. Temple guard. Real believer." She looked away. "Died screaming anyway. Faithful and dead."
+
+"But you still loved him," Elandor said. "Even though faith didn't save him."
+
+Kessa's jaw tightened. "Yeah. I did. Still do." She exhaled slowly. "Maybe that's my problem. Can't quite let go of believing that *meaning* something—even in death. That faith and hope aren't just fancy words for prolonging suffering."
+
+"They're not," Elandor said.
+
+"Prove it," Kessa challenged. "Not with words. Not with prayers. *Prove* it. Show me faith does something other than make the dying slower."
+
+Elandor had no answer. Just the warmth in his chest and the weight of her skepticism.
 
 "I'm sorry."
 
@@ -868,7 +936,19 @@ Elandor nodded.
 
 "Maybe that's enough," Elandor said softly.
 
-"It's not." Her voice was firm. "But maybe it's all we've got."
+"It's not." Her voice was firm. "But maybe it's all we've got." She paused, then added quietly: "I know who's singing it, by the way. Old man named Corvin. Blind. Nearly dead. Sings every night, knowing he'll be beaten for it."
+
+"And you haven't reported him."
+
+Kessa's smile was grim. "No. I even... I bring him water sometimes. After the beatings. It's stupid. Pointless. He'll die anyway—probably in the next purging." She met Elandor's eyes. "But every time I do it, every time I help him drink, I feel like... like I'm not completely theirs. Not yet. They've taken everything else, but they can't make me *want* him silent. Can't make me *enjoy* his punishment."
+
+"That's not nothing," Elandor said.
+
+"It's pathetic compared to your glowing heroics."
+
+"It's braver," he countered. "You have no divine protection. No mark promising you meaning. You do it because you choose to. That's real resistance, Kessa. That's real courage."
+
+She looked away, uncomfortable with the praise. "Yeah, well. Don't make speeches about it. I'm not a hero. I'm just... stubborn."
 
 From somewhere in the adjacent pens, that same voice rose again—thin, wavering, but unmistakable. The lullaby. About stars and freedom.
 
@@ -879,6 +959,8 @@ When it ended, Kessa wiped her eyes roughly. "Whoever that is will be beaten tom
 "Probably," Elandor agreed.
 
 "Worth it though."
+
+"Yeah," Kessa said softly. "Worth it."
 
 "Yeah."
 
@@ -1410,11 +1492,25 @@ Elandor helped his opponent to his feet. The man stared at him like he'd grown a
 
 "Why?" the man whispered.
 
-"Because Aelthar teaches mercy," Elandor said simply. "Even here."
+"Because Aelthar teaches mercy," Elandor said. Then, louder, pitched to carry to the stands: "And because I choose it. Even here. *Especially* here."
+
+A small thing. Tiny rebellion. But framing it as *choice*—not just doctrine, not just divine command, but personal *decision*—made it something more. Made it agency. Made it resistance.
+
+The overseer's jaw tightened. "You're making this difficult."
+
+"Good," Elandor said quietly, meeting the man's eyes. "It should be difficult. Killing should never be easy. The moment it becomes easy, we've lost everything that makes us human."
+
+For just an instant, something flickered across the overseer's face. Not agreement, exactly. But... recognition. The ghost of a moral compass long since buried under layers of survival and complicity.
+
+Then it was gone. The overseer stepped back. Gestured to the guards.
+
+"Remove them both. The paladin lives to fight another day. The loser goes to medical—if he survives the hour, we'll find use for him."
 
 He turned and walked from the pit, blade still unbloodied by poison, collar still locked around his throat, but something had changed.
 
 Hope swelled in his chest. Fragile. Dangerous. But *real*.
+
+*I chose mercy. Not because I had to. Because I* chose *to. That matters. Even here, that matters.*
 
 *The light guides me. And perhaps... perhaps others can see it too.*
 
@@ -3748,9 +3844,35 @@ So she'd needed *strategy*. Needed Ssara's subtle enchantments forcing him to fi
 
 *We didn't break him,* Xipilli realized. *We made him break himself. And that required... effort. Planning. Centuries of experience with paladins who came before.*
 
-She stood, wiping the ash from her fingers.
+But underneath that satisfaction, something else stirred. Something she hadn't felt in decades. Centuries, perhaps.
 
-"He was worthy," she announced to the chamber. Not loud. Not theatrical. Just... stated. "His faith was genuine. His discipline, admirable. It required *effort* to unmake him." Her smile was thin. Sharp. "Let that be the lesson. Even the strongest light requires deliberate engineering to extinguish. We do not fight faith with simple cruelty. We fight it with *precision*."
+Doubt.
+
+*He believed so completely,* she thought, studying the ash. *Even at the end. Even when he understood what we'd done. He still had that warmth in his chest. That connection to something beyond.* 
+
+She'd seen countless believers break. Watched faith shatter like glass when confronted with sufficient cruelty. Dominara's power was built on that—on the proven *reality* of serpent dominance versus the hollow *promises* of gods like Aelthar.
+
+But this one... this one hadn't broken. Not truly. His body had failed. His discipline had turned against him. But that core of light—that stubborn, irrational *certainty*—had persisted until the very end.
+
+*What if we're wrong?*
+
+The thought came unbidden, unwelcome. Dangerous.
+
+*What if faith isn't weakness? What if we've spent centuries fighting something that can't be defeated through architecture and strategy? What if all our careful systems just... postpone an inevitable reckoning?*
+
+Xipilli crushed the thought immediately. Buried it beneath layers of certainty and divine mandate and the evidence of her own power.
+
+But it had existed. For just one moment. One heartbeat of uncertainty.
+
+She stood, wiping the ash from her fingers with more force than necessary.
+
+"He was worthy," she announced to the chamber. Her voice was steady. Certain. Projecting absolute confidence. "His faith was genuine. His discipline, admirable. It required *effort* to unmake him." Her smile was thin. Sharp. "Let that be the lesson. Even the strongest light requires deliberate engineering to extinguish. We do not fight faith with simple cruelty. We fight it with *precision*."
+
+*And we always win,* she added silently. *We must always win. Because if we don't... if faith proves stronger than force...*
+
+She didn't finish the thought. Couldn't afford to.
+
+God-Queens didn't doubt. Couldn't doubt. Doubt was for lesser beings.
 
 She returned to her throne, and the chamber slowly resumed breathing.
 
