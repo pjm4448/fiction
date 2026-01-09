@@ -1084,7 +1084,7 @@ In the Ethereal Shroud, Liberon whooped with manic glee. "Did you SEE that?! Per
 
 "You cheated," Dominara said flatly.
 
-"I introduced *variables*," Liberon corrected. "Variables are allowed. Compact says so. Not my fault the variables favored the underdog."
+"I introduced *variables*," Liberon corrected. "We influence, we don't dictate. Not my fault the variables favored the underdog."
 
 "You let the weak taste freedom in the blade," Aelthar said quietly, and there was approval in his voice. "You showed them that victory is possible. Even here."
 
@@ -2340,9 +2340,9 @@ In the Ethereal Shroud, Harmona watched with increasing distress. Her form—sof
 
 "I'm intervening," Harmona announced.
 
-"You can't," Dominara said, materializing with cold authority. "The Pruning is sacred. Necessary. You interfere, you violate the Compact—"
+"You can't," Dominara said, materializing with cold authority. "The Pruning is sacred. Necessary. Direct interference is—"
 
-"The Compact allows mercy," Harmona shot back. "Subtle mercy. Non-lethal intervention. I'm not *saving* them. Just... dulling the pain. For the innocent ones. The ones caught in this through no fault but bad luck."
+"I work through subtlety," Harmona shot back. "As we all do. I'm not *saving* them. Just... dulling the pain. For the innocent ones. The ones caught in this through no fault but bad luck."
 
 She reached through the veil before Dominara could object further.
 
@@ -2794,9 +2794,9 @@ Harmona materialized, expression grieved. "You forced him to kill himself. That'
 
 "Death by his own hand?" Harmona shook her head. "When did we become what we oppose?"
 
-"We don't oppose ORDER," Dominara said, appearing with cold fury radiating from her form. "We oppose CHAOS. And you, Lightbearer, just introduced chaos. Again. Exposed another of my priests as corrupt. Made mockery of my trials." Her eyes blazed. "This is the SECOND time you've intervened directly. The Compact—"
+"We don't oppose ORDER," Dominara said, appearing with cold fury radiating from her form. "We oppose CHAOS. And you, Lightbearer, just introduced chaos. Again. Exposed another of my priests as corrupt. Made mockery of my trials." Her eyes blazed. "This is the SECOND time you've pushed boundaries. We prefer *subtlety*—"
 
-"Permits defense of the innocent," Shadrix interrupted smoothly, materializing with his unsettling smile. "Which Sethrak was. Proven by the accuser's confession. Aelthar followed the rules." He paused. "Technically."
+"And what's more subtle than a guilty conscience?" Shadrix interrupted smoothly, materializing with his unsettling smile. "Sethrak was innocent. Proven by the accuser's confession. Aelthar barely touched the situation." He paused. "Technically."
 
 "Your 'technicalities' are wearing thin," Dominara snarled.
 
@@ -3120,7 +3120,7 @@ In the Ethereal Shroud, Whirlvex watched the proceedings with manic glee buildin
 
 Too late.
 
-Whirlvex's power lashed out, touching the mortal realm with gleeful malice. Not breaking rules—nothing in the Compact forbade divine pranks, technically—but definitely *bending* them.
+Whirlvex's power lashed out, touching the mortal realm with gleeful malice. Not his usual approach—gods typically preferred subtlety—but chaos was his domain, after all.
 
 Body-swap magic. Dozens of targets. Randomized.
 
