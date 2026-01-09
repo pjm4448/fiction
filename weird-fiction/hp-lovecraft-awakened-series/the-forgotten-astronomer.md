@@ -279,21 +279,21 @@ Samuel's legs nearly gave way beneath him. His breath came in short, desperate g
 
 "Miriam." The name escaped him as prayer and accusation both.
 
-She tilted her head, the gesture almost familiar, almost human. "Beloved." Her voice was a gurgle drawn from the deepest abysses of the ocean, a sound that vibrated in frequencies that caused his bones to ache. Yet beneath the alien resonance, he caught something else. Recognition. "Thou hast come at last."
+She tilted her head, the gesture almost familiar, almost human. "Beloved." Her voice was a gurgle drawn from the deepest abysses of the ocean, a sound that vibrated in frequencies that caused his bones to ache. Yet beneath the alien resonance, he caught something else. Recognition. "You've come at last."
 
 "No." He shook his head violently, denying what stood before him. "No, this is... this is madness. A fever dream. The tome's influence."
 
-"Is it?" She took a step closer. Samuel flinched back against the wall. "Thou hast beheld the stars. Thou knowest what is real."
+"Is it?" She took a step closer. Samuel flinched back against the wall. "You've beheld the stars. You know what is real."
 
 The tome pressed against his chest, burning cold through his shirt. His knuckles had gone white as bleached bone from gripping it. "What have you become?" The question came out broken. "What nightmare wearing your face stands before me?"
 
 Something flickered in her blazing emerald eyes. Amusement? Pity?
 
-"I am become what I always was," she said simply. "I have but ceased pretending otherwise."
+"I have become what I always was," she said simply. "I've simply stopped pretending otherwise."
 
 The words struck him like a blow to the sternum. He sagged, shoulders hitting the cold stone. "Our years together." Tears, hot and bitter, blurred his vision. "Was it nothing but deception from first to last?"
 
-She moved closer. Not with menace, but with something worse. Patience. The patience of the tide. "Deception?" The word rolled strangely off her transformed tongue. "I shared thy bed. I walked thy gardens. I listened to thy theories about stellar drift and cosmic velocities."
+She moved closer. Not with menace, but with something worse. Patience. The patience of the tide. "Deception?" The word rolled strangely off her transformed tongue. "I shared your bed. I walked your gardens. I listened to your theories about stellar drift and cosmic velocities."
 
 "But did you feel?" His voice cracked. "Did you ever feel even a shadow of what I felt? Did any of it matter to you?"
 
@@ -301,22 +301,22 @@ Silence stretched between them like a chasm. The lighthouse groaned around them.
 
 Her webbed claw, the fingers elongated and tipped with chitinous talons that gleamed like polished obsidian, reached toward him. Not for the tome. For his face. Samuel froze, unable to retreat further.
 
-The talons stopped a hair's breadth from his cheek. "Thy devotion was," she paused, and for the briefest of moments, something almost human crossed her alien features, "useful, Samuel."
+The talons stopped a hair's breadth from his cheek. "Your devotion was," she paused, and for the briefest of moments, something almost human crossed her alien features, "useful, Samuel."
 
 The word shattered something in him. He let out a sound between laugh and sob. "Useful."
-"Aye." Her hand withdrew. "It anchored thee to the path I laid as surely as an anchor holds a ship to its mooring."
+"Yes." Her hand withdrew. "It anchored you to the path I laid as surely as an anchor holds a ship to its mooring."
 
 "A tool." His voice was hollow now, emptied of all feeling. "I was nothing but a tool."
 
-"Thou wert," she corrected, her tone shifting from almost-tender to something colder, more alien, "what was needed. Thy grief made thee pliable. Thy guilt made thee desperate. Thy love," she leaned closer, her breath cold and rank with brine, "thy love made thee blind."
+"You were," she corrected, her tone shifting from almost-tender to something colder, more alien, "what was needed. Your grief made you pliable. Your guilt made you desperate. Your love," she leaned closer, her breath cold and rank with brine, "your love made you blind."
 
 Samuel's head snapped up, fury replacing despair. "How dare you?"
 
-"I dare because it is truth." Her eyes blazed brighter. "Thou sought the stars for answers. I gave thee the means. Thou sought me in the depths. I showed thee the way." Her voice dropped to a whisper that somehow carried more weight than any shout. "It served Y'thar in His long dreaming. And it served me in mine own purposes, which thou canst not begin to fathom."
+"I dare because it is truth." Her eyes blazed brighter. "You sought the stars for answers. I gave you the means. You sought me in the depths. I showed you the way." Her voice dropped to a whisper that somehow carried more weight than any shout. "It served Y'thar in His long dreaming. And it served me in my own purposes, which you cannot begin to fathom."
 
 "Then tell me." The words came out as a desperate challenge. "Tell me what was so important that you would destroy everything we..."
 
-"We?" She cut him off with a sound that might have been laughter. "There was no we, Samuel. There was only ever the plan, and thou playing thy part with admirable precision."
+"We?" She cut him off with a sound that might have been laughter. "There was no we, Samuel. There was only ever the plan, and you playing your part with admirable precision."
 
 His hand tightened on the tome until the binding cracked. "Did you ever," he choked on the words, forced them out anyway, "did you ever love me at all?"
 
@@ -324,7 +324,7 @@ For a long moment, she simply stared at him with those unfathomable green eyes t
 
 "Love is a human conceit," she said. "I am no longer human. Perhaps I never was."
 
-Her claw shot out, this time unmistakably reaching for the tome. "Now givest me what I came for."
+Her claw shot out, this time unmistakably reaching for the tome. "Now give me what I came for."
 
 The restored telescope stood aimed at the Veil with unyielding precision. Through its scarred lens, Y'thar's single, lidless orb pulsed, a malevolent sun in a dying universe. Its iris was a swirling vortex of impossible colours: rubies bleeding into diseased emeralds, sapphires drowning in putrid amber, all spiraling into a central pupil blacker than obsidian. Its scrutiny was physical weight, pressure that threatened to pulverize his intellect into gibbering fragments.
 
