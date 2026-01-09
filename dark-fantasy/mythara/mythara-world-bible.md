@@ -508,7 +508,7 @@ These conflicts define the precarious balance of power in the Arcanum Epoch. Tem
 
 ## Major Trade Centers and Routes
 
-Trade forms the lifeblood of the Arcanum Epoch, binding the diverse kingdoms, tribes, and wild frontiers of Mythara into a single, if fractious, economic web. Caravans laden with spell components, masterwork arms, exotic reagents, and everyday goods traverse perilous overland routes guarded by ranger scouts and mercenary fighters, while sturdy merchant cogs and longships brave coastal waters haunted by sahuagin raiders, hydras, and the occasional kraken awakening. Coinage adheres to the familiar standards—copper, silver, electrum, gold, and platinum—while spells such as *detect magic* and *identify* are routinely employed in markets to authenticate enchanted wares and foil the forgeries of rogue artisans.
+Trade forms the lifeblood of the Arcanum Epoch, binding the diverse kingdoms, tribes, and wild frontiers of Mythara into a single, if fractious, economic web. Caravans laden with spell components, masterwork arms, exotic reagents, and everyday goods traverse perilous overland routes guarded by ranger scouts and mercenary fighters, while sturdy merchant cogs and longships brave coastal waters haunted by sahuagin raiders, hydras, and the occasional kraken awakening. Beyond standard coinage (copper, silver, electrum, gold, and platinum), trade also involves precious gems, rare magical components, and enchanted items. Spells such as *detect magic* and *identify* are routinely employed in markets to authenticate enchanted wares and foil the forgeries of rogue artisans.
 
 ### Primary Trade Centers
 
@@ -522,7 +522,7 @@ The premier eastern trade hub and the busiest port on the Vast Inner Bay. Home t
 A thriving coastal metropolis of 35,000 that survived the Collapse and retained its independence through shrewd neutrality. Its deep natural harbor accommodates ocean-going vessels trading with distant isles and surviving goblin archipelagos. Silverport is renowned for its shipyards, pearl divers, and markets offering cloaks of the manta ray, tridents of fish command, and rare seafood components for *water breathing* rituals. Merchant guilds here often employ bards to negotiate favorable terms and rogues to safeguard (or pilfer) cargoes.
 
 **Coilkeep (Serpentis, Southern Jungles)**  
-A massive stepped pyramid city serving as the theocratic capital, built atop the confluence of poison-rich rivers. Population ~40,000, predominantly Serpentan humans forming the city's foundation with a ruling yuan-ti elite. Yuan-ti purebloods administer the theocracy from temple heights, yuan-ti malisons command the legions, and yuan-ti abominations coil in the deepest sanctums. Spirit nagas (like Ssyrak the Thrice-Coiled) deliver oracles from obsidian pools, medusa guards petrify trespassers in sacred groves, and goliath temple warriors enforce order. The city embodies the serpent's nest: Serpentan human masses provide the bulk and foundation—the numerous outer coils—while yuan-ti direct from positions of power as the venomous fangs and guiding head. Its vast markets sell poisons harvested from giant constrictors, couatl feathers (willingly given or otherwise), yuan-ti artifacts, and herbs essential for brewing antitoxins and potions of poison resistance. Coilkeep dominates southern river and jungle trade, sending barge convoys north along the great rivers and receiving caravans from the ebony realms to the far south.
+A massive stepped pyramid city serving as the theocratic capital, built atop the confluence of poison-rich rivers. Population ~40,000, predominantly Serpentan humans forming the city's foundation with a ruling yuan-ti elite. Yuan-ti purebloods administer the theocracy from temple heights, yuan-ti malisons command the legions, and yuan-ti abominations coil in the deepest sanctums. Dark nagas (like Ssyrak the Thrice-Coiled) deliver oracles from obsidian pools, medusa guards petrify trespassers in sacred groves, and goliath temple warriors enforce order. The city embodies the serpent's nest: Serpentan human masses provide the bulk and foundation—the numerous outer coils—while yuan-ti direct from positions of power as the venomous fangs and guiding head. Its vast markets sell poisons harvested from giant constrictors, couatl feathers (willingly given or otherwise), yuan-ti artifacts, and herbs essential for brewing antitoxins and potions of poison resistance. Coilkeep dominates southern river and jungle trade, sending barge convoys north along the great rivers and receiving caravans from the ebony realms to the far south.
 
 **Sandspire (Zenthara, Southeastern Deserts)**  
 An oasis city of 25,000 built around ancient underground vaults. It specializes in gems, illusion-crafted entertainments, and rare desert reagents—such as lamia scales and gorgon blood—used in transmutation and enchantment magic. Halfling and gnome traders excel here, moving goods across the arid wastes via camel caravans protected by *wind walk* spells or ranger-guided routes.
@@ -1081,7 +1081,7 @@ Mysterious south with jungles and rivers where peoples are swarthy and sturdy, b
 
 ### Other Regions: Wild Frontiers and Beyond
 
-**Grimwald Hills (Northern Borders)**: Shadowy-maned elf savages (Grimwalds), fierce with blue eyes, using barbarian rages. No major cities, only tribal camps. Economy: Hunting giant boars. Politics: Clan wars. Conflicts: Invasions into Arcanite lands.
+**Grimwalds (Northern Borders)**: Shadowy-maned elf savages (Grimwalds), fierce with blue eyes, using barbarian rages. No major cities, only tribal camps. Economy: Hunting giant boars. Politics: Clan wars. Conflicts: Invasions into Arcanite lands.
 
 **Goblin Wastes (Western Wilds)**: Barren hills with goblin warriors and hobgoblin captains. Peoples: Squat, dusky goblins. City: Ruinfort, a crude stronghold of 8,000. Economy: Raiding, crude forging. Politics: Might-makes-right, chaotic evil to Ruinok. Conflicts: Endless border wars.
 
@@ -1481,3 +1481,55 @@ A mind-bending psionic resonance used by aboleths and their thralls in the Coile
 - **Goblin Wastes**: Crude goblin dialect laced with Abyssal curses; Arcanic learned by raiders.
 
 Multilingualism is prized—merchants boast three tongues, spies five. Ancient Dialect fragments appear in ruins, decipherable only by sages or *comprehend languages* rituals. The Nine themselves communicate through dreams and omens, transcending mortal speech.
+
+## Bestiary: Creatures of Mythara
+
+The lands, seas, and depths of Mythara teem with monstrous threats drawn from across the known multiverse, shaped by ancient cataclysms and the subtle machinations of the Ninefold Pantheon. This bestiary catalogs notable creatures encountered in the Arcanum Epoch, with stat blocks adapted for Dungeons & Dragons 5th Edition (2024). Many serve as guardians of ruins, threats to settlements, or tools in divine wagers.
+
+### Dark Naga
+
+*Large aberration, lawful evil*
+
+**Armor Class** 17 (natural armor)  
+**Hit Points** 102 (12d10 + 36)  
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 14 (+2) | 18 (+4) | 17 (+3) | 16 (+3) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +8, Con +7, Int +7, Wis +6, Cha +7  
+**Skills** Arcana +7, Deception +7, Insight +6, Perception +19 (expertise), Stealth +8  
+**Damage Immunities** poison, psychic  
+**Condition Immunities** charmed, poisoned  
+**Senses** darkvision 60 ft., passive Perception 26  
+**Languages** Common, Infernal  
+**Challenge** 9 (5,000 XP)
+
+***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *wish* spell can prevent this trait from functioning.
+
+***Guarded Thoughts.*** The naga is immune to any spell or effect that would sense its emotions or read its thoughts, such as *detect thoughts*. This also grants advantage on saving throws against being charmed.
+
+***Innate Spellcasting.*** The naga's spellcasting ability is Charisma (spell save DC 15). It can innately cast *detect thoughts* at will, requiring no components.
+
+***Spellcasting.*** The naga is a 9th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can cast spells using only verbal components and has the following sorcerer spells prepared:  
+*Cantrips (at will):* *daze*, *detect magic*, *mage hand*, *minor illusion*, *ray of frost*  
+*1st level (4 slots):* *expeditious retreat*, *magic missile*, *ray of enfeeblement*, *shield*  
+*2nd level (3 slots):* *invisibility*, *scorching ray*  
+*3rd level (3 slots):* *displacement*, *lightning bolt*
+
+***Actions***
+
+***Multiattack.*** The naga makes one Bite attack and one Sting attack.
+
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage.
+
+***Sting.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10 (2d4 + 4) piercing damage plus Sleep Poison.
+
+***Sleep Poison (Injury).*** The target must succeed on a DC 17 Constitution saving throw or fall unconscious for 2d4 minutes (as the sleep effect from 2d4 *sleep* spells). The target wakes if it takes damage or someone uses an action to shake it awake. This poison can affect creatures immune to sleep magic.
+
+**Description:** A sharp-featured humanoid head crowns the powerful, sinuous body of this snake-like monstrosity. With bodies covered by shimmering, eel-like black scales, dark nagas slither deftly through forsaken lands and abandoned ruins, scouring such places for treasures and weaker creatures they might force into service. Their forked tongues spread only lies, and others whom they can't manipulate they destroy with their insidious poison and destructive magical abilities.
+
+**Mythara Context:** Dark nagas are found primarily in the ruins of Pre-Cataclysmic kingdoms—especially the Sunken Citadels of Valmont and the Labyrinth of Ebonridge—where they hoard ancient treasures and command thralls. Some serve as corrupted oracles in Serpentis, offering false prophecies to God-Queen Xipilli's rivals, while others bargain with Shadrix-aligned warlocks in the Coiled Depths. Their rejuvenation makes them persistent threats, and many adventurers have perished thinking a dark naga defeated, only to face its vengeance weeks later.
+
+*(Converted from Pathfinder 1e Dark Naga CR 9; compatible with D&D 5e 2024 rules. Spellcasting and poison adapted to 5e mechanics; stats balanced against Spirit/Guardian Nagas (CR 8-10).)*
