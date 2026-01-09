@@ -590,9 +590,9 @@ Ssara's veiled face tilted slightly, and Elandor could *feel* her smile beneath 
 
 ### The Evisceration and Omen-Reading
 
-God-Queen Xipilli emerged from the upper shadows like a vision of divine cruelty. Her massive form—twelve feet of scaled power, four arms spread wide, crown of obsidian and bloodstones catching the torchlight—descended the throne's steps with measured grace. Every footfall was precise, deliberate, a queen who knew her every movement was worship and threat in equal measure.
+God-Queen Xipilli emerged from the upper shadows like a vision of divine cruelty. Her form was deceptively humanoid—yuan-ti pureblood perfection, appearing almost human save for the subtle wrongness: skin like polished bronze with fine scales along her jawline and collarbone, eyes of burnished gold with vertical slits, movements too fluid to be entirely mammalian. The crown of obsidian and bloodstones caught the torchlight as she descended the throne's steps with measured grace. Every footfall was precise, deliberate, a queen who knew her every movement was worship and threat in equal measure.
 
-She wore ceremonial robes today: layers of crimson silk embroidered with golden serpents that seemed to writhe as she moved. Her eyes—those vertical-slitted eyes of burnished gold—swept the chamber with casual dominance.
+She wore ceremonial robes today: layers of crimson silk embroidered with golden serpents that seemed to writhe as she moved, cut to accentuate her near-human beauty while revealing the scales that marked her as divine. Her hands—elegant, long-fingered, tipped with retractable claws—rested casually at her sides.
 
 "Bring the offerings," she commanded.
 
@@ -688,19 +688,37 @@ The chamber fell silent. Even the dying prisoners stopped their moaning, sensing
 
 Xipilli's eyes narrowed. "What—"
 
-"An anomaly," Varak said quickly, too quickly. His claws stabbed into the entrails, disrupting the pattern. "A trick of the light. The smoke—"
+"An anomaly," Varak said quickly, too quickly. His claws stabbed into the entrails, disrupting the pattern before anyone could study it further. "A trick of the light. The smoke—"
 
-"I saw it." Ssara's voice cut through the chamber like a blade. Her veiled face turned toward the throne. "A golden flicker. In the *entrails*."
+"I saw it." Ssara's voice cut through the chamber like a blade. Her veiled face turned toward the throne, then to Varak. "A golden flicker. In the *entrails*. And a pattern. A *specific* pattern."
 
-"Indigestion," Varak snapped, and there was an edge to his voice now—anger, yes, but also something else. Fear? No. Not fear. Awareness. The awareness of someone walking a tightrope over an abyss. "The wretch probably ate bad shellfish. Happens all the time. Last month we had a prisoner whose liver glowed *green*—turned out he'd been poisoning himself slowly to avoid capture. The body does strange things when it's dying. Nothing mystical. Nothing *divine*." He forced a laugh. "Unless you think the gods speak through spoiled food? In which case, yesterday's thrall stew was *hilarious heresy*!"
+Varak's scales rippled—a telltale sign of agitation in yuan-ti. "Indigestion," he snapped, but his forked tongue flicked rapidly, tasting the air. The fear-scent he usually relished now tainted with his own unease. "The wretch probably ate bad shellfish. Happens all the time. Last month we had a prisoner whose liver glowed *green*—turned out he'd been poisoning himself slowly to avoid capture. The body does strange things when it's dying. Nothing mystical. Nothing *divine*." He forced a laugh that came out too sharp. "Unless you think the gods speak through spoiled food? In which case, yesterday's thrall stew was *hilarious heresy*!"
 
-A few nervous chuckles rippled through the watching crowd.
+A few nervous chuckles rippled through the watching crowd—forced, uncertain.
 
-Xipilli studied the entrails for a long moment. Then she looked at Varak, at Ssara, at the assembled warlocks and priests.
+Xipilli remained motionless on her throne, but her clawed fingers tightened on the armrests. Her golden eyes fixed on the disrupted entrails with an intensity that made even Varak shift uncomfortably. The silence stretched. Lengthened. Became a *pressure*.
 
-"The chain remains unbroken," she said finally, her voice carrying absolute authority. "Continue."
+"The last time we saw golden light in an omen-reading," she said finally, voice soft as silk over razors, "was seventeen years ago. Three weeks before the Wanderer uprising that cost us the Western Provinces for an entire season." Her gaze shifted to Varak. "You were the one who dismissed *that* omen too, High Priest. Called it 'dying-body luminescence.'"
 
-But her eyes lingered on the disrupted intestines. On the place where golden light had flared.
+Varak's coils tightened visibly. "Most Radiant Sovereign, I—"
+
+"And you were correct." Xipilli's interruption was surgical. "The uprising failed. The light meant *nothing*. The chain held." She stood slowly, descended two steps, close enough that Varak had to tilt his head back to maintain eye contact. "The chain *always* holds. Yes?"
+
+"Yes, Most Radiant—"
+
+"Then why," she leaned closer, her voice dropping to an intimate whisper that somehow carried through the entire chamber, "does your scent betray fear?"
+
+The assembled yuan-ti nobles shifted. Warlocks exchanged glances. Even the dying prisoners seemed to hold their breath.
+
+Varak swallowed. "The Festival must proceed without... *distraction*. If the masses seize upon a meaningless omen, if gossip spreads, if hope—" he spat the word like venom, "—if *hope* takes root among the thralls, we risk disruption. Better to dismiss it quickly. Authoritatively."
+
+"And if it wasn't meaningless?" Ssara asked, still focused on the corpse. Her tone was curious, almost academic. "If something *did* intervene? If a rival deity—"
+
+"Then we will crush it." Xipilli straightened, turned to face the assembled crowd. "As we always do. As we *must*." But when she continued, there was steel beneath the silk. "High Priest Varak, you will conduct divinations immediately after this gathering. Check the wards. The bindings. Ensure no external interference has compromised the sanctity of the Festival."
+
+"Of course, Most Radiant—"
+
+"Vizier Ssara, you will investigate quietly. Observe the thralls. Watch for anomalies. If this light connects to any individual—any *thing*—I want to know." Her eyes swept the chamber, settling briefly on Elandor's position in the shadows before moving on. "The chain remains unbroken. But chains require *maintenance*. Vigilance. We will not be caught unprepared."
 
 And in the shadows at the chamber's edge, Elandor felt something surge in his chest. Something warm. Something that pulsed in rhythm with his heartbeat.
 
@@ -878,7 +896,7 @@ By mid-morning, the stands were packed. Thousands of Serpentans—nobles in the 
 
 The upper tiers glittered with wealth. Silk canopies shaded the elite from the climbing sun. Servants moved through the crowds with trays of chilled wine, fresh fruit, and those small meat pastries whose filling you learned not to ask about. The nobles laughed and called to each other, placing bets with elaborate hand signals, treating the morning like a garden party that happened to feature ritual murder.
 
-The God-Queen's box dominated the northern edge—a massive platform of carved obsidian and gilded serpent motifs, cushioned with crimson silk, large enough to accommodate Xipilli's twelve-foot frame and her retinue. She reclined there now, four arms arranged in casual dominance, crown catching the sunlight in blood-red flashes.
+The God-Queen's box dominated the northern edge—a massive platform of carved obsidian and gilded serpent motifs, cushioned with crimson silk, large enough to accommodate her retinue of advisors and guards. Xipilli reclined there now, her near-human form arranged in casual dominance, one hand supporting her chin while the other rested on the armrest. Her crown caught the sunlight in blood-red flashes.
 
 Beside her, slightly lower, Vizier Ssara coiled in her thrice-wrapped splendor, veils shifting in the faint breeze. High Priest Varak stood to the God-Queen's right, massive and imposing. Champion Kressh the Ironscale lounged to her left, his scarred bulk radiating barely contained violence.
 
@@ -1338,7 +1356,7 @@ Hope swelled in his chest. Fragile. Dangerous. But *real*.
 
 ### The God-Queen's Interest
 
-In her box, Xipilli leaned forward, four arms folded in contemplation. Her tongue flicked out, tasting the air, tasting the *change* in the arena's atmosphere.
+In her box, Xipilli leaned forward, hands folded in contemplation. Her forked tongue flicked out, tasting the air, tasting the *change* in the arena's atmosphere.
 
 "He fights without poison," she murmured. "Shows mercy to a defeated opponent. Claims to serve a god of light in my domain of chains." Her smile was slow, predatory. "Ssara."
 
@@ -1446,7 +1464,7 @@ The crowd was *massive* today. Bigger than Days 1-3. This was the event people w
 
 That was *art*.
 
-The God-Queen's box was fuller too. Additional yuan-ti nobles crowded the upper platform, their scaled faces gleaming with anticipation. Xipilli reclined in her central position, four arms arranged in casual authority, eyes tracking every movement below.
+The God-Queen's box was fuller too. Additional yuan-ti nobles crowded the upper platform, their scaled faces gleaming with anticipation. Xipilli reclined in her central position, posture arranged in casual authority, golden eyes tracking every movement below.
 
 Beside her, Ssara coiled in veiled splendor, attention focused with laser intensity on Elandor.
 
@@ -1742,7 +1760,7 @@ This was *unprecedented*.
 
 ### Xipilli's Observation
 
-In the God-Queen's box, Xipilli leaned forward, all four arms folded, eyes locked on Elandor.
+In the God-Queen's box, Xipilli leaned forward, both hands gripping the rail, golden eyes locked on Elandor.
 
 "Twice now," she murmured. "Twice his 'venom impurity.' Twice the magic fails around him."
 
@@ -1986,7 +2004,7 @@ Xipilli's smile sharpened. "Elandor."
 
 "His rise has been... *rapid*. Suspiciously so. Three days from thrall to overseer. Unexplained resistance to domination magic. That golden flicker in the entrails." Ssara's voice dropped to something intimate, hungry. "And this morning, Varak announced a 'divine test'—Kressh versus the rising star. Almost as if..." she paused delicately, "...someone wanted to see how bright he burns before snuffing him out."
 
-"Varak enjoys his theater," Xipilli said. "And I enjoy watching theology collide with reality. If Elandor's god protects him, we learn the limits of divine intervention. If not..." she shrugged, four arms spreading, "...we learn that faith is just another word for delusion. Either outcome provides value."
+"Varak enjoys his theater," Xipilli said. "And I enjoy watching theology collide with reality. If Elandor's god protects him, we learn the limits of divine intervention. If not..." she spread her hands in an elegant shrug, "...we learn that faith is just another word for delusion. Either outcome provides value."
 
 ### Varak's Announcement
 
@@ -2682,21 +2700,15 @@ His eyes—already wide—began to *swell*. The venom attacked soft tissue first
 
 "Ocular pressure increasing," the alchemist noted. "Liquefaction expected within the hour."
 
-The man's convulsions continued. His body twisted, jerked, spasmed in rhythms that seemed almost choreographed. The crowd watched with rapt attention, calling out observations like art critics at a gallery opening.
+### The Pattern Continues
 
-"THAT TWITCH! DID YOU SEE?"
+The trials proceeded in methodical succession. Each venom brought its own signature horror—coral serpent extract caused nerve death starting at the extremities, victims conscious as their own bodies became foreign continents; death adder concentrate induced hemorrhaging from every orifice; yuan-ti synthetic compounds created effects no natural toxin could match.
 
-"THE ARTISTRY!"
+Some lasted minutes. Some lasted hours. The alchemists narrated each stage with clinical precision, while the crowd bet on duration, symptoms, and the exact moment of final failure.
 
-"NATURE'S DANCE!"
+By the tenth victim, even the crowd's enthusiasm had muted to something more mechanical. The horror was too consistent. Too *repetitive*. You could only watch someone's eyes liquefy so many times before the spectacle lost its edge.
 
-Laughter rippled through the galleries. Mandatory at first—overseers ensuring appropriate response—but quickly becoming genuine. Because the movements *were* absurd. Were darkly, horribly funny in their extremity.
-
-The man's gurgling pleas became wet rasping. Foam bubbled at his lips—pink-tinged, blood-flecked. His body began to *swell*. Not just his eyes. His entire torso. Abdomen distending as internal organs failed, as fluid accumulated in cavities, as his body became a grotesque balloon of failing flesh.
-
-"Bloating phase," the alchemist continued. "Internal rupture imminent."
-
-The crowd took bets.
+But Xipilli watched *Elandor*. Her golden eyes never left his position for long. Tracking his reactions. His endurance. His hidden warmth that Ssara had noted days before.
 
 "TWENTY GOLD ON STOMACH RUPTURE!"
 
@@ -3286,7 +3298,7 @@ Hope surged. Through the chamber. Through the packed thousands.
 
 ### The Recapture
 
-Xipilli rose from the Obsidian Throne. Her four arms spread. Her voice—not loud, not magical, just *absolute*—cut through the chaos.
+Xipilli rose from the Obsidian Throne. Her arms spread wide. Her voice—not loud, not magical, just *absolute*—cut through the chaos.
 
 "ENOUGH."
 
@@ -3342,7 +3354,7 @@ Just silence.
 
 And the continued sounds of the festival. More executions. More pruning. The throne chamber slowly emptying as the mass event concluded.
 
-Xipilli descended from her throne, approached Elandor's hanging form. Studied him with four-eyed focus.
+Xipilli descended from her throne, approached Elandor's hanging form. Studied him with serpentine focus, her golden slitted eyes unblinking.
 
 "You cost me twelve prisoners," she said conversationally. "Freed them briefly. Gave them hope. Then watched them die anyway." She leaned close. "How does that feel? Knowing your intervention made their final moments WORSE? Made them die *betrayed*?"
 
@@ -3422,7 +3434,7 @@ Mandatory celebration. Compulsory joy. *Weaponized* festivity.
 
 And beneath the tables, in the spaces between chair legs and discarded bones: thralls. Dozens of them. Bound. Collared. Eating floor scraps like animals. Licking spilled wine from stone. Fighting over dropped food while nobles laughed and occasionally kicked them for entertainment.
 
-"THIS," God-Queen Xipilli announced from her elevated throne, four arms spread wide, "is the ORDER of things! The CHAIN made manifest! Above feast. Below starve. And ALL participate in Grand Ascension!"
+"THIS," God-Queen Xipilli announced from her elevated throne, arms spread wide in benediction, "is the ORDER of things! The CHAIN made manifest! Above feast. Below starve. And ALL participate in Grand Ascension!"
 
 The chamber erupted in cheers. Forced. Genuine. Indistinguishable in the chaos.
 
@@ -3728,7 +3740,7 @@ Dark humor as survival mechanism. As processing tool. As proof of participation.
 
 ### The Aftermath
 
-The feast concluded in tainted victory. God-Queen Xipilli stood, four arms spread, addressing her assembled followers:
+The feast concluded in tainted victory. God-Queen Xipilli stood, arms spread wide, addressing her assembled followers:
 
 "THE CHAIN REMAINS UNBROKEN! The festival concludes! Order preserved! Hierarchy maintained! All witnessed! All participated! All are FAITHFUL!"
 
