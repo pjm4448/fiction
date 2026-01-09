@@ -4,11 +4,39 @@ In the accursed township of Wraith's End, where eldritch fogs wreathed the mould
 
 Samuel Whitlock, astronomer and exile, entered the dockside tavern seeking provisions, that low-ceilinged establishment wherein the reek of fish-oil and stale rum commingled with the perpetual damp. The salt-scarred mariner Jedediah Crane, his visage a veritable palimpsest of storms and sorrows, watched him from a shadowed corner with eyes that gleamed with an unhealthy luminescence, then approached with the deliberate steps of one bearing tidings of utmost gravity.
 
-"Professor," Crane rasped, his voice heavy with the accumulated dread of generations unnumbered. "Some men seek the stars for truth, as moths are drawn to the flame that shall consume them. But the cosmos, in its vast and terrible indifference, cares naught for human truth." His eyes, ancient with sorrows that predated his own mortality, fixed on Samuel with terrible knowing. "It answers questions we were never meant to ask, shows us visions that corrode the very fundaments of sanity. Your wife, she learned that bitter knowledge, didn't she? Before she walked into the sea's embrace as so many of her line have done before." He leaned closer, his breath reeking of brine and older things, of depths where light has never penetrated and horrors dream in cyclopean cities. "The stars summon, aye, but what comes when they are answered is not salvation, Professor. 'Tis the ending of all we know, the unravelling of reality's merciful veil."
+"Professor," Crane rasped, pausing while Samuel set down his parcels. The mariner's weathered hands gripped the table's edge, knuckles white beneath sun-darkened skin. "Some men seek the stars for truth."
 
-Samuel recoiled as though struck, clutching his parcels with white-knuckled desperation. "Miriam's disappearance was tragedy most profound, nothing more. I shall thank you not to speak of matters beyond your ken."
+Samuel's gaze lifted, wary. "A noble pursuit, surely."
 
-Crane's expression remained grave as a sepulchre's portal. "I comprehend more than you credit, Professor. We all do, in this thrice-damned place. Mind yourself when you gaze upward at night. Some gazes, unfathomable and malign, look back from gulfs of space and time beyond all human reckoning."
+"As moths are drawn to the flame that shall consume them." Crane's voice dropped lower, forcing Samuel to lean in despite himself. "But the cosmos, in its vast and terrible indifference, cares naught for human truth."
+
+"I fail to see,," Samuel began.
+
+Crane's hand shot out, not touching but stopping inches from Samuel's wrist. "It answers questions we were never meant to ask." His eyes, ancient with sorrows that predated his own mortality, fixed on Samuel with terrible knowing. "Shows us visions that corrode the very fundaments of sanity."
+
+A muscle twitched in Samuel's jaw. His parcels forgotten.
+
+"Your wife." The words hung between them like an axe blade. "She learned that bitter knowledge, didn't she?"
+
+Samuel's breath caught audibly. His hand moved involuntarily to his chest, where beneath his shirt the coral necklace rested.
+
+Crane pressed forward, relentless. "Before she walked into the sea's embrace as so many of her line have done before." He leaned closer still, his breath reeking of brine and older things, of depths where light has never penetrated and horrors dream in cyclopean cities. "The stars summon, aye, but what comes when they are answered is not salvation, Professor."
+
+"That is quite enough,," Samuel managed, but his voice cracked.
+
+"'Tis the ending of all we know." Crane's whisper carried weight beyond volume. "The unravelling of reality's merciful veil."
+
+Samuel recoiled as though struck, clutching his parcels with white-knuckled desperation. The table scraped against the floor as he backed away. "Miriam's disappearance was tragedy most profound, nothing more."
+
+"Was it?" Crane's question hung unanswered.
+
+"I shall thank you not to speak of matters beyond your ken." But even Samuel heard the hollowness in his own words, the desperate clinging to a version of events his heart no longer believed.
+
+Crane straightened slowly, resignation settling over his features like a funeral shroud. His expression remained grave as a sepulchre's portal. "I comprehend more than you credit, Professor." A pause, weighted with meaning. "We all do, in this thrice-damned place."
+
+He turned as if to leave, then looked back over his shoulder. "Mind yourself when you gaze upward at night, Professor Whitlock. Some gazes, unfathomable and malign, look back from gulfs of space and time beyond all human reckoning." 
+
+The mariner's footsteps retreated into shadow, leaving Samuel alone with his parcels and his rapidly disintegrating certainties.
 
 Samuel retreated with all haste to his observatory, that dome of tarnished brass which perched upon the cliff's edge like some great metallic eye perpetually fixed upon the vault of heaven. His countenance bore the ravages of fifty winters, gaunt and drawn by a grief that gnawed at his vitals with the persistence of some parasitic thing. Miriam, his lost consort, had vanished five years hence amidst a tempest of such fury that even the hardened fishermen spoke of it in hushed and fearful tones. Her parting whisper, those three words that had become the axis upon which his sanity rotated with ever-diminishing stability, haunted him still: "The stars summon."
 
@@ -44,11 +72,79 @@ Finally, with a groan half surrender and half despair, he opened it with shaking
 
 Driven by a terror that gnawed at his sanity like rats at a corpse, and by a desperate need for understanding that overrode all caution, Samuel sought out Crane at the tavern. He found the mariner at the docks, that place where sea met land in an uneasy truce, mending nets by lamplight amidst the commingled scents of tar, drying kelp, and the ever-present stench of fish in various stages of decay. Crane took but one look at Samuel's wild eyes, red-rimmed and starting from his skull like those of a man long sleepless, and at his hands that trembled with a palsy no medicine could cure, then led him without a word to a quieter spot where the lapping of black water against rotting pilings provided a rhythmic counterpoint to their discourse.
 
-"Thou hast looked upon it, haven't ye?" Crane rasped, and it was not a question but a statement of terrible certainty. "The Veil of Y'thar. She led ye to it as surely as the condemned is led to the gallows, same as she was led by those who came before her in a chain stretching back to times when Wraith's End bore another name in a tongue no living man remembers." He gestured with a hand that bore faint but unmistakable web-like traces between the fingers, a mark of tainted lineage that no amount of scrubbing could efface. "My lad lies abed even now, coughing up brine though he has not set foot in the sea these three months past. 'Tis thy sacrilege that ails him, Professor. The Veil stirs like some great beast disturbed in its aeon-long slumber, and the Old Night shall follow if it fully wakes, that darkness before which all light is but a guttering candle in a hurricane."
+"Thou hast looked upon it, haven't ye?" Crane didn't wait for an answer. His gaze fixed on Samuel's chest, where the necklace rested beneath fabric. "The Veil of Y'thar."
 
-Crane leaned closer, his breath bearing not merely the smell of salt but of something older and more terrible, of depths where the water presses with such force that flesh becomes as dense as iron, and things neither wholly fish nor wholly other creep along chasms that plunge beyond the reach of even the most daring bathysphere. "We are descendants of those who made pacts in ages past, Professor. Pacts for protection from the tempests that rage, and for lineage that endures when other bloodlines wither and die. That book you found in the lighthouse's foundation, the *Caelum Profundis*, it was their offering to the deep, a covenant writ in languages that preceded cuneiform and hieroglyph. Its power is immense beyond reckoning, a direct conduit to realms beyond mortal ken, dimensions where the laws of nature as we understand them are but local aberrations, amusing quirks of one insignificant corner of an infinite and hostile cosmos. For generations unnumbered, we believed in our ignorance that leaving it undisturbed, bound by certain rituals and the lighthouse's specific alignment as a ward against what lies beyond, somehow kept the worst at bay. But its true nature, Professor, is that of a key. A key fashioned in the forges of some reality adjacent to our own, a key that turns but one way and that, once turned, can never be returned to its original position. To open it, to decipher its rites and speak its words of power, is to unlock the door that should remain forever sealed, and to invite into our fragile world the very horrors it describes in such loving and terrible detail."
+Samuel's hand moved involuntarily to cover the spot. "How could you,,"
 
-Crane's eyes, watery with age and sorrow beyond measure, met Samuel's with terrible understanding. "You ask, with the privilege of the educated man who thinks himself above the superstitions of simple fisher-folk, why I didn't do more to prevent this? Why I didn't destroy the book before you could find it?" His voice dropped to a whisper more chilling than any shout. "When my own father began to succumb to the call, when he started speaking in the small hours of the night of the songs from the dark water, songs that told of cyclopean cities and of the sleepers who wait therein, I attempted in my youth and foolish courage to destroy our family's copy of that thrice-damned book. It nearly took my life, Professor. I was abed for half a year, raving about things that crawled up from the deep trench beyond the shoals. And the backlash from that attempt, the psychic recoil of forces I cannot name, struck my boy in my stead, afflicting him with maladies no doctor of this earth can name or treat. The influence is too deeply woven into this place, into our blood where it runs thick with saltwater and with essences drawn from depths primordial, into the very stones upon which this accursed town is built. Your curiosity, Professor, and your Miriam, she was a lightning rod for forces that sought entry into our world. The sea-blood ran strong in her line, stronger perhaps than in any born here these hundred years, making her an ideal instrument, a perfect vessel for that which wishes to be born anew into flesh."
+"She led ye to it." Crane's voice carried certainty beyond questioning. "As surely as the condemned is led to the gallows. Same as she was led by those who came before her."
+
+"You speak as if,," Samuel began, but the words died in his throat.
+
+"As if I know?" Crane held up a weathered hand, spreading the fingers slowly. In the lamplight, faint web-like traces between the digits gleamed with an oily sheen. "We are all of us marked here, Professor. Some more than others."
+
+Samuel stared at the webbing, unable to look away. "That's impossible. A birth defect, surely."
+
+Crane's laugh was bitter. "Aye, a defect born into us before our fathers' fathers drew their first breath." He lowered his hand. "My lad lies abed even now. Coughing up brine."
+
+"The boy is ill?" Samuel's concern was automatic, human, breaking through his horror for a moment.
+
+"Though he has not set foot in the sea these three months past." Crane's eyes found Samuel's, held them. "Tell me, Professor, how does a child drown on dry land?"
+
+The question hung unanswered. Samuel's mouth opened, closed.
+
+"'Tis thy sacrilege that ails him." The accusation came soft, which made it worse. "The Veil stirs. Like some great beast disturbed in its aeon-long slumber." Crane leaned forward suddenly, grabbing Samuel's shoulder with surprising strength. "And the Old Night shall follow if it fully wakes."
+
+Samuel tried to pull back. Crane's grip tightened.
+
+"Generations, Professor." The mariner's breath came hot against Samuel's face. "Generations we have kept watch. Kept the balance." His voice dropped to barely above a whisper. "We are descendants of those who made pacts in ages past."
+
+"Superstition," Samuel managed, though his voice shook. "Folklore. There must be a rational,,"
+
+"Rational?" Crane released him with such suddenness that Samuel stumbled. "You want rational? That book you found, the *Caelum Profundis*. Tell me how it survived centuries in salt water without rotting. Tell me how flames recoil from it. Tell me," his voice rose, "tell me what rational explanation exists for your wife sketching constellation charts that match diagrams in a book she never saw, in a language she never learned!"
+
+Samuel had no answer. The truth of it struck him like a fist.
+
+Crane saw the realization dawn and his fury collapsed into something worse. Despair. "It was their offering to the deep, Professor. A covenant." He sank onto a piling, suddenly looking every one of his years. "For protection from the tempests. For lineage that endures when other bloodlines wither."
+
+"But why?" Samuel found himself asking. "Why make such a bargain?"
+
+"Because our ancestors were drowning." Crane's voice went flat, reciting history like a dirge. "Because the sea wanted to claim this place, and they were desperate men who would do anything, promise anything, to survive." He looked up at Samuel. "And they did survive. We all did. But the price,,"
+
+"What price?"
+
+"Everything." The single word carried weight beyond measure. "The book is not protection, Professor. It never was. Its true nature is that of a key."
+
+Samuel felt the necklace pulse against his chest, as if responding to the word. 
+
+"A key that turns but one way." Crane rose slowly, facing Samuel directly. "Once turned, it can never be returned to its original position. To open it, to decipher its rites, is to unlock the door that should remain forever sealed."
+
+"Then why didn't you destroy it?" Samuel's voice rose, defensive, desperate. "If you knew, if your people have always known, why leave it where someone could find it?"
+
+The question hung between them. Crane's weathered face worked, emotions warring across it. When he finally spoke, his voice cracked. "You ask with the privilege of the educated man who thinks himself above the superstitions of simple fisher-folk." A pause, heavy as a tombstone. "Why I didn't do more to prevent this?"
+
+"Yes," Samuel pressed. "Why didn't you destroy the book before I could find it?"
+
+Crane's eyes went distant, seeing something far away or long ago. "When my own father began to succumb to the call, when he started speaking in the small hours of the night of the songs from the dark water,," He stopped, swallowed hard. "I attempted in my youth and foolish courage to destroy our family's copy of that thrice-damned book."
+
+Samuel waited, barely breathing.
+
+"It nearly took my life, Professor." Crane's voice dropped to a whisper more chilling than any shout. "I was abed for half a year. Raving about things that crawled up from the deep trench beyond the shoals."
+
+"But you survived," Samuel said, not understanding. "You,,"
+
+"Aye, I survived." Crane's face twisted with grief. "And the backlash from that attempt, the psychic recoil of forces I cannot name, it struck my boy in my stead."
+
+Understanding dawned like ice water down Samuel's spine. "Thomas."
+
+"Afflicting him with maladies no doctor of this earth can name or treat." Tears gleamed in the corners of Crane's eyes, unshed. "The influence is too deeply woven into this place. Into our blood where it runs thick with saltwater and with essences drawn from depths primordial. Into the very stones upon which this accursed town is built."
+
+Samuel's legs felt weak. He groped for support, found the rough wood of a piling.
+
+Crane's expression hardened again, tears swallowed back by iron will. "Your curiosity, Professor. Your Miriam." He stepped closer. "She was a lightning rod for forces that sought entry into our world. The sea-blood ran strong in her line. Stronger perhaps than in any born here these hundred years."
+
+"She was human," Samuel whispered. "She was,,"
+
+"She was an ideal instrument." Crane's words cut like knives. "A perfect vessel for that which wishes to be born anew into flesh."
 
 Samuel recoiled as though struck, his mind reeling with implications that shattered what remained of his carefully constructed understanding of reality. He was haunted suddenly by a litany he but vaguely recalled from the town's debased chapel, that low structure of stone gone green with lichen that the villagers attended with more regularity than any church of Christ: "From the depths, the stars ascend. From the stars, the depths descend. What is above is below. What is below shall rise." The townsfolk were not merely swayed by Miriam's influence, he understood now with sick certainty. They were her kin, bound by blood and by ancient covenants to the abyssal powers she served, a congregation of the damned awaiting their terrible apotheosis.
 
@@ -84,11 +180,47 @@ Sleep brought no respite from his torment, only deeper and more visceral horrors
 
 Worse still were the waking visions. The townspeople's faces shifted when he passed, their piscine features becoming more pronounced, their eyes gleaming with terrible knowledge. A matron clutching an infant with membranous digits hissed at him: "Avert thine eyes from the firmament, Whitlock! What lies beyond will devour all."
 
-Crane's son died, drowning in his own bed, his lungs filled with seawater that had no earthly source. The mariner came to Samuel's observatory, grief-stricken and furious.
+Crane's son died, drowning in his own bed, his lungs filled with seawater that had no earthly source. The mariner came to Samuel's observatory, and Samuel knew the moment he saw the man's face that something had broken beyond all repair.
 
-"The Veil hungers because of what you've done," Crane said, his voice breaking. "It takes our children first. Then it will take us all. Can you stop it, Professor? Can you undo what you've wrought?"
+Crane stood in the doorway, not entering, as though some invisible threshold prevented him. His weathered face was grey, slack. When he spoke, his voice was barely audible. "Thomas drowned last night."
 
-But Samuel had no answer. The tome's hold was absolute. Even now, it whispered of the final ritual, the lunar eclipse approaching, the moment when Y'thar could fully manifest.
+Samuel's hand, which had been tracing sigils in the tome's margin, went still. "Jedediah, I,"
+
+"In his bed." Crane's voice grew louder, stronger. "In his *bed*, Samuel. Not at sea. Not in the harbor. In his bed where I tucked him in and kissed his forehead and told him I loved him." Each word came harder, faster. "His lungs were full of seawater. The physician couldn't explain it. Said it was impossible. But it happened."
+
+Samuel rose from his desk, reaching out. "I am deeply,"
+
+Crane's hand shot up, palm out, stopping him. "Don't." A terrible pause. "Don't you dare offer condolences. Not you. Not when this is because of you."
+
+The accusation struck Samuel like a physical blow. "That is,"
+
+"The Veil hungers because of what you've done." Crane took a step into the room, then another, each movement carrying barely contained violence. His voice broke on the next words. "It takes our children first. The innocent. The ones who've done nothing, know nothing, who never asked to be born into this cursed place with this cursed blood." Tears carved channels through the salt-stains on his cheeks. "Then it will take us all."
+
+Samuel backed against his desk, the tome pressing into his spine. "I never intended,"
+
+"Intention?" Crane's laugh was a harsh, broken sound. "You think the abyss cares about intention? You think whatever's crawling up from the deep gives a damn about the noble pursuits of science?" He closed the distance between them in two strides, grabbing Samuel's collar with hands that shook. "Can you stop it, Professor? Can you?"
+
+Their faces were inches apart. Samuel could smell the grief on the man's breath, sharp and sour.
+
+"Can you undo what you've wrought?" Crane's voice dropped to a whisper more terrible than any shout. "Tell me you can save them. Tell me my boy didn't drown choking on salt water from nowhere for *nothing*."
+
+Samuel's mouth opened. Closed. The words caught in his throat like fishhooks.
+
+Crane searched his face, desperate, and in that searching, found his answer. The hope died in his eyes. His hands released Samuel's collar, falling to his sides as though all strength had fled them. "You can't. Of course you can't."
+
+He turned toward the door, moving like a man three times his age.
+
+"Jedediah," Samuel managed, his voice cracking. "Please. I,"
+
+"Don't," Crane said without turning back. "Whatever you're about to say, don't. There are no words. There never were."
+
+The door closed behind him, softer than before, which somehow made it worse.
+
+Samuel stood alone in the observatory, his collar askew, his hands trembling. The tome lay open on his desk behind him. Even now, even in this moment of terrible clarity, he could hear it. The whispers. The promises. The final ritual. The lunar eclipse approaching. The moment when Y'thar could fully manifest.
+
+His hand moved to the coral necklace at his throat. It pulsed warm against his palm, eager. Hungry.
+
+He had no answer for Crane. But the tome did.
 
 Driven by desperate need to understand, Samuel deciphered more of the tome with feverish intensity. He learned the Veil was a psychic fetter for Y'thar, a Great Old One immured in stellar abyss, whose very dreams could curdle reality and whose waking would unmake existence itself. Annotations in Miriam's sinuous script prescribed a rite to unshackle the entity from its cosmic prison.
 
@@ -136,13 +268,59 @@ Samuel ascended the winding stairs of the lighthouse, each step an agony. The to
 
 The lighthouse's uppermost sanctum unveiled a shrine: an altar of glistening black coral and osseous relics, Miriam's sea-stained shawl draped thereupon, redolent of submarine decay and corrupted lavender.
 
-She emerged from the gloom like a nightmare given form and substance, no longer the woman he had known, had loved, had mourned. Her mortal guise had sloughed away like the shed skin of a serpent to reveal something far older and infinitely more terrible, something that had perhaps always lurked beneath the surface of her humanity like a skull beneath the skin. Scales shimmered with an oily iridescence upon her transforming flesh, catching what little light remained and refracting it into colours that had no names in any human language, hues that seemed to exist in spectra beyond the visible, colours that hurt the mind to perceive. Her eyes, once brown and warm as the earth of her imagined grave, now blazed with the green fire of the Veil itself, a verdant radiance that spoke of things growing in the deep trenches where sunlight had never penetrated and evolution had taken paths that would have driven Darwin to madness. Her voice, when she spoke, was a gurgle drawn from the deepest abysses of the ocean, a sound that vibrated in frequencies that caused his bones to ache and his teeth to chatter in their sockets despite the clenching of his jaw.
+She emerged from the gloom like a nightmare given form and substance, no longer the woman he had known, had loved, had mourned. Her mortal guise had sloughed away like the shed skin of a serpent to reveal something far older and infinitely more terrible, something that had perhaps always lurked beneath the surface of her humanity like a skull beneath the skin. Scales shimmered with an oily iridescence upon her transforming flesh, catching what little light remained and refracting it into colours that had no names in any human language, hues that seemed to exist in spectra beyond the visible, colours that hurt the mind to perceive. Her eyes, once brown and warm as the earth of her imagined grave, now blazed with the green fire of the Veil itself.
 
-"Thou hast beheld the stars, beloved," she intoned, and the words vibrated in his very bones with unnatural resonance, seeming to emanate not from her throat but from the walls themselves, from the air, from the stone beneath his feet. "Thou hast prepared the way with all the diligence I knew thou wouldst bring to the task. Thou hast summoned Him from His prison beyond the veil of reality, and for this service thou shalt be rewarded beyond all mortal comprehension, transformed into something glorious and terrible and eternal."
+Samuel's legs nearly gave way beneath him. His breath came in short, desperate gasps.
 
-Samuel reeled as though struck a physical blow, the tome still clutched against his chest in a grip so tight his knuckles had gone white as bleached bone. "Miriam," he croaked, and even to his own ears his voice sounded piteous and weak, the mewling of a child lost in darkness. "What have you become? What nightmare wearing thy face stands before me?" Tears, hot and bitter, veiled her monstrously beautiful form, refracting that terrible green radiance into a thousand mocking points of light. "Our years together, was it naught but deception from first to last? Did you ever feel even a shadow of what I felt?"
+"Miriam." The name escaped him as prayer and accusation both.
 
-Miriam's webbed claw, the fingers elongated and tipped with chitinous talons that gleamed like polished obsidian, reached for the tome with predatory grace. For the briefest of moments, something flickered in her blazing emerald eyes, a shadow of emotion that might have been regret or might equally have been the cold calculation of a chess master contemplating the final moves of a game whose outcome had never been in doubt. "Thy devotion was useful, Samuel," she said, and there was almost a note of what might have been tenderness in her alien voice, though it was the tenderness a butcher might feel for a particularly fine specimen before the slaughter. "It anchored thee to the path I laid as surely as an anchor holds a ship to its mooring. It served Y'thar in His long dreaming. And it served *me* in mine own purposes, which thou canst not begin to fathom." Her voice, that guttural rasp drawn from trenches where the pressure would crush a man to pulp in an instant, held no trace of the sweet cadence he had cherished through their years together, only the chilling resonance of the abyss given form and purpose, the voice of the deep made flesh.
+She tilted her head, the gesture almost familiar, almost human. "Beloved." Her voice was a gurgle drawn from the deepest abysses of the ocean, a sound that vibrated in frequencies that caused his bones to ache. Yet beneath the alien resonance, he caught something else. Recognition. "Thou hast come at last."
+
+"No." He shook his head violently, denying what stood before him. "No, this is,this is madness. A fever dream. The tome's influence."
+
+"Is it?" She took a step closer. Samuel flinched back against the wall. "Thou hast beheld the stars. Thou knowest what is real."
+
+The tome pressed against his chest, burning cold through his shirt. His knuckles had gone white as bleached bone from gripping it. "What have you become?" The question came out broken. "What nightmare wearing thy face stands before me?"
+
+Something flickered in her blazing emerald eyes. Amusement? Pity?
+
+"I have become what I always was," she said simply. "I have merely ceased pretending otherwise."
+
+The words struck him like a fist to the sternum. He sagged, shoulders hitting the cold stone. "Our years together." Tears, hot and bitter, blurred his vision. "Was it naught but deception from first to last?"
+
+She moved closer. Not with menace, but with something worse. Patience. The patience of the tide. "Deception?" The word rolled strangely off her transformed tongue. "I shared thy bed. I walked thy gardens. I listened to thy theories about stellar drift and cosmic velocities."
+
+"But did you *feel*?" His voice cracked. "Did you ever feel even a shadow of what I felt? Did any of it *matter* to you?"
+
+Silence stretched between them like a chasm. The lighthouse groaned around them.
+
+Her webbed claw, the fingers elongated and tipped with chitinous talons that gleamed like polished obsidian, reached toward him. Not for the tome. For his face. Samuel froze, unable to retreat further.
+
+The talons stopped a hair's breadth from his cheek. "Thy devotion was," she paused, and for the briefest of moments, something almost human crossed her alien features, "useful, Samuel."
+
+The word shattered something in him. He let out a sound between laugh and sob. "Useful."
+
+"Yes." Her hand withdrew. "It anchored thee to the path I laid as surely as an anchor holds a ship to its mooring."
+
+"A tool." His voice was hollow now, emptied of all feeling. "I was nothing but a tool."
+
+"Thou wert," she corrected, her tone shifting from almost-tender to something colder, more alien, "what was needed. Thy grief made thee pliable. Thy guilt made thee desperate. Thy love," she leaned closer, her breath cold and rank with brine, "thy love made thee blind."
+
+Samuel's head snapped up, fury replacing despair. "How dare you,"
+
+"I dare because it is truth." Her eyes blazed brighter. "Thou sought the stars for answers. I gave thee the means. Thou sought *me* in the depths. I showed thee the way." Her voice dropped to a whisper that somehow carried more weight than any shout. "It served Y'thar in His long dreaming. And it served *me* in mine own purposes, which thou canst not begin to fathom."
+
+"Then tell me." The words came out as a desperate challenge. "Tell me what was so important that you would destroy everything we,"
+
+"We?" She cut him off with a sound that might have been laughter. "There was no *we*, Samuel. There was only ever the plan, and thou playing thy part with admirable precision."
+
+His hand tightened on the tome until the binding cracked. "Did you ever," he choked on the words, forced them out anyway, "did you ever love me at all?"
+
+For a long moment, she simply stared at him with those terrible green eyes that held the light of drowned stars. When she finally spoke, her voice held no trace of the sweet cadence he had cherished through their years together, only the chilling resonance of the abyss given form and purpose.
+
+"Love is a human conceit," she said. "I am no longer human. Perhaps I never was."
+
+Her claw shot out, this time unmistakably reaching for the tome. "Now give me what I came for."
 
 The restored telescope stood aimed at the Veil with terrible precision. Through its scarred lens, Y'thar's single, lidless orb pulsed, a malevolent sun in a dying universe. Its iris was a swirling vortex of impossible colours: rubies bleeding into diseased emeralds, sapphires drowning in putrid amber, all spiraling into a central pupil blacker than obsidian. Its scrutiny was physical weight, pressure that threatened to pulverize his intellect into gibbering fragments.
 
