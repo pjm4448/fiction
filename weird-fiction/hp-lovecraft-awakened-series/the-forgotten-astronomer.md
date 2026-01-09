@@ -114,11 +114,11 @@ Crane saw the realization dawn and his fury collapsed into something worse. Desp
 
 "But why?" Samuel found himself asking. "Why make such a bargain?"
 
-"Because our ancestors were drowning." Crane's voice went flat, reciting history like a dirge. "Because the sea wanted to claim this place, and they were desperate men who would do anything, promise anything, to survive." He looked up at Samuel. "And they did survive. We all did. But the price,,"
+"Because our ancestors were drowning." Crane's voice went flat, reciting history like a dirge. "Because the sea wanted to claim this place, and they were desperate men who would do anything, promise anything, to survive." He looked up at Samuel. "And survive they did. We all did. But the price,,"
 
 "What price?"
 
-"Everything." The single word carried weight beyond measure. "The book is not protection, Professor. It never was. Its true nature is that of a key."
+"Everything." The single word carried weight beyond measure. "The book is not protection, Professor. It was never so. Its true nature is that of a key."
 
 Samuel felt the necklace pulse against his chest, as if responding to the word.
 
@@ -289,7 +289,7 @@ The tome pressed against his chest, burning cold through his shirt. His knuckles
 
 Something flickered in her blazing emerald eyes. Amusement? Pity?
 
-"I have become what I always was," she said simply. "I have merely ceased pretending otherwise."
+"I am become what I always was," she said simply. "I have but ceased pretending otherwise."
 
 The words struck him like a blow to the sternum. He sagged, shoulders hitting the cold stone. "Our years together." Tears, hot and bitter, blurred his vision. "Was it nothing but deception from first to last?"
 
@@ -304,7 +304,7 @@ Her webbed claw, the fingers elongated and tipped with chitinous talons that gle
 The talons stopped a hair's breadth from his cheek. "Thy devotion was," she paused, and for the briefest of moments, something almost human crossed her alien features, "useful, Samuel."
 
 The word shattered something in him. He let out a sound between laugh and sob. "Useful."
-"Yes." Her hand withdrew. "It anchored thee to the path I laid as surely as an anchor holds a ship to its mooring."
+"Aye." Her hand withdrew. "It anchored thee to the path I laid as surely as an anchor holds a ship to its mooring."
 
 "A tool." His voice was hollow now, emptied of all feeling. "I was nothing but a tool."
 
@@ -324,7 +324,7 @@ For a long moment, she simply stared at him with those unfathomable green eyes t
 
 "Love is a human conceit," she said. "I am no longer human. Perhaps I never was."
 
-Her claw shot out, this time unmistakably reaching for the tome. "Now give me what I came for."
+Her claw shot out, this time unmistakably reaching for the tome. "Now givest me what I came for."
 
 The restored telescope stood aimed at the Veil with unyielding precision. Through its scarred lens, Y'thar's single, lidless orb pulsed, a malevolent sun in a dying universe. Its iris was a swirling vortex of impossible colours: rubies bleeding into diseased emeralds, sapphires drowning in putrid amber, all spiraling into a central pupil blacker than obsidian. Its scrutiny was physical weight, pressure that threatened to pulverize his intellect into gibbering fragments.
 
