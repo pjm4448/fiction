@@ -268,73 +268,19 @@ Not a question. A statement. Elandor froze, but the voice continued, urgent:
 
 Elandor's throat tightened. "What happened to them?"
 
-"He lasted eight days," the voice whispered. "All that paladin discipline. All that controlled faith. The yuan-ti watched him. *Studied* him. They see paladins as... brittle. Strong on the outside, but fragile underneath. Your strength makes you vulnerable, they think."
+"He lasted eight days," the voice whispered. "All that paladin discipline. All that controlled faith. The yuan-ti watched him. *Studied* him." A pause. "On the ninth day, during the Grand Ascension, they broke him. Don't know how exactly. Just... the breaking was bad. Worse than simple torture. Like they'd found some weakness in his strength itself."
 
 The grip became painful. Nails digging in.
 
-"On the ninth day, during the Grand Ascension, they put him in the arena. He called on everything he'd been holding back. Every prayer. Every ounce of stored light. They wanted to see him burn bright."
+"They think paladins make good spectacle," the voice continued, bitter. "The righteous fall—people pay attention to that. Makes better theater than breaking some common thrall."
 
-"And?"
+Elandor felt cold despite the jungle heat. "Did you see what they did?"
 
-"He *broke*." The word came out flat. Final. "Catastrophically. I don't... I can't describe what happened. But it was bad. Worse than any death I've seen before or since. The yuan-ti were *delighted*. They'd been waiting for it."
+"I was dying myself by then. Barely conscious. Just... heard the screaming. And afterward..." The voice trailed off. "Afterward, they talked about it like they'd solved a puzzle. Like they'd figured out some secret. But I never learned what."
 
-Silence. Just breathing in the darkness. Chains clinking softly.
+The grip released. The voice grew fainter, as though its owner was rolling away.
 
-"They think paladins are weapons that turn on themselves," the voice continued, bitter and broken. "They *want* you to be strong. Want you to hold tight to your discipline. Because they think that very strength becomes the blade that cuts you."
-
-Elandor felt cold despite the jungle heat. "Why are you telling me this?"
-
-"Because I see it in you." The grip released, but the voice stayed close. "That same accumulation. That same discipline. You're building something inside—I can *feel* it. And maybe you're stronger than he was. Maybe your dam is thicker. But dams break, paladin. Always. Eventually. And when they do..."
-
-The voice trailed off. Then, softer:
-
-"Just... be careful what you're storing. Be careful how much pressure you can really hold. Because the yuan-ti *know*. They've seen it before. They'll *push* you to accumulate. To build up. To become your own executioner."
-
-"And if I don't?" Elandor whispered. "If I release it slowly? If I—"
-
-"Then you fade like every other thrall," the voice said. "Crushed by inches instead of all at once. There's no good answer here, paladin. No clever solution. Just... be careful. The yuan-ti know something about paladins. Something they use against you."
-
-Another wet cough. The hand withdrew completely.
-
-"They'll push you," the voice murmured, fading as though its owner was rolling away. "Test you. Try to make you accumulate until... until something gives. I don't know what. But they *know*. They've done this before. Just... don't let them make you the weapon against yourself."
-
-The voice dissolved into ragged breathing, then silence.
-
-Elandor lay in the darkness, the warning echoing in his mind. *Brittle. Vulnerable. Weapon against yourself.*
-
-His brand pulsed—gentle, reassuring. Aelthar's presence. But underneath, he felt it: the beginning of accumulation. The careful gathering of internal strength. The disciplined hoarding of power against future need.
-
-Was he building a weapon?
-
-Or a tomb?
-
-*Nine more days,* he thought. *I have nine more days to find out.*
-
-The distinction mattered.
-
-He just didn't know how much. Not yet.
-
-Somewhere in the pen, another thrall was weeping—soft, broken sounds that seemed to dissolve into the night. Elandor reached out in the darkness, his chained hand finding another hand, and squeezed gently.
-
-The weeping didn't stop. But it quieted, just a little.
-
-It was enough.
-
-For now, it was enough.
-
-Tomorrow would bring fresh horrors—the outline was already written in blood and venom and the cruel laughter of watching gods. But tomorrow was tomorrow.
-
-Tonight, they had survived.
-
-And survival, in Serpentis, was its own small victory.
-
-The moon rose higher, painting the pyramid in shades of silver and shadow. The jungle hummed its hungry song. The flies continued their feast on still-warm corpses.
-
-And somewhere in the darkness, a paladin kept faith in a light that seemed very, very far away.
-
-But not *quite* extinguished.
-
-Not yet.
+"Just... be careful. The yuan-ti have been doing this a long time. They know things about holy warriors. Things we don't teach in temples." A bitter laugh. "Maybe that's why we keep losing."
 
 ### Omen-Reading and First Renewals
 
@@ -964,15 +910,99 @@ Kressh circled him with new wariness. "What *are* you?"
 
 But when Elandor managed—through luck more than skill—to disarm one of Kressh's weapons, the abomination paused. Studied him. Then deliberately stepped back and raised a hand.
 
-"Yield," Kressh announced. "This one interests the God-Queen more alive than dead."
+### Divine Presence
 
-The crowd exploded in confusion. A *Champion* yielding? To a *thrall*?
+In the Ethereal Shroud, Aelthar stood at the veil's edge, observing the pattern.
 
-In her box, Xipilli leaned forward with predatory focus. "Ssara."
+"Interesting," he said. "Another moment. Another test. The accumulation proceeds as expected."
 
-The Vizier uncoiled. "Yes, Most Radiant Sovereign?"
+His presence extended through the veil, a subtle warmth touching the tattoo that marked Elandor as one of his faithful.
 
-"I want that paladin tested. Properly. Find his breaking point." Her smile was slow, dangerous. "Everyone breaks. I want to watch."
+*Well done,* came the faint impression. Not words. Just... approval. Recognition. The acknowledgment of a god who noticed faithful service.
+
+Elandor's response was instinctive: *Thank You. For justice.*
+
+And the power came—not from above, but from within him. Released. Controlled. Perfect.
+
+Golden radiance erupted from Elandor's chest, brilliant and terrible, washing over the arena in waves of holy light. His form blazed like a sun given flesh. The iron collar around his throat cracked, stress-fractures spreading across its surface. His eyes—brown moments before—now burned with divine fire.
+
+The crowd fell *silent*. Shocked into utter stillness.
+
+Elandor raised his sword, and it ignited with radiant flame. Not destroying the blade—*enhancing* it. Making it more real, more true, more *righteous*.
+
+"I am Elandor Brightmantle," he announced, voice carrying with preternatural clarity. "Paladin of Aelthar the Lightbearer. And I stand witness that tyranny is TEMPORARY. That suffering is NOT eternal. That JUSTICE will come!"
+
+He moved with perfect control. Each strike measured. Each burst of power channeled exactly as his training demanded. This was discipline made manifest. Faith working *precisely* as it should.
+
+His blade lashed out, wreathed in golden fire, and struck Kressh's primary axe.
+
+The weapon *shattered*.
+
+He wasn't raging. Wasn't losing control. He was *demonstrating*—showing everyone that faith, properly channeled, properly disciplined, was *effective*.
+
+Second axe. Shattered with a precise strike.
+
+Third axe. *Shattered*.
+
+Fourth axe. Gone. Each one destroyed through calculated force, through power released exactly as needed and no more.
+
+This was what his training had been for. This moment. This perfect expression of controlled divine power.
+
+Kressh was disarmed. Utterly. Four hands empty, four weapons destroyed, facing a paladin wreathed in holy light who still maintained complete control.
+
+"Yield," Elandor said. Not commanded. Offered. "Please. You don't have to die here. Yield, and live. Change is possible. Redemption is—"
+
+"NEVER!" Kressh lunged with his bare hands, claws extended, desperate to claw out this impossible light—
+
+Elandor's blazing blade came up, pressed against Kressh's throat. Not cutting. Not yet. Just *present*.
+
+The Champion froze.
+
+"Yield," Elandor repeated. "I will NOT kill you. I will not become what this place celebrates. Yield, and show them that mercy exists."
+
+Kressh's eyes—filled with rage and confusion and something that might have been fear—met Elandor's glowing gaze.
+
+And he yielded.
+
+"I yield," the words came out strangled, disbelieving. "I... I yield to the light."
+
+As the radiant power settled back into his chest—*controlled*, exactly as it should be—Elandor felt nothing but profound rightness. His discipline had worked. His training had held. He'd released power precisely when needed, in exactly the amount required, and maintained complete control throughout.
+
+*This is what faith looks like,* he thought with satisfaction. *This is what proper training achieves. Not explosion. Not loss of control. But precise, disciplined power.*
+
+His tattoo pulsed warmly, and he interpreted it as divine approval. Aelthar was pleased with his restraint. His control. His perfect expression of holy power.
+
+He had no way of knowing that the warmth was something else entirely. No way of knowing that what he'd just released was only a *fraction* of what had been building. That the rest remained, accumulating still, waiting.
+
+He thought he'd succeeded.
+
+And that belief would make the eventual truth so much worse.
+
+### The God-Queen's Interest
+
+In her box, Xipilli leaned forward, hands folded in contemplation. Her forked tongue flicked out, tasting the air, tasting the *change* in the arena's atmosphere.
+
+"Impressive control," she murmured. "He released power precisely. No waste. No excess. True discipline." Her smile was slow, predatory. "Ssara."
+
+The Vizier uncoiled slightly. "Yes, Most Radiant Sovereign?"
+
+"I want him observed more carefully. That wasn't just power—that was *mastery*. He controlled the release perfectly. No explosion. No loss of control. Just..." she paused, searching for the word, "...precision."
+
+"Perhaps the training is more sophisticated than we assumed," Ssara suggested, her veiled face focused on Elandor's retreating form.
+
+"Perhaps." Xipilli's eyes gleamed. "Or perhaps he's merely storing the rest. Building toward something larger. Either way—I want to know. Study him carefully. If his discipline is genuine, we'll need different approaches. If he's accumulating..." Her smile widened. "Well. Then we simply wait for the vessel to overfill."
+
+Below, in the preparation cells, Elandor felt the attention like a weight. But unlike before, he felt... confident. He'd proven his discipline worked. Had demonstrated perfect control.
+
+His tattoo still pulsed. And he took it as confirmation: he was doing everything right.
+
+The festival continued. More blood. More screaming. More mandatory laughter.
+
+But Elandor Brightmantle walked with new certainty. His training had been validated. His discipline proven effective.
+
+He would survive this. He would maintain control. He would demonstrate that faith, properly channeled, could endure anything.
+
+And he had no idea—*no idea*—how wrong he was.
 
 ---
 
@@ -1090,15 +1120,47 @@ They sat in silence, two survivors sharing a moment of peace that wouldn't last 
 
 And Ssara was there. Watching. Always watching.
 
-Elandor felt her gaze on him throughout the trials. Felt those casual gestures—a hand wave here, a finger curl there. Each time, that cold touch struck his chest. Each time, his tattoo flared to neutralize it. Each time, more of his internal power spent on defense rather than purpose.
+Throughout the trials, Elandor noticed something strange. Ssara would gesture—those casual hand movements he'd seen before. The ones that had triggered his defensive response, forced him to fight back against necrotic touches.
 
-*She's doing this deliberately,* he realized. *Making me fight. Making me accumulate. Building the pressure.*
+But now... now she wasn't actually casting anything. He could feel it—or rather, *couldn't* feel it. No cold touch. No threat. Just the gesture.
 
-The pressure in Elandor's chest grew worse. Physical now. Heat building behind his sternum. Vision blurring when he channeled resistance. The warning from Day 1 echoed: *"They'll make you the weapon against yourself."*
+And yet his tattoo responded anyway. Pulsing. Channeling defensive power. Building pressure as he prepared for attacks that never came.
 
-*Three more days,* he thought. *Can I hold three more days?*
+*She's testing my reflexes,* he thought. *Seeing how quickly I respond. How strong my defenses are.*
 
-He wasn't sure anymore.
+He felt proud of his immediate reactions. Proud that his body was so well-trained it responded to threats even before they manifested. His discipline was becoming instinctive. Automatic.
+
+He had no idea he was being conditioned. No idea that she was training him to accumulate in response to nothing. That every false alarm added more pressure to the building reservoir inside him.
+
+No idea that his proud, automatic defenses were exactly what she wanted.
+
+His tattoo pulsed warmer with each test. Each response. And Elandor took it as proof of his growing strength. His increasing connection to divine power.
+
+*I'm getting better,* he thought. *Stronger. More responsive. Aelthar is pleased with my devotion.*
+
+The warmth felt like approval.
+
+It was actually a warning he couldn't interpret.
+
+That night, as he sat with his team, Torak mentioned the old fragment Elandor had found.
+
+"You ever figure out what happened to that paladin?" Torak asked. "The one who left that bone piece?"
+
+"No clear answers," Elandor said. "The memory was too fragmented. Just... heat. And then darkness."
+
+"Heat." Kessa's voice was thoughtful. "Like fever? Or...?"
+
+"I don't know. Could have been anything. Torture. Disease. The yuan-ti have a hundred ways to kill slowly." Elandor shrugged. "But I'm not him. My training is working. You saw today—I controlled the power perfectly. Released exactly what was needed."
+
+"Yeah," Torak agreed. "That was impressive. Never seen anything like it. You glowed like the sun, but you didn't... I don't know. Didn't lose yourself. Stayed focused."
+
+"That's what training is for," Elandor said with satisfaction. "That's what discipline achieves. Perfect control."
+
+Kessa said nothing, but her expression was troubled. She'd seen something in his eyes during that arena moment. Something that worried her. But she couldn't quite articulate what.
+
+Just a sense that confidence could be its own kind of blindness.
+
+But she kept her concerns to herself. Let him have his moment of triumph.
 
 That evening, as the trials concluded and bodies were hauled away, Elandor was returned to his cell. But instead of the usual immediate shackling, there was a delay. Administrative confusion. A guard arguing with an overseer about paperwork.
 
