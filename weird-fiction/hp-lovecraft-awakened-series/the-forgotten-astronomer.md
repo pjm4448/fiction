@@ -94,7 +94,7 @@ Crane's laugh was bitter. "Aye, a defect born into us before our fathers' father
 
 "The boy is ill?" Samuel's concern was automatic, human, breaking through his horror for a moment.
 
-"Though he has not set foot in the sea these three months past." Crane's eyes found Samuel's, held them. "Tell me, Professor, how does a child drown on dry land?"
+"Though he hath not set foot in the sea these three months past." Crane's eyes found Samuel's, held them. "Tell me, Professor, how doth a child drown on dry land?"
 
 The question hung unanswered. Samuel's mouth opened, closed.
 
@@ -106,7 +106,7 @@ Samuel tried to pull back. Crane's grip tightened.
 
 "Superstition," Samuel managed, though his voice shook. "Folklore. There must be a rational,,"
 
-"Rational?" Crane released him with such suddenness that Samuel stumbled. "You want rational? That book you found, the *Caelum Profundis*. Tell me how it survived centuries in salt water without rotting. Tell me how flames recoil from it. Tell me," his voice rose, "tell me what rational explanation exists for your wife sketching constellation charts that match diagrams in a book she never saw, in a language she never learned\!"
+"Rational?" Crane released him with such suddenness that Samuel stumbled. "Ye want rational? That book ye found, the *Caelum Profundis*. Tell me how it survived centuries in salt water without rotting. Tell me how flames recoil from it. Tell me," his voice rose, "tell me what rational explanation exists for thy wife sketching constellation charts that match diagrams in a book she never saw, in a language she never learned\!"
 
 Samuel had no answer. The truth of it struck him like a fist.
 
@@ -126,11 +126,11 @@ Samuel felt the necklace pulse against his chest, as if responding to the word.
 
 "Then why didn't you destroy it?" Samuel's voice rose, defensive, desperate. "If you knew, if your people have always known, why leave it where someone could find it?"
 
-The question hung between them. Crane's weathered face worked, emotions warring across it. When he finally spoke, his voice cracked. "You ask with the privilege of the educated man who thinks himself above the superstitions of simple fisher-folk." A pause, heavy as a tombstone. "Why I didn't do more to prevent this?"
+The question hung between them. Crane's weathered face worked, emotions warring across it. When he finally spoke, his voice cracked. "Ye ask with the privilege of the educated man who thinks himself above the superstitions of simple fisher-folk." A pause, heavy as a tombstone. "Why I didn't do more to prevent this?"
 
 "Yes," Samuel pressed. "Why didn't you destroy the book before I could find it?"
 
-Crane's eyes went distant, seeing something far away or long ago. "When my own father began to succumb to the call, when he started speaking in the small hours of the night of the songs from the dark water,," He stopped, swallowed hard. "I attempted in my youth and foolish courage to destroy our family's copy of that thrice-damned book."
+Crane's eyes went distant, seeing something far away or long ago. "When mine own father began to succumb to the call, when he started speaking in the small hours of the night of the songs from the dark water,," He stopped, swallowed hard. "I attempted in my youth and foolish courage to destroy our family's copy of that thrice-damned book."
 
 Samuel waited, barely breathing.
 
@@ -146,7 +146,7 @@ Understanding dawned like ice water down Samuel's spine. "Thomas."
 
 Samuel's legs felt weak. He groped for support, found the rough wood of a piling.
 
-Crane's expression hardened again, tears swallowed back by iron will. "Your curiosity, Professor. Your Miriam." He stepped closer. "She was a lightning rod for forces that sought entry into our world. The sea-blood ran strong in her line. Stronger perhaps than in any born here these hundred years."
+Crane's expression hardened again, tears swallowed back by iron will. "Thy curiosity, Professor. Thy Miriam." He stepped closer. "She was a lightning rod for forces that sought entry into our world. The sea-blood ran strong in her line. Stronger perhaps than in any born here these hundred years."
 
 "She was human," Samuel whispered. "She was,,"
 
@@ -170,7 +170,7 @@ With a sigh that was at once surrender to the inevitable and the final exhalatio
 
 Therein, through that corrupted lens, he beheld not the familiar stars that had been his life's study, not the distant suns and spiral nebulae that had once filled him with wonder and the joy of discovery. Instead, he gazed upon eyes, unblinking and malignant beyond all mortal conception, glaring from a void where temporality was but a cruel mockery and sanity a forgotten luxury of organisms too primitive to comprehend the true nature of existence. They were eyes of such monstrous size that galaxies might orbit within their pupils, eyes that saw not merely across space but through the very fundaments of reality, perceiving past and future as a child perceives the pages of a book spread before it. Whispers as of a drowned multitude permeated the chamber, voices that gibbered in proto-human gutturals and sang in frequencies that caused his bones to ache and his teeth to buzz in their sockets. And threading through that cacophony like a silk ribbon through coarse burlap came Miriam's voice, now seductive as the song of sirens that lured sailors to their doom, now commanding as an empress addressing her thralls: "Gaze deeper, beloved. See what you have always been meant to see."
 
-For one harrowing moment, a span of heartbeats that seemed to stretch across aeons, Samuel felt triumph surge within his breast. He had succeeded where all others had failed. He had found her. The Veil had answered his desperate plea. She was there, waiting in the depths between stars, in the interstices of reality where normal matter dared not venture, and now he could reach her, understand what she had become, perhaps even join her in that transformation.
+For one harrowing moment, a span of heartbeats that seemed to stretch across aeons, triumph surged within his breast. He had succeeded where all others had failed. He had found her. The Veil had answered his desperate plea. She was there, waiting in the depths between stars, in the interstices of reality where normal matter dared not venture, and now he could reach her, understand what she had become, perhaps even join her in that transformation.
 
 But as Y'thar's single lidless orb pulsed through the lens with the rhythm of some great and formidable heart beating in dimensions askew to our own, a malevolent sun in a dying universe whose light brought not illumination but a darkness visible, Samuel understood the truth with a clarity that ground what remained of his sanity into dust as surely as the tide grinds a shell. This was no rescue. This was doom. He had not found Miriam. He had not achieved any victory, false or true. He had merely done precisely what he was always meant to do, had followed the path laid out for him with the inevitability of a marble rolling down a groove carved for its passage. He had summoned something infinitely worse than his wildest nightmares could have conjured, had thrown wide the gates to horrors that should have remained forever locked beyond the pale of human knowing. And Miriam, his beloved Miriam, had always meant for him to do precisely this. She had been the bait, and he the fish that swallowed the hook, line, and sinker entire.
 
@@ -190,35 +190,34 @@ Crane's son died, drowning in his own bed, his lungs filled with seawater that h
 
 Crane stood in the doorway, not entering, as though some invisible threshold prevented him. His weathered face was grey, slack. When he spoke, his voice was barely audible. "Thomas drowned last night."
 
-Samuel's hand, which had been tracing sigils in the tome's margin, went still. "Jedediah, I,"
+Samuel's hand, which had been tracing sigils in the tome's margin, went still. "Jedediah, I..."
 
-"In his bed." Crane's voice grew louder, stronger. "In his bed, Samuel. Not at sea. Not in the harbor. In his bed where I tucked him in and kissed his forehead and told him I loved him." Each word came harder, faster. "His lungs were full of seawater. The physician couldn't explain it. Said it was impossible. But it happened."
+"In his bed." Crane's voice grew louder, stronger. "In his bed, Samuel. Not at sea. Not in the harbor. In his bed where I tucked him in and kissed his forehead and told him I loved him." Each word came harder, faster. "His lungs were full of seawater. The physician couldst not explain it. Said it was impossible. But it happened."
 
-Samuel rose from his desk, reaching out. "I am deeply,"
+Samuel rose from his desk, reaching out. "I am deeply..."
 
-Crane's hand shot up, palm out, stopping him. "Don't." A stifling pause. "Don't you dare offer condolences. Not you. Not when this is because of you."
+Crane's hand shot up, palm out, stopping him. "Nay." A stifling pause. "Nay, thou dare not offer condolences. Not thee. Not when this is because of thee."
 
-The accusation struck Samuel like a physical blow. "That is,"
+The accusation struck Samuel like a physical blow. "That is..."
+"The Veil hungers because of what thou hast done." Crane took a step into the room, then another, each movement carrying barely contained violence. His voice broke on the next words. "It takes our children first. The innocent. The ones who've done naught, know naught, who never asked to be born into this cursed place with this cursed blood." Tears carved channels through the salt-stains on his cheeks. "Then it shall take us all."
 
-"The Veil hungers because of what you've done." Crane took a step into the room, then another, each movement carrying barely contained violence. His voice broke on the next words. "It takes our children first. The innocent. The ones who've done nothing, know nothing, who never asked to be born into this cursed place with this cursed blood." Tears carved channels through the salt-stains on his cheeks. "Then it will take us all."
+Samuel backed against his desk, the tome pressing into his spine. "I never intended..."
 
-Samuel backed against his desk, the tome pressing into his spine. "I never intended,"
-
-"Intention?" Crane's laugh was a harsh, broken sound. "You think the abyss cares about intention? You think whatever's crawling up from the deep gives a damn about the noble pursuits of science?" He closed the distance between them in two strides, grabbing Samuel's collar with hands that shook. "Can you stop it, Professor? Can you?"
+"Intention?" Crane's laugh was a harsh, broken sound. "Thou thinkest the abyss cares about intention? Thou thinkest whatever's crawling up from the deep gives a damn about the noble pursuits of science?" He closed the distance between them in two strides, grabbing Samuel's collar with hands that shook. "Canst thou stop it, Professor? Canst thou?"
 
 Their faces were inches apart. Samuel could smell the grief on the man's breath, sharp and sour.
 
-"Can you undo what you've wrought?" Crane's voice dropped to a whisper more sinister than any shout. "Tell me you can save them. Tell me my boy didn't drown choking on salt water from nowhere for *nothing*."
+"Canst thou undo what thou hast wrought?" Crane's voice dropped to a whisper more sinister than any shout. "Tell me thou canst save them. Tell me my boy didn't drown choking on salt water from nowhere for *naught*."
 
 Samuel's mouth opened. Closed. The words caught in his throat like fishhooks.
 
-Crane searched his face, desperate, and in that searching, found his answer. The hope died in his eyes. His hands released Samuel's collar, falling to his sides as though all strength had fled them. "You can't. Of course you can't."
+Crane searched his face, desperate, and in that searching, found his answer. The hope died in his eyes. His hands released Samuel's collar, falling to his sides as though all strength had fled them. "Thou canst not. Of course thou canst not."
 
 He turned toward the door, moving like a man three times his age.
 
-"Jedediah," Samuel managed, his voice cracking. "Please. I,"
+"Jedediah," Samuel managed, his voice cracking. "Please. I..."
 
-"Don't," Crane said without turning back. "Whatever you're about to say, don't. There are no words. There never were."
+"Nay," Crane said without turning back. "Whatever thou art about to say, nay. There are no words. There never were."
 
 The door closed behind him, softer than before, which somehow made it worse.
 
@@ -282,7 +281,7 @@ Samuel's legs nearly gave way beneath him. His breath came in short, desperate g
 
 She tilted her head, the gesture almost familiar, almost human. "Beloved." Her voice was a gurgle drawn from the deepest abysses of the ocean, a sound that vibrated in frequencies that caused his bones to ache. Yet beneath the alien resonance, he caught something else. Recognition. "Thou hast come at last."
 
-"No." He shook his head violently, denying what stood before him. "No, this is,this is madness. A fever dream. The tome's influence."
+"No." He shook his head violently, denying what stood before him. "No, this is... this is madness. A fever dream. The tome's influence."
 
 "Is it?" She took a step closer. Samuel flinched back against the wall. "Thou hast beheld the stars. Thou knowest what is real."
 
@@ -305,18 +304,17 @@ Her webbed claw, the fingers elongated and tipped with chitinous talons that gle
 The talons stopped a hair's breadth from his cheek. "Thy devotion was," she paused, and for the briefest of moments, something almost human crossed her alien features, "useful, Samuel."
 
 The word shattered something in him. He let out a sound between laugh and sob. "Useful."
-
 "Yes." Her hand withdrew. "It anchored thee to the path I laid as surely as an anchor holds a ship to its mooring."
 
 "A tool." His voice was hollow now, emptied of all feeling. "I was nothing but a tool."
 
 "Thou wert," she corrected, her tone shifting from almost-tender to something colder, more alien, "what was needed. Thy grief made thee pliable. Thy guilt made thee desperate. Thy love," she leaned closer, her breath cold and rank with brine, "thy love made thee blind."
 
-Samuel's head snapped up, fury replacing despair. "How dare you,"
+Samuel's head snapped up, fury replacing despair. "How dare you?"
 
 "I dare because it is truth." Her eyes blazed brighter. "Thou sought the stars for answers. I gave thee the means. Thou sought me in the depths. I showed thee the way." Her voice dropped to a whisper that somehow carried more weight than any shout. "It served Y'thar in His long dreaming. And it served me in mine own purposes, which thou canst not begin to fathom."
 
-"Then tell me." The words came out as a desperate challenge. "Tell me what was so important that you would destroy everything we,"
+"Then tell me." The words came out as a desperate challenge. "Tell me what was so important that you would destroy everything we..."
 
 "We?" She cut him off with a sound that might have been laughter. "There was no we, Samuel. There was only ever the plan, and thou playing thy part with admirable precision."
 
@@ -338,9 +336,9 @@ A primal terror, the last vestige of his dissolving self, sparked a final, viole
 
 The sudden cessation of the necklace's direct influence sent his body into violent, uncontrolled paroxysm while Y'thar's overwhelming psychic torrent continued unabated. He stumbled, reeling, his limbs flailing with brute force.
 
-Miriam lunged, a guttural shriek tearing from her throat, her squamous form agleam with unholy phosphorescence, her eyes blazing with furious possessiveness, fixed on the *Caelum Profundis* still clutched in Samuel's trembling hands. "The offering\!" she hissed, her alien hunger overriding all else.
+Miriam lunged, a guttural shriek tearing from her throat, her squamous form agleam with unholy phosphorescence, her eyes blazing with furious possessiveness, fixed on the Caelum Profundis still clutched in Samuel's trembling hands. "The offering!" she hissed, her alien hunger overriding all else.
 
-The lighthouse itself gave a tremendous, stone-splintering shudder, caught in the vortex of Y'thar's burgeoning presence. As Miriam's taloned hand shot out for the tome, her lunge coincided with Samuel's violent spasm and the tower's heave in catastrophic timing. Her claws raked across Samuel's arm, drawing blood that steamed in unnatural cold. The impact jarred the *Caelum Profundis* from his nerveless grip with brute force.
+The lighthouse itself gave a tremendous, stone-splintering shudder, caught in the vortex of Y'thar's burgeoning presence. As Miriam's taloned hand shot out for the tome, her lunge coincided with Samuel's violent spasm and the tower's heave in catastrophic timing. Her claws raked across Samuel's arm, drawing blood that steamed in unnatural cold. The impact jarred the Caelum Profundis from his nerveless grip with brute force.
 
 The tome spun through the air, its trajectory wild, striking the edge of the tilting profane altar and tumbling directly into the heart of flickering tapers with almost deliberate precision.
 
