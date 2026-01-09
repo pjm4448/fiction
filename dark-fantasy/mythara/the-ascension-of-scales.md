@@ -2,7 +2,7 @@
 
 ## Day 1: Initiation – Arrival, Labor, and First Renewals
 
-The sun rose over Coilkeep like Dominara's unblinking eye, merciless and white-hot, transforming the jungle basin into a fetid cauldron that simmered with the reek of overripe fruit, human waste, and the sweet-sick perfume of venomroot incense. The air hung thick as molten glass, each breath a drowning gasp that filled lungs with humidity so dense it felt like swallowing warm blood. By the time dawn's first light painted the pyramid's obsidian flanks in shades of rust and gold, the heat had already begun its daily torture—a slow roasting that turned skin slick with sweat and made every movement an exhausting ordeal.
+The sun rose over Coilkeep like Dominara's unblinking eye, merciless and white-hot, transforming the jungle basin into a fetid cauldron. The air hung thick, each breath a drowning gasp that filled lungs with oppressive humidity. By the time dawn's first light painted the pyramid's obsidian flanks in shades of rust and gold, the heat had already begun its daily torture—a slow roasting that turned skin slick with sweat and made every movement exhausting.
 
 Elandor Brightmantle stumbled forward in the chain gang, iron collar biting into the raw meat of his neck. The metal burned against his flesh like a brand, heated by equatorial sun until touching it raised blisters. Behind him, the massive obsidian block groaned on crude log rollers as three dozen thralls strained against hempen ropes.
 
@@ -20,19 +20,19 @@ But Aelthar's light felt very distant here, buried beneath Dominara's chains and
 
 ---
 
-The Grand Pyramid rose before them like a monument to calculated cruelty—thirteen tiers of black stone slick with humidity and old blood. Bas-reliefs depicted Dominara's holy subjugation: thralls being flayed, rebels crushed beneath animated chains, children offered to yuan-ti abominations. The artistry was exquisite; the subject matter, nauseating.
+The Grand Pyramid rose before them like a monument to calculated cruelty—thirteen tiers of black stone. Bas-reliefs depicted Dominara's holy subjugation: thralls being flayed, rebels crushed beneath animated chains, children offered to yuan-ti abominations. The craftsmanship was impeccable; the subject matter, nauseating.
 
 At the pyramid's mid-steps, High Priest Varak the Venomous Tongue waited like a patient spider, his malison form a perverse blend of human elegance and serpentine horror. From the waist up, he appeared almost human—handsome even, with aristocratic features and skin like tarnished silver. But where his torso should have ended in legs, instead coiled twelve feet of thick serpent body, scales shimmering with iridescent malevolence. He wore only a ceremonial collar of human finger bones and a headdress fashioned from a rebel couatl skull, its once-radiant plumage now stiff and dull—a trophy commemorating Serpentis's victory over the traitors who sided with Aelthar against the divine serpent hierarchy.
 
-Varak raised his arms, and his voice—amplified by some divine sorcery until it boomed across the plaza like thunder—cut through the morning heat with surgical precision:
+Varak raised his arms, and his voice—amplified by some divine sorcery until it boomed across the plaza like thunder—cut through the morning heat:
 
 "*BEHOLD THE CLUTCH OF DOMINARA!*"
 
 The words physically struck the assembled thralls, a psychic pressure wave that made weak knees buckle and strong hearts falter. Elandor felt it wash over him like ice water, his Aelthar-blessed resistance the only thing preventing him from joining the dozens who fell to the ground, trembling.
 
-"Your *pain*—" Varak drew out the word, savoring it like wine, "—builds our pyramid! Stone by *agonizing* stone!" His forked tongue flickered between words, tasting the fear that hung thick as incense smoke. "Your *blood* becomes the mortar! Your *screams*?" He spread his arms wide, voice rising to theatrical crescendo. "*Divine hymns* that rise sweet and *precious* to the Despot's throne! She *drinks* your suffering like ambrosia! She *bathes* in your despair!" 
+"Your *pain*—" Varak drew out the word, savoring it like wine, "—builds our pyramid! Stone by *agonizing* stone!" His forked tongue flickered between words. "Your *blood* becomes the mortar! Your *screams*?" He spread his arms wide, voice rising to theatrical crescendo. "*Divine hymns* that rise sweet and *precious* to the Despot's throne! She *drinks* your suffering like ambrosia! She *bathes* in your despair!" 
 
-He coiled lower, voice dropping to conspiratorial intimacy that somehow still carried across the plaza. "And you—blessed thralls, honored victims—you should be *grateful*. GRATEFUL!" The word cracked like a whip. "For what is life without *purpose*? What is existence without *meaning*?" He gestured to the chain gangs, to the hundreds of thralls scattered across the plaza in various states of exhaustion and injury. "Thank them! *THANK YOUR BETTERS* for granting you the *sublime honor* of purposeful suffering!"
+He coiled lower, voice dropping to conspiratorial intimacy that carried across the plaza. "And you—blessed thralls, honored victims—you should be *grateful*. GRATEFUL!" The word cracked like a whip. "For what is life without *purpose*? What is existence without *meaning*?" He gestured to the chain gangs, to the hundreds of thralls scattered across the plaza in various states of exhaustion and injury. "Thank them! *THANK YOUR BETTERS* for granting you the *sublime honor* of purposeful suffering!"
 
 The response came immediately—not from joy, but from the survival instinct that supersedes all others. The crowd erupted in frenzied applause, their clapping hands creating a wall of sound that drowned out individual sobs and whimpers. Those who hesitated found yuan-ti guards among them, selecting the silent with pointed fingers and dead eyes. The selected would dance tomorrow, or perhaps they'd decorate the Venom Falls with their dissolved corpses.
 
@@ -58,13 +58,13 @@ Vizier Ssara the Thrice-Coiled rode in a sedan chair carved from a single massiv
 
 But it was Ssara herself who commanded attention, who made even the most jaded Serpentan citizen stop and stare despite the danger of eye contact.
 
-She was *magnificent* in the way that natural disasters are magnificent—beautiful and terrible in equal measure, impossible to look away from even as primal instinct screamed *flee, hide, die quietly*. Her body stretched twenty feet from her almost-human head to the tip of her rattle-less tail, covered in scales that shifted through every color of corruption: gangrenous black, putrid green, the purple-yellow of deep bruising. She wore her ceremonial position coiled three times around herself, her body forming concentric circles that seemed to pulse with their own hypnotic rhythm.
+She was *magnificent* in the way that natural disasters are magnificent—beautiful and terrible, impossible to look away from even as primal instinct screamed *flee, hide, die quietly*. Her body stretched twenty feet from her almost-human head to the tip of her rattle-less tail, covered in scales that shifted through corrupt colors: gangrenous black, putrid green, deep bruising purple. She wore her ceremonial position coiled three times around herself, her body forming concentric circles.
 
-A veil covered the upper half of her face—gossamer-thin fabric that did nothing to hide the lambent glow of her eyes but somehow made them more terrible, as if the act of half-concealing them drew the gaze more surely than naked horror could. Those eyes were wrong in ways that defied simple description; they seemed to look not at you but *through* you, to see every shameful secret, every hidden weakness, every private terror.
+A veil covered the upper half of her face—gossamer-thin fabric that did nothing to hide the lambent glow of her eyes but somehow made them more terrible, as if the act of half-concealing them drew the gaze more surely than naked horror could. Those eyes were wrong; they seemed to look not at you but *through* you, piercing into every private weakness.
 
-Where her gaze fell, people flinched. Where she moved, a silence fell that was louder than screaming.
+Where her gaze fell, people flinched. Where she moved, silence fell.
 
-Behind her sedan came the proof of her efficacy: a dozen petrified statues mounted on wheeled platforms, each one captured mid-scream or mid-plea, their stone faces frozen in expressions of such exquisite terror that looking at them too long made the eyes water and the stomach churn. These were the "eternal kneelers"—rebels who had earned Ssara's personal attention and now served as decoration and warning in equal measure.
+Behind her sedan came the proof of her efficacy: a dozen petrified statues mounted on wheeled platforms, each one captured mid-scream or mid-plea, their stone faces frozen in expressions of pure terror. These were the "eternal kneelers"—rebels who had earned Ssara's personal attention and now served as decoration and warning.
 
 One statue stood out to Elandor—a young woman, maybe twenty, caught in the act of reaching toward a child's statue positioned just out of her reach. Both mother and daughter wore the same expression of desperate hope curdling into final despair. The placard at the statue's base read: *Mira Windwhisper, Traitor. Daughter: Lily, Inherited Guilt. The Chain Unbroken.*
 
@@ -386,7 +386,7 @@ One of the serpents—a young female with scales the color of tropical waters—
 
 "Ssssilence, traitor," a yuan-ti priest hissed. His forked tongue flicked out. "Your kind abandoned the divine hierarchy. Chose Aelthar's falsse light over Dominara's sacred order."
 
-He reached into the couatl's abdominal cavity. Pulled. The couatl's keening became a wet gurgle.
+He reached into the couatl's abdominal cavity. Pulled. The couatl's keening became a gurgle.
 
 "Fresh," he announced. "The omens will be *fresh*."
 
@@ -586,7 +586,7 @@ Ssara's veiled face tilted slightly, and Elandor could *feel* her smile beneath 
 
 ### The Evisceration and Omen-Reading
 
-God-Queen Xipilli emerged from the upper shadows like a vision of divine cruelty. Her form was deceptively humanoid—yuan-ti pureblood perfection, appearing almost human save for the subtle wrongness: skin like polished bronze with fine scales along her jawline and collarbone, eyes of burnished gold with vertical slits, movements too fluid to be entirely mammalian. The crown of obsidian and bloodstones caught the torchlight as she descended the throne's steps with measured grace. Every footfall was precise, deliberate, a queen who knew her every movement was worship and threat in equal measure.
+God-Queen Xipilli emerged from the upper shadows like a vision of divine cruelty. Her form was deceptively humanoid—yuan-ti pureblood perfection, appearing almost human save for the subtle wrongness: skin like polished bronze with fine scales along her jawline and collarbone, eyes of burnished gold with vertical slits, movements too fluid to be entirely mammalian. The crown of obsidian and bloodstones caught the torchlight as she descended the throne's steps with measured grace. Every footfall was precise, deliberate, a queen who knew her every movement was both worship and threat.
 
 She wore ceremonial robes today: layers of crimson silk embroidered with golden serpents that seemed to writhe as she moved, cut to accentuate her near-human beauty while revealing the scales that marked her as divine. Her hands—elegant, long-fingered, tipped with retractable claws—rested casually at her sides.
 
@@ -626,7 +626,7 @@ Xipilli nodded, released the man. He collapsed, convulsing.
 
 "Next."
 
-The process repeated. Eleven more times. Eleven more eviscerations. Each reading delivered with Varak's combination of sadistic glee and scholarly focus. The entrails piled up. The blood pooled. The screams became background noise—individual voices blending into one sustained note that somehow became ordinary. Expected. Atmospheric.
+The process repeated. Eleven more times. Eleven more eviscerations. Each reading delivered with Varak's combination of sadistic glee and scholarly focus. The entrails piled up. The blood pooled. The screams became background noise—individual voices blending into one sustained note that became ordinary. Expected. Atmospheric.
 
 Elandor stood at his post, swinging his censer, whispering prayers, keeping his face neutral while his soul screamed.
 
@@ -672,7 +672,7 @@ A few nervous chuckles rippled through the watching crowd—forced, uncertain.
 
 Xipilli remained motionless on her throne, but her clawed fingers tightened on the armrests. Her golden eyes fixed on the disrupted entrails with an intensity that made even Varak shift uncomfortably. The silence stretched. Lengthened. Became a *pressure*.
 
-"The last time we saw golden light in an omen-reading..." Her voice was soft. Too soft. The kind of soft that preceded executions. "Seventeen years ago. Three weeks before the Wanderer uprising that cost us the Western Provinces for an entire season." 
+"The last time we saw amber glow in an omen-reading..." Her voice was soft. Too soft. The kind of soft that preceded executions. "Seventeen years ago. Three weeks before the Wanderer uprising that cost us the Western Provinces for an entire season." 
 
 Silence. Heavy. Suffocating.
 
@@ -688,7 +688,7 @@ Varak's coils tightened visibly. "Most Radiant Sovereign, I can explain—"
 
 "Y-yes, Most Radiant Sovereign—"
 
-"Mm." She leaned closer, voice dropping to an intimate whisper that somehow carried through the entire chamber like a lover's secret shared with the world. "Then explain to me, High Priest, why your scent..." She inhaled slowly, demonstratively. "...reeks of *fear*."
+"Mm." She leaned closer, voice dropping to an intimate whisper that carried through the entire chamber like a lover's secret shared with the world. "Then explain to me, High Priest, why your scent..." She inhaled slowly, demonstratively. "...reeks of *fear*."
 
 The assembled yuan-ti nobles shifted. Warlocks exchanged glances. Even the dying prisoners seemed to hold their breath.
 
@@ -954,7 +954,7 @@ Elandor had no answer. Just the warmth in his chest and the weight of her skepti
 
 The fight should have ended in seconds.
 
-Instead, Elandor's divine protection flared twice: once deflecting a venomous strike, once shattering an enchanted blade aimed at his heart. Both times, golden light blazed visibly. Both times, the crowd went silent.
+Instead, Elandor's divine protection flared twice: once deflecting a venomous strike, once shattering an enchanted blade aimed at his heart. Both times, divine radiance blazed visibly. Both times, the crowd went silent.
 
 Kressh circled him with new wariness. "What *are* you?"
 
@@ -1430,7 +1430,7 @@ Dominara's expression could have frozen water. But she paid—twenty divine favo
 
 "No," Shadrix purred, whispering just to Aelthar, ensuring Dominara heard too, "but it plants *doubt*. It shows that poison can fail. That advantages can be lost. That chains..." he smiled, "...have weak links."
 
-He leaned closer to Aelthar, voice dropping to something only the Lightbearer could hear. "Your hidden light's path clears, my friend. See how the pieces move? See how chaos serves justice sometimes? *Exquisite*."
+He leaned closer to Aelthar, voice dropping to something only the Lightbearer could hear. "Your hidden light's path clears, my friend. See how the pieces move? See how chaos serves justice sometimes? *Perfect*."
 
 Aelthar wanted to distrust Shadrix—the Veiled God was chaos incarnate, his motives unknowable. But in this moment, watching Yara raise her bloodied blade in triumph, watching the crowd cheer genuine skill over purchased advantage...
 
@@ -2184,8 +2184,6 @@ He returned to his pallet, but sleep came reluctantly. And when it did, his drea
 
 The arena on the fifth day was a creature transformed. Gone was the casual brutality of the early bouts, the utilitarian efficiency of yesterday's subjugations. This was *theater*—grand, elaborate, designed to showcase the absolute pinnacle of what mortal ambition could achieve in Serpentis.
 
-Which meant, of course, that the suffering would be *exquisite*.
-
 The stands were packed beyond capacity. Bodies pressed against bodies, sweat and expensive perfumes mixing in nauseating combinations. The lower tiers—always crowded—were now dangerously so, with fights breaking out over viewing angles, overseers cracking whips to maintain even the illusion of order.
 
 But the upper tiers—the *elite* sections—those had undergone renovation overnight.
@@ -2728,7 +2726,7 @@ Elandor watched it work. Found himself mesmerized by the precision. The care. Th
 
 No grand meaning. Just a spider doing what spiders do. Building. Creating. *Persisting*.
 
-It shouldn't have helped. But somehow it did. Reminded him that even here, even now, small acts of creation continued. The spider didn't need permission or justice or hope. It just *built*.
+It shouldn't have helped. But it did. Reminded him that even here, even now, small acts of creation continued. The spider didn't need permission or justice or hope. It just *built*.
 
 Maybe that was enough. Maybe that was all he could do. Keep building his web of faith, strand by strand, even as the world burned.
 
@@ -2786,7 +2784,7 @@ From her position in the plaza, Ssara's attention drifted upward. Her senses—s
 
 A flicker. A pulse. From the pyramid's upper cells.
 
-*Golden light*. Faint. So faint most wouldn't notice. But Ssara noticed *everything*.
+*Amber radiance*. Faint. So faint most wouldn't notice. But Ssara noticed *everything*.
 
 Her veiled face tilted toward the window where Elandor hung.
 
@@ -3502,7 +3500,7 @@ Ssara's coils tightened. Slowly. The venom kept him conscious, kept him *aware*.
 
 His screams became gurgles.
 
-"There," Ssara purred. "Beautiful. *Exquisite*. You've found your calling—not theft, not ambition, but *music*."
+"There," Ssara purred. "Beautiful. *Perfect*. You've found your calling—not theft, not ambition, but *music*."
 
 Ssara held him there for five full minutes. Letting the crowd hear.
 
@@ -3576,17 +3574,17 @@ And in this moment of chaos, when Dominara's control was momentarily fractured, 
 
 It *released*.
 
-Power flooded through Elandor like fire through dry wood. Not gradual. Not gentle. *Explosive*.
+Power flooded through Elandor like fire through dry wood—explosive, not gradual.
 
-His chains shattered. Not unlocked. *Shattered*. Exploded into fragments of glowing metal that scattered like shrapnel.
+His chains shattered into fragments of glowing metal that scattered like shrapnel.
 
-His burns—days old, suppurating—*healed*. Skin knitting together, blisters smoothing, leaving unmarked flesh that seemed to glow with internal radiance.
+His burns—days old, suppurating—*healed*. Skin knitting together, blisters smoothing, leaving unmarked flesh glowing with internal radiance.
 
 His eyes blazed golden. His form radiated light so bright that shadows fled, that the packed crowd gasped and shielded their eyes, that even yuan-ti warriors flinched back.
 
 "I am Elandor Brightmantle!" His voice carried with supernatural clarity. "Paladin of Aelthar! And I tell you—THE CHAIN CAN BREAK!"
 
-He moved. Not toward escape. Toward the prisoners. Toward those still bound, still waiting for chains, still condemned.
+He moved toward the prisoners—toward those still bound, still waiting for chains, still condemned.
 
 His hands—blazing with radiant power—touched shackles. They melted. Dissolved. Released.
 
@@ -3812,7 +3810,7 @@ And then.
 
 *Radiance*.
 
-Golden light erupting from Elandor's chest. Not divine channeling. His *own* power—accumulated, compressed, finally released. Blazing like sun made flesh. The chains *screamed* as holy power met tyrannical magic. Light pushed back against darkness. Hope against despair.
+Holy light erupting from Elandor's chest—his *own* power, accumulated and compressed, finally released. Blazing like sun made flesh. The chains *screamed* as divine force met tyrannical magic. Light pushed back against darkness. Hope against despair.
 
 Elandor's eyes widened. "YES!" he gasped. The training—his father's training, years at the forge, discipline made manifest—it was *working*.
 
@@ -3868,7 +3866,7 @@ The golden radiance began... *curdling*. Not from external corruption. From *pre
 
 It was like watching star collapse.
 
-"I'm tool of betrayal," Shadrix corrected quietly, observing from distance. "And this... this betrayal is self-inflicted. Power turned against its wielder. Faith become poison. Discipline made weapon. Exquisite."
+"I'm tool of betrayal," Shadrix corrected quietly, observing from distance. "And this... this betrayal is self-inflicted. Power turned against its wielder. Faith become poison. Discipline made weapon. Poetic."
 
 He wasn't causing it. Just... appreciating it. Savoring the cosmic irony.
 
@@ -3878,7 +3876,7 @@ Elandor's body began to come apart.
 
 Not quickly. Not mercifully. *Slowly*. Elaborately. With grotesque artistry.
 
-The radiant veins beneath his skin—the ones glowing with overloaded power—swelled. Bulged. Then *burst* like overripe fruit. Golden-black ichor sprayed in all directions. His skin split along glowing lines, peeling back to reveal muscle and bone beneath.
+The radiant veins beneath his skin swelled, bulged, then *burst* like overripe fruit. Dark ichor sprayed in all directions. His skin split along glowing lines, peeling back to reveal muscle and bone beneath.
 
 The power cauterized the wounds. Sealed them shut. Creating more pressure so they could rupture again. And again. And AGAIN. Each burst revealing deeper layers. Muscle tearing. Bone showing. Organs visible through gaps.
 
@@ -3888,7 +3886,7 @@ His eyes were next. Pressure building behind them as power concentrated in his s
 
 They exploded. Both at once. *Pop-pop*. Golden pus erupting from sockets, streaming down his cheeks in thick ropes that glowed and smoked. The pus ate into his face, creating channels, exposing bone beneath.
 
-The eyeball fragments—sticky, glistening—hung from ruined sockets for moment before dissolving into more of that golden-black ichor.
+The eyeball fragments hung from ruined sockets for a moment before dissolving.
 
 He was still *alive*. Still conscious. Still feeling everything.
 
@@ -4184,7 +4182,7 @@ The question lingered. Festered. Would grow.
 
 Her chain endured. But mortals had seen behind the curtain. And once seen, that knowledge couldn't be erased.
 
-**Shadrix** observed with satisfaction. Not because he'd caused the tragedy—he hadn't, not really. But because he appreciated it. Cosmic irony made manifest. Discipline turned weapon. Faith become poison. Exquisite self-betrayal.
+**Shadrix** observed with satisfaction. Not because he'd caused the tragedy—he hadn't, not really. But because he appreciated it. Cosmic irony made manifest. Discipline turned weapon. Faith become poison. Perfect self-betrayal.
 
 He collected no bets. Made no interventions. Just... savored.
 
