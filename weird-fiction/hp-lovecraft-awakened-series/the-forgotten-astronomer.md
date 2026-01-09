@@ -1,4 +1,4 @@
-# **The Forgotten Astronomer**
+# The Forgotten Astronomer
 
 **Synopsis**
 
