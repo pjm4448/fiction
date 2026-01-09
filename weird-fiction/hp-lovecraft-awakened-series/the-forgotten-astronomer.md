@@ -80,11 +80,11 @@ Driven by a terror that gnawed at his sanity like rats at a corpse, and by a des
 
 "Thou hast looked upon it, haven't ye?" Crane didn't wait for an answer. His gaze fixed on Samuel's chest, where the necklace rested beneath fabric. "The Veil of Y'thar."
 
-Samuel's hand moved involuntarily to cover the spot. "How could you,,"
+Samuel's hand moved involuntarily to cover the spot. "How could you?"
 
 "She led ye to it." Crane's voice carried certainty beyond questioning. "As surely as the condemned is led to the gallows. Same as she was led by those who came before her."
 
-"You speak as if,," Samuel began, but the words died in his throat.
+"You speak as if..." Samuel began, but the words died in his throat.
 
 "As if I know?" Crane held up a weathered hand, spreading the fingers slowly. In the lamplight, faint web-like traces between the digits gleamed with an oily sheen. "We are all of us marked here, Professor. Some more than others."
 
@@ -104,7 +104,7 @@ Samuel tried to pull back. Crane's grip tightened.
 
 "Generations, Professor." The mariner's breath came hot against Samuel's face. "Generations we have kept watch. Kept the balance." His voice dropped to barely above a whisper. "We are descendants of those who made pacts in ages past."
 
-"Superstition," Samuel managed, though his voice shook. "Folklore. There must be a rational,,"
+"Superstition," Samuel managed, though his voice shook. "Folklore. There must be a rationa..."
 
 "Rational?" Crane released him with such suddenness that Samuel stumbled. "Ye want rational? That book ye found, the *Caelum Profundis*. Tell me how it survived centuries in salt water without rotting. Tell me how flames recoil from it. Tell me," his voice rose, "tell me what rational explanation exists for thy wife sketching constellation charts that match diagrams in a book she never saw, in a language she never learned\!"
 
@@ -114,7 +114,7 @@ Crane saw the realization dawn and his fury collapsed into something worse. Desp
 
 "But why?" Samuel found himself asking. "Why make such a bargain?"
 
-"Because our ancestors were drowning." Crane's voice went flat, reciting history like a dirge. "Because the sea wanted to claim this place, and they were desperate men who would do anything, promise anything, to survive." He looked up at Samuel. "And survive they did. We all did. But the price,,"
+"Because our ancestors were drowning." Crane's voice went flat, reciting history like a dirge. "Because the sea wanted to claim this place, and they were desperate men who would do anything, promise anything, to survive." He looked up at Samuel. "And survive they did. We all did. But the price?"
 
 "What price?"
 
@@ -130,13 +130,13 @@ The question hung between them. Crane's weathered face worked, emotions warring 
 
 "Yes," Samuel pressed. "Why didn't you destroy the book before I could find it?"
 
-Crane's eyes went distant, seeing something far away or long ago. "When mine own father began to succumb to the call, when he started speaking in the small hours of the night of the songs from the dark water,," He stopped, swallowed hard. "I attempted in my youth and foolish courage to destroy our family's copy of that thrice-damned book."
+Crane's eyes went distant, seeing something far away or long ago. "When mine own father began to succumb to the call, when he started speaking in the small hours of the night of the songs from the dark water..." He stopped, swallowed hard. "I attempted in my youth and foolish courage to destroy our family's copy of that thrice-damned book."
 
 Samuel waited, barely breathing.
 
 "It nearly took my life, Professor." Crane's voice dropped to a whisper more chilling than any shout. "I was abed for half a year. Raving about things that crawled up from the deep trench beyond the shoals."
 
-"But you survived," Samuel said, not understanding. "You,,"
+"But you survived," Samuel said, not understanding. "You..."
 
 "Aye, I survived." Crane's face twisted with grief. "And the backlash from that attempt, the psychic recoil of forces I cannot name, it struck my boy in my stead."
 
@@ -148,7 +148,7 @@ Samuel's legs felt weak. He groped for support, found the rough wood of a piling
 
 Crane's expression hardened again, tears swallowed back by iron will. "Thy curiosity, Professor. Thy Miriam." He stepped closer. "She was a lightning rod for forces that sought entry into our world. The sea-blood ran strong in her line. Stronger perhaps than in any born here these hundred years."
 
-"She was human," Samuel whispered. "She was,,"
+"She was human," Samuel whispered. "She was..."
 
 "She was an ideal instrument." Crane's words cut like knives. "A perfect vessel for that which wishes to be born anew into flesh."
 
