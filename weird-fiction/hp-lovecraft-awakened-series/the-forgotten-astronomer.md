@@ -291,7 +291,7 @@ Something flickered in her blazing emerald eyes. Amusement? Pity?
 
 "I have become what I always was," she said simply. "I've simply stopped pretending otherwise."
 
-The words struck him like a blow to the sternum. He sagged, shoulders hitting the cold stone. "Our years together." Tears, hot and bitter, blurred his vision. "Was it nothing but deception from first to last?"
+The words struck him like a blow to the sternum. He sagged against the lighthouse wall, his shoulders pressing into cold stone. "Our years together." Tears, hot and bitter, blurred his vision. "Was it nothing but deception from first to last?"
 
 She moved closer. Not with menace, but with something worse. Patience. The patience of the tide. "Deception?" The word rolled strangely off her transformed tongue. "I shared your bed. I walked your gardens. I listened to your theories about stellar drift and cosmic velocities."
 
