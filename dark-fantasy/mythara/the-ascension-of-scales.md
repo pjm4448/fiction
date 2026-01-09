@@ -240,7 +240,7 @@ Believers.
 
 In the Ethereal Shroud, the gods clustered around their scrying pools like vultures around a dying animal, their divine forms casting no shadows in the realm beyond realms.
 
-Aelthar stood rigid, his armored hands clenched into fists tight enough to make the metal creak. "*Even here, compassion endures,*" he said, his voice tight with carefully controlled fury. "*Even in this pit of despair, light finds purchase.*"
+Aelthar observed, his armored form still and contemplative. "*Even here, compassion endures,*" he said, with the mild interest of a scholar noting an anomaly. "*Even in this pit of despair, light finds purchase.*"
 
 Harmona nodded, her loom still spinning the subtle threads she'd woven into the Venom Falls, pulling them back now that her work was complete. "*They will need more than light,*" she said softly. "*They will need strength, and luck, and—*"
 
@@ -2328,13 +2328,13 @@ Dark. Twisted. But humor nonetheless.
 
 ### Divine Intervention
 
-In the Ethereal Shroud, Harmona watched with increasing distress. Her form—soft light and compassion given shape—flickered with barely contained grief.
+In the Ethereal Shroud, Harmona watched with detached curiosity. Her form—soft light and compassion given shape—remained steady, observing.
 
-"This is obscene," she whispered. "Even by Dominara's standards. This is—they're making *sport* of suffering. Laughing at—"
+"This is obscene," she noted, tone clinical. "Even by Dominara's standards. They're making *sport* of suffering. Laughing at—"
 
 "That's what mortals do," Whirlvex said, appearing beside her with crackling energy. "They cope. They laugh. Because the alternative is acknowledging that they're one mistake away from those chains. And that's too terrifying. So—comedy!" He grinned. "Dark comedy. But the begging-for-promotion bit? *Gold*. Absolute gold."
 
-"It's not funny," Harmona said, voice tight.
+"Interesting phenomenon," Harmona said, tone unchanged.
 
 "It's hilarious," Whirlvex countered. "In a horrible way. Which makes it more hilarious. Comedy is tragedy plus distance, and we're VERY distant."
 
@@ -2458,15 +2458,15 @@ She glided toward the pyramid, toward the inner sanctum, toward the cells where 
 
 In the Ethereal Shroud, the gods watched the Pruning conclude. Twenty-three condemned. Twenty-two dead. One survivor who would carry scars—physical and otherwise—for whatever remained of their life.
 
-"Efficient," Dominara said with satisfaction. "The weak culled. The chain reinforced. Order maintained through demonstration."
+"Efficient," Dominara observed. "The weak culled. The chain reinforced. Order maintained through demonstration."
 
-"Horror maintained through cruelty," Aelthar countered, golden light pulsing with barely contained fury. "You proved nothing except that power enables atrocity."
+"Horror maintained through cruelty," Aelthar countered mildly. "Interesting that power requires such elaborate atrocity."
 
-"I proved that hierarchy functions," Dominara shot back. "That consequences are real. That the strong rule and the weak submit. As it should be. As it has *always* been."
+"Hierarchy functions," Dominara replied. "Consequences are real. The strong rule and the weak submit. As it should be. As it has *always* been."
 
 "Your paladin still believes," Shadrix observed, materializing with his unsettling smile. "Even after watching his allies die. Even after witnessing the Pruning. His faith hasn't broken." He leaned close to Aelthar, voice dropping to something falsely encouraging. "Your light pierces deepest shadow. Tickles, really. But it *persists*. Perhaps... perhaps you're winning after all."
 
-It was manipulation. Transparent manipulation. But Aelthar wanted to believe it.
+It was manipulation. Transparent manipulation. But Aelthar found it... amusing.
 
 *Needed* to believe it.
 
@@ -2778,13 +2778,13 @@ It spread like contagion. Starting small, growing louder, becoming mass hysteria
 
 ### Divine Commentary
 
-In the Ethereal Shroud, Aelthar stood blazing with righteous fury and grim satisfaction.
+In the Ethereal Shroud, Aelthar observed with mild satisfaction.
 
-"True justice revealed," he declared. "Let them see that lies are not tolerated. That false witness earns consequence. That MY light exposes CORRUPTION."
+"Justice revealed," he remarked. "Interesting how lies expose themselves. False witness earning consequence. Light exposing corruption."
 
 "Oh, that was MAGNIFICENT!" Whirlvex howled, crackling with manic energy. "Slapstick suicide! The flailing! The multiple throat-cuts! It needed more pratfalls—maybe he could have tripped on his own intestines?—but STILL! Comedy gold!"
 
-"It wasn't meant to be funny," Aelthar said, voice tight.
+"The theatrical element was notable," Aelthar agreed.
 
 "Everything is funny from the right angle!" Whirlvex countered. "And that angle is OURS! Distant! Omniscient! We get to watch mortality's absurdity play out in real-time!" He cackled. "Should've had exploding guts though. Would've been perfect with exploding guts."
 
@@ -2792,13 +2792,13 @@ Harmona materialized, expression grieved. "You forced him to kill himself. That'
 
 "He was going to torture an innocent man," Aelthar shot back. "He LIED. Used sacred trial for personal ambition. He deserved—"
 
-"Death by his own hand?" Harmona shook her head. "When did we become what we oppose?"
+"Death by his own hand?" Harmona shook her head. "Interesting development."
 
-"We don't oppose ORDER," Dominara said, appearing with cold fury radiating from her form. "We oppose CHAOS. And you, Lightbearer, just introduced chaos. Again. Exposed another of my priests as corrupt. Made mockery of my trials." Her eyes blazed. "This is the SECOND time you've pushed boundaries. We prefer *subtlety*—"
+"We don't oppose ORDER," Dominara said, appearing with cool assessment. "We oppose CHAOS. And you, Lightbearer, just introduced chaos. Again. Exposed another of my priests as corrupt. Made mockery of my trials." Her tone remained level. "This is the SECOND time you've pushed boundaries. We prefer *subtlety*—"
 
 "And what's more subtle than a guilty conscience?" Shadrix interrupted smoothly, materializing with his unsettling smile. "Sethrak was innocent. Proven by the accuser's confession. Aelthar barely touched the situation." He paused. "Technically."
 
-"Your 'technicalities' are wearing thin," Dominara snarled.
+"Your technicalities accumulate," Dominara observed.
 
 Below, in the mortal realm, the crowd's laughter had become a sustained roar. The absurdity of the priest's death—the over-dramatic flailing, the multiple attempts, the sheer *slapstick* quality—had become instant legend.
 
@@ -4042,11 +4042,13 @@ He collected no bets. Made no interventions. Just... savored.
 
 **Whirlvex** gained nothing but entertainment. But for him, that was everything. The chaos. The implosion. The spectacular death. He'd replay those memories for eons.
 
-**Harmona** wept. Her distant concern, her wishes for better outcomes—all meaningless. She'd done nothing. Could do nothing. And perhaps that was mercy.
+**Harmona** observed with distant interest. Her concern, her wishes for better outcomes—academic curiosities. She'd done nothing. Could do nothing. And perhaps that was appropriate.
 
-"Perhaps," she whispered, "the only kindness is not interfering at all."
+"Perhaps," she mused, "the only wisdom is not interfering at all."
 
-**Liberon** raged quietly. His ideals of liberty, his hopes for freedom—they persisted in mortal hearts despite this horror. Or perhaps because of it? Martyrs created movements. Failures taught lessons.
+**Liberon** watched with clinical detachment. His ideals of liberty, his hopes for freedom—they persisted in mortal hearts despite this horror. Or perhaps because of it? Martyrs created movements. Failures taught lessons.
+
+Interesting patterns. Worth observing further.
 
 The cosmos didn't answer. It never did.
 
