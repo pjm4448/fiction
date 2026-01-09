@@ -326,7 +326,7 @@ For a long moment, she simply stared at him with those unfathomable green eyes t
 
 Her claw shot out, this time unmistakably reaching for the tome. "Now give me what I came for."
 
-The restored telescope stood aimed at the Veil with unyielding precision. Through its scarred lens, Y'thar's single, lidless orb pulsed, a malevolent sun in a dying universe. Its iris was a swirling vortex of impossible colours: rubies bleeding into diseased emeralds, sapphires drowning in putrid amber, all spiraling into a central pupil blacker than obsidian. Its scrutiny was physical weight, pressure that threatened to pulverize his intellect into gibbering fragments.
+The restored telescope stood aimed at the Veil with unyielding precision. Through its scarred lens, Y'thar's single, lidless orb pulsed, an indifferent sun in a dying universe. Its iris was a swirling vortex of impossible colours: rubies bleeding into diseased emeralds, sapphires drowning in putrid amber, all spiraling into a central pupil blacker than obsidian. Its scrutiny was physical weight, pressure that threatened to pulverize his intellect into gibbering fragments.
 
 Y'thar's thoughts, cold and vast, inundated him. A cacophony of aeons, of realities born and consumed in cycles beyond mortal reckoning. His blood shrieked in protest. His sanity frayed like old rope stretched beyond all limits.
 
