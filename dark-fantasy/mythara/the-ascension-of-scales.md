@@ -6,17 +6,15 @@ The sun rose over Coilkeep like Dominara's unblinking eye, merciless and white-h
 
 Elandor Brightmantle stumbled forward in the chain gang, iron collar biting into the raw meat of his neck. The metal burned against his flesh like a brand, heated by equatorial sun until touching it raised blisters. Behind him, the massive obsidian block groaned on crude log rollers as three dozen thralls strained against hempen ropes.
 
-"Pull, you *shit-stained worms!*" The overseer's whip cracked like breaking bone, and Elandor heard rather than saw the leather strips find their mark. The sound came first—that distinctive *thwack* of hide meeting meat—followed by a wet tearing and a scream that started high and keening before dissolving into breathless whimpers. "The God-Queen's pyramid hungers for your *weakness!* Feed it with your *worthless fucking backs!*"
+"Pull, you *shit-stained worms!*" The overseer's whip cracked like breaking bone, and Elandor heard the scream that followed. A thrall had collapsed—a young Wanderer boy from the meadowlands. The whip found him again and again.
 
-Another crack. This time the scream cut off with a choking gurgle. Elandor risked a glance over his shoulder and immediately wished he hadn't. The thrall—a Wanderer boy, maybe sixteen, kidnapped from the meadowlands three months prior—had collapsed between the ropes. The whip had found him seven, eight, maybe ten times in rapid succession, each strike laying open skin and muscle in geometric precision. The boy's back looked like raw butchered pork, ribs visible through the shredded meat, white bone gleaming wetly in the morning light.
+But the overseer hadn't stopped. Even as the boy convulsed, the yuan-ti pureblood continued his work until the screaming stopped altogether.
 
-But the overseer hadn't stopped. Even as the boy convulsed in the dirt, even as his bowels released in a foul-smelling rush, the yuan-ti pureblood continued his work with the detached efficiency of a craftsman. The whip's barbed tips—triple-stranded leather studded with obsidian shards—found the back of the boy's neck, his shoulders, the tender flesh behind his knees. Each impact produced a sound like tearing cloth, and soon the boy stopped screaming altogether.
+"*Leave him*," the overseer hissed. "The flies will attend the ceremony shortly."
 
-"*Leave him*," the overseer hissed, his forked tongue tasting the air with evident satisfaction. "The flies will attend the ceremony shortly. They're invited guests, after all." He laughed—a dry, serpentine sound. "Consider him a living altar. Well. *Mostly* living."
+The chain gang lurched forward. Behind them, the boy lay in the spreading pool. The jungle's insects found him quickly.
 
-The chain gang lurched forward. Elandor felt the collar jerk against his throat, forcing him to move or be dragged. Behind them, the Wanderer boy lay twitching in a spreading pool of his own blood and filth, eyes rolled back to show only whites, mouth opening and closing soundlessly like a landed fish. Already the jungle's omnipresent insects had found him—fat black flies the size of thumbs descended in a buzzing cloud, crawling into the open wounds to lay their eggs in still-warm meat.
-
-*Aelthar, grant him swift passage,* Elandor prayed silently, his lips forming soundless words. *Let his suffering end before the maggots wake.*
+*Aelthar, grant him swift passage,* Elandor prayed silently.
 
 But Aelthar's light felt very distant here, buried beneath Dominara's chains and Serpentis's choking canopy.
 
@@ -100,109 +98,17 @@ The abomination descended from the platform with surprising speed, moving along 
 
 It poured the vial down the boy's throat.
 
-The effect was not immediate, which somehow made it worse. For ten, maybe fifteen seconds, nothing happened. The boy knelt there, gasping, his eyes wide and uncomprehending.
+For a moment, nothing. Then the boy's back arched violently. The scream that followed was inhuman—high and whistling. His body convulsed in violent spasms, feet drumming against stone in involuntary rhythm. The "Divine Dance."
 
-Then his back arched so violently that Elandor heard the spine crack from a hundred feet away.
+The crowd laughed. Forced laughter, mostly, but genuine relief mixed in. Better to laugh than show sympathy.
 
-The boy's scream started human and ended something else entirely—a high, whistling keen that belonged to no creature on earth. His muscles locked into tetanic rigidity, every tendon standing out in sharp relief, his fingers curling into claws that dug furrows in his own palms deep enough to show bone. Foam bubbled from his lips, pink-tinged with blood from where he'd bitten through his tongue.
+The alchemist moved down the line. Most danced. Some died immediately. One seemed resistant—until a stronger dose was administered. The results were spectacular and brief.
 
-But his feet—that was where the real horror began.
+By the end, bodies lay where they'd fallen. The crowd's laughter had taken on a hysterical edge.
 
-The boy's body didn't simply convulse. It *danced*, heels drumming against the stone in an involuntary rhythm that seemed almost musical, almost intentional. His legs jerked and spasmed, making him look like a marionette controlled by a drunk puppeteer. And because the venom affected the muscles but left the mind cruelly aware, the boy's eyes showed clear consciousness throughout—he *knew* what was happening, *felt* every moment of his body's betrayal.
+Elandor watched from his cell, forcing himself to bear witness. The tattoo pulsed warmly. *Not alone.*
 
-The crowd laughed. Not because they found it funny—the laughter had the high, brittle quality of hysteria barely contained—but because laughing was safer than screaming or crying or showing anything that might be construed as sympathy.
-
-"*DIVINE DANCE!*" someone shouted.
-
-"*THE GODDESS MOVES THROUGH HIM!*"
-
-"*BLESSED! BLESSED! BLESSED!*"
-
-The alchemist moved down the line, administering venom to each thrall in turn. Most danced. Some died immediately, their hearts stopping with disappointing swiftness. One—a thick-necked Wanderer who looked like he could break a horse bare-handed—seemed almost unaffected, his body accepting the venom with only mild tremors.
-
-"*Ah,*" the alchemist said, genuine interest coloring its sibilant voice. "*A natural resistance. How delightfully rare.*" It produced another vial, this one glowing a deeper, more virulent green. "*Let us test the boundaries of the Goddess's gifts.*"
-
-The Wanderer didn't dance. He simply exploded.
-
-It happened so fast that for a moment Elandor's mind couldn't process it—couldn't reconcile the fact that where there had been a man, there was now only a fine red mist and chunks of meat rapidly expanding across a ten-foot radius. The venom had been so concentrated, so virulent, that the man's internal organs had quite literally burst like overfilled wineskins.
-
-The crowd's laughter took on a hysterical edge. Several people vomited. No one stopped clapping.
-
-Through it all, the poisoned boy continued his dance, his body jerking and twisting in rhythms that seemed to mock music, his eyes leaking tears that carved clean tracks through the dust on his face. He would dance for another hour before his heart finally gave out, and even then his corpse would continue twitching as the venom worked its way through his nervous system.
-
-Somewhere in the Ethereal Shroud, Whirlvex howled with laughter.
-
----
-
-As the boy's dance reached its crescendo, one of the thralls—a young Serpentan man, maybe nineteen, with the lean build of a farmer—lost his grip on the obsidian block his chain gang was moving. The massive stone shifted on its rollers, tilted, and came down on his bare foot with the full weight of its multi-ton mass.
-
-The sound was like a melon being dropped from a great height—a wet *splorch* followed by a distinctive crack-pop-crack as every bone in the foot shattered simultaneously. The young man's scream was brief—shocked more than pained in those first seconds—before his brain caught up with what his eyes were seeing.
-
-His foot had ceased to be a foot. It was now a roughly foot-shaped bag of pulped meat and bone fragments, split open in multiple places to reveal a horror of exposed tendons and the white glint of splintered bone. Blood pooled rapidly, so much blood that it seemed impossible one foot could contain it all.
-
-The overseer was there immediately, his whip already in motion before the boy's second scream could finish forming.
-
-"*Clumsy shit-eating worm!*" The whip cracked across the boy's shoulders. "*You damage the Goddess's *property*!*" Another crack, this one laying open his back in a ruler-straight line. "*You *dare* bleed on Her sacred stones?*"
-
-The boy tried to move, to pull his ruined foot from beneath the block. It was the worst thing he could have done. What remained of his foot separated from his ankle with a sound like tearing wet leather, leaving most of his foot still trapped beneath the stone while the stump fountained blood in arterial spurts that painted the overseer's scales crimson.
-
-The crowd laughed. They laughed because the alternative was to be tomorrow's entertainment.
-
-But there was genuine mirth too—the kind of nervous, inappropriate laughter that humans make when confronted with something so absurd, so disproportionately horrible, that the only response is to treat it as comedy because the alternative is madness.
-
-"*DANCE FOR US!*" someone shouted.
-
-"*THE STONE HAS JUDGED!*"
-
-"*ONE-FOOT SHUFFLE!*"
-
-The overseer seemed to consider this, his serpentine head tilting in a gesture that was almost bird-like in its alien quality. Then, with deliberate malice, he brought the whip down again—not on the boy's back, but across the spurting stump where his foot had been.
-
-The boy's scream achieved a pitch that made dogs in the plaza below start howling in sympathetic agony. He thrashed against his collar, against the chains, against everything and nothing, his movements jerking and spastic in a grotesque parody of the Divine Dance.
-
-The overseer continued his work with the patience of a craftsman, peeling away strips of skin and muscle with surgical precision. The flesh came away in long ribbons, revealing the blood-slick meat beneath, the white glisten of fascia, the yellow of subcutaneous fat. The boy's back became a canvas, and the whip was the brush with which the overseer painted his devotion to the Despot's glory.
-
-"*Accidentally,*" the overseer said, loud enough for the crowd to hear, his voice dripping with ironic emphasis. "*I seem to have flayed this worthless worm alive. How *unfortunate*.*"
-
-More laughter. Louder now. Safer to laugh at the absurdity, the cosmic joke of it all.
-
-The boy lasted another ten minutes before shock took him, his convulsions slowing from violent thrashing to weak tremors to perfect, utter stillness. The overseer checked for a pulse with the casual gesture of a cook testing meat for doneness, then nodded to his subordinates.
-
-"Leave him. The flies are invited guests."
-
-And indeed, the carrion insects were already descending—fat, iridescent things that crawled into the still-warm wounds and began their feast while the boy's eyes—glazed but still technically alive—stared at nothing with the blank incomprehension of a man whose soul had checked out but whose body hadn't gotten the message yet.
-
-In the Ethereal Shroud, Whirlvex laughed so hard he had to steady himself against Ruinok's shoulder. Even Shadrix permitted himself a thin smile.
-
-"*Timing,*" the Veiled Dealer murmured. "*Perfect comic timing. That's what makes it art.*"
-
----
-
-Dusk came like a mercy, though in Serpentis mercy always came with teeth.
-
-The descent to the Venom Falls was a procession of the damned—thousands of thralls and lower-caste Serpentans winding down the narrow jungle paths that led to the sacred cascade. The trail was treacherous, slick with moss and the accumulated filth of previous pilgrimages, and those who fell were simply trampled by the press of bodies behind them.
-
-Elandor moved with the flow, his ruined neck rubbed raw by the collar, his feet bleeding from dozens of cuts earned during the day's labor. Around him, the other thralls maintained the sort of silence that comes from exhaustion beyond words, moving like animated corpses driven by nothing more than the biological imperative to keep breathing for one more minute, one more hour, one more day.
-
-The jungle pressed close on all sides—a suffocating green cathedral of poison and predation. Serpents the color of rotted leaves hung from branches, their presence betrayed only by the occasional flicker of a tongue or the glint of an unblinking eye. Giant constrictor snakes thick as a man's thigh lay coiled in the understory, their bodies forming living tripwires that could crush ribs before a scream could form. And everywhere, *everywhere*, the insects hummed their hungry songs, drawn by the scent of blood and sweat and fear.
-
-The sound of the falls reached them first—a roar like distant thunder growing steadily louder until it drowned out all other noise. Then came the smell: sulfur and copper, bile and rotting flowers, thick enough to make eyes water and throats close.
-
-The Venom Falls cascaded down a hundred-foot cliff in a luminous green torrent. The water was the collected runoff from Venomroot Jungle's deepest reaches—a toxic soup of plant alkaloids, snake venom, and natural compounds that had no business existing outside an alchemist's nightmare. It pooled at the base, glowing with bioluminescent bacteria that fed on dissolved flesh.
-
-The ceremony was simple: walk into the pools, submerge yourself completely for a count of ten, emerge or die.
-
-Those who survived were marked with burning chains—brands applied to still-wet flesh, a systematic identification process. Those who failed... well.
-
-The first pilgrim was a elderly Serpentan woman, maybe sixty, her back bent from a lifetime of hauling burdens too heavy for human spines. She waded into the first pool with the resigned dignity of someone who had long since stopped caring whether she lived or died. The water came to her knees, then her waist, then her neck.
-
-She managed four seconds before the blisters started forming.
-
-They erupted across her exposed skin like boiling pustules, each one the size of a gold piece, each one weeping clear fluid that immediately blistered the skin beneath it in a cascading reaction. Her face swelled, eyes disappearing into bloated flesh, lips splitting to show teeth and gums. She tried to scream, but her throat had swollen shut, and all that emerged was a wet, choking gurgle.
-
-She didn't make it to ten. At seven seconds, she collapsed forward into the water, and the pools did the rest. Where she disappeared, the water frothed and bubbled, the bioluminescence intensifying as the bacteria fed on the suddenly abundant nutrients. When the bubbling stopped, there was nothing left—no bones, no hair, nothing. The pools were hungry, and thorough.
-
-Elandor watched the process repeat itself a dozen times, two dozen, a hundred. Some pilgrims survived. Most didn't. Those who bloated and screamed were marked for the Pruning—public executions scheduled for the festival's sixth day, though given the rate of attrition, many would be dead long before then.
+*This is what I must endure,* he thought. *This is the test.*
 
 When his turn came, Elandor descended into the pool with a prayer on his lips that would have gotten him killed if anyone had heard the words:
 
@@ -442,25 +348,17 @@ This was different.
 
 This was *art*.
 
-The yuan-ti priests had flayed the couatls alive, peeling back scales with surgical precision to expose the muscle beneath—muscle that still twitched and contracted with each labored breath. The wings had been spread wide and pinned to the stone with silver spikes, feathers plucked one by one so that only raw, weeping flesh remained. Their eyes—those intelligent, pleading eyes—remained untouched.
+The yuan-ti priests had flayed the couatls alive, peeling back scales to expose the muscle beneath—muscle that still twitched. The wings had been spread wide and pinned to the stone with silver spikes. Their eyes—those intelligent, pleading eyes—remained untouched.
 
-They *wanted* the couatls to see.
+They *wanted* the couatls to see. To *watch*.
 
-To *watch*.
+One of the serpents—a young female with scales the color of tropical waters—made a sound as Elandor passed. Not a hiss. Not a scream. Something worse: a *keening*, high and broken.
 
-To bear witness to their own unmaking.
+"Ssssilence, traitor," a yuan-ti priest hissed. His forked tongue flicked out. "Your kind abandoned the divine hierarchy. Chose Aelthar's falsse light over Dominara's sacred order."
 
-One of the serpents—a young female with scales the color of tropical waters—made a sound as Elandor passed. Not a hiss. Not a scream. Something worse: a *keening*, high and broken, that cut through the incense haze like a blade.
+He reached into the couatl's abdominal cavity. Pulled. The couatl's keening became a wet gurgle.
 
-"Ssssilence, traitor," a yuan-ti priest hissed, leaning close to the dying creature. His forked tongue flicked out, tasting the air near her exposed innards. "Your kind abandoned the divine hierarchy. Chose Aelthar's falsse light over Dominara's sacred order. Now you know the truth, yesss? Even wings cannot free you from the coilsss."
-
-He reached into the couatl's abdominal cavity—carefully, almost lovingly—and pulled. Intestines came free with a wet, sucking sound. Steam rose from the slick coils as they puddled onto the altar.
-
-The couatl's scream became a wet gurgle.
-
-The priest smiled.
-
-"Fresh," he announced to the chamber. "The omens will be *fresh*."
+"Fresh," he announced. "The omens will be *fresh*."
 
 Elandor forced his eyes forward, forced his feet to keep moving. His hands trembled as he carried his assigned burden—a brass censer filled with smoldering bloodwood, its smoke meant to "purify" the ritual space.
 
@@ -530,27 +428,23 @@ He gestured lazily. Two yuan-ti warriors stepped forward, seized the bound woman
 
 "Your offering is accepted," Varak announced, his voice resuming its theatrical boom. "Make it *count*. Make it *hurt*. Show us your devotion isn't just words."
 
-He handed the warlock a knife. Not ceremonial. Nothing ornate or ritualistic. Just a blade. Workmanlike. The kind you'd use for butchering livestock.
+He handed the warlock a knife. Not ceremonial. Just a blade. The kind you'd use for butchering livestock.
 
 The warlock hesitated—just a heartbeat. Eyes meeting his sister's. Her muffled pleas. Her tears.
 
-Then he stepped forward and cut.
-
-Not quickly. Not cleanly. He *sawed*, the blade catching on cartilage, her arterial blood spraying in pulsing jets across his painted robes. Her screams became gurgles, became silence. Her legs kicked, kicked, kicked—then stilled.
+Then he stepped forward. The woman's screams cut short. Her legs kicked, kicked—then stilled.
 
 The crowd of warlocks applauded.
 
 *Applauded*.
 
-Forced enthusiasm or genuine? Elandor couldn't tell anymore. Couldn't tell if it mattered.
+Varak dipped a clawed finger into the spreading blood, tasted. "Acceptable," he declared. "Your pact is renewed."
 
-Varak dipped a clawed finger into the spreading pool of blood, brought it to his lips, tasted. "Acceptable," he declared. "Your pact is renewed. You have poison resistance for one year—use it wisely."
+He touched the warlock's forehead, leaving a bloody sigil. Green light flared briefly.
 
-He touched the warlock's forehead, leaving a bloody sigil. Green light flared briefly, and the man gasped, shuddering with whatever dark power now flowed through him.
+"Next! Who else brings offerings? Who else *proves* devotion?"
 
-"Next!" Varak called. "Who else brings offerings? Who else *proves* devotion?"
-
-They came in a line. One after another. Dragging siblings, spouses, elderly parents. One warlock brought his own *son*—a boy no older than twelve—and split the child open from sternum to groin while reciting the oath of renewal.
+They came in a line. One after another. Siblings, spouses, elderly parents, children. Each warlock proved loyalty with the blade. Each received their renewed pact. Each walked away with green light burning in their eyes and blood on their hands.
 
 The collecting basins filled.
 
@@ -586,11 +480,11 @@ She coiled tighter, scales rasping against stone in a rhythm almost hypnotic. "T
 
 The couatl made no sound. His throat had been cut—not deeply enough to kill, but enough to ensure silence beyond pathetic croaking.
 
-Ssara leaned close, her veiled face hovering inches from his exposed innards—the priests had already begun the slow evisceration, pulling his guts in careful stages so he'd last hours yet.
+Ssara leaned close. The priests had already begun their work—he'd last hours yet.
 
-"You said, 'I serve freedom, not tyrants. I serve the sky, not the pit.'" Her laugh was silk over broken glass. "Such noble words. Such *pretty* words. And your wings... oh, your wings were so beautiful. You flew so *high*."
+"You said, 'I serve freedom, not tyrants. I serve the sky, not the pit.'" Her laugh was silk over broken glass. "Such noble words. And your wings... oh, your wings were so beautiful. You flew so *high*."
 
-One of her clawed hands reached out, almost tenderly, and stroked a patch of exposed muscle where feathers once grew.
+One of her clawed hands reached out and stroked where feathers once grew.
 
 The couatl convulsed, back arching, mouth opening in a silent scream.
 
@@ -668,47 +562,25 @@ The man spat at her feet.
 
 Xipilli's smile widened. "Perfect."
 
-Her four arms moved in a blur. Two seized the man's shoulders, pinning him. The third grabbed his jaw, forcing his head back. The fourth—clawed and impossibly strong—plunged into his abdomen.
+Her four arms moved in a blur. Two seized the man's shoulders. The third grabbed his jaw, forcing his head back. The fourth plunged into his abdomen.
 
-*Plunged*.
-
-The man's scream was wet, ragged, torn from lungs suddenly deprived of air. Blood fountained, spraying across the God-Queen's robes, darkening the crimson silk to something almost black.
-
-Xipilli didn't flinch. Didn't hesitate. Her hand *dug*, fingers rooting around inside the man's torso with clinical curiosity. Ribs cracked. Organs shifted with nauseating squelches.
-
-"Ah," she breathed. "Here we are."
-
-She pulled. Slowly. *Intimately* slowly.
-
-Intestines came first—purple-gray coils slick with bile and blood, steaming in the humid air. She let them puddle at her feet, still connected, still pulsing with fading life.
-
-The man's screams had devolved to choked gasps.
-
-Xipilli reached deeper. Her arm disappeared into the cavity up to the elbow. When she withdrew, she held the liver—glistening and dark, still attached by threads of connective tissue.
+The scream that followed cut through the chamber's humid air—wet, ragged, abruptly silenced. Xipilli's hand withdrew holding organs. Blood darkened her crimson robes to something almost black.
 
 "Varak," she called. "Read the omens."
 
-The High Priest approached, his bulk casting long shadows. He knelt beside the dying man, studied the exposed organs with the focus of a scholar examining ancient texts.
+The High Priest approached, studied the exposed entrails with scholarly precision.
 
-"The liver," he murmured, prodding it with one claw. "Dark. *Very* dark. Engorged with blood. This one drank heavily—drowned his fears in fermented oblivion. Cowardice masking as bravery."
+"The liver—dark, engorged," he murmured. "This one drowned his fears in drink. Cowardice masking as bravery." His claws traced patterns in the intestines spread across stone. "The coils twist leftward. Betrayal. Old wounds—see here? Wounds from those who loved him. He ran from consequence." His smile was cold. "And consequence found him *anyway*."
 
-He reached into the abdominal cavity, pulled out more intestines, spread them across the stone in careful patterns.
+"And the future?" Xipilli prompted.
 
-"The coils twist leftward," he continued. "Leftward three times before breaking. Betrayal. This one betrayed his kin to save himself—see the scarring here? Old wounds. Wounds from those who loved him." His smile was cold. "He ran from consequence. And consequence found him *anyway*."
+Varak's eyes half-closed. "Resistance will fracture. Those who flee will be harvested. Those who stand will be broken. The chain remains unbroken." He looked up. "Ascend or be crushed, Most Radiant Sovereign. The omens are *clear*."
 
-"And the future?" Xipilli prompted, still holding the man's liver, blood dripping between her fingers.
+Xipilli nodded, released the man. He collapsed, convulsing.
 
-Varak's eyes half-closed. His tongue flicked out, tasting the air above the organs. "Resistance will fracture," he intoned. "Those who flee will be *harvested*. Those who stand will be *broken*. The chain remains unbroken."
+"Next."
 
-He looked up, met Xipilli's gaze. "Ascend or be crushed, Most Radiant Sovereign. The entrails confirm it. The omens are *clear*."
-
-Xipilli nodded, satisfied. She let the liver drop—it hit the stone with a wet slap—and released the man. He collapsed, convulsing, hands scrabbling weakly at the ruins of his abdomen.
-
-"Next," the God-Queen commanded.
-
-The process repeated. Eleven more times. Eleven more eviscerations, each conducted with meticulous care. Each reading delivered with Varak's combination of sadistic glee and scholarly precision.
-
-The entrails piled up. The blood pooled. The screams became a continuous background noise, individual voices blending into one sustained note of agony that somehow became... ordinary. Expected. Part of the *atmosphere*.
+The process repeated. Eleven more times. Eleven more eviscerations. Each reading delivered with Varak's combination of sadistic glee and scholarly focus. The entrails piled up. The blood pooled. The screams became background noise—individual voices blending into one sustained note that somehow became ordinary. Expected. Atmospheric.
 
 Elandor stood at his post, swinging his censer, whispering prayers, keeping his face neutral while his soul screamed.
 
@@ -1176,7 +1048,7 @@ The wounded man—tears streaming, snot bubbling, everything that made him human
 
 His blade found throat.
 
-Blood fountained in pulsing jets, spraying across sand, across survivors, across the front rows where nobles sat close enough to *feel* it. They laughed—genuine delight—wiping blood from their faces with silk handkerchiefs like it was champagne mist. One woman licked her fingers, made a show of savoring it.
+Blood sprayed across the sand, across survivors, across the front rows where nobles sat close enough to *feel* it. They laughed—genuine delight—wiping blood from their faces with silk handkerchiefs like it was champagne mist. One woman licked her fingers, made a show of savoring it.
 
 The winner collapsed beside his opponent's still-twitching corpse. Sobbing. Retching.
 
@@ -2890,7 +2762,7 @@ The man's eyes widened. His breathing quickened. Sweat broke out across his skin
 
 The man began to *seize*.
 
-His body arched against the restraints, spine bowing impossibly, muscles contracting with enough force to fracture his own bones. His mouth opened in a scream that became a choked gurgle as his throat muscles spasmed.
+His body arched against the restraints. His mouth opened in a scream that became a choked gurgle.
 
 The crowd *cheered*.
 
@@ -2898,63 +2770,35 @@ The crowd *cheered*.
 
 "TEN GOLD ON THREE-HOUR DURATION!"
 
-"WATCH THE FACE! WATCH THE FACE!"
+His face was transforming. Veins blackening as the venom traveled. Not bruising—*blackening*. Like ink spreading in web-patterns across skin.
 
-His face was *transforming*. Veins stood out in stark relief, blackening as the venom traveled through his circulatory system. Not bruising—*blackening*. Like ink injected under skin, spreading in web-patterns across his cheeks, his forehead, his neck.
-
-His eyes—already wide—began to *swell*. The venom attacked soft tissue first, breaking down cellular walls, causing fluid buildup. His eyeballs expanded in their sockets, bulging grotesquely, blood vessels bursting in red starbursts across the whites.
-
-"Ocular pressure increasing," the alchemist noted. "Liquefaction expected within the hour."
+"Ocular pressure increasing," the alchemist noted.
 
 ### The Pattern Continues
 
-The trials proceeded in methodical succession. Each venom brought its own signature horror—coral serpent extract caused nerve death starting at the extremities, victims conscious as their own bodies became foreign continents; death adder concentrate induced hemorrhaging from every orifice; yuan-ti synthetic compounds created effects no natural toxin could match.
+The trials proceeded in methodical succession. Each venom brought its own horror—coral serpent extract, death adder concentrate, yuan-ti synthetic compounds. Some lasted minutes. Some lasted hours. The alchemists narrated each stage with clinical precision while the crowd bet on duration and symptoms.
 
-Some lasted minutes. Some lasted hours. The alchemists narrated each stage with clinical precision, while the crowd bet on duration, symptoms, and the exact moment of final failure.
+By the tenth victim, even the crowd's enthusiasm had muted to something mechanical. The horror was too consistent. Too *repetitive*.
 
-By the tenth victim, even the crowd's enthusiasm had muted to something more mechanical. The horror was too consistent. Too *repetitive*. You could only watch someone's eyes liquefy so many times before the spectacle lost its edge.
-
-But Xipilli watched *Elandor*. Her golden eyes never left his position for long. Tracking his reactions. His endurance. His hidden warmth that Ssara had noted days before.
+But Xipilli watched *Elandor*. Her golden eyes never left his position for long. Tracking his reactions. His endurance.
 
 "TWENTY GOLD ON STOMACH RUPTURE!"
 
 "THIRTY ON LUNG COLLAPSE!"
 
-"FIFTY SAYS HE BURSTS BEFORE HOUR TWO!"
-
-The man lasted an hour and forty-seven minutes. His eyes liquefied around the forty-minute mark—literally melted in their sockets, running down his cheeks in viscous streams that the crowd found *hilarious*.
-
-"HE'S CRYING JELLY!"
-
-"GODS, THAT'S DISGUSTING!"
-
-"I LOVE IT!"
-
-His final moments were almost anticlimactic. His swollen abdomen simply... *split*. Not explosively. Just a wet tearing as overstressed skin gave way. Intestines bulged through the gap, glistening and purple-gray.
-
-He died choking on his own fluids, body distended beyond recognition, having provided nearly two hours of "entertainment."
-
-The crowd applauated. The alchemist made notes on parchment. Attendants removed the corpse.
+One victim lasted an hour and forty-seven minutes before his body failed. The crowd found each stage hilarious.
 
 "NEXT!" Varak called.
 
 ### The Mass Trials
 
-Fifty-three accused. The process was methodical. Efficient. Each one injected with venom—sometimes the same type, sometimes different, sometimes *combinations* designed to produce novel effects.
+Fifty-three accused. The process was methodical. Efficient. Each one injected with venom—sometimes combinations designed to produce novel effects.
 
 The alchemists narrated every stage. Turned suffering into lecture. Transformed death into educational demonstration.
 
-"Note the peripheral cyanosis—"
+Bodies swelled. Blackened. Convulsions provided endless commentary. By the twentieth victim, the floor was slick. By the thirtieth, the smell was overwhelming even through perfumed silk.
 
-"Observe the tetanic contractions—"
-
-"Fascinating response in the hepatic system—"
-
-Bodies swelled. Blackened. Burst. The convulsions provided endless "artistry" for crowd commentary. Each twitch analyzed. Each spasm applauded.
-
-By the twentieth victim, the floor was slick with fluids. By the thirtieth, the smell—even through perfumed silk—was overwhelming. Voided bowels. Liquefied organs. Chemical burns from venom so concentrated it ate through skin from the inside out.
-
-The crowd's laughter became almost hysterical. A kind of mass hysteria born from prolonged exposure to horror. They *needed* to laugh. Needed to find humor. Because the alternative was acknowledging what they were watching. What they were *celebrating*.
+The crowd's laughter became hysterical—a kind of mass hysteria born from prolonged exposure to horror. They *needed* to laugh. Needed to find humor. Because the alternative was acknowledging what they were watching.
 
 Varak moved among the dying with poetic flair, narrating their failures with wit and eloquence:
 
@@ -3364,23 +3208,19 @@ The chains descended.
 
 Not carefully. Not methodically. *En masse*.
 
-Animated metal wrapped around bodies—twenty, thirty, forty people simultaneously. The chains didn't distinguish, didn't individualize. They just *crushed*.
+Animated metal wrapped around bodies—twenty, thirty, forty people simultaneously. The chains didn't distinguish. They just *crushed*.
 
-The sound was *wet*. Snapping bones. Bursting organs. Gurgles as lungs collapsed and airways filled with blood. It echoed through the chamber—percussive, rhythmic, like some obscene orchestra playing humanity's final symphony.
+The sound was wet. It echoed through the chamber—percussive, rhythmic, like some obscene orchestra.
 
-Snap. Gurgle. Snap-snap. Gurgle-gurgle-*crunch*.
-
-The crowd—packed too tightly to flee even if they wanted to—had no choice but to participate. To applaud. To cheer. To pretend this was entertainment rather than atrocity.
+The crowd—packed too tightly to flee—had no choice but to participate. To applaud. To cheer.
 
 "EFFICIENCY!"
 
 "BEAUTIFUL COMPRESSION!"
 
-"WATCH THE SYNCHRONIZATION!"
+Bodies compacted. Stopped resembling anything human.
 
-Bodies compacted. Became abstract shapes. Stopped resembling anything human and became just... *meat*. Wet. Red. Broken.
-
-The chains released. The corpses—if they could even be called that anymore—collapsed in piles. Attendants would sort them later. Maybe. Or just burn the whole mass together.
+The chains released. The corpses collapsed in piles. Attendants would sort them later. Or burn the whole mass together.
 
 ### Ssara's Personal Touch
 
@@ -3404,17 +3244,15 @@ The fang struck. Injected venom—not the killing kind, not the paralyzing kind.
 
 The man's eyes went wide. His mouth opened. And the scream that emerged was *beautiful*. Pure. Unfiltered agony amplified beyond normal capacity.
 
-Ssara's coils tightened. Slowly. *Intimately* slowly. Ribs creaked. His breathing became labored. But the venom kept him conscious, kept him *aware*, ensured he'd feel every moment of compression.
+Ssara's coils tightened. Slowly. The venom kept him conscious, kept him *aware*.
 
-His screams became gurgles. The gurgles became wet snapping as ribs broke inward, puncturing lungs. But still the venom kept him alive, kept him *singing*.
+His screams became gurgles.
 
-"There," Ssara purred. "Beautiful. *Exquisite*. You've found your calling—not theft, not ambition, but *music*. Thank me. Thank me for revealing your true purpose."
+"There," Ssara purred. "Beautiful. *Exquisite*. You've found your calling—not theft, not ambition, but *music*."
 
-The man tried to speak. Just bubbled blood and made choked sounds that might have been words once.
+Ssara held him there for five full minutes. Letting the crowd hear.
 
-Ssara held him there—not killing, just maintaining—for five full minutes. Letting him *play*. Letting the crowd hear his song.
-
-When she finally released, his body slumped like wet cloth, barely recognizable as having once been human.
+When she finally released, his body slumped like wet cloth.
 
 "Next," she said, already coiling toward the second victim.
 
@@ -3868,23 +3706,19 @@ The guards wiped their blades clean. Returned to watching the main spectacle.
 
 ### The Final Moments
 
-Elandor's body was barely recognizable anymore. More wound than flesh. More bone than meat. More energy than human.
+Elandor's body was barely recognizable. More wound than flesh. More energy than human.
 
 But still alive. Still conscious. Still *experiencing*.
 
-His spine arched as the chains constricted one final time. Vertebrae popping like firecrackers. His torso compressed. Organs rupturing. Ribs piercing through skin from inside and outside simultaneously.
-
-The overloaded power reached critical mass. Concentrated in his chest cavity. Building. Building. BUILDING—
+The chains constricted one final time. The overloaded power reached critical mass. Building. Building. BUILDING—
 
 "LIGHT—" (his voice, barely recognizable) "—ENDURES—" (wet, desperate) "—PLEASE—"
 
-The implosion wasn't loud. Wasn't dramatic.
+The implosion wasn't loud. Just a soft *crump*. Like overripe fruit bursting.
 
-Just... a soft *crump*. Like overripe fruit bursting.
+His torso collapsed inward. Everything compressing to a fist-sized mass of glowing energy that burned so bright people had to look away—
 
-His torso *imploded*. Collapsed inward. Everything compressing to fist-sized mass of glowing energy that burned so bright people had to look away—
-
-Then expanded outward in wave of golden ash.
+Then expanded outward in a wave of golden ash.
 
 The ash drifted through throne chamber. Settled on feast tables. On nobles' clothing. On leftover food.
 
