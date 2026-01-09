@@ -1100,6 +1100,44 @@ The pressure in Elandor's chest grew worse. Physical now. Heat building behind h
 
 He wasn't sure anymore.
 
+That evening, as the trials concluded and bodies were hauled away, Elandor was returned to his cell. But instead of the usual immediate shackling, there was a delay. Administrative confusion. A guard arguing with an overseer about paperwork.
+
+For perhaps five minutes, Elandor sat unshackled in his cell, listening to them argue in the corridor.
+
+"—seventeen requisition forms for chain repairs, you incompetent—"
+
+"I submitted them last week! Not my fault if your office lost—"
+
+Their voices faded as they moved away, still bickering.
+
+Elandor looked at his hands. Free. Temporarily. Pointlessly. But *free*.
+
+He could have prayed. Could have despaired. Could have done many things.
+
+Instead, he began to hum. Quietly. Almost unconsciously.
+
+The melody that came was the blind man's song. About stars and freedom. About children running through grass.
+
+It felt strange in his mouth. His voice was hoarse from screaming, from dehydration. But the tune came anyway. Persistent as spiderwebs.
+
+He hummed three verses. Then four.
+
+When the guards returned—chains rattling, ready to shackle him again—one of them paused.
+
+"That song," the guard said. Yuan-ti pureblood. Young. "I heard it once. Years ago. Before..." He trailed off, scales rippling with some emotion Elandor couldn't identify.
+
+"Before you joined them?" Elandor asked softly.
+
+The guard said nothing. Just shackled Elandor's wrists with mechanical precision. But his hands were gentler than necessary. The chains looser than protocol required.
+
+"Get some rest," the guard said quietly, then left.
+
+And Elandor wondered: how many guards remembered songs? How many remembered being human—or being yuan-ti who hadn't yet learned to enjoy suffering?
+
+How many small kindnesses happened in shadows where overseers didn't watch?
+
+He'd never know. But the possibility existed. And that mattered.
+
 That night, Torak found him doubled over, clutching his chest.
 
 "You're cooking from inside," the scarred veteran said. "I've seen it. Yuan-ti do this deliberately—push paladins to accumulate power, then watch them implode." He hesitated. "There's no shame in letting go. In releasing it slowly instead of holding until it kills you."
