@@ -106,7 +106,7 @@ Samuel tried to pull back. Crane's grip tightened.
 
 "Superstition," Samuel managed, though his voice shook. "Folklore. There must be a rationa..."
 
-"Rational?" Crane released him with such suddenness that Samuel stumbled. "Ye want rational? That book ye found, the *Caelum Profundis*. Tell me how it survived centuries in salt water without rotting. Tell me how flames recoil from it. Tell me," his voice rose, "tell me what rational explanation exists for thy wife sketching constellation charts that match diagrams in a book she never saw, in a language she never learned\!"
+"Rational?" Crane released him with such suddenness that Samuel stumbled. "Ye want rational? That book ye found, the *Caelum Profundis*. Tell me how it survived centuries in salt water without rotting. Tell me how flames recoil from it. Tell me," his voice rose, "tell me what rational explanation exists for thy wife sketching constellation charts that match diagrams in a book she never saw, in a language she never learned!"
 
 Samuel had no answer. The truth of it struck him like a fist.
 
@@ -184,7 +184,7 @@ Samuel's corporeal form began to fail him in ways both subtle and grotesque. His
 
 Sleep offered no respite from his torment, only deeper and more visceral horrors that seemed to seep into his waking hours like ink spreading through water. The dreams intensified with each sunset until he could no longer reliably distinguish between sleeping visions and waking reality. He saw not merely Miriam's sunken city, those cyclopean spires that jutted from abyssal plains like the fingers of titans clawing toward a surface they would never reach, but legions of her kindred, whole bloodlines of the transformed and the transforming, waiting in the depths with a patience born of aeons. They called to him with her voice, with a hundred voices, with a thousand, a chorus that promised him reunion in the cold embrace of Y'thar's gaze, transformation into something greater than his pitiful human flesh, an escape from the prison of individuality into the glorious collective consciousness of the deep.
 
-Worse still were the waking visions. The townspeople's faces shifted when he passed, their piscine features becoming more pronounced, their eyes gleaming with forbidden knowledge. A matron clutching an infant with membranous digits hissed at him: "Avert thine eyes from the firmament, Whitlock\! What lies beyond will devour all."
+Worse still were the waking visions. The townspeople's faces shifted when he passed, their piscine features becoming more pronounced, their eyes gleaming with forbidden knowledge. A matron clutching an infant with membranous digits hissed at him: "Avert thine eyes from the firmament, Whitlock! What lies beyond will devour all."
 
 Crane's son died, drowning in his own bed, his lungs filled with seawater that had no earthly source. The mariner came to Samuel's observatory, and Samuel knew the moment he saw the man's face that something had broken beyond all repair.
 
