@@ -24,7 +24,7 @@ But Aelthar's light felt very distant here, buried beneath Dominara's chains and
 
 The Grand Pyramid rose before them like a monument to calculated cruelty—thirteen tiers of black stone slick with humidity and old blood, each level carved with bas-reliefs depicting Dominara's holy subjugation in exquisite, pornographic detail. Thralls being flayed. Rebels crushed beneath animated chains. Children offered to yuan-ti abominations, their small bodies disappearing into fanged maws while their mothers looked on with dead eyes. The artistry was exquisite; the subject matter, nauseating.
 
-At the pyramid's mid-steps, High Priest Varak the Venomous Tongue waited like a patient spider, his malison form a perverse blend of human elegance and serpentine horror. From the waist up, he appeared almost human—handsome, even, with aristocratic features and skin the color of tarnished silver. But where his torso should have ended in legs, instead there coiled twelve feet of thick, muscled snake body covered in scales that shimmered with iridescent malevolence. He wore only a ceremonial collar of human finger bones and a headdress fashioned from the skull of a couatl, its once-radiant plumage now stiff and dull with age.
+At the pyramid's mid-steps, High Priest Varak the Venomous Tongue waited like a patient spider, his malison form a perverse blend of human elegance and serpentine horror. From the waist up, he appeared almost human—handsome, even, with aristocratic features and skin the color of tarnished silver. But where his torso should have ended in legs, instead there coiled twelve feet of thick, muscled snake body covered in scales that shimmered with iridescent malevolence. He wore only a ceremonial collar of human finger bones and a headdress fashioned from the skull of a rebel couatl, its once-radiant plumage now stiff and dull with age—a trophy commemorating Serpentis's victory over the traitors who sided with Aelthar against the divine serpent hierarchy.
 
 Varak raised his arms, and his voice—amplified by some divine sorcery until it boomed across the plaza like thunder—cut through the morning heat with surgical precision:
 
@@ -396,6 +396,10 @@ Couatl blood.
 
 The sacred winged serpents—creatures of beauty and grace, their scales shimmering with iridescent blues and greens, their feathered wings like fragments of sky made flesh—lay dying on those altars. Slowly. *Deliberately* slowly.
 
+But these were not the couatls whose golden statues graced Coilkeep's holiest shrines. Not the divine emissaries honored in morning prayers alongside Dominara herself. These were *rebels*—traitors who had abandoned the sacred serpent hierarchy to serve Aelthar's weak mercy. Heretics who claimed freedom was divine. Who dared suggest tyranny could be *wrong*.
+
+Serpentis theology demanded clarity: loyal couatls who served beneath Dominara's throne were revered as divine messengers. Rebel couatls who sided with justice gods were hunted trophies. The distinction was everything.
+
 Elandor had seen death. He'd walked battlefields. He'd held dying comrades. He'd administered last rites over torn bodies and whispered the names of fallen enemies in prayers for their souls.
 
 But this...
@@ -414,7 +418,7 @@ To bear witness to their own unmaking.
 
 One of the serpents—a young female with scales the color of tropical waters—made a sound as Elandor passed. Not a hiss. Not a scream. Something worse: a *keening*, high and broken, that cut through the incense haze like a blade.
 
-"Ssssilence, pretender," a yuan-ti priest hissed, leaning close to the dying creature. His forked tongue flicked out, tasting the air near her exposed innards. "Your kind claimed kinship with the divine. Claimed *sssuperiority*. Now you know the truth, yesss? Now you sssee who coils above and who writhes below."
+"Ssssilence, traitor," a yuan-ti priest hissed, leaning close to the dying creature. His forked tongue flicked out, tasting the air near her exposed innards. "Your kind abandoned the divine hierarchy. Chose Aelthar's falsse light over Dominara's sacred order. Now you know the truth, yesss? Even wings cannot free you from the coilsss."
 
 He reached into the couatl's abdominal cavity—carefully, almost lovingly—and pulled. Intestines came free with a wet, sucking sound. Steam rose from the slick coils as they puddled onto the altar.
 
@@ -434,11 +438,11 @@ The prayer was a lifeline. The only lifeline. Without it, he would scream. Witho
 
 The dying couatl's eyes met his—just for an instant. Intelligent. Aware. Pleading not for rescue but for *acknowledgment*. For someone to bear witness that this mattered. That suffering wasn't meaningless.
 
-*Why?* The question rose unbidden in Elandor's mind. *Why do You allow this? The couatls served goodness. Served light. And You let them be flayed alive for* entertainment*.*
+*Why?* The question rose unbidden in Elandor's mind. *Why do You allow this? They abandoned tyranny for Your justice. Chose light over serpent-worship. And You let them be flayed alive for* entertainment*.*
 
 His tattoo pulsed—warm, present, but offering no answers. Just the steady reminder of divine connection.
 
-*Is silence Your answer? Is witness enough? How many must suffer while justice 'waits'?*
+*Is silence Your answer? Is witness enough? How many must suffer—how many who chose righteousness—while justice 'waits'?*
 
 The questions felt like blasphemy. But they also felt *true*. Honest doubt born from honest horror.
 
@@ -538,7 +542,7 @@ The couatl's eyes tracked Ssara's approach with naked terror.
 
 She coiled around the platform in a slow, sinuous spiral—once, twice, three times—her body encircling it completely. The thrice-coiled form. Her signature. Her *statement*.
 
-"Hello again, Wind-Dancer," she whispered, her voice carrying unnaturally through the chamber despite its softness. "Do you remember what you told me? When I offered you mercy in exchange for service?"
+"Hello again, Wind-Dancer," she whispered, her voice carrying unnaturally through the chamber despite its softness. "Do you remember what you told me? When I offered you mercy in exchange for service? When I explained that loyal couatls serve at Dominara's side as honored emissaries, while traitors who choose Aelthar's weakness become... this?"
 
 The couatl made no sound. His throat had been cut—not deeply enough to kill, but enough to ensure silence beyond pathetic croaking.
 
