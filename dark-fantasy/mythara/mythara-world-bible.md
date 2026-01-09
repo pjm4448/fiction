@@ -831,7 +831,7 @@ The crowning monument of ancient Luminar, this stepped pyramid of volcanic glass
 A vast network of flooded caverns descending from the Coiled Abyss, once ruled by aboleth overlords who enslaved tiefling populations before the Lesser Cataclysm. Mucous-covered glyphs line the walls, and chuuls, skum, and dominated mind flayers patrol the depths. Artifacts such as robes of the archmagi and tentacles of domination lie in slime-filled throne rooms.
 
 **The Venomshade Temple (Jungles bordering Serpentis and Wanderer Territories)**  
-A yuan-ti pureblood temple complex abandoned after a couatl-led uprising. Overgrown with poisonous vines and inhabited by spirit nagas, medusas, and yuan-ti abominations, its altars still empower poison-based spells. Hidden vaults contain serpent venom gems that function as specialized pearls of power and cursed items that slowly transform the wearer.
+A yuan-ti pureblood temple complex abandoned after a couatl-led uprising. Overgrown with poisonous vines and inhabited by spirit nagas, dark nagas, medusas, and yuan-ti abominations, its altars still empower poison-based spells. Hidden vaults contain serpent venom gems that function as specialized pearls of power and cursed items that slowly transform the wearer.
 
 ### Wild and Remote Sites
 
@@ -924,7 +924,7 @@ Gorgons roam in herds, petrifying intruders to expand stone mazes. Basilisks sli
 **Venomroot Jungle and Coiled Depths**  
 Giant constrictors coil around ancient trees, ambushing with yuan-ti patrols. Shambling mounds lurk in swamps, while vegepygmies sprout from fungal blooms. Aboleths rule submerged caverns, enslaving kuo-toa and chuuls.
 
-- **Named Threat**: Ssyrak the Thrice-Coiled (grand spirit naga), a serpentine oracle whose gaze induces transformation. It guards the Coiled Abyss entrance, commanding medusas and yuan-ti abominations; its shed scales craft rare *potions of poison resistance*.
+- **Named Threat**: Ssyrak the Thrice-Coiled (grand dark naga), a serpentine oracle whose gaze induces transformation. It guards the Coiled Abyss entrance, commanding medusas and yuan-ti abominations; its shed scales craft rare *potions of poison resistance*.
 
 **Death Hyena Plains**  
 Packs of death dogs and giant hyenas follow gnoll warlords, with leucrottas mimicking voices to lure prey. Lamias establish temporary courts in ruins.
@@ -982,7 +982,7 @@ A cluster of lush, low-lying islands southeast of Bayhaven where harpies and sir
 Warm, poison-tinged waters south of Serpentis, fed by jungle river outflows.
 
 **The Coiled Isles**  
-A serpentine archipelago of mist-shrouded jungle islands ruled by yuan-ti malisons and spirit nagas exiled from the mainland. Couatl emissaries occasionally visit to challenge their dominion. The isles yield potent venom reagents and *staffs of the python*, hidden in vine-choked ziggurats.
+A serpentine archipelago of mist-shrouded jungle islands ruled by yuan-ti malisons, and spirit nagas and dark nagas exiled from the mainland. Couatl emissaries occasionally visit to challenge their dominion. The isles yield potent venom reagents and *staffs of the python*, hidden in vine-choked ziggurats.
 
 **The Ebony Reaches**  
 Distant southern landmasses barely touched by mainland maps—dark continents of towering warrior queens and obsidian cities. Rare expeditions from Coilkeep return with giant hyena pelts, ivory carvings, and tales of matriarchal empires that rival Serpentis in cruelty.
@@ -1073,7 +1073,7 @@ Mysterious south with jungles and rivers where peoples are swarthy and sturdy, b
 
 **Serpentis (Southern Jungles)**: Dense forests with giant constrictor snakes and medusa groves. 
 
-**Demographics**: The population is a diverse multi-species theocracy. The majority are **Serpentans**—tall, swarthy humans who possess both tiefling cunning and human resilience, forming the foundation of society. The **yuan-ti** represent the ruling and military elite: God-Queen Xipilli is a yuan-ti pureblood, while yuan-ti malisons and abominations command the legions and guard hidden temples. Other reptilian inhabitants include idolized **medusas** serving under yuan-ti or naga command, **spirit nagas** acting as oracles (such as Ssyrak the Thrice-Coiled), revered **couatls**, **goliaths**, **shadowed dragonborn**, and various jungle creatures like giant constrictor snakes. The social structure resembles a serpent's nest: humans are the numerous outer coils providing bulk and foundation, while yuan-ti are the venomous fangs and head, directing the body and delivering the strike.
+**Demographics**: The population is a diverse multi-species theocracy. The majority are **Serpentans**—tall, swarthy humans who possess both tiefling cunning and human resilience, forming the foundation of society. The **yuan-ti** represent the ruling and military elite: God-Queen Xipilli is a yuan-ti pureblood, while yuan-ti malisons and abominations command the legions and guard hidden temples. Other reptilian inhabitants include idolized **medusas** serving under yuan-ti or naga command, **dark nagas** acting as oracles (such as Ssyrak the Thrice-Coiled), revered **couatls**, **goliaths**, **shadowed dragonborn**, and various jungle creatures like giant constrictor snakes. The social structure resembles a serpent's nest: humans are the numerous outer coils providing bulk and foundation, while yuan-ti are the venomous fangs and head, directing the body and delivering the strike.
 
 **City**: Coilkeep, a pyramid city of 40,000 (majority Serpentan humans, ruled by yuan-ti elite) venerating both Dominara and reptilian forms. **Economy**: Herb harvesting for poisons, slave trade (openly practiced within this evil empire). **Politics**: Multi-species theocratic tyranny, lawful evil under Dominara, with yuan-ti purebloods, malisons, and abominations holding positions of power while humans form the administrative and labor base. **Conflicts**: Encroachment by ebony realms like Warrior Queens.
 
@@ -1264,7 +1264,7 @@ Chaotic Neutral halfling bard (College of Glamour) 15 / sorcerer 5. The enigmati
 ### Southern Jungles and Meadows
 
 **God-Queen Xipilli the Coiled Sovereign (Coilkeep, Serpentis)**  
-Lawful Evil yuan-ti pureblood cleric (Domination Domain) 18 / sorcerer 2. The serpentine high priestess of Dominara who rules Serpentis from the Obsidian Throne. As the apex of the yuan-ti hierarchy, Xipilli commands yuan-ti malisons and abominations, medusas, spirit nagas, and the vast Serpentan human populace beneath her. She seeks to extend her multi-species theocracy northward through poison, subjugation, and reptilian supremacy.
+Lawful Evil yuan-ti pureblood cleric (Domination Domain) 18 / sorcerer 2. The serpentine high priestess of Dominara who rules Serpentis from the Obsidian Throne. As the apex of the yuan-ti hierarchy, Xipilli commands yuan-ti malisons and abominations, medusas, dark nagas, and the vast Serpentan human populace beneath her. She seeks to extend her multi-species theocracy northward through poison, subjugation, and reptilian supremacy.
 
 **Wind-Chieftain Korath Freehoof (Wanderer Territories)**  
 Chaotic Good human fighter (Champion) 14 / ranger 6. A sturdy, weather-beaten leader of the largest Wanderer confederation, devoted to Liberon. Korath’s multiclass prowess makes him a peerless mounted archer, resisting both Regalor tribute demands and Serpentis encroachment.
