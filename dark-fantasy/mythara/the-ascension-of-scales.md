@@ -432,7 +432,23 @@ But even as he prayed, he felt the gathering storm inside his chest. Power accum
 
 The prayer was a lifeline. The only lifeline. Without it, he would scream. Without it, he would shatter.
 
-Without it, he would become like the others—the hollow-eyed thralls who moved through the chambers like animated corpses, faces blank, souls fled to whatever small mercies oblivion offered.
+The dying couatl's eyes met his—just for an instant. Intelligent. Aware. Pleading not for rescue but for *acknowledgment*. For someone to bear witness that this mattered. That suffering wasn't meaningless.
+
+*Why?* The question rose unbidden in Elandor's mind. *Why do You allow this? The couatls served goodness. Served light. And You let them be flayed alive for* entertainment*.*
+
+His tattoo pulsed—warm, present, but offering no answers. Just the steady reminder of divine connection.
+
+*Is silence Your answer? Is witness enough? How many must suffer while justice 'waits'?*
+
+The questions felt like blasphemy. But they also felt *true*. Honest doubt born from honest horror.
+
+*I will trust You,* Elandor prayed finally. *But I don't understand. And maybe... maybe that's the point. Maybe faith means enduring the questions.*
+
+His tattoo warmed fractionally, as though acknowledging the struggle. The doubt that made faith *real* rather than mere recitation.
+
+Without questions, he would become like the others—the hollow-eyed thralls who moved through the chambers like animated corpses, faces blank, souls fled to whatever small mercies oblivion offered.
+
+Better to doubt while believing than to believe without thought.
 
 ### The Renewal of Pacts
 
@@ -1736,6 +1752,22 @@ In the God-Queen's box, Xipilli leaned forward, all four arms folded, eyes locke
 
 "Soon," Xipilli promised. "But not yet. Let him enjoy his promotion. Let his hope grow. The higher it climbs..." she made a crushing gesture with one hand, "...the more satisfying the fall."
 
+Yet even as she spoke the words—words she'd spoken in a hundred variations across centuries of rule—something nagged at her. A flicker. A *crack*.
+
+Twice his protections had held. Twice divine favor had manifested *here*, in her domain, where Dominara's will should be absolute.
+
+*What if his god is stronger than we acknowledge?*
+
+The thought came unbidden. Unwelcome. She crushed it immediately, her expression never wavering, but for just an instant—a heartbeat's duration—Xipilli felt something she hadn't experienced in decades.
+
+Uncertainty.
+
+She hid it perfectly. Centuries of rule had taught her that. But the flicker had been there. And if *she* could feel it, perhaps Dominara could too.
+
+The God-Queen's smile widened fractionally, forcing conviction back into place. *No. We are supreme. This is just... theater. The light will break. They always do.*
+
+But the uncertainty, once acknowledged, didn't fully disappear. It settled somewhere deep, waiting.
+
 ### Elandor's Dangerous Hope
 
 In the preparation cells—now upgraded to overseer quarters, though "upgraded" was relative—Elandor sat on a thin pallet, head in hands, tattoo still pulsing with residual warmth.
@@ -1764,7 +1796,25 @@ She met Elandor's eyes. "So forgive me if I see your faith as beautiful but *dan
 
 "Principles don't bleed," Kessa said. "People do." But her voice was softer. Almost gentle.
 
-"Philosophical distinction," Torak observed, "but sure. Whatever keeps you sane."
+From somewhere in the adjacent thrall pens, a voice rose—thin, wavering, but unmistakably human. Singing. Not loudly. Not defiantly. Just... singing. An old Wanderer lullaby about stars and freedom, passed down through generations.
+
+The voice cracked on the high notes. Broke completely on others. But it persisted. A stolen moment of beauty in a place designed to crush all beauty.
+
+The four of them fell silent, listening.
+
+"They'll beat whoever that is," Torak said quietly. "When the overseers hear."
+
+"Maybe," Kessa agreed. "But right now, that fool is singing. And we're hearing it. That counts for something."
+
+The song ended. Silence returned. But for those few moments, something other than horror had existed in Serpentis.
+
+Elandor felt tears on his cheeks—unexpected, unbidden. Not from sadness. From... something else. Hope? Solidarity? The stubborn persistence of humanity even in hell?
+
+His tattoo pulsed warmly, as if Aelthar Himself had heard the song.
+
+*This is what I fight for,* Elandor realized. *Not grand theology. Not distant justice. But moments like this. Stolen songs. Defiant beauty. The parts of us they can't crush.*
+
+"Philosophical distinction," Torak observed, voice rougher than usual. "but sure. Whatever keeps you sane."
 
 Elandor closed his eyes, letting memory wash over him:
 
@@ -1799,6 +1849,54 @@ Bright enough that the local order might show cracks.
 And in the Ethereal Shroud, Aelthar observed with interest.
 
 "Persistent," he noted. "The pattern holds. Worth watching."
+
+### The Fragment's Warning
+
+Late in the night, unable to sleep despite exhaustion, Elandor wandered the overseer quarters. His tattoo pulsed with residual warmth from the day's miracle—a constant reminder of divine presence.
+
+Or was it a warning?
+
+In a forgotten storage alcove near the infirmary, something *pulled* at him. Not physical. Spiritual. A resonance that tugged at his chest like an invisible thread.
+
+He followed it into shadows, past crates of medical supplies and discarded equipment.
+
+There—half-buried beneath moldering bandages—something gleamed with faint golden light.
+
+A fragment. Palm-sized. Carved from bone. Inscribed with prayers in the Old Script of Aelthar's priesthood.
+
+A *paladin's* fragment.
+
+Elandor picked it up with trembling hands. The moment his fingers touched it, *memory* flooded through—not his own. Someone else's. Someone who'd died here.
+
+*Heat. Impossible heat radiating from within. The forge burning too hot, too bright. "Stop," the healer had begged. "Stop resisting. Your body can't—" But he couldn't stop. Wouldn't stop. The prisoners needed hope. Needed witness. So he kept channeling. Kept burning. Kept—*
+
+*The explosion came without warning. Not violence outward. Violence* inward*. Divine power compressed past breaking point, past flesh's tolerance. His chest detonated from within, ribs bursting outward, heart vaporizing in golden fire—*
+
+Elandor dropped the fragment, gasping. His chest ached in sympathetic agony.
+
+Another paladin. Another believer. Who'd died not from torture, but from his own accumulated power. From discipline maintained so perfectly that it became self-destruction.
+
+"The forge that strengthens steel..." Elandor whispered his father's old saying, realization dawning cold and terrible, "...can also melt it."
+
+His tattoo pulsed. Warmer. Hotter. A furnace building in his chest.
+
+Nine days of resistance. Nine days of accumulated divine energy. Where did it *go*? Not released. Not discharged. Just... building. Compressing. Waiting.
+
+*I should release it,* he thought. *Find some way to channel it safely. Before—*
+
+But release it how? To what purpose? The prisoners needed hope. Needed witness. Stopping his resistance meant surrendering to despair. Meant letting Dominara win.
+
+No. He'd endure. He'd trust. Aelthar wouldn't let him become a cautionary tale.
+
+Would He?
+
+Elandor picked up the fragment again, tucked it into his belt pouch. A reminder. A warning he'd heed.
+
+Eventually.
+
+Maybe.
+
+He returned to his pallet, but sleep came reluctantly. And when it did, his dreams were fever-bright and uncomfortably warm.
 
 ---
 
@@ -2404,7 +2502,7 @@ She coiled tighter around her current victim—a rebel who'd been implicated in 
 
 "Fascinating," she continued, half to herself. "Most would have broken by now. Would have renounced their gods. Begged for mercy from Dominara. But he..." her eyes remained fixed on that distant window, on that faint golden pulse, "...he still believes. Still *hopes*."
 
-Her laugh was silk over broken glass. "The God-Queen gave me permission to study him. To *understand* him. To break him slowly." She descended from the scaffold, her work complete, victim left to dangle until death finally granted mercy. "I think... I think I'll enjoy this project. Immensely."
+Her laugh was cold, musical, predatory. "The God-Queen gave me permission to study him. To *understand* him. To break him slowly." She descended from the scaffold, her work complete, victim left to dangle until death finally granted mercy. "I think... I think I'll enjoy this project. Immensely."
 
 She glided toward the pyramid, toward the inner sanctum, toward the cells where the heretic hung.
 
@@ -3578,11 +3676,25 @@ And underneath that realization—softer, sadder, more terrible:
 
 *They knew. They always knew. They've seen paladins before. Seen us accumulate. Seen us build our own pyres. This wasn't victory. This was just... efficient disposal.*
 
+Elandor tried to laugh—wanted to laugh at the bitter, perfect irony. His father's words echoing through dying neurons: *"The forge that strengthens steel can also melt it."*
+
+He'd thought it metaphor.
+
+It was prophecy.
+
+The sound that escaped his ruined throat wasn't quite laughter. More like a wet, broken exhale that might have been mirth in another life. Dark comedy witnessed only by gods.
+
+*I was the steel. I was the forge. I melted myself.*
+
+*How... fitting.*
+
 The light didn't go out in defiance.
 
 It went out in understanding.
 
 And that understanding—that horrific, perfect clarity—went with him into darkness.
+
+The bitter almost-laugh was his last sound. His epitaph. His testament.
 
 The body stopped moving.
 
