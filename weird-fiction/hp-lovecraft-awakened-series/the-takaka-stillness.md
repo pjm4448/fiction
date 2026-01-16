@@ -6,7 +6,7 @@ Three cave explorers venture into the remote Serpent's Coil system in New Zealan
 
 ---
 
-In a pallid dawn of January, 2026, three explorers stood before Serpent's Coil. The cave mouth yawned like a wound in the Nelson hillside, exhaling a chill that sank into bone: a cold that felt less terrestrial than cosmic. Chloe Asher adjusted her helmet camera with trembling fingers. The weight of the equipment seemed nothing compared to the formless dread that gnawed at her soul before their descent into the unhallowed depths.
+In a pallid dawn of January 2026, three explorers stood before Serpent's Coil. The cave mouth yawned like a wound in the Nelson hillside, exhaling a chill that sank into bone: a cold that felt less terrestrial than cosmic. Chloe Asher adjusted her helmet camera with trembling fingers. The weight of the equipment seemed nothing compared to the formless dread that gnawed at her soul before their descent into the unhallowed depths.
 
 Liam Murdoch, weathered by four decades of underground vigils, surveyed his companions with obsidian-sharp eyes. His gaze lingered on Daniel Reid, searching for cracks in the younger man's confidence.
 
