@@ -176,8 +176,6 @@ Chloe understood then. The B Story wasn't about romance or partnership. It was a
 
 Liam nodded once, satisfied. They resumed their descent, but something had shifted. The rope between them now carried more than physical connection. It carried purpose.
 
----
-
 Hours dissolved into an unmeasured, formless eternity, time itself becoming as plastic and uncertain as the shadows that danced at the periphery of their feeble lamp-light. Their progress was punctuated only by brief, joyless halts wherein they consumed water that tasted of dissolved limestone and rations that turned to ash upon the tongue, sustenance offered to bodies that moved through a realm increasingly hostile to the very notion of biological existence. They navigated the oppressive confines of that passage designated upon Liam's now-suspect maps as 'Fracture Alley,' its cyclopean walls bearing the livid scars of primordial, world-shattering convulsions that spoke of forces transcending human comprehension or measurement. Later they crossed the vast, cathedral-like expanse of the 'Whispering Gallery,' where even the most pragmatic among them felt compelled to silence, unnerved by the chamber's eldritch power to seize upon the softest utterance and transform it into a disquieting, многократный chorus that seemed to emanate not from mere stone but from unseen, fathomless gulfs that yawned between the dimensions of space itself. It was here that Daniel first deployed his tripod-mounted sensor array, a frail, spidery instrument that seemed an affront against the cavern's brooding malevolence.
 
 "Anything?" Liam asked, his voice, though low, jarring in the vaulted, expectant stillness.
