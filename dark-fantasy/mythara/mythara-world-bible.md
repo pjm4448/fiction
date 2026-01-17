@@ -484,7 +484,7 @@ These lesser powers provide warlock patrons beyond the Nine, optional oath targe
 >
 > - **Dawnblade (Aelthar)**: Fighting alongside paladins in the Western Frontier War against Grimwald warbands, appearing as a radiant mounted warrior rallying defenders at besieged keeps
 > - **The Iron Arbiter (Rigoran)**: Judging border disputes between Regalor and Bayhaven, manifesting as a towering armored figure at trial grounds
-> - **The Chain Sovereign (Dominara)**: Advising Xipilli (Apexar's vampire-king) on slave control techniques, manifesting as a voice in mirrors
+> - **The Chain Sovereign (Dominara)**: Advising Tzimisce (Apexar's vampire-king) on blood thrall control techniques, manifesting as a voice in mirrors
 > - **The Ash Lord (Ruinok)**: Empowering goblin chieftains in Regalor's western border conflicts, granting rage-infused weapons
 > - **The Grim Shepherd (Morthas)**: Harvesting souls in plague-stricken Zenthira villages, appearing to dying elders as a cowled figure
 > - **Lady Silverleaf (Harmona)**: Mediating druids in the Bleakmoor Fens border conflict, manifesting as an ancient treant
@@ -1615,6 +1615,8 @@ Mysterious south with jungles and rivers where peoples are swarthy and sturdy, b
 **Grimwalds (Northern Borders)**: Shadowy-maned elf savages (Grimwalds), fierce with blue eyes, using barbarian rages. No major cities, only tribal camps. Economy: Hunting giant boars. Politics: Clan wars. Conflicts: Invasions into Arcanite lands.
 
 **Goblin Wastes (Western Wilds)**: Barren hills with goblin warriors and hobgoblin captains. Peoples: Squat, dusky goblins. City: Ruinfort, a crude stronghold of 8,000. Economy: Raiding, crude forging. Politics: Might-makes-right, chaotic evil to Ruinok. Conflicts: Endless border wars.
+
+**Apexar (Far Northern Vampire Kingdom)**: Frozen tundra and mountain valleys in the extreme north, conquered by Frostkin centuries ago but later transformed into a vampire-ruled realm when Tzimisce the Blood Tyrant rose to power. **Demographics**: Primarily human thralls (descended from conquered Arcanites and Frostkin), ruled by an aristocracy of vampire lords and spawn who worship Dominara as the goddess of eternal dominion. **Population**: Approximately 12,000 living thralls plus an unknown number of undead. **Government**: Absolute tyranny under Vampire-King Tzimisce (vampire lord, LE), advised by The Chain Sovereign. **Economy**: Blood taxation (monthly tributes), ice fishing, seal hunting, mining frozen veins of onyx and obsidian. **Culture**: Nocturnal society where living citizens work during daylight while vampire nobility rules the night; elaborate blood rituals and chain iconography dominate religious practice. **Conflicts**: Isolated from southern kingdoms but occasionally raids Frostrealm borders for fresh thralls; internal power struggles between vampire houses; resistance cells of living humans seeking liberation. **Major Settlement**: Bloodspire, a fortress-city of 12,000 built into a mountain with underground crypts and frozen blood pools serving as Dominara temples.
 
 **Ebony Realms (Far South)**: Black kingdoms like Warrior Queens (Amazons with giant strength), Darklanders (Kushites raiding with hyenas). Economy: Warrior economies, hybrid empires. Politics: Matriarchal or tribal. Conflicts: Pushing north against Serpentis.
 
@@ -3819,7 +3821,7 @@ Before playing, discuss with your DM:
 
 **Aelthar** - Lawful Good god of heroes, paladins, and order; the Noble Guardian; appears as towering armored knight with golden aura; arch-enemy of Ruinok; allied with Harmona and Rigoran; worshiped heavily in Regalor and by paladin orders; exarch is Dawnblade (radiant warrior)
 
-**Apexar** - Northern vampire kingdom ruled by vampire-king Xipilli; advised by The Chain Sovereign (Dominara's exarch)
+**Apexar** - Northern vampire kingdom in arctic regions; ruled by vampire-king Tzimisce the Blood Tyrant (vampire lord, LE); Dominara-worshipping nation where undead nobility governs living thralls; advised by The Chain Sovereign (Dominara's exarch); historically conquered by Frostkin before becoming vampire-dominated; remains isolated and mysterious with limited contact to southern kingdoms
 
 **Arcanite** - Humans of mixed elf-dwarf-human ancestry inhabiting western kingdoms (Regalor, Borderan, Silverport); no "pure" bloodlines exist after millennia of interbreeding
 
