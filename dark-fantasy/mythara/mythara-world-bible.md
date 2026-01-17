@@ -2276,6 +2276,181 @@ Veilport's population is approximately 65% tiefling, 20% human (mostly Shadowkin
 
 *Mixed or unknown bloodlines* face no official discrimination but subtle social pressure to "prove" themselves through achievement. Many join the Free Veil Coalition, resentful of bloodline-based assumptions.
 
+**Human Warlocks in Veilport: Unique Challenges and Opportunities**
+
+While tieflings dominate Veilport's warlock population, human warlocks face distinct social dynamics and complications—especially those who bind themselves to Great Old One patrons.
+
+**Social Positioning:**
+- **Minority Status**: Humans comprise only 25% of Veilport's population (7,500 of 30,000), making human warlocks stand out. Unlike tieflings with ancestral expectations for pact-magic, humans are viewed as "desperate outsiders" or "ambitious climbers" trying to fit into Shadowkin culture.
+- **No Bloodline Hierarchy**: Humans lack the Asmodeus/Mephistopheles/Zariel/Glasya/Mammon prestige rankings that govern tiefling social standing. This creates both freedom (no family reputation to uphold) and burden (must prove worth constantly through personal achievement).
+- **Shadowkin Human Ethnicity**: Most Veilport humans descend from mixed tiefling-human unions generations back—the "Shadowkin humans." They have darker complexions, sharp features, and sometimes vestigial traits (small horns filed down, faint tail scars removed surgically) but lack full infernal powers. This creates identity tension: too human for tieflings, too "tainted" for pure humans from Regalor.
+
+**Great Old One Patron Specific Challenges for Humans:**
+
+*Physical Mutations Hit Harder*:
+- Tieflings already possess horns, tails, odd eyes, and unusual skin tones—additional aberrant mutations (extra eyes, translucent skin, whispering shadows) appear as "variations on an existing theme."
+- Humans start "normal" by Mytharan standards, so aberrant changes become MORE visible and disturbing to observers. Game mechanic: When meeting new NPCs for the first time, human Great Old One warlocks must succeed on DC 13 Charisma save or the NPC is unsettled (impose disadvantage on social rolls for that encounter, or -2 penalty if not using advantage/disadvantage).
+- Even cosmetic mutations draw attention: a tiefling with star-filled eyes seems exotic; a human with the same mutation appears "contaminated by something unnatural."
+
+*Madness Perception Differential*:
+- Tiefling culture expects some degree of wickedness, cruelty, and unusual behavior due to infernal heritage. A tiefling warlock laughing at nothing or muttering to themselves might be dismissed as "infernal humor" or "communing with their patron."
+- Human warlocks displaying Great Old One madness symptoms (talking to themselves, drawing non-Euclidean geometries unconsciously, prophetic ramblings, sudden behavioral shifts) are immediately labeled "broken," "contaminated," or "lost to the void." Social stigma is significantly harsher—humans are expected to maintain sanity, and failure marks them as liabilities.
+- Veilport's pragmatic evil tolerates madness that remains functional, but human warlocks must work harder to disguise symptoms or face social/professional consequences.
+
+*No Infernal Resistances*:
+- Tieflings possess innate fire resistance and advantage on saving throws against being charmed (infernal legacy traits). These provide baseline survivability against common threats.
+- Human Great Old One warlocks begin with ZERO natural defenses. When Far Realm entities attack (star spawn assaults, intellect devourer infiltrations, psychic predators), humans take full damage and full effects. This makes leveling progression measurably more dangerous—human warlocks need to invest in defensive magic items and protective spells earlier than tiefling counterparts.
+- Mechanically: Human warlocks should prioritize Constitution for hit points, defensive invocations like *Armor of Shadows* or *Fiendish Vigor*, and acquiring a *ring of protection* or *cloak of protection* by 5th level if possible.
+
+**Naming Convention Choices for Humans:**
+
+Unlike tieflings with traditional naming patterns (birth name + virtue name + use name), human warlocks face a choice that reveals their relationship to Veilport society:
+
+*Adoption Strategy* (trying to fit in):
+- Take **Shadowkin-style use names**: "Shadow," "Whisper," "Veil," "Silk," "Dusk," "Ember"
+- Adopt **pact names** granted by patron prominently: "Void-Touched," "Star-Gazer," "Dream-Walker," "Mind-Eater"
+- Suppress original human name entirely to seem "more Shadowkin"
+- **Social effect**: Tieflings view this as flattering but slightly pathetic; grants +1 bonus to initial Charisma checks with tieflings but -1 with other humans who see it as "selling out"
+
+*Defiance Strategy* (maintaining identity):
+- Retain **original human names** defiantly: Marcus, Elena, Torin, Kira, Damien, Cassandra
+- Refuse Shadowkin naming conventions as assertion of independence
+- Emphasize non-tiefling heritage as badge of pride
+- **Social effect**: Earns grudging respect from some ("at least they're honest about what they are"), but limits social advancement in tiefling-dominated power structures
+
+*Hybrid Strategy* (code-switching):
+- Use **birth name** in Duskway residential areas and with human colleagues
+- Use **pact name** in Warlock's Enclave and professional contexts
+- Use **use name** in criminal/Syndicate contexts
+- **Social effect**: Most flexible but requires remembering which identity to use when (Intelligence check DC 10 when stressed, or accidentally use wrong name in wrong context)
+
+**Player Character Recommendation**: Your character should decide their naming strategy during character creation, as it reflects their attitude toward Veilport's tiefling-dominated culture and shapes NPC interactions.
+
+**Advantages Humans Have Over Tieflings (Great Old One Context):**
+
+Despite challenges, human warlocks possess unique benefits:
+
+*Cultural Flexibility*:
+- No tiefling expectation to worship Shadrix/Dominara specifically. Easier to explain Great Old One pacts as "academic curiosity" or "philosophical exploration" rather than religious heresy.
+- Can claim ignorance of infernal hierarchies and pact law as excuse when making mistakes ("I'm just a human; I didn't understand the implications") while tieflings are expected to know better.
+- Less family pressure regarding pact choices—tiefling families often have multi-generational expectations, while human families (if present) usually aren't involved in warlock culture.
+
+*Variant Human Feat Advantage*:
+- **Actor Feat** (recommended): +1 Charisma, advantage on Deception/Performance when impersonating others, perfectly mimic voices. Mechanically superior for social manipulation builds. Allows human warlocks to disguise madness symptoms ("I wasn't talking to invisible entities; I was practicing a monologue for the theater!") and impersonate sane versions of themselves when mutations become problematic.
+- **Observant Feat** (survival-focused): +1 Wisdom or Intelligence, +5 passive Perception and Investigation. Critical for noticing reality distortions, star spawn infiltrators, and Far Realm environmental hazards before they kill you. Great Old One warlocks exist in constant danger—this feat improves survival rates significantly.
+
+*Lower Social Expectations*:
+- Tieflings are expected to become powerful warlocks/sorcerers due to infernal bloodlines. Failure brings family shame.
+- Humans aren't expected to excel at pact-magic—so your success as Great Old One warlock becomes MORE impressive to observers. "A mere human made pact with an entity from beyond reality and survived? That takes uncommon courage... or madness."
+- Narrative advantage: Underestimation. Rival warlocks may dismiss human practitioners initially, providing opportunities for surprise.
+
+*Infiltration Capabilities*:
+- Easier to infiltrate Regalor and other human-dominated kingdoms on intelligence-gathering missions. Tiefling agents face immediate suspicion; humans can pass as merchants, pilgrims, or scholars.
+- Can maintain Veilport base while operating in territories hostile to tieflings, serving as valuable bridge agents for Shadow Syndicate or Free Veil Coalition operations.
+- With *disguise self* invocation (Mask of Many Faces), humans can pass as "normal merchants" suppressing visible mutations; tieflings must always account for horns/tails/unusual skin in disguises.
+
+**Great Old One Patron: Veilport Regulations and Social Dynamics**
+
+While Great Old One pacts are legal in Veilport (unlike most kingdoms), specific restrictions apply:
+
+*Infernal Contract Guild Requirements*:
+- **Registration**: 50 gp one-time fee to register Great Old One pact with the Guild. Failure to register risks 500 gp fine and confiscation of spell focus items.
+- **Annual Tithe**: 10% of documented income paid to Guild (standard for all warlock types). Great Old One warlocks often under-report income since patron missions rarely involve official contracts.
+- **Quarterly Check-Ins**: Khan Mordai Soulbinder (Warlock's Enclave overseer) requires Great Old One warlocks to report quarterly, demonstrating they haven't caused "unacceptable public disruption." Criteria: no mass hysteria events, no permanent madness inflicted on more than 3 citizens per quarter, no reality breaches visible from main streets.
+- **Teaching Restrictions**: Forbidden from teaching apprentices or offering pact-brokerage services until reaching 11th level minimum. Rationale: "Madness is too contagious to let novices spread it freely."
+
+*Social Dynamics Within the Enclave*:
+- **Fiend-pact warlocks** (majority): Actively avoid Great Old One warlocks, finding them disturbing even by infernal standards. Typical reaction: "At least devils negotiate rationally and honor contracts. *You* commune with things that shouldn't exist and whose 'agreements' warp reality itself."
+- **Archfey-pact warlocks** (uncommon): Fascinated but frightened. Will study Great Old One warlocks from safe distance, trading information about planar boundaries and madness effects. Quote: "The Feywild is capricious, but your patrons are *incomprehensible*. That terrifies me more than any Unseelie curse."
+- **Celestial-pact warlocks** (rare in Veilport): Pity Great Old One practitioners. Quote: "You poor fool—you don't know what you've bound yourself to. At least fiends want something from you. Your patron doesn't even perceive you as sentient." Often offer redemption attempts, which Great Old One warlocks find annoying.
+- **Hexblade-pact warlocks** (martial types): Respect Great Old One warlocks grudgingly. Quote: "Takes guts to bind eldritch horrors that might consume your mind. Respect."
+
+*Physical Manifestation Tracking*:
+
+DMs running long-term campaigns should track "madness points" and mutation stages to reflect Great Old One pact progression:
+
+**0-10 Madness Points** (Levels 1-4 typical):
+- *Minor symptoms*: Occasional whispers in unknown languages during sleep; NPCs within 5 feet sometimes hear faint echoes
+- Eyes sometimes reflect starlight instead of ambient light (DC 15 Perception to notice in bright conditions, automatic in darkness)
+- Unconscious doodling produces non-Euclidean angles and impossible geometries that cause brief disorientation (DC 12 Wisdom save or disadvantage on next Intelligence check)
+
+**11-25 Madness Points** (Levels 5-10 typical):
+- *Moderate symptoms*: Extra eyelid develops on palm, inner wrist, or back of neck (can close voluntarily with concentration; opens during stress/sleep revealing alien iris)
+- Skin becomes slightly translucent near major veins; observers can see faint pulse of dark energy rather than blood
+- Speaking produces faint harmonic echo in language you don't understand (Linguistics DC 18 identifies as Deep Speech fragments, but semantically meaningless)
+
+**26-50 Madness Points** (Levels 11-16 typical):
+- *Major symptoms*: Third eye opens permanently on forehead (grants darkvision 60 ft. if you lacked it, but NPCs must succeed DC 13 Wisdom save or become unsettled when making eye contact)
+- Shadow no longer matches body position—moves independently by 1-3 seconds delay, occasionally forms non-Euclidean shapes
+- Prophetic dreams occur 20% of nights (DM rolls d20; on 1-4, dream provides true glimpse of possible future event within next week)
+
+**50+ Madness Points** (Levels 17-20 typical):
+- *Extreme symptoms*: Permanent telepathy with all creatures within 30 feet (cannot voluntarily shut off; constantly hear surface thoughts as background static; DC 15 Wisdom save each morning or take 1d4 psychic damage from mental overload)
+- Reality bends subtly near you: mirrors crack spontaneously within 10 feet, time occasionally stutters (observers experience brief déjà vu), plants wither if you remain in contact for more than 1 hour
+- NPCs meeting you for first time must succeed DC 14 Wisdom save or become frightened for 1 minute (can repeat save at end of each turn; success grants immunity to this effect from you for 24 hours)
+
+**Managing Madness Accumulation:**
+
+Since Great Old One madness accumulates inevitably, warlocks employ various mitigation strategies:
+
+*Temporary Relief*:
+- ***Lesser Restoration*** (2nd-level spell): Delays madness accumulation, reducing current madness points by 5 for 24 hours. Does NOT cure permanently. Cost: 100 gp per casting from Shrine of Eternal Scales or other neutral clerics.
+- **Meditation in Feywild-touched locations**: Spending 8 hours in areas with strong Feywild influence (Eternal Grove, Dreamroot Labyrinth) suppresses symptoms for 1d4 days. Archfey presence counteracts Far Realm corruption temporarily.
+
+*Permanent Reduction*:
+- ***Greater Restoration*** (5th-level spell): Permanently removes 10 madness points per casting. Requires 100 gp diamond component plus 500 gp casting fee. Maximum one casting per week (patron resists excessive cleansing).
+- **Celestial Pact Multiclass**: Taking levels in Celestial warlock creates internal balance—celestial patron actively fights Great Old One corruption. While multiclassed, gain advantage on saves against madness accumulation. However, this creates patron conflict (both want exclusive devotion).
+
+*Acceptance Path*:
+- Some Great Old One warlocks embrace madness as "enlightenment" and refuse treatment. These individuals progress faster toward becoming star spawn or aberrations themselves but gain narrative benefits (prophetic visions, reality manipulation, etc.). High-risk, high-reward path suitable for short campaigns or planned character transformation arcs.
+
+**Recommended Human Build: Great Old One Social Manipulator**
+
+For players creating human Great Old One warlocks focused on social manipulation:
+
+**Variant Human Ancestry**:
+- +1 Dexterity, +1 Charisma
+- **Actor Feat**: +1 Charisma (total +2 Cha from race + feat), advantage on Deception/Performance to impersonate others, perfectly mimic voices
+- **Skills**: Deception, Insight, Investigation, Arcana (or Persuasion if prefer charm over lies)
+
+**Starting Ability Scores** (Point Buy optimized):
+- STR 8, DEX 14, CON 14, INT 12, WIS 10, CHA 16 (15 base +1 racial +1 Actor feat)
+- Prioritizes Charisma for spellcasting and social skills, Constitution for survivability (no natural resistances), Dexterity for AC and stealth
+
+**Level Progression Strategy**:
+- **Levels 1-4**: Pure Warlock, Great Old One patron
+  * Level 2 Invocations: *Mask of Many Faces* (*disguise self* at will—hide mutations and impersonate others), *Misty Visions* (*silent image* at will—create false alibis, distract witnesses)
+  * Level 3 Pact Boon: Pact of the Tome (ritual spells: *detect magic*, *identify*, *comprehend languages* for information gathering without expending slots)
+  * Core ability: *Awakened Mind* class feature (telepathy 30 feet, communicate with any creature regardless of language—perfect for manipulation)
+
+- **Levels 5-6**: Consider 2-level Rogue multiclass for social manipulation focus
+  * Cunning Action (Bonus Action Hide/Disengage/Dash—essential for escape after cons)
+  * Expertise in Deception and Insight (double proficiency bonus—become master manipulator)
+  * Alternatively, stay pure Warlock for 3rd-level spell slots sooner
+
+- **Levels 7-20**: Return to Warlock progression
+  * Key Invocations: *Beguiling Influence* (proficiency in Deception/Persuasion if didn't start with them), *Voice of the Chain Master* if took Pact of Chain later, *Whispers of the Grave* (speak with dead at will for information extraction)
+  * Mystic Arcana choices: 6th level - *mass suggestion*, 7th level - *forcecage* (trap targets for interrogation), 8th level - *glibness* (automatic 15 on Charisma checks), 9th level - *foresight* or *psychic scream*
+
+**Roleplay Concept**:
+Former Veilport confidence artist who accidentally contacted Great Old One (Hastur the King in Yellow suggested—perfect for actor/performer theme) while researching Pre-Cataclysmic theater manuscripts in the Shadowed Athenaeum. Initially sought mundane historical knowledge about ancient plays; instead opened psychic connection to alien intelligence dwelling in Carcosa.
+
+Now uses eldritch madness to enhance cons, appearing perfectly sane and charming on surface while patron's influence leaks through subtle tells (occasionally speaks lines from "The King in Yellow" play without realizing, draws Yellow Sign unconsciously, knows facts about people they shouldn't). Struggles to maintain humanity while power grows—will they remain clever manipulator, or become herald of Hastur's return to Mythara?
+
+**Faction Relationships**:
+- **Shadow Syndicate**: Vex'thraal Shadowbinder (High Priest of Shadrix, House of Whispered Bargains) finds your madness-enhanced deception fascinating and hires you for "impossible" con jobs. Pays well but keeps closer eye on you than normal operatives.
+- **Free Veil Coalition**: Torin Silvercloak suspicious (are you pawn of something worse than Vespera?) but recognizes your skills. Offers missions requiring infiltration and manipulation, warning that if you go "full aberrant," Coalition will put you down.
+- **Infernal Contract Guild**: Azarinth the Bonded (Guildmaster) studies you as "test case" for aberrant pact viability. Occasionally offers reduced-fee pact renegotiation services in exchange for data on your symptoms.
+- **Dragonborn Enclave**: Thornn Goldwing (Paladin of Bahamut) periodically attempts to "save your soul" through celestial intervention, offering *greater restoration* castings at discounted rates if you'll consider redemption.
+
+**Starting Equipment Priorities** (if using gold buy instead of class defaults):
+- *Disguise Kit* (essential for Actor feat synergy)
+- *Fine clothes* (appear respectable during cons)
+- *Component pouch* (avoid spell focus dependency)
+- Save remaining gold for first *Cloak of Protection* purchase (~500 gp, critical for human survivability)
+
+This creates highly effective social manipulator who grows more alien and disturbing as levels progress, providing both mechanical power and compelling character arc about maintaining humanity against cosmic corruption.
+
 **Naming Conventions**
 
 Tiefling naming in Veilport follows three traditional patterns, with individuals often using different names in different contexts:
