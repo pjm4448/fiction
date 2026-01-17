@@ -171,6 +171,7 @@
 **Campaign Resources**
 - [Major Cities and Settlements: Detailed Guides](#major-cities-and-settlements-detailed-guides)
   - [Veilport: The City of Whispered Bargains](#veilport-the-city-of-whispered-bargains)
+    - [Warlock Culture and Traditions in Veilport](#warlock-culture-and-traditions-in-veilport)
   - [Crownspire: The Radiant Capital](#crownspire-the-radiant-capital)
   - [Coilkeep: The Serpent's Throne](#coilkeep-the-serpents-throne)
 - [Random Encounter Tables by Region](#random-encounter-tables-by-region)
@@ -447,21 +448,21 @@ The Nine frequently watch mortal events together and place bets on outcomes, sub
 
 ## Lesser Deities, Demigods, or Exarchs
 
-While the Ninefold Pantheon holds supreme and equal dominion over Mythara, they are not alone in the cosmos. Beneath them exist lesser divine beings—exarchs, exalted mortals, demon lords, archfey, and elemental princes—who serve as proxies, champions, or rivals. These entities lack the raw power of the Nine but wield significant influence through cults, pacts, and direct manifestation. They rarely challenge the Nine openly (for fear of cosmic retribution) yet pursue their own agendas, often amplifying or twisting their patron'€™s alignment. Warlocks frequently bind to these beings as '€œotherworldly'€ patrons, clerics may receive diluted spells from exarchs, and paladins sometimes swear oaths to exalted heroes.
+While the Ninefold Pantheon holds supreme and equal dominion over Mythara, they are not alone in the cosmos. Beneath them exist lesser divine beings—exarchs, exalted mortals, demon lords, archfey, and elemental princes—who serve as proxies, champions, or rivals. These entities lack the raw power of the Nine but wield significant influence through cults, pacts, and direct manifestation. They rarely challenge the Nine openly (for fear of cosmic retribution) yet pursue their own agendas, often amplifying or twisting their patron's alignment. Warlocks frequently bind to these beings as '€œotherworldly'€ patrons, clerics may receive diluted spells from exarchs, and paladins sometimes swear oaths to exalted heroes.
 
 ### Exarchs and Chosen of the Nine
 
 **The Dawnblade (Exarch of Aelthar)**  
-An exalted human paladin who, centuries ago, single-handedly held Shieldfall Crag against a Ruinok-spawned horde. Ascended as Aelthar'€™s martial champion, the Dawnblade manifests as a radiant armored figure wielding a fragment of the Blade of Dawn'€™s Resolve. Paladins who swear the Oath of the Dawnblade gain enhanced auras against fiends.
+An exalted human paladin who, centuries ago, single-handedly held Shieldfall Crag against a Ruinok-spawned horde. Ascended as Aelthar's martial champion, the Dawnblade manifests as a radiant armored figure wielding a fragment of the Blade of Dawn's Resolve. Paladins who swear the Oath of the Dawnblade gain enhanced auras against fiends.
 
 **The Iron Arbiter (Exarch of Rigoran)**  
 A genderless construct of living steel forged from the Scales of Immutable Judgment. It appears only during unbreakable trials, enforcing contracts with mechanical precision. Monks and magistrates invoke it for perfect impartiality.
 
 **The Chain Sovereign (Exarch of Dominara)**  
-A towering chain devil bound eternally to Dominara'€™s will, granted limited divinity. It whispers tyrannical strategies to God-Queen Xipilli and manifests to crush rebellions.
+A towering chain devil bound eternally to Dominara's will, granted limited divinity. It whispers tyrannical strategies to God-Queen Xipilli and manifests to crush rebellions.
 
 **The Verdant Heart (Exarch of Harmona)**  
-A treant-like being grown from the Eternal Grove'€™s central oak, embodying collective restoration. Druids of exceptional mercy may awaken as its aspects, healing entire battlefields.
+A treant-like being grown from the Eternal Grove's central oak, embodying collective restoration. Druids of exceptional mercy may awaken as its aspects, healing entire battlefields.
 
 **The Eternal Watcher (Exarch of Equilon)**  
 A floating hourglass-headed outsider that records every act of balance or imbalance. Wizards and rangers who preserve neutrality may receive its silent guidance.
@@ -470,10 +471,10 @@ A floating hourglass-headed outsider that records every act of balance or imbala
 A masked figure said to have won a game against Shadrix himself, now eternally bound to enforce infernal bargains. Warlocks of the Fiend patron often contact it for loophole-free pacts.
 
 **The Stormborn (Exarch of Liberon)**  
-A chaotic storm giant quintessent who was once a mortal berserker raised by Liberon'€™s lightning. It leads uprisings and grants thunder resistance to freedom fighters.
+A chaotic storm giant quintessent who was once a mortal berserker raised by Liberon's lightning. It leads uprisings and grants thunder resistance to freedom fighters.
 
 **The Mad Cap (Exarch of Whirlvex)**  
-A perpetually laughing harlequin archfey who dances through Whirlvex'€™s revels. Bards who embrace pure caprice may become its temporary avatars, triggering wild magic surges at will.
+A perpetually laughing harlequin archfey who dances through Whirlvex's revels. Bards who embrace pure caprice may become its temporary avatars, triggering wild magic surges at will.
 
 **The Ash Lord (Exarch of Ruinok)**  
 A balor-like entity wreathed in necrotic flame, once a mortal destroyer exalted for annihilating an entire kingdom. It empowers the Ash-Crowned and grants death throes to fanatical followers.
@@ -483,11 +484,11 @@ Exarchs often use multiple titles depending on their current manifestation and r
 
 ### Notable Independent or Oppositional Powers
 
-**Yeenoghu'€™s Gnawbone (Demon Lord Influence)**  
+**Yeenoghu's Gnawbone (Demon Lord Influence)**  
 Though not native to Mythara, the Demon Lord of Gnolls extends influence through Gnawbone the Laughing King on the Death Hyena Plains, granting fangs and demonic rage.
 
-**Zuggtmoy'€™s Rotmother (Demon Lady of Fungi)**  
-An aspect of the Lady of Rot infests the Venomroot Jungle'€™s deepest fungal blooms, twisting vegepygmies and myconids into spore-servants.
+**Zuggtmoy's Rotmother (Demon Lady of Fungi)**  
+An aspect of the Lady of Rot infests the Venomroot Jungle's deepest fungal blooms, twisting vegepygmies and myconids into spore-servants.
 
 **Imix, Prince of Evil Fire**  
 An elemental prince whose ember courts lie beneath the Wyrmskull Vaults, tempting dragonborn sorcerers with pyromantic power.
@@ -496,9 +497,9 @@ An elemental prince whose ember courts lie beneath the Wyrmskull Vaults, temptin
 Rules the Sunken Planar Rift in the Kraken Depths through Vorathrax, flooding minds with tidal madness.
 
 **The Queen of Air and Darkness (Archfey Opponent to Whirlvex)**  
-A shadowy Unseelie ruler whose influence seeps through the Dreamroot Labyrinth, luring travelers into eternal winter courts that mock Whirlvex'€™s chaotic joy.
+A shadowy Unseelie ruler whose influence seeps through the Dreamroot Labyrinth, luring travelers into eternal winter courts that mock Whirlvex's chaotic joy.
 
-These lesser powers provide warlock patrons beyond the Nine, optional oath targets for paladins, and epic threats for high-level campaigns. They act with the Nine'€™s tacit permission—maintaining cosmic tension without outright rebellion—ensuring that divine intrigue remains layered and perilous.
+These lesser powers provide warlock patrons beyond the Nine, optional oath targets for paladins, and epic threats for high-level campaigns. They act with the Nine's tacit permission—maintaining cosmic tension without outright rebellion—ensuring that divine intrigue remains layered and perilous.
 
 
 > **Exarch Current Activities and Manifestation**
@@ -591,6 +592,9 @@ Once beautiful, now hideous, Baalzebul rules a layer of Hell filled with rotting
 
 **Glasya, the Princess of Hell (Lawful Evil)**  
 Daughter of Asmodeus and master of credit and debt, Glasya appears as a stunningly beautiful woman with ruby eyes. She offers pacts to merchants, thieves, and those who trade in souls. Her warlocks gain enhanced *charm person* that feels like genuine affection, the ability to cast *geas* once per long rest without material components, and bonuses to all Charisma-based checks involving deals. Glasya's price is a percentage of all wealth earned—10% of every transaction must be symbolically "burned" in her name, and warlocks must always honor contracts to the letter (though clever loopholes are encouraged).
+
+**Mephistar, the Chain-Keeper (Lawful Evil)**  
+An ancient archdevil who appears as a gaunt, towering figure wreathed in hundreds of animated chains that shift and writhe with metallic whispers, Mephistar governs the enforcement of contracts throughout the Nine Hells. Where Glasya profits from deals, Mephistar ensures they are honored—by force if necessary. He offers pacts to judges, enforcers, contract killers, and those who value absolute adherence to oaths. His warlocks gain the ability to manifest spectral chains (*Grasp of Hadar* invocation enhanced to also grapple), cast *zone of truth* at will, and detect when others are lying or intending to break agreements. Mephistar's price is brutal: warlocks cannot willingly break any contract they personally make, whether signed in blood or sworn verbally. Breaking a pact causes immediate loss of all warlock powers and attracts chain devils as enforcers. Warlocks must also serve as Mephistar's agents, enforcing at least one significant contract per month in his name. His most prominent servant in Mythara is Khan Vespera Nightborn of Veilport, whose animated chains are a direct manifestation of his power. Unlike other devil patrons who encourage manipulation, Mephistar demands absolute honesty in the terms of any deal—though he encourages ruthlessly precise wording that gives legal cover for cruelty.
 
 **Beleth, the Crimson Duke (Chaotic Evil with Lawful leanings)**  
 A charming devil-prince who rides a pale horse and commands legions with honeyed words before unleashing slaughter, Beleth offers pacts to warriors who crave dominance on the battlefield. His warlocks gain enhanced combat abilities, the power to command lesser devils as bodyguards, and fear-inducing auras. Beleth's price is bloodshed—warlocks must kill at least one sentient being each month in his name or suffer wracking pains. They also gradually develop an insatiable taste for violence.
@@ -943,7 +947,7 @@ Dedicated to mapping ruins, retrieving lost artifacts, and charting wilderness p
 
 - **Primary Headquarters**: The Charted Hall in Crownspire (a sprawling wing of the royal palace filled with maps and trophy displays), with major chapterhouses in Silverport and Veilport.
 - **Current Leader**: Grand Pathfinder Rhen Silverquill (human ranger (Hunter) 16 / rogue 4), a scarred veteran of the Sunken Citadels who rose through merit after mapping the Labyrinth of Ebonridge.
-- **Membership Requirements**: Prospective members must present proof of a completed delve (e.g., a mimic trophy or gelatinous cube residue) and swear an oath of accurate reporting before Equilon'€™s altar.
+- **Membership Requirements**: Prospective members must present proof of a completed delve (e.g., a mimic trophy or gelatinous cube residue) and swear an oath of accurate reporting before Equilon's altar.
 - **Internal Hierarchy**: Pathfinders (leaders), Trailblazers (veteran delvers), Scouts (full members), and Initiates. Advancement comes through documented discoveries, rewarded with feats like Dungeon Delver or Alert.
 
 ### Shadow Syndicates
@@ -978,8 +982,8 @@ Druid circles and ranger alliances devoted to protecting wild places and maintai
 Lawful good orders of paladins and clerics sworn to Aelthar, crusading against evil and protecting the innocent.
 
 - **Primary Headquarters**: The Radiant Bastion in Crownspire, with fortified chapterhouses at Shieldfall Crag and Edgewatch.
-- **Current Leader**: Grand Master Ser Eldric Dawnsworn (human paladin (Oath of Devotion) 19), a living legend who wields a replica of the Blade of Dawn'€™s Resolve.
-- **Membership Requirements**: Swear the Oath of Devotion before Aelthar'€™s altar, complete a vigil against undead or fiends, and donate a magic weapon to the order.
+- **Current Leader**: Grand Master Ser Eldric Dawnsworn (human paladin (Oath of Devotion) 19), a living legend who wields a replica of the Blade of Dawn's Resolve.
+- **Membership Requirements**: Swear the Oath of Devotion before Aelthar's altar, complete a vigil against undead or fiends, and donate a magic weapon to the order.
 - **Internal Hierarchy**: Grand Master, Oath Captains (regional commanders), Shield Knights (full paladins), Squires (training clerics and fighters). Epic boons and feats like Sentinel are bestowed for heroic deeds.
 
 ### Other Notable Factions
@@ -988,12 +992,12 @@ Lawful good orders of paladins and clerics sworn to Aelthar, crusading against e
 - **Leadership**: Varies by contract; the largest, the Iron Tempest, is led by Captain Brynja Steelwind (half-orc fighter (Champion) 15 / barbarian 5) from a mobile camp in the Wanderer Territories.
 
 **Bardic Colleges**  
-- **Leadership**: Master of Tales Vaelin Stormvoice (elf bard (College of Lore) 16) in Thunderhaven'€™s mead halls, spreading propaganda and history.
+- **Leadership**: Master of Tales Vaelin Stormvoice (elf bard (College of Lore) 16) in Thunderhaven's mead halls, spreading propaganda and history.
 
 **Monastic Orders**  
-- **Leadership**: Grand Abbot Torvald Ironmind (dwarf monk (Open Hand) 17) in the Scales of Eternity, enforcing Rigoran'€™s neutral laws with disciplined fists.
+- **Leadership**: Grand Abbot Torvald Ironmind (dwarf monk (Open Hand) 17) in the Scales of Eternity, enforcing Rigoran's neutral laws with disciplined fists.
 
-These factions offer adventurers patronage, training, and rivalries—joining one often means opposing another. Their leaders'€™ decisions influence wars and trade alike, turning personal ambition into continental consequences under the watchful eyes of the Nine.
+These factions offer adventurers patronage, training, and rivalries—joining one often means opposing another. Their leaders' decisions influence wars and trade alike, turning personal ambition into continental consequences under the watchful eyes of the Nine.
 
 ### Conflicts
 
@@ -1011,45 +1015,45 @@ The Arcanum Epoch is an age of simmering tensions and open warfare, where divine
 
 ### The Western Frontier War (Regalor vs. Goblin Wastes and Grimwald Hills)
 
-King Valorian Brightblade'€™s expansionist policies have ignited a protracted border war along the Frontier Marches and Goblin Wastes.
+King Valorian Brightblade's expansionist policies have ignited a protracted border war along the Frontier Marches and Goblin Wastes.
 
-- **Primary Belligerents**: Regalor (led by Valorian and Tharok One-Eye'€™s marchers) and allied Arcanite settlements versus the Ash-Crowned'€™s unified goblin tribes and opportunistic Grimwald warbands under Elyndra the Pale Whisper.
-- **Recent Events**: Two years ago, goblin raiders sacked Edgewatch'€™s outer farms, prompting a retaliatory crusade that burned three wastelands strongholds. Last spring, Grimwald shadow warriors ambushed a Regalor supply column in the Thornskull Thickets, slaying two hundred knights. Currently, Regalor besieges a goblin redoubt near Ruinfort, while Elyndra'€™s wraiths harass northern patrols.
-- **Current State**: Stalemate—Regalor holds the Crown Road but cannot push deeper without overextending. Aelthar'€™s paladins bolster morale, but Ruinok'€™s blessings grant goblins fanatical resilience. Skirmishes occur weekly, with winter slowing major offensives.
+- **Primary Belligerents**: Regalor (led by Valorian and Tharok One-Eye's marchers) and allied Arcanite settlements versus the Ash-Crowned's unified goblin tribes and opportunistic Grimwald warbands under Elyndra the Pale Whisper.
+- **Recent Events**: Two years ago, goblin raiders sacked Edgewatch's outer farms, prompting a retaliatory crusade that burned three wastelands strongholds. Last spring, Grimwald shadow warriors ambushed a Regalor supply column in the Thornskull Thickets, slaying two hundred knights. Currently, Regalor besieges a goblin redoubt near Ruinfort, while Elyndra's wraiths harass northern patrols.
+- **Current State**: Stalemate—Regalor holds the Crown Road but cannot push deeper without overextending. Aelthar's paladins bolster morale, but Ruinok's blessings grant goblins fanatical resilience. Skirmishes occur weekly, with winter slowing major offensives.
 
 ### The Inner Bay Trade War (Regalor vs. Bayhaven)
 
 Economic rivalry has escalated into naval raids and caravan ambushes as both powers vie for dominance over Inner Bay commerce.
 
-- **Primary Belligerents**: Regalor'€™s river fleet and Crownspire merchants versus Khan Vespera Nightborn'€™s Shadowkin corsairs and Veilport syndicates.
+- **Primary Belligerents**: Regalor's river fleet and Crownspire merchants versus Khan Vespera Nightborn's Shadowkin corsairs and Veilport syndicates.
 - **Recent Events**: Last year, Shadowkin privateers seized three Crownspire grain barges, prompting retaliatory seizures of Veilport spice ships. Captain Draven Blackwake (nominally neutral) has been hired by both sides for deniable raids. A failed assassination attempt on Archmage Lirael Starweave—traced to Shadrix-aligned agents—nearly sparked open war six months ago.
-- **Current State**: Cold war with hot flashes—trade continues under heavy escort, but sabotage and espionage are rampant. Harmona'€™s mediators prevent total embargo, but tensions rise with each captured vessel.
+- **Current State**: Cold war with hot flashes—trade continues under heavy escort, but sabotage and espionage are rampant. Harmona's mediators prevent total embargo, but tensions rise with each captured vessel.
 
 ### The Northern Clan Feud (Stormland vs. Frostrealm)
 
 Ancient sibling rivalry between crimson-haired Stormkin and golden-haired Frostkin flares periodically over glacial mining rights and fjord fishing grounds.
 
-- **Primary Belligerents**: Jarl Yrsa Stormcaller'€™s raiders versus High Oracle Kael Frostveil'€™s disciplined legions.
-- **Recent Events**: A Stormkin longship raid on Glacierhold'€™s outer mines last winter claimed cold-iron stockpiles, answered by a Frostkin counter-raid that burned two Stormland coastal villages. Whirlvex'€™s chaotic omens have prolonged the feud with unseasonal storms.
-- **Current State**: Low-intensity raiding—neither side seeks total war, but pride prevents peace. Equilon'€™s priests attempt mediation at the Nexus of Balance, with limited success.
+- **Primary Belligerents**: Jarl Yrsa Stormcaller's raiders versus High Oracle Kael Frostveil's disciplined legions.
+- **Recent Events**: A Stormkin longship raid on Glacierhold's outer mines last winter claimed cold-iron stockpiles, answered by a Frostkin counter-raid that burned two Stormland coastal villages. Whirlvex's chaotic omens have prolonged the feud with unseasonal storms.
+- **Current State**: Low-intensity raiding—neither side seeks total war, but pride prevents peace. Equilon's priests attempt mediation at the Nexus of Balance, with limited success.
 
 ### The Southern Coiled Incursion (Serpentis vs. Ebony Realms)
 
-God-Queen Xipilli'€™s expansionist theocracy clashes with matriarchal warrior kingdoms pushing north from beyond the Coiled Barrier.
+God-Queen Xipilli's expansionist theocracy clashes with matriarchal warrior kingdoms pushing north from beyond the Coiled Barrier.
 
-- **Primary Belligerents**: Serpentis forces (yuan-ti elite commanding legions of Serpentan human soldiers, with medusa and naga support) and Dominara cultists versus the ebony Warrior Queens'€™ amazon phalanxes and Darklander hyena-riders.
+- **Primary Belligerents**: Serpentis forces (yuan-ti elite commanding legions of Serpentan human soldiers, with medusa and naga support) and Dominara cultists versus the ebony Warrior Queens' amazon phalanxes and Darklander hyena-riders.
 - **Recent Events**: Three years ago, Serpentis forces seized a border oasis, enslaving its defenders. Last summer, ebony raiders sacked a Coilkeep-allied jungle outpost, taking medusa heads as trophies. Couatl sightings have increased, hinting at divine displeasure with both sides.
 - **Current State**: Active border war—Serpentis advances slowly through jungle skirmishes, while ebony forces stage lightning raids. Wanderer mercenaries fight for both sides, prolonging the stalemate.
 
 ### The Veilport Succession Crisis (Internal Bayhaven Conflict)
 
-Khan Vespera Nightborn'€™s iron rule faces growing opposition from merchant clans seeking greater autonomy.
+Khan Vespera Nightborn's iron rule faces growing opposition from merchant clans seeking greater autonomy.
 
-- **Primary Belligerents**: Vespera'€™s loyalists (Shadrix warlocks and assassins) versus the Free Veil Coalition (rogues, bards, and disillusioned sorcerers).
-- **Recent Events**: An attempted coup nine months ago failed when Vespera'€™s chains animated and crushed rebels in the House of Whispered Bargains. Coalition agents now wage guerrilla war in the bazaars.
+- **Primary Belligerents**: Vespera's loyalists (Shadrix warlocks and assassins) versus the Free Veil Coalition (rogues, bards, and disillusioned sorcerers).
+- **Recent Events**: An attempted coup nine months ago failed when Vespera's chains animated and crushed rebels in the House of Whispered Bargains. Coalition agents now wage guerrilla war in the bazaars.
 - **Current State**: Simmering civil strife—public order holds, but assassinations and disappearances are nightly occurrences. External powers (Regalor spies, Zenthara opportunists) quietly fan the flames.
 
-These conflicts define the precarious balance of power in the Arcanum Epoch. Temporary truces form and shatter with divine portents—Harmona'€™s green auroras signal hope for peace, while Ruinok'€™s crimson streaks promise escalation. Adventurers find endless employment as mercenaries, spies, or mediators, their deeds often tipping local scales and drawing the distant attention of the Nine.
+These conflicts define the precarious balance of power in the Arcanum Epoch. Temporary truces form and shatter with divine portents—Harmona's green auroras signal hope for peace, while Ruinok's crimson streaks promise escalation. Adventurers find endless employment as mercenaries, spies, or mediators, their deeds often tipping local scales and drawing the distant attention of the Nine.
 
 ## Major Trade Centers and Routes
 
@@ -1058,10 +1062,10 @@ Trade forms the lifeblood of the Arcanum Epoch, binding the diverse kingdoms, tr
 ### Primary Trade Centers
 
 **Crownspire (Regalor, Central Plains)**  
-The undisputed heart of western commerce and the greatest trade metropolis on the continent. With a population exceeding 50,000, its soaring marble spires house grand bazaars, arcane auction halls, and guild enclaves where wizards, artificers, and merchant-lords barter rare spell scrolls, +1 weapons and armor, potions of healing brewed in vast quantities, and gemstones used as material components. Crownspire'€™s central location makes it the terminus for nearly every major overland route from the west and north, and its river docks welcome barges laden with grain, timber, and dwarven steel. The city'€™s wealth draws followers of both Aelthar (who protect legitimate trade) and Shadrix (who thrive in its shadowed black markets).
+The undisputed heart of western commerce and the greatest trade metropolis on the continent. With a population exceeding 50,000, its soaring marble spires house grand bazaars, arcane auction halls, and guild enclaves where wizards, artificers, and merchant-lords barter rare spell scrolls, +1 weapons and armor, potions of healing brewed in vast quantities, and gemstones used as material components. Crownspire's central location makes it the terminus for nearly every major overland route from the west and north, and its river docks welcome barges laden with grain, timber, and dwarven steel. The city's wealth draws followers of both Aelthar (who protect legitimate trade) and Shadrix (who thrive in its shadowed black markets).
 
 **Veilport (Bayhaven, Inner Bay Shores)**  
-The premier eastern trade hub and the busiest port on the Vast Inner Bay. Home to 30,000 Shadowkin traders, human merchants, and tiefling caravanners, Veilport'€™s sprawling docks and labyrinthine bazaars deal in exotic steppe spices, infernal-tainted reagents (such as abyssal powders favored by warlocks), silks dyed with manticore blood, and potions of fire breath crafted from dragonborn traditions. It serves as the gateway between the eastern steppes and the western kingdoms, with ships regularly crossing the Inner Bay to Crownspire or south to Coilkeep.
+The premier eastern trade hub and the busiest port on the Vast Inner Bay. Home to 30,000 Shadowkin traders, human merchants, and tiefling caravanners, Veilport's sprawling docks and labyrinthine bazaars deal in exotic steppe spices, infernal-tainted reagents (such as abyssal powders favored by warlocks), silks dyed with manticore blood, and potions of fire breath crafted from dragonborn traditions. It serves as the gateway between the eastern steppes and the western kingdoms, with ships regularly crossing the Inner Bay to Crownspire or south to Coilkeep.
 
 **Silverport (Western Coast, historically Arcanite but now a contested free city)**  
 A thriving coastal metropolis of 35,000 that survived the Collapse and retained its independence through shrewd neutrality. Its deep natural harbor accommodates ocean-going vessels trading with distant isles and surviving goblin archipelagos. Silverport is renowned for its shipyards, pearl divers, and markets offering cloaks of the manta ray, tridents of fish command, and rare seafood components for *water breathing* rituals. Merchant guilds here often employ bards to negotiate favorable terms and rogues to safeguard (or pilfer) cargoes.
@@ -1078,18 +1082,18 @@ An oasis city of 25,000 built around ancient underground vaults. It specializes 
 The most heavily traveled arterial route of the west, running from Crownspire south through the Frontier Marches to Silverport on the coast, then north along the plains to the borders of Regalor and the Grimwald Hills. Guarded by fortified waystations and patrolled by paladins of Aelthar, it carries grain, worked metals, and enchanted arms westward in exchange for seafood, pearls, and shipbuilding timber.
 
 **The Inner Bay Caravan Circuit**  
-A great loop linking Crownspire, the Frontier Marches, Bayhaven'€™s Veilport, and northern Zenthara. Caravans brave goblin ambushes and ankheg burrows to transport western steel and textiles east for steppe horses, spices, and infernal reagents.
+A great loop linking Crownspire, the Frontier Marches, Bayhaven's Veilport, and northern Zenthara. Caravans brave goblin ambushes and ankheg burrows to transport western steel and textiles east for steppe horses, spices, and infernal reagents.
 
-**The Serpent'€™s Coil**  
-A perilous southern river-and-jungle route beginning at Coilkeep, following the great southern rivers northwest into Wanderer Territories and eventually linking (through dangerous portages) to Borderan outposts near Regalor'€™s southern vassals. It moves poisons, rare woods, and slave traffic (openly in Serpentis, covertly elsewhere) northward, returning with manufactured goods and mercenary hires.
+**The Serpent's Coil**  
+A perilous southern river-and-jungle route beginning at Coilkeep, following the great southern rivers northwest into Wanderer Territories and eventually linking (through dangerous portages) to Borderan outposts near Regalor's southern vassals. It moves poisons, rare woods, and slave traffic (openly in Serpentis, covertly elsewhere) northward, returning with manufactured goods and mercenary hires.
 
 **The Stormfjord Passage**  
-A northern coastal and fjord route used by Stormkin longships trading Thunderhaven'€™s fish, furs, and amber for southern luxuries. It occasionally extends south to Iceforge in Frostrealm, carrying mined gems and cold-forged steel.
+A northern coastal and fjord route used by Stormkin longships trading Thunderhaven's fish, furs, and amber for southern luxuries. It occasionally extends south to Iceforge in Frostrealm, carrying mined gems and cold-forged steel.
 
 ### Sea Lanes
 
 **The Inner Bay Shipping Lanes**  
-The safest and busiest maritime routes, plied by galleys and cogs traveling between Veilport, Crownspire'€™s river ports, and southern Coilkeep-allied harbors. These lanes are vital for bulk goods but require escorts against hydra attacks and sahuagin raiders.
+The safest and busiest maritime routes, plied by galleys and cogs traveling between Veilport, Crownspire's river ports, and southern Coilkeep-allied harbors. These lanes are vital for bulk goods but require escorts against hydra attacks and sahuagin raiders.
 
 **The Western Coastal Run**  
 From Silverport north to Stormland ports and south toward lost isles, this lane carries high-value luxury goods and faces threats from sea hags, koalinth hobgoblins, and occasional dragon turtle sightings.
@@ -1097,11 +1101,11 @@ From Silverport north to Stormland ports and south toward lost isles, this lane 
 **The Southern Monsoon Route**  
 Seasonal voyages from Coilkeep around the southern capes to the ebony realms, trading in warrior-caste ivory, giant hyena pelts, and obsidian in exchange for Serpentan poisons and medusa-crafted mirrors.
 
-These centers and routes ensure that wealth, information, and conflict flow freely across Mythara. Merchant guilds rise and fall on the whims of the Nine—Harmona blesses fair deals, Shadrix whispers of profitable betrayals, and Ruinok'€™s followers prey upon the unwary—making trade as much an adventure as any dungeon delve.
+These centers and routes ensure that wealth, information, and conflict flow freely across Mythara. Merchant guilds rise and fall on the whims of the Nine—Harmona blesses fair deals, Shadrix whispers of profitable betrayals, and Ruinok's followers prey upon the unwary—making trade as much an adventure as any dungeon delve.
 
 ## Travel Times and Distances Between Locations
 
-Mythara'€™s vast continent in the Arcanum Epoch spans roughly 2,500 miles from northern glaciers to southern jungles, with the Vast Inner Bay adding significant maritime routes. Travel follows standard paces—normal (24 miles/day overland for unhurried parties, slow for stealth/foraging, fast for urgency with risks), though terrain, weather, monsters, and divine omens frequently impose delays or force detours. Caravans use wagons or pack animals, ships range from river barges to ocean cogs and Stormkin longships, and magical aids like *phantom steed* or *wind walk* are rare luxuries reserved for high-level adventurers or urgent royal missives. Below are key routes with average travel times and notable hazards.
+Mythara's vast continent in the Arcanum Epoch spans roughly 2,500 miles from northern glaciers to southern jungles, with the Vast Inner Bay adding significant maritime routes. Travel follows standard paces—normal (24 miles/day overland for unhurried parties, slow for stealth/foraging, fast for urgency with risks), though terrain, weather, monsters, and divine omens frequently impose delays or force detours. Caravans use wagons or pack animals, ships range from river barges to ocean cogs and Stormkin longships, and magical aids like *phantom steed* or *wind walk* are rare luxuries reserved for high-level adventurers or urgent royal missives. Below are key routes with average travel times and notable hazards.
 
 ### Overland Routes
 
@@ -1111,11 +1115,11 @@ Mythara'€™s vast continent in the Arcanum Epoch spans roughly 2,500 miles fr
 - Hazards: Ankheg ambushes in open plains, occasional goblin raids south of the Marches, and Thornskull Thickets spider webs forcing slow pace detours.
 
 **Crownspire to Veilport (Inner Bay Caravan Circuit)**  
-- Distance: ~700 miles around the bay'€™s western and northern arms via Borderan outposts.  
+- Distance: ~700 miles around the bay's western and northern arms via Borderan outposts.  
 - Normal pace: 30'€“35 days.  
 - Hazards: Manticore Marches aerial attacks, ankheg burrows in grasslands, and Shadowkin bandit tolls near Bayhaven borders. Winter snows in northern stretches add 5'€“10 days.
 
-**Crownspire to Coilkeep (via Wanderer Territories and Serpent'€™s Coil river portages)**  
+**Crownspire to Coilkeep (via Wanderer Territories and Serpent's Coil river portages)**  
 - Distance: ~1,200 miles south through plains, meadows, and jungle fringes.  
 - Normal pace: 50'€“60 days (river barges shorten southern leg).  
 - Hazards: Bleakmoor Fens trolls, Death Hyena Plains gnoll packs, and Venomroot Jungle constrictors/poison spores near Serpentis.
@@ -1128,7 +1132,7 @@ Mythara'€™s vast continent in the Arcanum Epoch spans roughly 2,500 miles fr
 **Crownspire to Iceforge (northeast across Frostrealm plateaus)**  
 - Distance: ~900 miles of cold highlands.  
 - Normal pace: 40'€“45 days (cold weather gear essential).  
-- Hazards: Pale Fang Crags avalanches, yeti packs, and Valthraxthe the Frostreaver'€™s territorial flights.
+- Hazards: Pale Fang Crags avalanches, yeti packs, and Valthraxthe the Frostreaver's territorial flights.
 
 **Veilport to Sandspire (desert caravan routes)**  
 - Distance: ~400 miles across steppes and dunes.  
@@ -1161,7 +1165,7 @@ Mythara'€™s vast continent in the Arcanum Epoch spans roughly 2,500 miles fr
 
 - **Mounted or Magical Travel**: Ranger mounts or *phantom steed* rituals can halve overland times for small groups, though exhaustion and spell slots limit sustained use.
 - **Seasonal Variations**: Northern routes add 50% time in winter due to snow; southern monsoons flood rivers but speed downstream barges.
-- **Divine Interference**: Whirlvex omens may trigger wild surges delaying travel; Harmona'€™s blessings grant safe passage through monster territories on rare pilgrimages.
+- **Divine Interference**: Whirlvex omens may trigger wild surges delaying travel; Harmona's blessings grant safe passage through monster territories on rare pilgrimages.
 - **Caravan vs. Adventurer Pace**: Large merchant caravans move slower (15'€“20 miles/day) for security; small adventurer parties can push faster but risk ambushes.
 
 
@@ -1185,29 +1189,29 @@ The Mythran Continent stretches approximately 2,500 miles from the icy northern 
 
 ### Western Heartlands
 
-**Regalor** dominates the fertile central-western plains, its core territories extending from the western coastal hills eastward to the shores of the Inner Bay'€™s western arm. Crownspire sits near the geographic center of the continent, roughly equidistant from Silverport on the western coast and Veilport on the bay'€™s eastern shore. Regalor'€™s northern border abuts the Grimwald Hills and southern Frostrealm foothills, while its southern frontier reaches the upper reaches of the great rivers flowing toward Wanderer Territories.
+**Regalor** dominates the fertile central-western plains, its core territories extending from the western coastal hills eastward to the shores of the Inner Bay's western arm. Crownspire sits near the geographic center of the continent, roughly equidistant from Silverport on the western coast and Veilport on the bay's eastern shore. Regalor's northern border abuts the Grimwald Hills and southern Frostrealm foothills, while its southern frontier reaches the upper reaches of the great rivers flowing toward Wanderer Territories.
 
-**Frontier Marches** form a broad buffer along Regalor'€™s western and northwestern edges, stretching from the outskirts of Silverport northward along the coast to the Thornskull Thickets, then eastward through rugged hills to meet the Grimwald frontier. These lands are claimed by Regalor but governed loosely, with fortified villages owing fealty to the crown.
+**Frontier Marches** form a broad buffer along Regalor's western and northwestern edges, stretching from the outskirts of Silverport northward along the coast to the Thornskull Thickets, then eastward through rugged hills to meet the Grimwald frontier. These lands are claimed by Regalor but governed loosely, with fortified villages owing fealty to the crown.
 
-**Silverport** remains an independent coastal city-state controlling a narrow strip of western seaboard and its immediate hinterland, wedged between Regalor'€™s southern plains and the wild coastal cliffs to the north.
+**Silverport** remains an independent coastal city-state controlling a narrow strip of western seaboard and its immediate hinterland, wedged between Regalor's southern plains and the wild coastal cliffs to the north.
 
 ### Northern Regions
 
-**Stormland** occupies the northwestern peninsula and fjord-cut coast, separated from Regalor and the Marches by the Grimwald Spine—a jagged range of dark peaks and shadowed valleys. Thunderhaven lies at the peninsula'€™s stormy tip, facing the open western ocean.
+**Stormland** occupies the northwestern peninsula and fjord-cut coast, separated from Regalor and the Marches by the Grimwald Spine—a jagged range of dark peaks and shadowed valleys. Thunderhaven lies at the peninsula's stormy tip, facing the open western ocean.
 
-**Frostrealm** claims the high northeastern plateaus and glaciers east of the Grimwald Spine, extending to the frozen northern shores. Iceforge is perched in the central Pale Fang Crags, overlooking frozen valleys that slope toward the Inner Bay'€™s chilled northern waters.
+**Frostrealm** claims the high northeastern plateaus and glaciers east of the Grimwald Spine, extending to the frozen northern shores. Iceforge is perched in the central Pale Fang Crags, overlooking frozen valleys that slope toward the Inner Bay's chilled northern waters.
 
 **Grimwald Hills** span the wild highlands between Stormland, Frostrealm, and northern Regalor—an untamed expanse of deep forests, crags, and vales with no formal borders, claimed only by scattered elven clans.
 
 ### Eastern Regions
 
-**Bayhaven** controls the steppes and plains along the Inner Bay'€™s eastern and southeastern shores, centered on Veilport. Its influence extends inland across rolling grasslands to the edge of the Singing Dunes, though nomadic herders pay only nominal tribute.
+**Bayhaven** controls the steppes and plains along the Inner Bay's eastern and southeastern shores, centered on Veilport. Its influence extends inland across rolling grasslands to the edge of the Singing Dunes, though nomadic herders pay only nominal tribute.
 
-**Zenthara** lies southeast of Bayhaven, encompassing the great desert basin fed by sporadic rivers from the Inner Bay'€™s southern arm. Sandspire sits at the largest central oasis, with loose dominion over surrounding dunes and trade routes.
+**Zenthara** lies southeast of Bayhaven, encompassing the great desert basin fed by sporadic rivers from the Inner Bay's southern arm. Sandspire sits at the largest central oasis, with loose dominion over surrounding dunes and trade routes.
 
 ### Southern Regions
 
-**Serpentis** occupies the humid southern jungles and river deltas south of the Inner Bay'€™s narrow southern outlet. Coilkeep rises amid the central river confluence, its theocratic reach extending through dense jungle to the Coiled Barrier mountains in the far south.
+**Serpentis** occupies the humid southern jungles and river deltas south of the Inner Bay's narrow southern outlet. Coilkeep rises amid the central river confluence, its theocratic reach extending through dense jungle to the Coiled Barrier mountains in the far south.
 
 **Wanderer Territories** stretch across the southwestern meadows and savannas between southern Regalor, western Serpentis, and the distant ebony realms. These open lands have no fixed borders, occupied by nomadic tribes who acknowledge no single authority beyond occasional tribute to Regalor or Serpentis.
 
@@ -1219,7 +1223,7 @@ The Mythran Continent stretches approximately 2,500 miles from the icy northern 
 
 The Vast Inner Bay itself remains unclaimed open water, though Veilport, Crownspire river ports, and Coilkeep-allied southern harbors dominate its trade. Its shape resembles a crooked hourglass: wide in the north and center, narrowing dramatically at southern and northern straits where hydras and krakens lurk.
 
-These boundaries shift with war, marriage, and divine portent. Regalor'€™s kings eye expansion eastward across the bay, Shadowkin khans dream of western conquest, and Serpentis priests plot to extend their coiled grasp northward. Mountain passes, river fords, and coastal lanes become chokepoints where armies clash and adventurers find both peril and opportunity.
+These boundaries shift with war, marriage, and divine portent. Regalor's kings eye expansion eastward across the bay, Shadowkin khans dream of western conquest, and Serpentis priests plot to extend their coiled grasp northward. Mountain passes, river fords, and coastal lanes become chokepoints where armies clash and adventurers find both peril and opportunity.
 
 ## Significant Landmarks (Natural and Magical)
 
@@ -1228,7 +1232,7 @@ Mythara's landscape in the Arcanum Epoch is marked by awe-inspiring natural wond
 ### Western and Central Regions
 
 **The Crownspire Beacon (Regalor, Central Plains)**  
-A towering crystalline spire of unknown pre-Cataclysmic origin that rises abruptly from the plains just outside Crownspire'€™s walls. At night it emits a soft, golden radiance visible for leagues, said to be a distant echo of Aelthar'€™s protective gaze. Clerics and paladins of the Noble Guardian claim the light strengthens oaths sworn beneath it, granting advantage on saving throws against charm effects for a full cycle of the moon. Shadrix'€™s followers, however, whisper that shadows cast by the beacon reveal hidden desires—and occasionally attract specters.
+A towering crystalline spire of unknown pre-Cataclysmic origin that rises abruptly from the plains just outside Crownspire's walls. At night it emits a soft, golden radiance visible for leagues, said to be a distant echo of Aelthar's protective gaze. Clerics and paladins of the Noble Guardian claim the light strengthens oaths sworn beneath it, granting advantage on saving throws against charm effects for a full cycle of the moon. Shadrix's followers, however, whisper that shadows cast by the beacon reveal hidden desires—and occasionally attract specters.
 
 **The Eternal Grove (Frontier Marches)**  
 An ancient ring of colossal oaks whose roots intertwine to form natural archways. Druids of Harmona maintain that the grove predates even the Arcanites and serves as a neutral sanctuary where weapons lose their edge and spells of healing are empowered. Rangers and wanderers seek it for rest, though awakened trees and treants fiercely repel those who bear malice.
@@ -1239,15 +1243,15 @@ The broken remnants of a colossal stone bridge that once crossed a vast chasm du
 ### Northern Regions
 
 **The Stormheart (Stormland, Northwestern Coasts)**  
-A perpetual thunderhead anchored above a jagged fjord peak, crackling with lightning that never quite touches the ground. Stormkin barbarians revere it as Liberon'€™s anvil and perform rites beneath its roar, gaining temporary resistance to lightning damage. Whirlvex is said to dance within the clouds, occasionally hurling erratic bolts that transmute whatever they strike.
+A perpetual thunderhead anchored above a jagged fjord peak, crackling with lightning that never quite touches the ground. Stormkin barbarians revere it as Liberon's anvil and perform rites beneath its roar, gaining temporary resistance to lightning damage. Whirlvex is said to dance within the clouds, occasionally hurling erratic bolts that transmute whatever they strike.
 
 **The Mirror Glacier (Frostrealm, Northeastern Highlands)**  
-A massive wall of blue ice whose surface reflects not the viewer, but visions of possible futures—often harrowing. Frostkin oracles consult it under the guidance of Equilon'€™s priests, while reckless seekers sometimes vanish into crevasses haunted by remorhaz and ice mephits.
+A massive wall of blue ice whose surface reflects not the viewer, but visions of possible futures—often harrowing. Frostkin oracles consult it under the guidance of Equilon's priests, while reckless seekers sometimes vanish into crevasses haunted by remorhaz and ice mephits.
 
 ### Eastern Regions
 
 **The Veiled Rift (Bayhaven, Inner Bay Shores)**  
-A deep canyon filled with perpetual twilight where the boundary between the Material Plane and the Ethereal Shroud thins. Ghostly lights drift above the rift, and those who meditate upon its edge sometimes receive dreams from the Nine. Shadrix'€™s warlocks favor the site for pacts, but ghosts and shadows rise to challenge intruders.
+A deep canyon filled with perpetual twilight where the boundary between the Material Plane and the Ethereal Shroud thins. Ghostly lights drift above the rift, and those who meditate upon its edge sometimes receive dreams from the Nine. Shadrix's warlocks favor the site for pacts, but ghosts and shadows rise to challenge intruders.
 
 **The Singing Dunes (Zenthara, Southeastern Deserts)**  
 Vast golden dunes that emit haunting melodies when the wind blows, said to be the lamentations of buried pre-Cataclysmic cities. Illusionists and bards harvest the resonant sand for components that enhance sonic spells. Lamias and blue dragons lair beneath, drawn to the music.
@@ -1263,16 +1267,16 @@ A triple-tiered waterfall whose waters shimmer with natural toxins yet also hold
 ### Continental and Mystical Phenomena
 
 **The Aurora Veil (Visible Across Northern Skies)**  
-A shimmering curtain of colored lights that dances above Stormland and Frostrealm during winter months. Clerics interpret its patterns as messages from the Nine—Harmona'€™s green for hope, Ruinok'€™s crimson for coming bloodshed. Wizards study it for insights into conjuration and evocation magic.
+A shimmering curtain of colored lights that dances above Stormland and Frostrealm during winter months. Clerics interpret its patterns as messages from the Nine—Harmona's green for hope, Ruinok's crimson for coming bloodshed. Wizards study it for insights into conjuration and evocation magic.
 
 **The Wandering Mists (Frontier Marches and Grimwald Hills)**  
 Patches of thick fog that appear without warning and drift slowly across the land. Within, direction is lost, and travelers encounter visions or creatures from other times—sometimes spectral Arcanite legions, sometimes manifestations of divine wagers being played out by the gods in the Ethereal Shroud.
 
-These landmarks anchor the geography of Mythara, providing natural pilgrimage routes, sources of rare components, and sites where the mortal world brushes against the divine. They are as much a part of the epoch'€™s character as its cities and peoples, offering endless opportunities for quests, divine omens, and perilous exploration.
+These landmarks anchor the geography of Mythara, providing natural pilgrimage routes, sources of rare components, and sites where the mortal world brushes against the divine. They are as much a part of the epoch's character as its cities and peoples, offering endless opportunities for quests, divine omens, and perilous exploration.
 
 ## Holy Sites and Temples of the Ninefold Pantheon
 
-In the Arcanum Epoch, the Ninefold Pantheon exerts its influence through a network of temples, shrines, and sacred sites scattered across Mythara. These places range from grand cathedrals in bustling cities to remote wilderness sanctuaries and contested ruins where rival alignments clash. Pilgrims travel perilous roads to seek blessings, clerics and paladins draw renewed power within consecrated halls, and divine spells from the full cleric, paladin, and druid lists are cast with heightened effect near these sites. Because the gods rarely intervene directly, their temples often become flashpoints for mortal conflict—armies muster to defend or seize them, and omens from the Ethereal Shroud manifest most strongly here. Many sites are deliberately placed where the veil between planes thins, allowing clearer communion and occasional visions of the gods'€™ distant wagers.
+In the Arcanum Epoch, the Ninefold Pantheon exerts its influence through a network of temples, shrines, and sacred sites scattered across Mythara. These places range from grand cathedrals in bustling cities to remote wilderness sanctuaries and contested ruins where rival alignments clash. Pilgrims travel perilous roads to seek blessings, clerics and paladins draw renewed power within consecrated halls, and divine spells from the full cleric, paladin, and druid lists are cast with heightened effect near these sites. Because the gods rarely intervene directly, their temples often become flashpoints for mortal conflict—armies muster to defend or seize them, and omens from the Ethereal Shroud manifest most strongly here. Many sites are deliberately placed where the veil between planes thins, allowing clearer communion and occasional visions of the gods' distant wagers.
 
 ### Aelthar, the Noble Guardian (Lawful Good)
 
@@ -1293,10 +1297,10 @@ A remote mountain shrine carved into a perfectly balanced glacial crevasse. Fros
 ### Dominara, the Despot's Clutch (Lawful Evil)
 
 **The Obsidian Throne (Coilkeep, Serpentis)**  
-The dark heart of Dominara'€™s worship within the central pyramid of Coilkeep. Chains hang from the ceiling, and warlocks with Fiend patrons renew their pacts before a towering throne of black stone. Spells of domination and enchantment are amplified here, drawing the eye of tyrannical rulers across the south.
+The dark heart of Dominara's worship within the central pyramid of Coilkeep. Chains hang from the ceiling, and warlocks with Fiend patrons renew their pacts before a towering throne of black stone. Spells of domination and enchantment are amplified here, drawing the eye of tyrannical rulers across the south.
 
 **The Iron Spire (Veilport, Bayhaven)**  
-A fortified tower in the city'€™s noble quarter where ambitious Shadowkin lords pledge fealty. Guards in spiked armor enforce hierarchical rites, and the spire'€™s dungeons hold those who defy Dominara'€™s ordained order.
+A fortified tower in the city's noble quarter where ambitious Shadowkin lords pledge fealty. Guards in spiked armor enforce hierarchical rites, and the spire's dungeons hold those who defy Dominara's ordained order.
 
 ### Harmona, the Kindly Weaver (Neutral Good)
 
@@ -1304,7 +1308,7 @@ A fortified tower in the city'€™s noble quarter where ambitious Shadowkin lo
 A serene grove-temple just outside Crownspire where silver-threaded looms stand beneath open sky. Druids of the Circle of the Land and bards of the College of Lore gather to heal the sick and mend communal bonds. Healing spells restore additional hit points when cast within the sacred circle.
 
 **The Verdant Refuge (Eternal Grove, Frontier Marches)**  
-The ancient oak ring serves as Harmona'€™s most revered wilderness sanctuary. Wounded travelers find automatic stabilization here, and *goodberry* spells produce twice the normal yield.
+The ancient oak ring serves as Harmona's most revered wilderness sanctuary. Wounded travelers find automatic stabilization here, and *goodberry* spells produce twice the normal yield.
 
 ### Equilon, the Timeless Scale (True Neutral)
 
@@ -1320,11 +1324,11 @@ A towering desert obelisk of shifting sands that forms an eternal hourglass. Neu
 A labyrinthine casino-temple hidden beneath the bazaars, where rogues and sorcerers of Draconic bloodline strike shadowy pacts. Illusion and enchantment spells cast within its veiled halls are notoriously difficult to disbelieve.
 
 **The Eclipse Vaults (Beneath Crownspire Undercroft)**  
-Secret chambers accessible only through black-market passages, where thieves and warlocks trade in forbidden deals. Cursed items and *bags of devouring* are common offerings left upon Shadrix'€™s altars.
+Secret chambers accessible only through black-market passages, where thieves and warlocks trade in forbidden deals. Cursed items and *bags of devouring* are common offerings left upon Shadrix's altars.
 
 ### Liberon, the Free Tempest (Chaotic Good)
 
-**The Stormcaller'€™s Bluff (Thunderhaven, Stormland)**  
+**The Stormcaller's Bluff (Thunderhaven, Stormland)**  
 A wind-lashed promontory overlooking the sea, topped by a circle of standing stones that channel lightning. Barbarians of the Berserker path and champions perform rites here, gaining resistance to thunder damage for a fortnight.
 
 **The Windrider Glade (Wanderer Territories)**  
@@ -1344,7 +1348,7 @@ A cavern behind the perpetual thunderhead where jesters and pranksters hold chao
 A vast crater filled with smoldering bones and blackened earth, where goblin warbands and dragonborn outcasts offer sacrifices. Clerics with shadow domains draw fell power here, and fire spells burn hotter and longer.
 
 **The Abyssal Font (Deep within the Coiled Abyss, Serpentis)**  
-A subterranean lake of bubbling tar where Ruinok'€™s most fanatical followers—an alliance of yuan-ti, goliaths, and shadowed dragonborn—perform rites of annihilation. Necromantic spells raise more powerful undead, and the font'€™s fumes grant temporary hit points fueled by destructive rage.
+A subterranean lake of bubbling tar where Ruinok's most fanatical followers—an alliance of yuan-ti, goliaths, and shadowed dragonborn—perform rites of annihilation. Necromantic spells raise more powerful undead, and the font's fumes grant temporary hit points fueled by destructive rage.
 
 These holy sites anchor the spiritual landscape of Mythara, drawing faithful and opportunists alike. Control of a major temple can shift the balance of regional power, and many have changed hands through crusade, betrayal, or divine portent—ensuring that faith remains as dynamic and dangerous as the epoch itself.
 
@@ -1355,7 +1359,7 @@ The Arcanum Epoch is a time of bold exploration, where adventurers delve into th
 ### Western and Central Regions
 
 **The Sunken Citadels of Valmont (Submerged beneath the Central Plains of Regalor)**  
-Once the gleaming westernmost kingdom of the Pre-Cataclysmic Age, Valmont'€™s great cities now lie beneath shallow lakes and marshlands formed when the earth cracked during the Great Cataclysm. Marble towers protrude like broken teeth from the water, and submerged boulevards teem with sahuagin, giant crocodiles, and lacedons. Treasure hunters seek flooded vaults containing pre-Cataclysmic +2 weapons, staffs of power, and ancient spellbooks, but aboleth thralls from deeper waters guard the greatest prizes.
+Once the gleaming westernmost kingdom of the Pre-Cataclysmic Age, Valmont's great cities now lie beneath shallow lakes and marshlands formed when the earth cracked during the Great Cataclysm. Marble towers protrude like broken teeth from the water, and submerged boulevards teem with sahuagin, giant crocodiles, and lacedons. Treasure hunters seek flooded vaults containing pre-Cataclysmic +2 weapons, staffs of power, and ancient spellbooks, but aboleth thralls from deeper waters guard the greatest prizes.
 
 **The Labyrinth of Ebonridge (Frontier Marches, beneath the rugged hills)**  
 A vast underground complex built by the Pre-Cataclysmic kingdom of Ebonridge, now collapsed into a multi-level dungeon riddled with black puddings, ropers, and cloakers. Its upper halls hold dwarven-forged plate armor of resistance, while deeper chambers—sealed since the Cataclysm—contain portals that flicker with Ethereal energy and the imprisoned specters of long-dead tiefling conjurers.
@@ -1368,7 +1372,7 @@ The old sewer system and forgotten noble crypts beneath the capital have become 
 **The Frost Tombs of Iceveil (Frostrealm, buried in glacial ice)**  
 Pre-Cataclysmic burial vaults of the kingdom of Iceveil, now encased in the Mirror Glacier. Undead wight lords and frost wraiths guard frozen sarcophagi containing oils of etherealness, frost brand weapons, and scrolls of *cone of cold* inscribed on dragonhide. White dragons and remorhaz occasionally burrow into the tombs seeking warmth and treasure.
 
-**Stormhold'€™s Shattered Acropolis (Stormland, atop storm-lashed cliffs)**  
+**Stormhold's Shattered Acropolis (Stormland, atop storm-lashed cliffs)**  
 The ruined capital of ancient Stormhold perches on jagged fjords. Its cyclopean walls shelter harpies, manticores, and a storm giant quintessent that manifests during thunderstorms. Within the cracked acropolis lie shattered altars to early aspects of Liberon and Whirlvex, along with ioun stones that still orbit in forgotten observatories.
 
 ### Eastern Regions
@@ -1392,14 +1396,14 @@ A yuan-ti pureblood temple complex abandoned after a couatl-led uprising. Overgr
 **The Wyrmskull Vaults (Grimwald Hills)**  
 Ancient dragonborn clanholds carved into volcanic mountains before the Great Cataclysm. Now occupied by chromatic dragons and their kobold cults, the vaults contain hoards of pre-Cataclysmic dragon scales used for armor of invulnerability, as well as breath-channeling amulets prized by sorcerers.
 
-**Gromar'€™s Iron Redoubt (Goblin Wastes)**  
-The crude but formidable fortress raised by the goblin warlord Gromar during the Collapse. Though long abandoned after his fall, hobgoblin warlords and bugbear champions still squabble over its iron-forged armories. Trap-filled corridors guard masterwork weapons with cleave and nick properties, and a legendary axe of goblin-slaying lies in Gromar'€™s buried throne room.
+**Gromar's Iron Redoubt (Goblin Wastes)**  
+The crude but formidable fortress raised by the goblin warlord Gromar during the Collapse. Though long abandoned after his fall, hobgoblin warlords and bugbear champions still squabble over its iron-forged armories. Trap-filled corridors guard masterwork weapons with cleave and nick properties, and a legendary axe of goblin-slaying lies in Gromar's buried throne room.
 
 These sites, and countless lesser ruins scattered across Mythara, draw heroes, treasure-seekers, and tomb-robbers alike. Each holds the promise of legendary magic items, lost spells, and the glory of survival—but also the very real threat of death at the claws of guardians awakened by the distant wagers of the Nine.
 
 ## Wilderness Danger Zones and Monster Lairs
 
-Across the vast and untamed expanses of Mythara in the Arcanum Epoch, certain wilderness areas have earned fearsome reputations for the density and ferocity of the monsters that dwell within them. These danger zones—trackless forests, festering swamps, jagged badlands, and shadowed vales—serve as natural lairs for beasts, aberrations, and undead. Caravans detour around them, rangers speak of them in hushed tones, and only the boldest (or most desperate) adventurers seek them out for the rare reagents, ancient trophies, or lost secrets they conceal. The Ninefold Pantheon'€™s indirect influence often manifests here as well: omens, sudden storms, or unnatural behaviors that hint at divine wagers playing out through mortal peril.
+Across the vast and untamed expanses of Mythara in the Arcanum Epoch, certain wilderness areas have earned fearsome reputations for the density and ferocity of the monsters that dwell within them. These danger zones—trackless forests, festering swamps, jagged badlands, and shadowed vales—serve as natural lairs for beasts, aberrations, and undead. Caravans detour around them, rangers speak of them in hushed tones, and only the boldest (or most desperate) adventurers seek them out for the rare reagents, ancient trophies, or lost secrets they conceal. The Ninefold Pantheon's indirect influence often manifests here as well: omens, sudden storms, or unnatural behaviors that hint at divine wagers playing out through mortal peril.
 
 ### Western and Central Regions
 
@@ -1407,7 +1411,7 @@ Across the vast and untamed expanses of Mythara in the Arcanum Epoch, certain wi
 A dense, thorn-choked forest where giant spiders, ettercaps, and swarms of insects weave webs between trees tall enough to blot out the sun. Ankhegs burrow beneath the leaf litter, erupting to drag travelers underground. Grimwald raiders use hidden paths through the thickets to stage ambushes on Regalor patrols. Deep within lies a circle of standing stones where druids once communed with Harmona; now displacer beasts and owlbears claim the glade.
 
 **The Bleakmoor Fens (Southern Regalor, near the Wanderer borders)**  
-A vast, fog-shrouded swamp dotted with sinking islands and bubbling tar pits. Will-o'€™-wisps lure the unwary toward troll lairs and hydra-infested pools, while bullywugs and lizardfolk tribes wage endless territorial wars. Undead bog mummies rise from peat graves, and black dragons are rumored to nest in the deepest reaches, drawn by the corruption.
+A vast, fog-shrouded swamp dotted with sinking islands and bubbling tar pits. Will-o'-wisps lure the unwary toward troll lairs and hydra-infested pools, while bullywugs and lizardfolk tribes wage endless territorial wars. Undead bog mummies rise from peat graves, and black dragons are rumored to nest in the deepest reaches, drawn by the corruption.
 
 ### Northern Regions
 
@@ -1423,7 +1427,7 @@ Jagged, ice-sheathed peaks riddled with caves that serve as lairs for white drag
 A labyrinth of petrified stone pillars and wind-scoured canyons where gorgons and basilisks roam freely. Petrified adventurers stand as grim warnings along ancient roads, and dust mephits whirl through the air. Sandstone ruins from buried Luminar outposts offer shelter—but also attract purple worms that burst from below.
 
 **The Manticore Marches (Bordering Bayhaven and the Inner Bay)**  
-Rolling grasslands broken by rocky outcrops, where manticores and chimeras nest atop high bluffs. Harpy flocks circle overhead, and bands of gnolls scavenge the kills. Shadowkin herders give the area a wide berth, for the monsters grow bold and raid far beyond their usual territory under Ruinok'€™s distant urging.
+Rolling grasslands broken by rocky outcrops, where manticores and chimeras nest atop high bluffs. Harpy flocks circle overhead, and bands of gnolls scavenge the kills. Shadowkin herders give the area a wide berth, for the monsters grow bold and raid far beyond their usual territory under Ruinok's distant urging.
 
 ### Southern Regions
 
@@ -1464,7 +1468,7 @@ Remorhaz broodmothers tunnel beneath snow, their heat melting lairs into steamin
 **Stormland Fjords**  
 Harpies nest on cliffs, luring sailors with enchanted song, while manticores soar on patrols. Storm giants manifest during tempests, claiming wrecked ships.
 
-- **Named Threat**: Thunderwing the Chimera Lord (advanced chimera with storm giant quintessent traits), a three-headed beast that breathes lightning and fire. It perches atop Stormhold'€™s Shattered Acropolis, hoarding *ioun stones* that orbit chaotically.
+- **Named Threat**: Thunderwing the Chimera Lord (advanced chimera with storm giant quintessent traits), a three-headed beast that breathes lightning and fire. It perches atop Stormhold's Shattered Acropolis, hoarding *ioun stones* that orbit chaotically.
 
 ### Eastern Regions
 
@@ -1502,7 +1506,7 @@ Umber hulks crack ice, serving white dragon overlords.
 
 - **Named Threat**: Already noted as Valthraxthe the Frostreaver, whose brood extends into the warrens.
 
-These named threats and ecologies make Mythara'€™s wilds living, breathing dangers—beasts that grow cunning under divine eyes, command lesser monsters, and guard components essential for crafting *potions of giant strength*, *oils of sharpness*, or resistance items. Slaying one often reshapes regional balance, drawing the Nine'€™s distant wagers.
+These named threats and ecologies make Mythara's wilds living, breathing dangers—beasts that grow cunning under divine eyes, command lesser monsters, and guard components essential for crafting *potions of giant strength*, *oils of sharpness*, or resistance items. Slaying one often reshapes regional balance, drawing the Nine's distant wagers.
 
 ## Sea and Island Geography Beyond the Mainland
 
@@ -1510,10 +1514,10 @@ The seas surrounding Mythara in the Arcanum Epoch are vast, stormy, and fraught 
 
 ### Western Ocean (The Stormwrack Sea)
 
-Stretching westward from Silverport and the Stormland fjords, this tempestuous expanse is whipped by unrelenting gales—often attributed to Whirlvex'€™s whims or Liberon'€™s fury.
+Stretching westward from Silverport and the Stormland fjords, this tempestuous expanse is whipped by unrelenting gales—often attributed to Whirlvex's whims or Liberon's fury.
 
 **The Shattered Chain**  
-A jagged archipelago of razor-sharp volcanic isles rising from the Cataclysm'€™s wreckage. Goblin descendants and koalinth hobgoblins maintain crude strongholds here, raiding coastal shipping. Sunken pre-Cataclysmic outposts yield *cloaks of the manta ray* and *tridents of fish command*, guarded by giant sharks and sea hags.
+A jagged archipelago of razor-sharp volcanic isles rising from the Cataclysm's wreckage. Goblin descendants and koalinth hobgoblins maintain crude strongholds here, raiding coastal shipping. Sunken pre-Cataclysmic outposts yield *cloaks of the manta ray* and *tridents of fish command*, guarded by giant sharks and sea hags.
 
 **The Maelstrom of Tides**  
 A massive, perpetual whirlpool far west of Silverport where currents from clashing oceans collide. Ships caught in its pull vanish into depths rumored to hold a submerged gateway to the Plane of Water. Storm giants occasionally emerge to claim tribute from passing vessels.
@@ -1526,10 +1530,10 @@ A drifting mass of lashed-together shipwrecks and uprooted pre-Cataclysmic stone
 The Vast Inner Bay connects to broader eastern seas through its narrow southern strait, where currents grow unpredictable.
 
 **The Hydra Reefs**  
-Coral-encrusted shallows guarding the bay'€™s southern exit, infested with hydras, giant octopi, and shoals of quippers. Veilport and Coilkeep captains hire ranger escorts or cast *control water* to navigate safely. Sunken merchant hulks offer *potions of water breathing* and pearl-inlaid jewelry.
+Coral-encrusted shallows guarding the bay's southern exit, infested with hydras, giant octopi, and shoals of quippers. Veilport and Coilkeep captains hire ranger escorts or cast *control water* to navigate safely. Sunken merchant hulks offer *potions of water breathing* and pearl-inlaid jewelry.
 
 **The Siren Atolls**  
-A cluster of lush, low-lying islands southeast of Bayhaven where harpies and sirenes lure sailors to doom. Shadowkin traders harvest rare feathers for *arrows of slaying*, but the atolls shift with tides—some say under Shadrix'€™s deceptive influence.
+A cluster of lush, low-lying islands southeast of Bayhaven where harpies and sirenes lure sailors to doom. Shadowkin traders harvest rare feathers for *arrows of slaying*, but the atolls shift with tides—some say under Shadrix's deceptive influence.
 
 ### Southern Ocean (The Venom Sea)
 
@@ -1551,7 +1555,7 @@ Scattered glacial islands where white dragons and frost giants maintain icy cita
 **The Aurora Graveyard**  
 A frozen field of ancient shipwrecks trapped in pack ice, illuminated by the Aurora Veil. Undead crews crew spectral vessels, and *decks of illusions* or *helm of telepathy* await those who brave the cold and wraiths.
 
-These offshore realms extend Mythara'€™s perils and promises beyond the continent'€™s edge. Distant voyages can take months, with crews relying on *create food and water*, hardy mounts like giant sea horses (for shallow waters), or pacts with marid genies. Many captains swear oaths to Harmona for safe passage or bribe Shadrix'€™s followers for favorable winds—knowing that a single kraken rising or maelstrom shift can doom even the grandest fleet.
+These offshore realms extend Mythara's perils and promises beyond the continent's edge. Distant voyages can take months, with crews relying on *create food and water*, hardy mounts like giant sea horses (for shallow waters), or pacts with marid genies. Many captains swear oaths to Harmona for safe passage or bribe Shadrix's followers for favorable winds—knowing that a single kraken rising or maelstrom shift can doom even the grandest fleet.
 
 ## Underground and Planar Connections
 
@@ -1580,10 +1584,10 @@ A surface canyon that descends into ethereal-touched caverns where ghosts and ph
 Places where the boundary thins permanently—such as within the Radiant Bastion, the Nexus of Balance, and the House of Whispered Bargains—allow brief ethereal travel or summon spectral servants. Clerics cast *etherealness* rituals here with reduced material costs.
 
 **The Abyssal Font Gate (Deep Coiled Depths)**  
-A submerged obsidian arch in the aboleth depths that flickers with demonic energy, occasionally spilling hezrou or vrocks into the Material Plane. Ruinok'€™s most fanatical followers perform blood rites to widen it temporarily.
+A submerged obsidian arch in the aboleth depths that flickers with demonic energy, occasionally spilling hezrou or vrocks into the Material Plane. Ruinok's most fanatical followers perform blood rites to widen it temporarily.
 
 **The Stormheart Conduit (Beneath the Stormheart peak, Stormland)**  
-A cavern directly under the perpetual thunderhead where elemental air bleeds through. Air elementals and invisible stalkers manifest freely, and Whirlvex'€™s laughter echoes as wild magic surges. *Staves of thunder and lightning* recharge naturally here.
+A cavern directly under the perpetual thunderhead where elemental air bleeds through. Air elementals and invisible stalkers manifest freely, and Whirlvex's laughter echoes as wild magic surges. *Staves of thunder and lightning* recharge naturally here.
 
 **The Dreamroot Labyrinth (Beneath the Eternal Grove, Frontier Marches)**  
 Fey crossings hidden among ancient oak roots connect to the Feywild. Dryads and satyrs guard glades where *moonstone of fey crossing* can be harvested, but night hags and redcaps lure intruders into eternal slumber.
@@ -1595,7 +1599,7 @@ A deep-sea trench where a cracked Pre-Cataclysmic portal leaks water elemental e
 **The Unseeing Eye (Remote cavern system beneath the Coiled Barrier mountains)**  
 A reality-thin wound in the deepest darkness where the Far Realm seeps through—an incomprehensible void that whispers maddening geometries to those who dare approach. The cavern walls pulse with bioluminescent patterns that shift into non-Euclidean angles, inducing vertigo and psychic damage (DC 15 Wisdom save or take 2d6 psychic damage and gain short-term madness). Great Old One warlocks pilgrimage here to commune with their patrons, emerging changed—some enlightened, most broken. Aberrations manifest sporadically: star spawn, intellect devourers, and nothics drawn to the rift like moths to flame. The site remains deliberately obscure, known only through cryptic verses in forbidden tomes and the raving testimonies of escaped madmen. Serpentis occultists occasionally dispatch expeditions seeking forbidden knowledge, though few return. Those who do bring back *ioun stones of insight* warped by alien energies, granting advantage on Arcana checks but causing prophetic nightmares. The Unseeing Eye represents cosmic horror incarnate—a place where reality fractures, sanity shatters, and the infinitesimal nature of mortal existence becomes unbearably clear.
 
-These underground networks and planar connections ensure that Mythara'€™s dangers—and wonders—extend far below the sunlit world. Adventurers who brave the depths return with rare reagents (such as deep mushroom spores for *potions of growth* or aboleth mucus for domination scrolls), but many vanish into the dark, claimed by horrors or pulled across planes by the distant machinations of the Nine.
+These underground networks and planar connections ensure that Mythara's dangers—and wonders—extend far below the sunlit world. Adventurers who brave the depths return with rare reagents (such as deep mushroom spores for *potions of growth* or aboleth mucus for domination scrolls), but many vanish into the dark, claimed by horrors or pulled across planes by the distant machinations of the Nine.
 
 ## Regions, Cities, and Peoples of the Current Age (Arcanum Epoch)
 
@@ -1665,20 +1669,20 @@ While the great metropolises of Mythara dominate trade and politics in the Arcan
 ### Frontier Marches
 
 **Edgewatch**  
-A stout frontier village of approximately 5,000 souls, perched on a rocky hill overlooking the Thornskull Thickets and the Crown Road. Its layout is a classic marcher design: concentric rings of earthen ramparts topped with wooden palisades, pierced by four gated roads. At the center stands a stone keep housing the warden'€™s hall.
+A stout frontier village of approximately 5,000 souls, perched on a rocky hill overlooking the Thornskull Thickets and the Crown Road. Its layout is a classic marcher design: concentric rings of earthen ramparts topped with wooden palisades, pierced by four gated roads. At the center stands a stone keep housing the warden's hall.
 
-- **Key Buildings**: The Warden'€™s Keep (seat of Tharok One-Eye when he visits), the Harmona Shrine (a wooden longhouse with healing looms), and the Iron Anvil Forge (dwarven-run smithy producing masterwork arrows and shields).
+- **Key Buildings**: The Warden's Keep (seat of Tharok One-Eye when he visits), the Harmona Shrine (a wooden longhouse with healing looms), and the Iron Anvil Forge (dwarven-run smithy producing masterwork arrows and shields).
 - **Notable Inhabitants**: Captain Mira Stoutshield (dwarf fighter/cleric of Aelthar, commander of the watch), Old Grenwick (human druid who tends the surrounding fields), and a rotating cadre of ranger scouts.
-- **Daily Life**: Dawn patrols scour the thickets for spider sign, midday markets trade pelts and grain, and evenings bring communal feasts in the central square where bards recount Grimwald raids. Life is vigilant—every adult trains with bow or spear—and Harmona'€™s blessings keep disease low despite the swampy air.
+- **Daily Life**: Dawn patrols scour the thickets for spider sign, midday markets trade pelts and grain, and evenings bring communal feasts in the central square where bards recount Grimwald raids. Life is vigilant—every adult trains with bow or spear—and Harmona's blessings keep disease low despite the swampy air.
 
 ### Wanderer Territories
 
 **Roamhaven**  
-Not a fixed town but the seasonal gathering site of the largest Wanderer confederation, swelling to 10,000 during the great spring and autumn meets. Vast circles of colorful tents and wagons radiate from a permanent stone circle at a meadow'€™s heart, near a clear river bend.
+Not a fixed town but the seasonal gathering site of the largest Wanderer confederation, swelling to 10,000 during the great spring and autumn meets. Vast circles of colorful tents and wagons radiate from a permanent stone circle at a meadow's heart, near a clear river bend.
 
 - **Key Buildings/Features**: The Windstone Circle (ancient menhirs where Wind-Chieftain Korath Freehoof holds council), the Liberon Bonfire Pit (a massive hearth for storytelling and rites), and the Herd Pens (vast corrals for horses and aurochs).
 - **Notable Inhabitants**: Korath Freehoof himself (when present), Sky-Singer Lira (half-elf bard who leads nightly songs), and the Herd-Mistress Vela (human ranger overseeing livestock).
-- **Daily Life**: Tents rise and fall with the seasons; horse races and archery contests fill days, while nights echo with tales of freedom and rebellion. Trade in wool, leather, and mercenary contracts thrives, and children learn to ride almost before they walk. Liberon'€™s influence encourages spontaneous celebrations and swift departures when Regalor tax collectors approach.
+- **Daily Life**: Tents rise and fall with the seasons; horse races and archery contests fill days, while nights echo with tales of freedom and rebellion. Trade in wool, leather, and mercenary contracts thrives, and children learn to ride almost before they walk. Liberon's influence encourages spontaneous celebrations and swift departures when Regalor tax collectors approach.
 
 ### Goblin Wastes
 
@@ -1687,16 +1691,16 @@ A crude but imposing stronghold of around 8,000 goblins, hobgoblins, and bugbear
 
 - **Key Buildings**: The Bone Throne Hall (central ruin where the strongest warlord rules), the Pyre Pit (open crater for Ruinok sacrifices), and the Iron Scrap Forge (where captured metal is crudely reforged).
 - **Notable Inhabitants**: Warlord Kragthar Flame-Eye (hobgoblin warlock of Ruinok, current claimant to the throne), Skritch the Scavenger (goblin rogue who leads raiding parties), and the Ash-Priestess (bugbear cleric channeling destructive omens).
-- **Daily Life**: Might-makes-right defines every interaction—challenges in the fighting pit settle disputes, while work gangs scavenge ruins or tend fungal crops. Nights bring raucous feasting on stolen livestock, accompanied by bone drums and boasts of future conquests. Ruinok'€™s shadow looms large; failed challengers often end as offerings in the Pyre Pit.
+- **Daily Life**: Might-makes-right defines every interaction—challenges in the fighting pit settle disputes, while work gangs scavenge ruins or tend fungal crops. Nights bring raucous feasting on stolen livestock, accompanied by bone drums and boasts of future conquests. Ruinok's shadow looms large; failed challengers often end as offerings in the Pyre Pit.
 
 ### Stormland
 
 **Fjordeep**  
 A clustered fishing and raiding village of 3,000 Stormkin hugging a sheltered fjord below Thunderhaven. Longhouses of driftwood and stone cluster along the waterline, with piers extending into deep channels.
 
-- **Key Buildings**: The Wave-Hall (communal mead hall where Jarl Yrsa'€™s kin hold court), the Storm-Shrine (open-air altar beneath the thunderhead'€™s echo), and the Shipwright'€™s Drydock.
+- **Key Buildings**: The Wave-Hall (communal mead hall where Jarl Yrsa's kin hold court), the Storm-Shrine (open-air altar beneath the thunderhead's echo), and the Shipwright's Drydock.
 - **Notable Inhabitants**: Harald Wavebreaker (human barbarian/fighter, veteran longship captain), and the Storm-Reader (old cleric who interprets lightning patterns).
-- **Daily Life**: Dawn launches fishing boats or raiding knarrs; afternoons mend nets and carve runes into prows; evenings fill with skaldic songs and wrestling matches. Life is harsh but exuberant—storms are welcomed as Liberon'€™s breath.
+- **Daily Life**: Dawn launches fishing boats or raiding knarrs; afternoons mend nets and carve runes into prows; evenings fill with skaldic songs and wrestling matches. Life is harsh but exuberant—storms are welcomed as Liberon's breath.
 
 ### Frostrealm
 
@@ -1704,7 +1708,7 @@ A clustered fishing and raiding village of 3,000 Stormkin hugging a sheltered fj
 A fortified mining outpost of 4,000 Frostkin carved into the base of the Mirror Glacier. Tunnels and stone halls radiate from a central geothermal vent that provides warmth.
 
 - **Key Buildings**: The Deep Forge (where cold-iron and gems are worked), the Oracle Chamber (adjacent to the glacier wall for visions), and the Ice Wall (defensive rampart of carved glacial blocks).
-- **Notable Inhabitants**: Master-Smith Thrain Coldhammer (dwarf fighter/cleric of Rigoran), and Seeress Freya (human wizard divining Equilon'€™s balance).
+- **Notable Inhabitants**: Master-Smith Thrain Coldhammer (dwarf fighter/cleric of Rigoran), and Seeress Freya (human wizard divining Equilon's balance).
 - **Daily Life**: Shifts of miners extract gems for spell components, smiths craft cold-resistant gear, and evenings involve disciplined drills and impartial judgments in the Oracle Chamber. Life is orderly and enduring—waste is forbidden, and law is absolute.
 
 ### Zenthara
@@ -1716,7 +1720,7 @@ An oasis village of 6,000 clustered around a deep, illusion-guarded spring south
 - **Notable Inhabitants**: Illusionist Karim Veil dancer (gnome bard/sorcerer), and Caravan-Master Jessa (halfling rogue coordinating desert treks).
 - **Daily Life**: Dawn prayers at the spring, midday trade under cooling glamours, and evenings of storytelling and phantom light shows. Deception is an art form—honest deals are prized precisely because trickery is expected.
 
-These lesser settlements ground the grander cities and wilds, offering adventurers safe havens, quest hooks, and vivid contrasts to metropolitan life. Each reflects its people'€™s struggle and spirit, shaped by the land, the Nine, and the ever-present shadow of coming cataclysm.
+These lesser settlements ground the grander cities and wilds, offering adventurers safe havens, quest hooks, and vivid contrasts to metropolitan life. Each reflects its people's struggle and spirit, shaped by the land, the Nine, and the ever-present shadow of coming cataclysm.
 
 ## Specific Cultural Practices and Daily Life
 
@@ -1730,10 +1734,10 @@ The cosmopolitan Arcanites—blended human-dwarf-elf stock—live in ordered com
 - **Cuisine**: Hearty stews of giant elk or dire boar, baked root vegetables, and dwarven dark bread washed down with honeyed mead or elven berry wines.
 - **Clothing**: Practical layered tunics, leather jerkins reinforced with ankheg chitin, and cloaks of resistance dyed in regional colors—gold and green for Regalor loyalty.
 - **Coming-of-Age**: At sixteen, youths undertake the Vigil Quest—a solo hunt for a dangerous beast (often an owlbear pelt or ankheg trophy) presented at the Radiant Bastion or local shrine.
-- **Marriage Rites**: Couples exchange vows before Aelthar'€™s altar, binding hands with blessed cords while paladins cast *zone of truth*. Feasts last three days, with Harmona'€™s clerics blessing fertility.
+- **Marriage Rites**: Couples exchange vows before Aelthar's altar, binding hands with blessed cords while paladins cast *zone of truth*. Feasts last three days, with Harmona's clerics blessing fertility.
 - **Funerals**: Bodies are cremated on pyres to prevent undead rising; ashes scattered in sacred groves where druids plant memory trees.
 - **Festivals**: Oathfire (midsummer)—knights renew vows amid bonfires; Harvest Accord (autumn)—communal feasts thanking Harmona with illusion-lit dances.
-- **Folklore**: Tales of heroic knights turning back Ruinok'€™s hordes, or clever rogues outwitting Shadrix'€™s bargains.
+- **Folklore**: Tales of heroic knights turning back Ruinok's hordes, or clever rogues outwitting Shadrix's bargains.
 
 ### Arctic Wilds (Stormland and Frostrealm)
 
@@ -1745,15 +1749,15 @@ Fair-haired Arctics endure harsh climes with fierce independence and disciplined
   - **Clothing**: Fur-lined cloaks from winter wolves, sealskin boots, and lightning-etched armor.
   - **Coming-of-Age**: The Thunderwalk—youths climb the Stormheart during a storm, returning with a lightning-scorched token.
   - **Marriage**: Vows exchanged atop windswept bluffs, sealed by leaping together through Liberon-blessed flames.
-  - **Funerals**: Sea burial in burning longships, guiding souls to Liberon'€™s wild horizon.
+  - **Funerals**: Sea burial in burning longships, guiding souls to Liberon's wild horizon.
   - **Festivals**: Stormtide (spring)—raiding season launch with Whirlvex-inspired revels.
 
 - **Frostkin (Frostrealm)**:
   - **Daily Life**: Mining shifts, disciplined weapon drills, and evening judgments in oracle halls.
   - **Cuisine**: Preserved remorhaz meat, glacial berries, and hot gem-spiced broths.
   - **Clothing**: White dragon-scale cloaks, cold-iron mail, and rune-etched helms.
-  - **Coming-of-Age**: The Mirror Trial—gazing into the Mirror Glacier to face a personal vision, interpreted by Rigoran'€™s priests.
-  - **Marriage**: Contracts signed in blood upon balanced scales, witnessed by Equilon'€™s monks.
+  - **Coming-of-Age**: The Mirror Trial—gazing into the Mirror Glacier to face a personal vision, interpreted by Rigoran's priests.
+  - **Marriage**: Contracts signed in blood upon balanced scales, witnessed by Equilon's monks.
   - **Funerals**: Entombed in glacial vaults to preserve the body for potential raising.
   - **Festivals**: Balance Night (winter solstice)—silent meditation under the Aurora Veil.
 
@@ -1762,11 +1766,11 @@ Fair-haired Arctics endure harsh climes with fierce independence and disciplined
 Dusky, lithe Shadowkin thrive on cunning trade and nomadic herding.
 
 - **Daily Life**: Caravan departures at dusk to avoid heat; midday siestas under illusion-cooled tents; nights of whispered deals and stargazing.
-- **Cuisine**: Spiced horse meat, fermented mare'€™s milk, and scorpion-tail stew; Zenthara adds illusion-flavored phantom delicacies.
+- **Cuisine**: Spiced horse meat, fermented mare's milk, and scorpion-tail stew; Zenthara adds illusion-flavored phantom delicacies.
 - **Clothing**: Flowing silks dyed with manticore blood, veiled headdresses, and infernal-etched daggers always at hand.
 - **Coming-of-Age**: The Veil Dance—youths navigate a Shadrix-inspired illusion maze blindfolded.
 - **Marriage**: Bargains sealed with enchanted contracts; multiple partners common, dissolved by mutual deceit.
-- **Funerals**: Bodies left on steppe cairns for carrion birds—believed to carry souls to Shadrix'€™s hidden realm.
+- **Funerals**: Bodies left on steppe cairns for carrion birds—believed to carry souls to Shadrix's hidden realm.
 - **Festivals**: Night Market (new moon)—city-wide bazaars of forbidden goods; Dune Song (sandstorm season)—illusionary spectacles honoring Whirlvex.
 
 ### Southern Peoples (Serpentis and Wanderer Territories)
@@ -1779,7 +1783,7 @@ Swarthy folk blend human resilience with serpentine or nomadic traditions.
   - **Cuisine**: Spiced constrictor meat, venom-cured fruits, and blood wines.
   - **Clothing**: Scale-mail robes, medusa-veil headdresses, and obsidian jewelry.
   - **Coming-of-Age**: The Coiling—youths survive a night in the Coiled Abyss, returning marked by couatl or yuan-ti vision.
-  - **Marriage**: Arranged alliances sealed by Dominara'€™s chains; polygamy among nobles.
+  - **Marriage**: Arranged alliances sealed by Dominara's chains; polygamy among nobles.
   - **Funerals**: Mummification and entombment in pyramid vaults for later animation.
   - **Festivals**: Ascension of Scales (high sun)—public executions and promotions.
 
@@ -1789,7 +1793,7 @@ Swarthy folk blend human resilience with serpentine or nomadic traditions.
   - **Clothing**: Leather riding gear, colorful tribal tattoos, and feather-cloaked shoulders.
   - **Coming-of-Age**: The Horizon Ride—solo journey to touch a distant landmark and return.
   - **Marriage**: Vows spoken beneath open sky, sealed by shared arrow-breaking.
-  - **Funerals**: Sky burial on raised platforms, souls freed to ride Liberon'€™s winds.
+  - **Funerals**: Sky burial on raised platforms, souls freed to ride Liberon's winds.
   - **Festivals**: Great Gather (equinoxes)—horse races, storytelling, and alliance renewals at Roamhaven.
 
 ### Grimwald and Goblin Cultures
@@ -1806,18 +1810,18 @@ In the Arcanum Epoch, Mythara teems with influential mortals whose ambitions, fa
 ### Regalor and the Western Heartlands
 
 **King Valorian Brightblade (Crownspire, Regalor)**  
-Lawful Good human paladin (Oath of Devotion) 18 / fighter 2. The young but resolute monarch of Regalor, descended from ancient Arcanite lines blended with Frostkin vigor. Valorian rules from Crownspire'€™s golden throne, supported by Aelthar'€™s Radiant Bastion. He seeks to reclaim lost marches and unify the west against eastern threats, often leading crusades personally with a *holy avenger* said to glow brighter in his grasp.
+Lawful Good human paladin (Oath of Devotion) 18 / fighter 2. The young but resolute monarch of Regalor, descended from ancient Arcanite lines blended with Frostkin vigor. Valorian rules from Crownspire's golden throne, supported by Aelthar's Radiant Bastion. He seeks to reclaim lost marches and unify the west against eastern threats, often leading crusades personally with a *holy avenger* said to glow brighter in his grasp.
 
 **Archmage Lirael Starweave (Crownspire)**  
-Neutral wizard (Evocation) 17 / bard 3. High Mistress of the Mystic Institute in Crownspire, a half-elf whose subtle beauty hides centuries of study. She advises the king on arcane matters, maintains the city'€™s defensive wards, and quietly balances favors among the Nine—particularly Equilon and Harmona—to preserve Regalor'€™s stability.
+Neutral wizard (Evocation) 17 / bard 3. High Mistress of the Mystic Institute in Crownspire, a half-elf whose subtle beauty hides centuries of study. She advises the king on arcane matters, maintains the city's defensive wards, and quietly balances favors among the Nine—particularly Equilon and Harmona—to preserve Regalor's stability.
 
 **Tharok One-Eye (Frontier Marches)**  
-Chaotic Neutral half-orc barbarian (Berserker) 15 / rogue 5. The grizzled warlord elected by the Marcher clans as their High Warden. Tharok resents Crownspire'€™s taxes yet defends the borders fiercely against Grimwald and goblin raids. His missing eye was lost to a manticore; the socket now holds a gem of seeing that aids his unerring ambushes.
+Chaotic Neutral half-orc barbarian (Berserker) 15 / rogue 5. The grizzled warlord elected by the Marcher clans as their High Warden. Tharok resents Crownspire's taxes yet defends the borders fiercely against Grimwald and goblin raids. His missing eye was lost to a manticore; the socket now holds a gem of seeing that aids his unerring ambushes.
 
 ### Northern Realms
 
 **Jarl Yrsa Stormcaller (Thunderhaven, Stormland)**  
-Chaotic Good human barbarian (Berserker) 16 / bard 4. Crimson-haired ruler of the Stormkin clans, a towering woman who wields a storm-themed greataxe and leads longship raids with thunderous war cries. Devoted to Liberon, she performs rites at the Stormcaller'€™s Bluff and frequently allies with (or clashes against) Whirlvex-inspired revels.
+Chaotic Good human barbarian (Berserker) 16 / bard 4. Crimson-haired ruler of the Stormkin clans, a towering woman who wields a storm-themed greataxe and leads longship raids with thunderous war cries. Devoted to Liberon, she performs rites at the Stormcaller's Bluff and frequently allies with (or clashes against) Whirlvex-inspired revels.
 
 **High Oracle Kael Frostveil (Iceforge, Frostrealm)**  
 Lawful Neutral human cleric (Knowledge Domain) 14 / wizard 6. Golden-haired high priest of Rigoran in the Scales of Eternity. Kael interprets glacial visions and enforces impartial law among the Frostkin, commanding respect even from rival Stormkin jarls. His staff of power channels cold with surgical precision.
@@ -1828,7 +1832,7 @@ Lawful Neutral human cleric (Knowledge Domain) 14 / wizard 6. Golden-haired high
 Neutral Evil tiefling rogue (Assassin) 12 / warlock (Fiend) 8. Shadowkin ruler of Bayhaven, a lithe and charismatic figure whose infernal heritage manifests in curling horns and smoldering eyes. Vespera oversees the House of Whispered Bargains, striking pacts with Shadrix and Dominara alike while plotting westward expansion across the Inner Bay.
 
 **Mirage Queen Selara Duneweaver (Sandspire, Zenthara)**  
-Chaotic Neutral halfling bard (College of Glamour) 15 / sorcerer 5. The enigmatic ruler of Zenthara'€™s merchant councils, famed for illusions that turn desert raids into mirage victories. Selara maintains neutrality by entertaining all alignments, though she secretly favors Whirlvex'€™s caprice.
+Chaotic Neutral halfling bard (College of Glamour) 15 / sorcerer 5. The enigmatic ruler of Zenthara's merchant councils, famed for illusions that turn desert raids into mirage victories. Selara maintains neutrality by entertaining all alignments, though she secretly favors Whirlvex's caprice.
 
 ### Southern Jungles and Meadows
 
@@ -1836,18 +1840,18 @@ Chaotic Neutral halfling bard (College of Glamour) 15 / sorcerer 5. The enigmati
 Lawful Evil yuan-ti pureblood cleric (Domination Domain) 18 / sorcerer 2. The serpentine high priestess of Dominara who rules Serpentis from the Obsidian Throne. As the apex of the yuan-ti hierarchy, Xipilli commands yuan-ti malisons and abominations, medusas, dark nagas, and the vast Serpentan human populace beneath her. She seeks to extend her multi-species theocracy northward through poison, subjugation, and reptilian supremacy.
 
 **Wind-Chieftain Korath Freehoof (Wanderer Territories)**  
-Chaotic Good human fighter (Champion) 14 / ranger 6. A sturdy, weather-beaten leader of the largest Wanderer confederation, devoted to Liberon. Korath'€™s multiclass prowess makes him a peerless mounted archer, resisting both Regalor tribute demands and Serpentis encroachment.
+Chaotic Good human fighter (Champion) 14 / ranger 6. A sturdy, weather-beaten leader of the largest Wanderer confederation, devoted to Liberon. Korath's multiclass prowess makes him a peerless mounted archer, resisting both Regalor tribute demands and Serpentis encroachment.
 
 ### Infamous Villains and Independent Powers
 
 **The Ash-Crowned (Goblin Wastes)**  
-Chaotic Evil goblin warlock (Great Old One patron, secretly Ruinok) 16 / barbarian 4. A mysterious, flame-wreathed hobgoblin who has united scattered goblin tribes around the Pyre of Endless Ash. The Ash-Crowned seeks to reignite Gromar'€™s conquests, wielding a flame tongue greatsword and summoning destructive elementals.
+Chaotic Evil goblin warlock (Great Old One patron, secretly Ruinok) 16 / barbarian 4. A mysterious, flame-wreathed hobgoblin who has united scattered goblin tribes around the Pyre of Endless Ash. The Ash-Crowned seeks to reignite Gromar's conquests, wielding a flame tongue greatsword and summoning destructive elementals.
 
 **Elyndra the Pale Whisper (Shadowhaunt Vale, Grimwald Hills)**  
 Neutral Evil elf druid (Circle of the Moon) 17 / rogue 3. A legendary Grimwald exile turned night hag ally, who commands packs of shadows and wraiths. Elyndra trades in cursed dreams and stolen life essence, feared even by her own people.
 
 **Captain Draven Blackwake (Western Coastal Run and Kraken Depths)**  
-Chaotic Neutral human swashbuckler rogue 15 / bard 5. The most notorious pirate lord sailing from Silverport'€™s hidden coves. Draven'€™s enchanted cutlass dances with lightning, and his crew—drawn from all species—raids trade lanes while evading divine retribution through clever oaths to Whirlvex.
+Chaotic Neutral human swashbuckler rogue 15 / bard 5. The most notorious pirate lord sailing from Silverport's hidden coves. Draven's enchanted cutlass dances with lightning, and his crew—drawn from all species—raids trade lanes while evading divine retribution through clever oaths to Whirlvex.
 
 These figures, and countless lesser lords, priests, and adventurers, drive the living history of the Arcanum Epoch. Their decisions ripple across Mythara, turning divine wagers into mortal wars and opportunities for new heroes to rise—or fall.
 
@@ -1857,14 +1861,14 @@ The Arcanum Epoch abounds with whispers of legendary magic items—artifacts for
 
 ### Notable Artifacts and Their Known Locations
 
-**The Blade of Dawn'€™s Resolve (Holy Avenger, attuned to Aelthar)**  
-A radiant longsword whose hilt is wrought in the form of eagle wings. It is said to grant its paladin wielder maximum damage on divine smites against fiends and undead. The blade rests in a hidden solar chamber atop the Radiant Bastion in Crownspire, revealed only during a dawn ceremony where the bearer must swear an unbreakable Oath of Devotion beneath the Crownspire Beacon'€™s light. King Valorian Brightblade is rumored to have briefly attuned to it during a recent goblin incursion.
+**The Blade of Dawn's Resolve (Holy Avenger, attuned to Aelthar)**  
+A radiant longsword whose hilt is wrought in the form of eagle wings. It is said to grant its paladin wielder maximum damage on divine smites against fiends and undead. The blade rests in a hidden solar chamber atop the Radiant Bastion in Crownspire, revealed only during a dawn ceremony where the bearer must swear an unbreakable Oath of Devotion beneath the Crownspire Beacon's light. King Valorian Brightblade is rumored to have briefly attuned to it during a recent goblin incursion.
 
 **The Scales of Immutable Judgment (Legendary wondrous item, attuned to Rigoran)**  
 A set of adamantine scales that, when balanced with a disputed object or contract, casts *geas* or reveals hidden truths as *true seeing*. Attunement requires meditation in the Halls of Unyielding Verdict in Crownspire or upon the Scales of Eternity in Iceforge, where the wielder must remain perfectly impartial for a full day and night. High Oracle Kael Frostveil guards knowledge of its current resting place.
 
 **The Chains of the Despot (Legendary wondrous item, attuned to Dominara)**  
-Writhing black chains that can animate as a *chain devil* under the owner'€™s command or bind creatures with unbreakable domination. They are enshrined upon the Obsidian Throne in Coilkeep, where God-Queen Xipilli uses them in coronation rites. Attunement demands a sacrifice of free will—often interpreted as enslaving another sentient creature—at the throne itself.
+Writhing black chains that can animate as a *chain devil* under the owner's command or bind creatures with unbreakable domination. They are enshrined upon the Obsidian Throne in Coilkeep, where God-Queen Xipilli uses them in coronation rites. Attunement demands a sacrifice of free will—often interpreted as enslaving another sentient creature—at the throne itself.
 
 **The Loom of Endless Mercy (Staff of Healing, legendary, attuned to Harmona)**  
 A silver loom-staff that enhances all healing spells cast through it and can weave *mass cure wounds* without expending higher slots. It resides in the Loom of Mercy temple outside Crownspire, where attunement requires the bearer to heal a dozen grievously wounded pilgrims under the eternal oaks of the Verdant Refuge.
@@ -1875,10 +1879,10 @@ An orbiting hourglass pendant that allows precise planar travel while maintainin
 **The Veil of Whispers (Cloak of Invisibility, legendary with additional effects, attuned to Shadrix)**  
 A shifting cloak that grants greater invisibility and advantage on deception checks. Its true power awakens in the House of Whispered Bargains beneath Veilport, where Khan Vespera Nightborn is said to have attuned it after a high-stakes game of chance.
 
-**Stormcaller'€™s Fury (Berserker Axe, legendary, attuned to Liberon)**  
-A crackling greataxe that deals extra thunder damage and allows the wielder to cast *call lightning*. Jarl Yrsa Stormcaller attuned it atop the Stormcaller'€™s Bluff in Thunderhaven after a rite involving surviving a direct lightning strike.
+**Stormcaller's Fury (Berserker Axe, legendary, attuned to Liberon)**  
+A crackling greataxe that deals extra thunder damage and allows the wielder to cast *call lightning*. Jarl Yrsa Stormcaller attuned it atop the Stormcaller's Bluff in Thunderhaven after a rite involving surviving a direct lightning strike.
 
-**The Jester'€™s Gambit (Deck of Many Things, attuned to Whirlvex)**  
+**The Jester's Gambit (Deck of Many Things, attuned to Whirlvex)**  
 A capricious deck whose drawings trigger wildly unpredictable effects. It surfaces periodically in the Everturning Maze of the Grimwald Hills, where only those who complete the labyrinth laughing may draw from it safely.
 
 **The Pyreheart (Flame Tongue greatsword, legendary with necrotic infusion, attuned to Ruinok)**  
@@ -1890,7 +1894,7 @@ A blade wreathed in black fire that deals additional necrotic damage. The Ash-Cr
 Submerged vaults contain numerous rare items: *rings of water breathing*, *tridents of fish command*, and a rumored *manual of bodily health* guarded by an aboleth lord.
 
 **The Frost Tombs of Iceveil**  
-Frozen sarcophagi hold *frost brand* swords, *rings of warmth*, and *ioun stones of sustenance*, with attunement often requiring survival against the tomb'€™s eternal cold.
+Frozen sarcophagi hold *frost brand* swords, *rings of warmth*, and *ioun stones of sustenance*, with attunement often requiring survival against the tomb's eternal cold.
 
 **The Obsidian Ziggurat of Luminar**  
 Half-buried in the Singing Dunes, its deepest chambers guard an *efreeti bottle*, *crystal balls*, and scrolls for *wall of force*—many requiring attunement amid illusory traps.
@@ -1898,8 +1902,8 @@ Half-buried in the Singing Dunes, its deepest chambers guard an *efreeti bottle*
 **The Wyrmskull Vaults (Grimwald Hills)**  
 Ancient dragonborn hoards include *armor of invulnerability*, dragon-scale *plate armor of fire resistance*, and breath-channeling amulets that enhance sorcerer metamagic.
 
-**Gromar'€™s Iron Redoubt**  
-The fallen goblin warlord'€™s throne room conceals a legendary *axe of the dwarvish lords* variant suited to goblinoid wielders, along with masterwork weapons bearing cleave and nick properties.
+**Gromar's Iron Redoubt**  
+The fallen goblin warlord's throne room conceals a legendary *axe of the dwarvish lords* variant suited to goblinoid wielders, along with masterwork weapons bearing cleave and nick properties.
 
 These artifacts and sites drive countless adventures across Mythara. Possession of a single legendary item can elevate a common adventurer to legend—or mark them for divine attention, as the Nine watch and wager on who will claim, master, or perish beneath such power.
 
@@ -1910,10 +1914,10 @@ Magic in the Arcanum Epoch is a cornerstone of society, taught formally in acade
 ### Major Centers of Magical Learning
 
 **The Arcane Spire (Crownspire, Regalor)**  
-Led by Archmage Lirael Starweave, this premier institute teaches all schools but favors evocation and abjuration in line with Regalor'€™s defensive needs.  
-- Common spells (1st'€“5th level) are widely available as scrolls in the Spire'€™s library.  
+Led by Archmage Lirael Starweave, this premier institute teaches all schools but favors evocation and abjuration in line with Regalor's defensive needs.  
+- Common spells (1st'€“5th level) are widely available as scrolls in the Spire's library.  
 - Rare spells (6th'€“9th level) require faculty sponsorship and contribution of new research.  
-- Restrictions: Necromancy beyond 3rd level is heavily regulated (Aelthar'€™s influence); illusion and enchantment face scrutiny to prevent Shadrix corruption.
+- Restrictions: Necromancy beyond 3rd level is heavily regulated (Aelthar's influence); illusion and enchantment face scrutiny to prevent Shadrix corruption.
 
 **The Mirage Athenaeum (Sandspire, Zenthara)**  
 A labyrinthine complex of illusion-veiled towers specializing in illusion, enchantment, and transmutation. Mirage Queen Selara Duneweaver oversees glamorous displays of magic.  
@@ -1922,7 +1926,7 @@ A labyrinthine complex of illusion-veiled towers specializing in illusion, encha
 - Necromancy and evocation are rare, viewed as crude.
 
 **The Coiled Scriptoria (Coilkeep, Serpentis)**  
-Pyramid libraries guarded by yuan-ti purebloods, focusing on enchantment, transmutation, and poison-related magic under Dominara'€™s patronage.  
+Pyramid libraries guarded by yuan-ti purebloods, focusing on enchantment, transmutation, and poison-related magic under Dominara's patronage.  
 - Domination and poison-enhancing spells are freely taught.  
 - 8th'€“9th level enchantment scrolls are state treasures.  
 - Healing and abjuration beyond basic levels are forbidden to non-priests.
@@ -1969,7 +1973,7 @@ Nobles, merchants, temples, and factions commission adventurers for specific tas
 - **Noble or Royal Quests** (e.g., King Valorian or regional lords in Regalor): 500'€“5,000 gp base plus magic items for retrieving artifacts or slaying named threats like Valthraxthe the Frostreaver. Success often includes land grants, titles, or court favor.
 - **Merchant or Guild Contracts** (Explorer Leagues, trade caravans): 100'€“1,000 gp per member plus 10'€“20% of recovered trade goods or reagents. Protection details pay daily (20'€“50 gp/person).
 - **Temple Commissions** (e.g., Radiant Bastion or Obsidian Throne): Divine favor (free spellcasting services), blessed gear, or holy relics. Harmona temples offer healing items; Dominara cults grant cursed but powerful artifacts.
-- **Faction Bounties** (Knightly Brotherhoods, Shadow Syndicates): Fixed sums for proof of kill (e.g., 2,000 gp for Queen Arachnara'€™s head) or delivery of forbidden lore.
+- **Faction Bounties** (Knightly Brotherhoods, Shadow Syndicates): Fixed sums for proof of kill (e.g., 2,000 gp for Queen Arachnara's head) or delivery of forbidden lore.
 
 **Bounty Systems**  
 Public postings in city squares or guildhalls offer standardized rewards for verifiable threats.
@@ -1978,7 +1982,7 @@ Public postings in city squares or guildhalls offer standardized rewards for ver
 - **Northern Realms**: Clan bounties—1,000 gp for remorhaz hearts (Frostrealm mining protection), 3,000 gp for harpy flocks disrupting fjord trade.
 - **Bayhaven & Zenthara**: Khan postings—1,500 gp for basilisk eyes, escalating for Petrifex the Ironhide. Shadow Syndicates add black-market bonuses for discreet kills.
 - **Serpentis**: Temple edicts—2,000 gp and rank promotion for couatl feathers or rebel leaders; failure means enslavement.
-- **Wanderer Territories**: Tribal rewards—horses, livestock, or magic saddles for slaying Gnawbone'€™s lieutenants.
+- **Wanderer Territories**: Tribal rewards—horses, livestock, or magic saddles for slaying Gnawbone's lieutenants.
 
 Monster parts command additional value: remorhaz plating (500 gp/set for cold resistance armor), gorgon blood (1,000 gp/vial for petrification potions), kraken ink (2,000 gp for *ink cloud* scrolls).
 
@@ -1988,7 +1992,7 @@ Kingdoms and city-states tax or regulate magic items to prevent power imbalances
 
 - **Regalor**: 20% crown tax on declared magic items over uncommon rarity, waived for items donated to the throne or Radiant Bastion. Undisclosed items risk confiscation by Aelthar paladins.
 - **Frostrealm**: Impartial 15% tithe to Rigoran temples; evaders face binding *geas* contracts.
-- **Bayhaven**: Informal '€œkhan'€™s eye'€ bribe (10'€“30% value) to avoid scrutiny; Shadrix syndicates offer smuggling for half the bribe.
+- **Bayhaven**: Informal '€œkhan's eye'€ bribe (10'€“30% value) to avoid scrutiny; Shadrix syndicates offer smuggling for half the bribe.
 - **Serpentis**: All rare or higher items belong to the God-Queen by decree—adventurers may keep common/uncommon but must offer first refusal on greater finds.
 - **Stormland & Wanderer Territories**: Minimal taxation—might makes right; spoils belong to the victor.
 - **Zenthara**: Merchant council auction tax (25%), but illusion glamours often hide true value.
@@ -1996,7 +2000,7 @@ Kingdoms and city-states tax or regulate magic items to prevent power imbalances
 
 Black markets in Veilport, Crownspire Undercroft, and Silverport docks trade taxed or forbidden items at 150'€“200% markup, with Shadow Syndicate protection.
 
-Adventurers thus balance glory, wealth, and peril—ruins yield hoards rich in gems and art, quests offer structured pay, and bounties provide steady income. Yet taxation, divine scrutiny, and rival claims ensure that great rewards come with great risk, keeping the epoch'€™s heroes ever on the edge.
+Adventurers thus balance glory, wealth, and peril—ruins yield hoards rich in gems and art, quests offer structured pay, and bounties provide steady income. Yet taxation, divine scrutiny, and rival claims ensure that great rewards come with great risk, keeping the epoch's heroes ever on the edge.
 
 ## Common Languages and Linguistic Distribution
 
@@ -2031,7 +2035,7 @@ Preserved by remnant dragonborn clans in volcanic badlands and Wyrmskull Vaults.
 - **Terran**: Dwarven forge-cant in Ironroot Delves.
 
 **Abyssal and Infernal**  
-Abyssal echoes in Ruinok cult rites and goblin war-cries; Infernal is whispered by tiefling Shadowkin and Dominara'€™s warlocks in Coilkeep.
+Abyssal echoes in Ruinok cult rites and goblin war-cries; Infernal is whispered by tiefling Shadowkin and Dominara's warlocks in Coilkeep.
 
 **Sylvan**  
 Grimwald elves guard this flowing woodland tongue fiercely; druids and fey-touched rangers learn it for Nature Ring rituals.
@@ -2253,6 +2257,498 @@ A walled sub-district where those who have struck pacts with otherworldly patron
 *Khan:* **Khan Mordai Soulbinder** (tiefling male, warlock 16 [Fiend: Beleth], LE) — Vespera's chief magical advisor; commands several bound imps and a chain devil bodyguard  
 *Atmosphere:* Intellectually electric and morally corrupt; power without conscience; everyone schemes; knowledge valued above life
 
+### Warlock Culture and Traditions in Veilport
+
+The Warlock's Enclave represents the densest concentration of pact-magic practitioners in all of Mythara. Unlike Regalor where fiend-pact warlocks face execution, or Serpentis where Great Old One pacts merit instant death, Veilport's pragmatic evil embraces all forms of otherworldly power. This acceptance stems from the city's founding by infernal-blooded Shadowkin and Vespera's own warlock nature. The result is a unique culture where pact-making is treated as legitimate career path rather than desperate last resort—though no less dangerous for its normalization.
+
+**Tiefling Demographics and Bloodline Hierarchies**
+
+Veilport's population is approximately 65% tiefling, 20% human (mostly Shadowkin ethnicity), 8% dragonborn, 4% halfling/gnome, and 3% other races. Among the tiefling majority, subtle but significant hierarchies exist based on infernal bloodlines:
+
+*Asmodeus-bloodline tieflings* (crimson skin, elaborate horns, imperious bearing) occupy the highest social tier. They dominate khan positions, guild leadership, and merchant prince families. Cultural expectation: Asmodeus-blooded should pursue positions of command—warlock, sorcerer, or paladin (Oathbreaker) classes preferred. Those who become rogues or bards face mild family disappointment for "wasting" their heritage.
+
+*Mephistopheles-bloodline tieflings* (pale blue-gray skin, icy horns, calculating minds) form the intellectual elite. They excel as contract lawyers, enchanters, illusionists, and most notably warlocks who negotiate especially favorable pact terms. The Infernal Contract Guild is 70% Mephistopheles-blooded. Cultural expectation: Master contracts, magic, or both. Physical combat classes seen as "brutish."
+
+*Zariel-bloodline tieflings* (burnished bronze skin, martial prowess, aggressive temperaments) serve as warriors, Shadow Guard officers, and corsair captains. Cultural expectation: Prove strength through martial accomplishment. Warlock pacts are acceptable if they enhance combat capability (Hexblade, certain Fiend pacts). Pure spellcasters considered weak.
+
+*Glasya-bloodline tieflings* (dusky purple skin, hidden horns, seductive features) thrive as spies, courtesans, thieves, and manipulators. The Shadow Syndicate's Black Hand assassins recruit heavily from Glasya families. Cultural expectation: Excel through deception and charm. Open displays of power are gauche; better to control from shadows.
+
+*Mammon-bloodline tieflings* (golden-hued skin, coin-shaped scales, mercantile instincts) dominate trade, banking, and economic manipulation. Cultural expectation: Accumulate wealth by any means. Warlocks of Mammon often structure pacts as business contracts with quarterly performance reviews.
+
+*Mixed or unknown bloodlines* face no official discrimination but subtle social pressure to "prove" themselves through achievement. Many join the Free Veil Coalition, resentful of bloodline-based assumptions.
+
+**Human Warlocks in Veilport: Unique Challenges and Opportunities**
+
+While tieflings dominate Veilport's warlock population, human warlocks face distinct social dynamics and complications—especially those who bind themselves to Great Old One patrons.
+
+**Social Positioning:**
+- **Minority Status**: Humans comprise only 25% of Veilport's population (7,500 of 30,000), making human warlocks stand out. Unlike tieflings with ancestral expectations for pact-magic, humans are viewed as "desperate outsiders" or "ambitious climbers" trying to fit into Shadowkin culture.
+- **No Bloodline Hierarchy**: Humans lack the Asmodeus/Mephistopheles/Zariel/Glasya/Mammon prestige rankings that govern tiefling social standing. This creates both freedom (no family reputation to uphold) and burden (must prove worth constantly through personal achievement).
+- **Shadowkin Human Ethnicity**: Most Veilport humans descend from mixed tiefling-human unions generations back—the "Shadowkin humans." They have darker complexions, sharp features, and sometimes vestigial traits (small horns filed down, faint tail scars removed surgically) but lack full infernal powers. This creates identity tension: too human for tieflings, too "tainted" for pure humans from Regalor.
+
+**Great Old One Patron Specific Challenges for Humans:**
+
+*Physical Mutations Hit Harder*:
+- Tieflings already possess horns, tails, odd eyes, and unusual skin tones—additional aberrant mutations (extra eyes, translucent skin, whispering shadows) appear as "variations on an existing theme."
+- Humans start "normal" by Mytharan standards, so aberrant changes become MORE visible and disturbing to observers. Game mechanic: When meeting new NPCs for the first time, human Great Old One warlocks must succeed on DC 13 Charisma save or the NPC is unsettled (impose disadvantage on social rolls for that encounter, or -2 penalty if not using advantage/disadvantage).
+- Even cosmetic mutations draw attention: a tiefling with star-filled eyes seems exotic; a human with the same mutation appears "contaminated by something unnatural."
+
+*Madness Perception Differential*:
+- Tiefling culture expects some degree of wickedness, cruelty, and unusual behavior due to infernal heritage. A tiefling warlock laughing at nothing or muttering to themselves might be dismissed as "infernal humor" or "communing with their patron."
+- Human warlocks displaying Great Old One madness symptoms (talking to themselves, drawing non-Euclidean geometries unconsciously, prophetic ramblings, sudden behavioral shifts) are immediately labeled "broken," "contaminated," or "lost to the void." Social stigma is significantly harsher—humans are expected to maintain sanity, and failure marks them as liabilities.
+- Veilport's pragmatic evil tolerates madness that remains functional, but human warlocks must work harder to disguise symptoms or face social/professional consequences.
+
+*No Infernal Resistances*:
+- Tieflings possess innate fire resistance and advantage on saving throws against being charmed (infernal legacy traits). These provide baseline survivability against common threats.
+- Human Great Old One warlocks begin with ZERO natural defenses. When Far Realm entities attack (star spawn assaults, intellect devourer infiltrations, psychic predators), humans take full damage and full effects. This makes leveling progression measurably more dangerous—human warlocks need to invest in defensive magic items and protective spells earlier than tiefling counterparts.
+- Mechanically: Human warlocks should prioritize Constitution for hit points, defensive invocations like *Armor of Shadows* or *Fiendish Vigor*, and acquiring a *ring of protection* or *cloak of protection* by 5th level if possible.
+
+**Naming Convention Choices for Humans:**
+
+Unlike tieflings with traditional naming patterns (birth name + virtue name + use name), human warlocks face a choice that reveals their relationship to Veilport society:
+
+*Adoption Strategy* (trying to fit in):
+- Take **Shadowkin-style use names**: "Shadow," "Whisper," "Veil," "Silk," "Dusk," "Ember"
+- Adopt **pact names** granted by patron prominently: "Void-Touched," "Star-Gazer," "Dream-Walker," "Mind-Eater"
+- Suppress original human name entirely to seem "more Shadowkin"
+- **Social effect**: Tieflings view this as flattering but slightly pathetic; grants +1 bonus to initial Charisma checks with tieflings but -1 with other humans who see it as "selling out"
+
+*Defiance Strategy* (maintaining identity):
+- Retain **original human names** defiantly: Marcus, Elena, Torin, Kira, Damien, Cassandra
+- Refuse Shadowkin naming conventions as assertion of independence
+- Emphasize non-tiefling heritage as badge of pride
+- **Social effect**: Earns grudging respect from some ("at least they're honest about what they are"), but limits social advancement in tiefling-dominated power structures
+
+*Hybrid Strategy* (code-switching):
+- Use **birth name** in Duskway residential areas and with human colleagues
+- Use **pact name** in Warlock's Enclave and professional contexts
+- Use **use name** in criminal/Syndicate contexts
+- **Social effect**: Most flexible but requires remembering which identity to use when (Intelligence check DC 10 when stressed, or accidentally use wrong name in wrong context)
+
+**Player Character Recommendation**: Your character should decide their naming strategy during character creation, as it reflects their attitude toward Veilport's tiefling-dominated culture and shapes NPC interactions.
+
+**Advantages Humans Have Over Tieflings (Great Old One Context):**
+
+Despite challenges, human warlocks possess unique benefits:
+
+*Cultural Flexibility*:
+- No tiefling expectation to worship Shadrix/Dominara specifically. Easier to explain Great Old One pacts as "academic curiosity" or "philosophical exploration" rather than religious heresy.
+- Can claim ignorance of infernal hierarchies and pact law as excuse when making mistakes ("I'm just a human; I didn't understand the implications") while tieflings are expected to know better.
+- Less family pressure regarding pact choices—tiefling families often have multi-generational expectations, while human families (if present) usually aren't involved in warlock culture.
+
+*Variant Human Feat Advantage*:
+- **Actor Feat** (recommended): +1 Charisma, advantage on Deception/Performance when impersonating others, perfectly mimic voices. Mechanically superior for social manipulation builds. Allows human warlocks to disguise madness symptoms ("I wasn't talking to invisible entities; I was practicing a monologue for the theater!") and impersonate sane versions of themselves when mutations become problematic.
+- **Observant Feat** (survival-focused): +1 Wisdom or Intelligence, +5 passive Perception and Investigation. Critical for noticing reality distortions, star spawn infiltrators, and Far Realm environmental hazards before they kill you. Great Old One warlocks exist in constant danger—this feat improves survival rates significantly.
+
+*Lower Social Expectations*:
+- Tieflings are expected to become powerful warlocks/sorcerers due to infernal bloodlines. Failure brings family shame.
+- Humans aren't expected to excel at pact-magic—so your success as Great Old One warlock becomes MORE impressive to observers. "A mere human made pact with an entity from beyond reality and survived? That takes uncommon courage... or madness."
+- Narrative advantage: Underestimation. Rival warlocks may dismiss human practitioners initially, providing opportunities for surprise.
+
+*Infiltration Capabilities*:
+- Easier to infiltrate Regalor and other human-dominated kingdoms on intelligence-gathering missions. Tiefling agents face immediate suspicion; humans can pass as merchants, pilgrims, or scholars.
+- Can maintain Veilport base while operating in territories hostile to tieflings, serving as valuable bridge agents for Shadow Syndicate or Free Veil Coalition operations.
+- With *disguise self* invocation (Mask of Many Faces), humans can pass as "normal merchants" suppressing visible mutations; tieflings must always account for horns/tails/unusual skin in disguises.
+
+**Great Old One Patron: Veilport Regulations and Social Dynamics**
+
+While Great Old One pacts are legal in Veilport (unlike most kingdoms), specific restrictions apply:
+
+*Infernal Contract Guild Requirements*:
+- **Registration**: 50 gp one-time fee to register Great Old One pact with the Guild. Failure to register risks 500 gp fine and confiscation of spell focus items.
+- **Annual Tithe**: 10% of documented income paid to Guild (standard for all warlock types). Great Old One warlocks often under-report income since patron missions rarely involve official contracts.
+- **Quarterly Check-Ins**: Khan Mordai Soulbinder (Warlock's Enclave overseer) requires Great Old One warlocks to report quarterly, demonstrating they haven't caused "unacceptable public disruption." Criteria: no mass hysteria events, no permanent madness inflicted on more than 3 citizens per quarter, no reality breaches visible from main streets.
+- **Teaching Restrictions**: Forbidden from teaching apprentices or offering pact-brokerage services until reaching 11th level minimum. Rationale: "Madness is too contagious to let novices spread it freely."
+
+*Social Dynamics Within the Enclave*:
+- **Fiend-pact warlocks** (majority): Actively avoid Great Old One warlocks, finding them disturbing even by infernal standards. Typical reaction: "At least devils negotiate rationally and honor contracts. *You* commune with things that shouldn't exist and whose 'agreements' warp reality itself."
+- **Archfey-pact warlocks** (uncommon): Fascinated but frightened. Will study Great Old One warlocks from safe distance, trading information about planar boundaries and madness effects. Quote: "The Feywild is capricious, but your patrons are *incomprehensible*. That terrifies me more than any Unseelie curse."
+- **Celestial-pact warlocks** (rare in Veilport): Pity Great Old One practitioners. Quote: "You poor fool—you don't know what you've bound yourself to. At least fiends want something from you. Your patron doesn't even perceive you as sentient." Often offer redemption attempts, which Great Old One warlocks find annoying.
+- **Hexblade-pact warlocks** (martial types): Respect Great Old One warlocks grudgingly. Quote: "Takes guts to bind eldritch horrors that might consume your mind. Respect."
+
+*Physical Manifestation Tracking*:
+
+DMs running long-term campaigns should track "madness points" and mutation stages to reflect Great Old One pact progression:
+
+**0-10 Madness Points** (Levels 1-4 typical):
+- *Minor symptoms*: Occasional whispers in unknown languages during sleep; NPCs within 5 feet sometimes hear faint echoes
+- Eyes sometimes reflect starlight instead of ambient light (DC 15 Perception to notice in bright conditions, automatic in darkness)
+- Unconscious doodling produces non-Euclidean angles and impossible geometries that cause brief disorientation (DC 12 Wisdom save or disadvantage on next Intelligence check)
+
+**11-25 Madness Points** (Levels 5-10 typical):
+- *Moderate symptoms*: Extra eyelid develops on palm, inner wrist, or back of neck (can close voluntarily with concentration; opens during stress/sleep revealing alien iris)
+- Skin becomes slightly translucent near major veins; observers can see faint pulse of dark energy rather than blood
+- Speaking produces faint harmonic echo in language you don't understand (Linguistics DC 18 identifies as Deep Speech fragments, but semantically meaningless)
+
+**26-50 Madness Points** (Levels 11-16 typical):
+- *Major symptoms*: Third eye opens permanently on forehead (grants darkvision 60 ft. if you lacked it, but NPCs must succeed DC 13 Wisdom save or become unsettled when making eye contact)
+- Shadow no longer matches body position—moves independently by 1-3 seconds delay, occasionally forms non-Euclidean shapes
+- Prophetic dreams occur 20% of nights (DM rolls d20; on 1-4, dream provides true glimpse of possible future event within next week)
+
+**50+ Madness Points** (Levels 17-20 typical):
+- *Extreme symptoms*: Permanent telepathy with all creatures within 30 feet (cannot voluntarily shut off; constantly hear surface thoughts as background static; DC 15 Wisdom save each morning or take 1d4 psychic damage from mental overload)
+- Reality bends subtly near you: mirrors crack spontaneously within 10 feet, time occasionally stutters (observers experience brief déjà vu), plants wither if you remain in contact for more than 1 hour
+- NPCs meeting you for first time must succeed DC 14 Wisdom save or become frightened for 1 minute (can repeat save at end of each turn; success grants immunity to this effect from you for 24 hours)
+
+**Managing Madness Accumulation:**
+
+Since Great Old One madness accumulates inevitably, warlocks employ various mitigation strategies:
+
+*Temporary Relief*:
+- ***Lesser Restoration*** (2nd-level spell): Delays madness accumulation, reducing current madness points by 5 for 24 hours. Does NOT cure permanently. Cost: 100 gp per casting from Shrine of Eternal Scales or other neutral clerics.
+- **Meditation in Feywild-touched locations**: Spending 8 hours in areas with strong Feywild influence (Eternal Grove, Dreamroot Labyrinth) suppresses symptoms for 1d4 days. Archfey presence counteracts Far Realm corruption temporarily.
+
+*Permanent Reduction*:
+- ***Greater Restoration*** (5th-level spell): Permanently removes 10 madness points per casting. Requires 100 gp diamond component plus 500 gp casting fee. Maximum one casting per week (patron resists excessive cleansing).
+- **Celestial Pact Multiclass**: Taking levels in Celestial warlock creates internal balance—celestial patron actively fights Great Old One corruption. While multiclassed, gain advantage on saves against madness accumulation. However, this creates patron conflict (both want exclusive devotion).
+
+*Acceptance Path*:
+- Some Great Old One warlocks embrace madness as "enlightenment" and refuse treatment. These individuals progress faster toward becoming star spawn or aberrations themselves but gain narrative benefits (prophetic visions, reality manipulation, etc.). High-risk, high-reward path suitable for short campaigns or planned character transformation arcs.
+
+**Recommended Human Build: Great Old One Social Manipulator**
+
+For players creating human Great Old One warlocks focused on social manipulation:
+
+**Variant Human Ancestry**:
+- +1 Dexterity, +1 Charisma
+- **Actor Feat**: +1 Charisma (total +2 Cha from race + feat), advantage on Deception/Performance to impersonate others, perfectly mimic voices
+- **Skills**: Deception, Insight, Investigation, Arcana (or Persuasion if prefer charm over lies)
+
+**Starting Ability Scores** (Point Buy optimized):
+- STR 8, DEX 14, CON 14, INT 12, WIS 10, CHA 16 (15 base +1 racial +1 Actor feat)
+- Prioritizes Charisma for spellcasting and social skills, Constitution for survivability (no natural resistances), Dexterity for AC and stealth
+
+**Level Progression Strategy**:
+- **Levels 1-4**: Pure Warlock, Great Old One patron
+  * Level 2 Invocations: *Mask of Many Faces* (*disguise self* at will—hide mutations and impersonate others), *Misty Visions* (*silent image* at will—create false alibis, distract witnesses)
+  * Level 3 Pact Boon: Pact of the Tome (ritual spells: *detect magic*, *identify*, *comprehend languages* for information gathering without expending slots)
+  * Core ability: *Awakened Mind* class feature (telepathy 30 feet, communicate with any creature regardless of language—perfect for manipulation)
+
+- **Levels 5-6**: Consider 2-level Rogue multiclass for social manipulation focus
+  * Cunning Action (Bonus Action Hide/Disengage/Dash—essential for escape after cons)
+  * Expertise in Deception and Insight (double proficiency bonus—become master manipulator)
+  * Alternatively, stay pure Warlock for 3rd-level spell slots sooner
+
+- **Levels 7-20**: Return to Warlock progression
+  * Key Invocations: *Beguiling Influence* (proficiency in Deception/Persuasion if didn't start with them), *Voice of the Chain Master* if took Pact of Chain later, *Whispers of the Grave* (speak with dead at will for information extraction)
+  * Mystic Arcana choices: 6th level - *mass suggestion*, 7th level - *forcecage* (trap targets for interrogation), 8th level - *glibness* (automatic 15 on Charisma checks), 9th level - *foresight* or *psychic scream*
+
+**Roleplay Concept**:
+Former Veilport confidence artist who accidentally contacted Great Old One (Hastur the King in Yellow suggested—perfect for actor/performer theme) while researching Pre-Cataclysmic theater manuscripts in the Shadowed Athenaeum. Initially sought mundane historical knowledge about ancient plays; instead opened psychic connection to alien intelligence dwelling in Carcosa.
+
+Now uses eldritch madness to enhance cons, appearing perfectly sane and charming on surface while patron's influence leaks through subtle tells (occasionally speaks lines from "The King in Yellow" play without realizing, draws Yellow Sign unconsciously, knows facts about people they shouldn't). Struggles to maintain humanity while power grows—will they remain clever manipulator, or become herald of Hastur's return to Mythara?
+
+**Faction Relationships**:
+- **Shadow Syndicate**: Vex'thraal Shadowbinder (High Priest of Shadrix, House of Whispered Bargains) finds your madness-enhanced deception fascinating and hires you for "impossible" con jobs. Pays well but keeps closer eye on you than normal operatives.
+- **Free Veil Coalition**: Torin Silvercloak suspicious (are you pawn of something worse than Vespera?) but recognizes your skills. Offers missions requiring infiltration and manipulation, warning that if you go "full aberrant," Coalition will put you down.
+- **Infernal Contract Guild**: Azarinth the Bonded (Guildmaster) studies you as "test case" for aberrant pact viability. Occasionally offers reduced-fee pact renegotiation services in exchange for data on your symptoms.
+- **Dragonborn Enclave**: Thornn Goldwing (Paladin of Bahamut) periodically attempts to "save your soul" through celestial intervention, offering *greater restoration* castings at discounted rates if you'll consider redemption.
+
+**Starting Equipment Priorities** (if using gold buy instead of class defaults):
+- *Disguise Kit* (essential for Actor feat synergy)
+- *Fine clothes* (appear respectable during cons)
+- *Component pouch* (avoid spell focus dependency)
+- Save remaining gold for first *Cloak of Protection* purchase (~500 gp, critical for human survivability)
+
+This creates highly effective social manipulator who grows more alien and disturbing as levels progress, providing both mechanical power and compelling character arc about maintaining humanity against cosmic corruption.
+
+**Naming Conventions**
+
+Tiefling naming in Veilport follows three traditional patterns, with individuals often using different names in different contexts:
+
+*Birth names* are typically infernal-sounding with harsh consonants: Vespera, Mordai, Azarinth, Zathros, Vraxos. These mark family lineage and bloodline heritage.
+
+*Virtue names* are self-chosen upon reaching adulthood (16 years), representing aspirations or qualities: Ambition, Cunning, Cruelty, Delight, Sorrow, Whisper. Many warlocks adopt new virtue names upon completing their first pact. Vespera's childhood virtue name was "Ascension"—she abandoned it when claiming the khanate.
+
+*Use names* are common nicknames or professional aliases: "Silk," "Razor Jak," "the Veiled Master." These spread organically and often replace birth names in daily use.
+
+Warlocks specifically often take pact names granted by patrons: "Soulbinder," "the Bonded," "Chainkeeper's Chosen." Refusing a patron's offered name is considered insulting but occasionally done by prideful warlocks.
+
+**Coming-of-Age and Career Selection**
+
+Tiefling adolescents (ages 14-16) undergo the *Choosing*, a formal ceremony where they declare their intended path:
+
+- Those selecting warlock pacts enter a two-year apprenticeship with established warlocks, learning to identify potential patrons, negotiate terms, and survive the Chamber of Pacts ritual.
+- Future rogues, fighters, or bards enter guild training or military service.
+- The rare few pursuing clerical or paladin oaths travel to appropriate temples.
+
+Parents invest heavily in their children's Choosing, hiring tutors and arranging mentorships. Wealthy families sometimes arrange pacts in advance, negotiating with willing patrons on their heir's behalf—though the child must still accept when coming of age.
+
+The Free Veil Coalition actively recruits during Choosing ceremonies, offering alternative paths that reject Vespera's authority. This has led to crackdowns on "unsanctioned career counseling," with Coalition recruiters facing arrest.
+
+**Daily Warlock Life: Practical Details**
+
+*Income Sources:*
+- **Contract work**: 10-50 gp per casting of *detect thoughts*, *augury*, or patron-specific services
+- **Teaching**: Enclave tutors earn 5 gp/day teaching apprentices
+- **Guild dues**: Warlock Guild membership costs 1 gp/month but provides legal protection and contract templates
+- **Patron missions**: Variable pay (0-500+ gp) for tasks advancing patron agendas
+- **Spell services**: *Identify* (25 gp), *Remove curse* (100 gp), *Contact other plane* (200 gp)
+
+*Cost of Living in Veilport:*
+- **Squalid lifestyle** (Threadbare slums): 1 sp/day
+- **Poor lifestyle** (Threadbare tenement): 2 sp/day  
+- **Modest lifestyle** (Duskway apartment): 1 gp/day
+- **Comfortable lifestyle** (Shadowveil townhouse): 2 gp/day
+- **Wealthy lifestyle** (noble district estate): 4+ gp/day
+
+*Spell Component Markets:*
+The Shadowbazaar hosts dedicated vendors for warlock components:
+- **The Infernal Emporium**: Fiend pact materials (sulfur, virgin's blood, binding chains)—10-100 gp depending on ritual
+- **The Feywild Fragment**: Archfey materials (moonstone, pixie dust, toadstool rings)—15-80 gp
+- **The Sealed Tome**: Great Old One materials (deep sea specimens, alien geometries captured in crystal, non-Euclidean diagrams)—50-200 gp; many items cause short-term madness on handling
+- **The Starlight Vault**: Celestial materials (holy water, angel feathers, blessed incense)—rare, 100-300 gp
+
+*Warlock Social Customs:*
+- **The Greeting**: Warlocks acknowledge each other by touching left wrists (where pact scars manifest) while saying "May your chains bind truly."
+- **Pact Privacy**: Asking about another warlock's specific pact terms is deeply rude unless offering trade information. Response: "That is between myself and my patron."
+- **The Challenge**: When two warlocks dispute, they may invoke formal Challenge—a contest of patron-granted powers judged by Khan Mordai. Loser pays 50 gp fine.
+- **Patron's Day**: Once per month (varies by patron), warlocks must perform devotional service: fiend pacts require sacrifice, archfey demand artistic performances, Great Old Ones need meditation in darkness, etc.
+
+**Warlock Fashion and Symbols**
+
+*Robes and clothing:* Contrary to outsider assumptions, Veilport warlocks don't wear uniform "warlock robes." Fashion varies:
+- *Fiend pacts*: Favor reds, blacks, golds; heavy jewelry including chain motifs; expensive fabrics to display wealth
+- *Archfey pacts*: Flowing silks in seasonal colors; flower crowns or leaf patterns; bare feet common
+- *Great Old One pacts*: Practical dark clothing; many wear face-concealing hoods due to visible mutations or disturbing gazes
+- *Celestial pacts*: Simple white or pale blue robes; minimal ornamentation (and often harassed by fiend-pact warlocks)
+- *Hexblade pacts*: Martial attire; weapon openly displayed; leather armor even in social settings
+
+*Pact marks:* All warlocks bear physical signs of their pacts, typically manifesting as:
+- Elaborate scarification on wrists or neck showing patron symbols
+- Eye color changes (fiend: orange/red, archfey: seasonal shifts, Great Old One: void-black with stars, celestial: gold)
+- Minor mutations (extra fingers, cat pupils, translucent skin, whispering shadows)
+- Magical tattoos that move or glow when casting
+
+*Social signaling:* Warlocks advertise their level indirectly:
+- **Levels 1-4**: Apprentice robes with single stripe
+- **Levels 5-10**: Journeyman dress with patron symbol openly displayed
+- **Levels 11-16**: Master attire including enchanted garments (*cloak of protection* common)
+- **Levels 17-20**: Grandmaster regalia including artifact-level items; these individuals command automatic respect
+
+**Downtime Activities**
+
+When not adventuring, Veilport warlocks engage in:
+
+*Pact research:* Studying patron lore in the Shadowed Athenaeum (costs 5 gp/day access fee). Success on DC 15 Arcana check reveals useful information about negotiating better terms or identifying hidden contract loopholes.
+
+*Invocation trading:* Warlocks share knowledge of rare invocations through secretive exchanges. Mechanically: spend 1 week and 50 gp to learn an invocation you meet prerequisites for from another warlock.
+
+*Gambling and deals:* The House of Whispered Bargains hosts nightly games where warlocks bet spell slots, invocation knowledge, or even pact terms (inadvisable but exciting).
+
+*Patron communion:* Once per week minimum, warlocks meditate to receive patron guidance. This sometimes manifests as quest prompts, warnings, or demands for service.
+
+*Apprentice teaching:* Master warlocks (11+) can earn 5 gp/day teaching apprentices, building networks of obligation.
+
+**Pact Acquisition and Progression Systems**
+
+The journey from desperate mortal to powerful warlock follows predictable stages in Veilport, though each patron type demands different approaches.
+
+**Level 1: The Calling**
+
+Potential warlocks experience "the Calling"—the moment when otherworldly entities first notice them. This occurs through:
+
+*Desperate prayer:* Individuals facing death, ruin, or helplessness cry out to "anyone listening." Fiends answer most readily, archfey respond to artistic souls, Great Old Ones contact those already touched by madness.
+
+*Inherited contracts:* Some tiefling families maintain multi-generational pacts where firstborn children automatically enter service. These warlocks receive power earlier (age 14-15) but have less negotiating leverage.
+
+*Deliberate summoning:* Would-be warlocks perform rituals to attract patron attention. The Chamber of Pacts facilitates these summonings for fees (50-200 gp depending on patron type). Success requires:
+- Material components specific to patron type (50-100 gp)
+- Ritual leader (usually Khan Mordai or senior warlock) to maintain safety wards
+- DC 15 Charisma (Persuasion or Deception) check to interest patron
+- Offering of value: information, future service, or rare item
+
+*Accidental contact:* Reading forbidden tomes, touching cursed artifacts, or entering planar-touched locations sometimes triggers unwanted patron attention. Great Old One pacts frequently begin this way.
+
+*Dreams and visions:* Patrons send prophetic dreams to individuals with desirable qualities (ambition, desperation, talent). Recipient must seek out the Chamber of Pacts within one lunar cycle or the vision fades.
+
+**The First Pact Ritual (Becoming Level 1 Warlock)**
+
+When a mortal accepts a patron's offer, they undergo formal pact binding in the Chamber of Pacts. The ritual requires:
+
+*Preparation:*
+- Three days of fasting (Constitution saves DC 10 to avoid exhaustion)
+- Study of patron's nature (Intelligence [Arcana] check DC 13 to understand terms)
+- Consultation with infernal lawyers (50 gp fee for contract review—highly recommended)
+- Witnesses: minimum two warlocks plus ritual leader
+- Time: Midnight for fiend pacts, dawn for celestial, dusk for archfey, moonless nights for Great Old Ones
+
+*The Ritual:*
+1. **Circle activation**: Ritual leader activates appropriate magic circle (fiend, fey, aberration, or celestial patterns)
+2. **Invocation**: Supplicant speaks patron's true name three times (taught by ritual leader)
+3. **Manifestation**: Patron or representative appears within circle (or in supplicant's mind for Great Old Ones)
+4. **Negotiation**: Terms are established—what patron grants vs. what warlock owes
+5. **Binding**: Blood, oath, or soul fragment seals pact (Constitution save DC 15 or take 3d6 necrotic damage)
+6. **Marking**: Pact mark manifests on body (usually left wrist, but varies)
+
+*Failure consequences:*
+- Failed Constitution save during binding: Unconscious for 1d4 hours, permanent -1 Constitution
+- Failed Charisma save during negotiation: Patron offers terrible terms (warlock serves as thrall, not partner)
+- Interrupted ritual: Patron fury—cursed with *bestow curse* effect until appeased
+- Breaking circle wards: Entity escapes containment; everyone present must succeed DC 16 Wisdom save or be dominated
+
+**Pact Terms: Standard vs. Exploitative**
+
+Infernal Contract Guild provides "standard pact templates" supposedly protecting warlocks. In truth, most favor patrons:
+
+*Standard Fiend Pact:*
+- Warlock receives: Spell slots, invocations, pact boon (level 3), mystic arcana (level 11+)
+- Warlock owes: Soul upon death, one major mission per year, recruitment of 1-2 new pacts over lifetime
+- Escape clause: Soul can be redeemed through heroic sacrifice in patron's name OR payment of 10,000 gp per warlock level
+- Hidden clause (DC 20 Investigation to find): Patron can call in soul early if warlock acts against patron's interests
+
+*Standard Archfey Pact:*
+- Warlock receives: Spell slots, invocations, seasonal powers, charm immunity
+- Warlock owes: Service when summoned to Feywild (1d4 days per year), must never lie in patron's name, entertain patron with stories monthly
+- Escape clause: Complete seven "impossible" quests to earn freedom
+- Hidden clause: "Impossible" is subjective; archfey can refuse completion arbitrarily
+
+*Standard Great Old One Pact:*
+- Warlock receives: Spell slots, telepathy, sanity-blasting powers, aberrant knowledge
+- Warlock owes: Spread patron's influence (minimum 10 converts over lifetime), undergo physical mutations, eventually become star spawn
+- Escape clause: None explicitly stated (because Great Old Ones don't truly negotiate—they infect)
+- Hidden clause: Madness accumulation is permanent; "converts" includes those driven insane by your powers
+
+*Standard Celestial Pact:*
+- Warlock receives: Spell slots, healing powers, radiant damage, angelic guidance
+- Warlock owes: Act in accordance with patron's morality, oppose fiends/undead, tithe 10% of earnings to good causes
+- Escape clause: Pact voids if warlock commits evil acts (Cha save DC = patron's level to resist void)
+- Hidden clause: "Evil acts" defined very strictly; killing in self-defense sometimes counts
+
+**Pact Milestones and Power Progression**
+
+As warlocks gain levels, patrons grant additional power but demand increased service:
+
+*Level 3 – Pact Boon Ritual:*
+- Patron summons warlock for private audience (in dreams, visions, or literal summoning to patron's realm)
+- Tests warlock's dedication through trial: combat, puzzle, moral choice, or endurance
+- Upon success, grants Pact Boon (Chain, Blade, Tome, Talisman, or Blood)
+- Failure: Warlock gains boon but takes permanent curse (DM choice)
+- From this point, patron considers warlock "invested asset" worthy of protection
+
+*Level 5 – First True Service:*
+- Patron assigns mission advancing its agenda
+- Fiends: Corrupt innocent, steal holy relic, assassinate rival warlock
+- Archfey: Retrieve item from Feywild, settle dispute, kidnap mortal child
+- Great Old One: Inscribe eldritch symbols in 13 locations, recruit mad cultists, open portal
+- Celestial: Slay evil creature, rescue innocents, consecrate temple
+- Refusing mission: Lose all spell slots for 1d6 days (Cha save DC 16 to halve)
+
+*Level 11 – Mystic Arcanum Awakening:*
+- Patron grants knowledge of 6th-level spell as reward for faithful service
+- Ceremony required: full day ritual costing 500 gp in components
+- Warlock must sacrifice something meaningful (magic item, memory, relationship)
+- Patron's presence felt more strongly—begins appearing in warlock's life directly through intermediaries
+
+*Level 13 – Mystic Arcanum II (7th level):*
+- Similar to level 11 but sacrifice must be greater (1,000 gp components, more significant personal loss)
+- Some warlocks begin questioning if power is worth cost
+
+*Level 15 – Mystic Arcanum III (8th level):*
+- Patron demands proof of absolute loyalty: betray friend, murder rival, or complete "impossible" quest
+- Cost: 2,000 gp components plus one permanent ability score reduction (-1 to any score except Cha)
+- Warlocks who refuse are marked as traitors—hunted by patron's servants
+
+*Level 17 – Mystic Arcanum IV (9th level) & True Name Revelation:*
+- Most powerful mortal-accessible magic granted
+- Patron reveals its True Name to warlock—sign of deep trust OR preparation for consumption
+- Cost: 5,000 gp ritual, permanent mutation (DM choice), warlock's own true name given to patron
+- From this moment, patron can *scry* on warlock at will without save
+
+*Level 20 – The Ascension Offer:*
+- Patron presents final choice: ascend to become fiend/fey/aberration/celestial, or remain mortal
+- **Ascension acceptance**: Warlock transforms into CR 15-20 outsider serving patron eternally; loses player character status but gains immortality and vast power
+- **Ascension refusal**: Patron respects decision (rare) OR attempts to claim warlock's soul immediately (common); warlock must survive confrontation or negotiate new terms
+- **Pact breaking attempt**: Requires legendary quest—find *wish* scroll, complete patron's greatest enemy's task, or sacrifice nine other warlocks' souls in your place
+
+**Patron Communication Methods**
+
+Patrons rarely manifest physically. Instead they contact warlocks through:
+
+*Dreams and nightmares:* Most common. Warlock experiences vivid visions during sleep containing instructions, warnings, or demands. Great Old One communications cause short-term madness (DC 13 Wisdom save).
+
+*Burned messages:* Warlocks wake to find messages burned into walls, furniture, or their own skin. Text smolders with eldritch fire that doesn't spread.
+
+*Possessed intermediaries:* Patron possesses willing cultist, bound imp, or random citizen to speak directly. After conversation, possessed individual has no memory (but may show burn marks or mutations).
+
+*Telepathic intrusion:* Sudden voices in warlock's head delivering orders. Can occur during combat, social encounters, or intimate moments (patron's discretion).
+
+*Sent servants:* Imps, quasits, sprites, or star spawn appear bearing sealed letters or verbal messages.
+
+*Patron manifestation:* Extremely rare before level 15. When patrons appear physically, reality warps around them. All creatures within 30 feet must succeed on Wisdom save (DC 15 + patron's CR/2) or be frightened. Archdekes, Archfey Lords, and Great Old Ones warrant even higher DCs.
+
+**Invocation Acquisition**
+
+Warlocks learn invocations through:
+
+*Natural progression:* At levels 2, 5, 7, 9, 12, 15, 18, 20, warlocks automatically gain invocations through patron revelation during meditation.
+
+*Purchase from guild:* Warlock Guild library contains invocation knowledge. Cost: 50 gp and one week training per invocation (must meet prerequisites).
+
+*Trade with other warlocks:* Warlocks can teach each other invocations through ritual exchange (one week, both warlocks learn each other's chosen invocation).
+
+*Patron gifts:* Occasionally patrons grant bonus invocations as rewards for exceptional service.
+
+*Forbidden tomes:* The Shadowed Athenaeum contains books teaching rare or homebrew invocations (DM discretion). Accessing these requires reputation with Enclave (3+ successful missions) and 100 gp bribe.
+
+**Pact-Specific Complications and Story Hooks**
+
+Each patron type creates ongoing narrative tension:
+
+**Fiend Pacts:**
+
+*Soul corruption progression:* Every time warlock uses invocations or spells for evil acts, DM tracks "corruption points." At 10/25/50/100 points:
+- 10 points: Minor mutation (glowing eyes, small horns grow larger, skin darkens)
+- 25 points: Personality shift (alignment moves one step toward patron's alignment)
+- 50 points: Major mutation (vestigial wings, horns double in size, speak Infernal in sleep)
+- 100 points: Transformation begins—warlock becoming fiend over 1d6 months unless reversed with *wish* or equivalent
+
+*Devil collectors:* Rival devils attempt to "purchase" warlock's contract from current patron. This manifests as competing offers: "Serve me instead and I'll grant you *+2 bonus to spell save DC* immediately!" Switching patrons requires new pact ritual and angers former patron (who sends assassins).
+
+*Infernal politics:* Warlock becomes pawn in Blood War or Nine Hells power struggles. Missions include: assassinating demon cultists, sabotaging rival archdevil's plans, retrieving soul-collection quotas.
+
+**Archfey Pacts:**
+
+*Seasonal mood swings:* Warlock's personality shifts with seasons:
+- Spring: Manic energy, impulsive decisions, advantage on Charisma checks
+- Summer: Aggressive, short-tempered, advantage on attack rolls
+- Autumn: Melancholy, introspective, advantage on Wisdom saves
+- Winter: Cold, calculating, advantage on Intelligence checks
+
+*Fey compulsions:* Archfey occasionally impose magical compulsions (as *geas* spell): "Dance at next full moon," "Speak only in rhyme for three days," "Steal something beautiful from nobleman."
+
+*Summoned to Feywild:* 1d4 times per year, patron summons warlock to perform service: judge fey beauty contest, hunt unseelie creatures, entertain court. Time in Feywild passes differently—warlock may "return" to find days, weeks, or months passed on Material Plane.
+
+**Great Old One Pacts:**
+
+*Madness accumulation:* Every time warlock gains level in warlock class, roll DC 10 Wisdom save. Failure: gain one indefinite madness (PHB p.260). Eventually, warlock becomes unplayable due to competing madnesses.
+
+*Alien compulsions:* Random moments when Great Old One's thoughts bleed through: "Build impossible geometry from bones in town square," "Speak backward for 24 hours," "Count every grain of sand on beach."
+
+*Reality distortion side effects:* Warlock's presence causes minor warping: milk spoils, mirrors crack, plants wither, animals flee. DC 12 Charisma save each morning to suppress effect for day.
+
+*Star spawn attraction:* Aberrations sense warlock's patron connection and seek them out—sometimes to serve, sometimes to destroy the "rival prophet."
+
+**Celestial Pacts:**
+
+*Moral restrictions:* Every evil act (even pragmatic ones like lying to save innocents) requires DC 13 Charisma save or lose all spell slots until atoned (requires *atonement* ritual or 24 hours prayer).
+
+*Jealous fiend-pact warlocks:* Veilport's fiend-pact majority harass celestial warlocks: vandalize property, spread rumors, occasionally attempt murder. Shadow Guard offers minimal protection.
+
+*Forced redemption missions:* Patron assigns quests to redeem evil individuals: "Convert the Black Hand assassin," "Save Vespera's soul." These often backfire catastrophically.
+
+*Divine judgment:* If warlock accumulates too many "evil" decisions, patron voids pact immediately. Warlock becomes ex-warlock (loses all class features until finding new patron or taking other classes).
+
+**Hexblade Pacts:**
+
+*Sentient weapon demands:* Hexblade weapon has personality and agenda. Conflicts arise: weapon wants to kill fleeing enemy, warlock wants prisoner; weapon craves blood, warlock prefers stealth.
+
+*Possession risks:* During high-stress moments (death saves, critical combat), weapon attempts to possess warlock (DC 14 Charisma save). Failure: weapon controls warlock for 1d4 rounds, attacking nearest creature.
+
+*Weapon's hidden agenda:* Hexblade serves Shadowfell entity with secret goals. Missions include: kill specific individuals (weapon won't explain why), collect souls, open Shadowfell portals.
+
+*Separation anxiety:* If separated from Hexblade weapon for more than 24 hours, warlock suffers one level exhaustion per day. Only re-bonding or new pact removes exhaustion.
+
 **8. The Threadbare (Slums / Refugee District)**
 
 Where the poor, desperate, and forgotten scrape by in crumbling tenements and shanty constructions against the city's inner walls. Halfling and gnome refugees from goblin raids, human peasants fleeing Regalor's wars, and failed merchants reduced to beggary crowd here. Disease is common (Constitution saves DC 12 to avoid contracting sewer plague after extended stays), and Shadow Guard patrols are rare—gangs rule the streets instead. Yet the Threadbare breeds resilience: many Free Veil Coalition members emerge from these slums, and underground fight clubs produce surprisingly skilled brawlers.
@@ -2443,7 +2939,402 @@ Pre-Cataclysmic ruins predating even the Lesser Cataclysm's Shadowkin occupation
 
 *Hazards:* Undead hordes, aberrations (aboleths, chuuls, gibbering mouthers), fiends, environmental dangers (collapsing ruins, toxic gases, extreme cold/heat from planar bleeding), and sheer depth (falls of 30-100 feet common).
 
+**The Vent Network: Veilport's Hidden Veins**
 
+Connecting all three vault levels and extending throughout the city is an extensive system of ventilation shafts, drainage channels, and maintenance tunnels collectively known as "the Veins" by those who navigate them. Originally constructed during the Pre-Cataclysmic Age to service ancient buildings and expanded during the Lesser Cataclysm for emergency evacuation routes, the vent network has become crucial to Veilport's underworld operations—and a deadly maze for the unprepared.
+
+**Physical Structure:**
+
+The vents range dramatically in size and purpose:
+
+- **Major Ventilation Shafts** (5-8 feet diameter): Vertical shafts rising from the Undervaults to rooftop grates, designed to channel air and remove toxic fumes from below. These feature iron rungs for maintenance access, though many are rusted or missing entirely (DC 12 Athletics to climb safely, DC 15 if rungs are damaged). Every 30 feet, horizontal maintenance ledges provide rest points—or ambush positions. The shafts produce a constant low whistle as air currents flow, masking sounds from below but alerting surface guards to unusual noises.
+
+- **Lateral Air Ducts** (2-4 feet diameter): Horizontal passages connecting buildings at street level and through the Undervaults. Originally meant for cross-ventilation, these narrow tunnels require crawling or squeezing (Medium creatures move at half speed; Large creatures cannot fit). Branching points create labyrinthine networks where navigation without mapping requires DC 15 Survival checks to avoid getting lost. Every 50 feet, junction chambers (just large enough to turn around) contain rusted access panels leading to basements, cisterns, or sewer mains.
+
+- **Drainage Channels** (3-5 feet wide, 6-8 feet high): Vaulted passages that collect rainwater runoff and sewage, routing it to underground cisterns or the bay. During Veilport's rare rainstorms (twice yearly during monsoon season), these flood with rushing water (DC 14 Strength [Athletics] to avoid being swept away; 2d6 bludgeoning damage if swept 30+ feet into grates or walls). When dry, they serve as smuggling highways, though the stench requires DC 12 Constitution saves to avoid nausea (disadvantage on ability checks for 1 hour).
+
+- **Steam Vents** (1-2 feet diameter): Narrow pipes venting heat from forges, alchemical workshops, and geothermal pockets beneath the Ember Quarter. These glow faintly with heat distortion and deal 1d6 fire damage per round of contact. Some are wide enough for Small creatures or extremely flexible rogues to navigate (DC 18 Acrobatics to squeeze through without touching superheated walls). Thieves occasionally use steam vents to reach high-security areas, accepting burns as the price of entry.
+
+**Strategic Importance:**
+
+The vent network serves multiple functions for Veilport's competing factions:
+
+*Shadow Syndicate Usage:*
+- **Smuggling Routes**: Contraband moves through drainage channels from Dockyards warehouses to Wet Market in the Undervaults without surface exposure. Syndicate Cutpurses know "the Red Path" (a specific route marked with red chalk visible only under dark vision) that bypasses Shadow Guard patrols.
+- **Escape Routes**: Black Hand assassins memorize vent entrances in target buildings. After a kill, they disappear into basement vents, emerging blocks away. Standard protocol: pre-position escape supplies (rope, healing potions, disguise kits) at vent junction caches.
+- **Surveillance Posts**: Major ventilation shafts include hidden spy holes into important buildings (Khan estates, merchant vaults, Coalition safehouses). Syndicate agents with *spider climb* or climbing gear stake out these positions during critical meetings, using *message* cantrips to relay intelligence to handlers below.
+
+*Free Veil Coalition Usage:*
+- **Underground Railroad**: The Coalition smuggles political refugees and escaped "voluntary laborers" (de facto slaves) through the vent network to safe houses in the Threadbare or out of the city entirely. Routes change monthly to stay ahead of Syndicate mapping.
+- **Sabotage Access**: Vent entrances in the Veilheart allow Coalition agents to plant explosives beneath Khan estates, poison water supplies to specific buildings, or access guard armories. The Coalition's greatest success—stealing Khan Zathros's infernal contract ledger—utilized steam vents too hot for most infiltrators (the rogue survived with 2 hp and *resistance* scrolls).
+- **Emergency Bolt-holes**: When Shadow Guard raids Coalition safe houses, escape through floor vents is standard procedure. Pre-cut basement panels lead to drainage channels; pursuers unfamiliar with the network get lost in branching passages while fugitives follow memorized routes.
+
+*City Infrastructure:*
+- **Waste Management**: Official sanitation crews (employed by Khan Ilyana, paid poorly, frequently bribed by Syndicate) maintain drainage channels, clearing blockages and repairing collapsed sections. They work in pairs for safety and carry *continual flame* lanterns.
+- **Fire Suppression**: During the rare city fires, volunteer brigades flood specific vent sections to create firebreaks. This occasionally drowns Undervault inhabitants, causing tensions between surface authorities and underground dwellers.
+- **Temperature Regulation**: Steam from the Ember Quarter's forges vents through controlled channels to heat noble estates in winter (Shadowkin hate cold despite infernal heritage). Sabotaging these vents has been used as both Coalition tactics and personal vendettas.
+
+### Named Warlock NPCs: Rivals, Mentors, and Adversaries
+
+Beyond the major political figures, Veilport's Warlock's Enclave hosts a hierarchy of practitioners ranging from desperate apprentices to powerful grandmasters. These individuals serve as potential rivals, mentors, allies, or antagonists for warlock player characters.
+
+**The Enclave Hierarchy**
+
+The Warlock's Enclave recognizes unofficial ranks based on power and achievement:
+
+- **Apprentices** (Levels 1-4): ~400 individuals, mostly desperate first-pact warlocks learning to control newfound power
+- **Adepts** (Levels 5-10): ~80 practitioners who've survived initial pact demands and proven competence
+- **Masters** (Levels 11-15): ~15 powerful warlocks commanding respect and training apprentices
+- **Grandmasters** (Levels 16-20): 5 individuals including Khan Mordai, Azarinth, and three others
+
+**Notable Apprentice-Level Warlocks (Levels 1-4)**
+
+**Kira Ashentongue** (Tiefling Female, Warlock [Fiend: Dispater] 3, LE)
+*Appearance:* Young (19 years), crimson skin, silver eyes, burns scarring left arm from failed first summoning
+*Pact Story:* Made desperate pact after gambling debts threatened family. Now works as Infernal Contract Guild scribe, copying pacts and learning loopholes
+*Personality:* Anxious overachiever, deeply insecure, envious of naturally talented warlocks
+*Role:* Potential early rival who steals credit for PC's accomplishments, or tragic figure needing rescue from predatory pact terms
+*Secret:* Dispater is slowly replacing her memories with fabricated ones; she doesn't remember her real name anymore
+
+**Theron Voidgazer** (Human Male, Warlock [Great Old One: Hastur] 2, CN)
+*Appearance:* Gaunt artist, prematurely gray hair at age 24, constantly sketching impossible geometries
+*Pact Story:* Accidentally contacted Hastur while researching Pre-Cataclysmic art. Now compelled to create works spreading madness
+*Personality:* Distracted, speaks in fragmented sentences, moments of disturbing clarity
+*Role:* Unreliable information source whose visions sometimes predict future, or vector for Hastur's influence
+*Secret:* His artwork causes short-term madness in viewers (DC 13 Wisdom save). He doesn't realize this and is confused why people avoid his gallery showings
+
+**Lyssa Moonwhisper** (Halfling Female, Warlock [Archfey: Summer Court Lady] 4, CG)
+*Appearance:* Cheerful, flower crown woven with real blossoms that never wilt, barefoot even in winter
+*Pact Story:* Wandered into Feywild as child, made innocent pact with Summer Lady. Now struggles with fey compulsions in morally gray Veilport
+*Personality:* Optimistic but naive, refuses to believe Veilport is "that bad," trusts easily
+*Role:* Potential friend and moral compass, or tragedy waiting to happen when she trusts wrong person
+*Secret:* Her patron demands she kidnap a mortal child every seven years for Feywild service. Her first collection is due in six months.
+
+**Notable Adept-Level Warlocks (Levels 5-10)**
+
+**Vex'nar Chainkeeper** (Tiefling Male, Warlock [Fiend: Mephistar] 8, LE)
+*Appearance:* Middle-aged, blue-gray skin, elaborate chain tattoos covering arms, cold analytical eyes
+*Pact Story:* Third-generation warlock in family pact. His grandmother negotiated original contract; he inherited obligation and power
+*Personality:* Clinical, treats relationships as contracts, surprisingly honorable within exact terms of agreements
+*Role:* Mentor figure who teaches pact law and negotiation tactics, or rival warlock lawyer in contract dispute
+*Secret:* Developing revolutionary pact termination theory that could free all Mephistar warlocks. Mephistar doesn't know yet.
+
+**Sable Nightwhisper** (Tiefling Female, Warlock [Hexblade: Shadow-Forged Blade] 9 / Rogue 2, NE)
+*Appearance:* Glasya bloodline, purple skin concealed under glamours, wields black greatsword wreathed in shadow
+*Pact Story:* Found sentient weapon in Shadowvein Tunnels, bonded immediately. Weapon sometimes controls her during combat
+*Personality:* Confident bordering on arrogant, combat-focused, dismissive of "weak" spellcaster warlocks
+*Role:* Rival in Enclave contests of skill, or ally for dungeon delving (if she's paid well)
+*Secret:* Her Hexblade is actually a trapped shadow dragon seeking to accumulate power to break free. She suspects but continues anyway.
+
+**Brother Caelum** (Half-Elf Male, Warlock [Celestial: Solar Azrael] 7, LG)
+*Appearance:* Simple white robes, golden eyes, bears scars from attacks by fiend-pact warlocks
+*Pact Story:* Former cleric whose goddess fell silent. Desperate prayer reached solar who offered new pact
+*Personality:* Earnest crusader trying to redeem Veilport, painfully aware he's losing
+*Role:* Source of healing and moral guidance, or annoying do-gooder who interferes with pragmatic solutions
+*Secret:* His patron is testing him—if he commits even minor evil "for greater good," pact voids instantly
+
+**Corvus Shadowmend** (Human Male, Warlock [Raven Queen] 10, LN)
+*Appearance:* Pale skin, black hair with white streak, ravens follow him everywhere
+*Pact Story:* Made pact after sister's murder, seeking power to hunt her killer. Succeeded, but Raven Queen won't release him
+*Personality:* Grim, death-obsessed, surprisingly compassionate toward dying/dead
+*Role:* Expert on undead and necromancy, potential ally against Deep Vault threats
+*Secret:* The Raven Queen is grooming him to become psychopomp (death escort). At level 15, he'll be offered immortal service or death.
+
+**Notable Master-Level Warlocks (Levels 11-15)**
+
+**Azarinth the Bonded** (Tiefling Male, Warlock [Fiend: Glasya] 15, LE) - Already detailed as Infernal Contract Guild leader
+
+**Thalia Vex** (Half-Elf Female, Wizard [Enchantment] 11, NE) - Already detailed as Crimson Quill owner (note: primarily wizard, not warlock, but included in Enclave hierarchy)
+
+**Magistrix Ysolde Painweaver** (Tiefling Female, Warlock [Fiend: Zariel] 13, LE)
+*Appearance:* Burnished bronze skin, filed horns forming crown-like shape, red robes embroidered with battle scenes
+*Pact Story:* Former Blood War combatant who served Zariel directly on Avernus battlefields. Retired to Veilport wealthy and scarred
+*Personality:* Brutal pragmatist, respects strength, despises weakness, excellent tactical instructor
+*Role:* Teaches combat-focused warlocks, potential patron for dangerous missions
+*Secret:* Secretly recruiting army for Zariel's eventual invasion of Material Plane. PCs might discover recruitment documents.
+
+**Archon Vel'karis** (Dragonborn Male, Warlock [Great Old One: Yog-Sothoth] 14, LN)
+*Appearance:* Silver scales turning translucent at edges, extra eyes opening/closing on neck, speaks slightly before being addressed (time perception issues)
+*Pact Story:* Sought forbidden knowledge about draconic origins, contacted Yog-Sothoth, now unstuck in time
+*Personality:* Confusing to interact with (responds to questions not yet asked, references conversations that haven't occurred), brilliant when lucid
+*Role:* Source of prophecy and planar knowledge, or tragic figure losing grip on linear reality
+*Secret:* Has witnessed his own death in three separate futures. Trying to avoid all three simultaneously.
+
+**Grandmaster NPCs (Levels 16-20)**
+
+**Khan Mordai Soulbinder** (Tiefling Male, Warlock [Fiend: Beleth] 16, LE) - Already detailed as Enclave Khan
+
+**Lord Infernus** (Tiefling Male, Warlock [Fiend: Mephistopheles] 18, LE)
+*Appearance:* Ancient (200+ years old, extended by pact magic), icy blue skin cracked like frozen glass, moves with painful stiffness
+*Pact Story:* One of oldest living warlocks in Mythara, made pact during Lesser Cataclysm's chaos
+*Personality:* Weary but cunning, has "seen everything twice," dispenses cynical wisdom
+*Role:* Retired power broker living in Enclave tower, occasionally advises promising warlocks
+*Secret:* Mephistopheles offered ascension to ice devil. He refused, buying 50-year extension instead. Extension expires in two years.
+
+**The Faceless One** (Unknown Race/Gender, Warlock [Great Old One: Unknown] 19, NE)
+*Appearance:* Wears full-face blank porcelain mask, shapeless robes, voice like rustling paper
+*Pact Story:* Unknown. Appeared in Veilport 30 years ago, was immediately recognized as grandmaster-level
+*Personality:* Cryptic, disturbing, helpful in incomprehensible ways
+*Role:* Mysterious figure who appears at crisis moments offering strange advice
+*Secret:* Is actually seven different warlocks sharing single identity through hivemind pact. Their individual patron is the Lurker in the Threshold.
+
+**Vespera Nightborn** (Tiefling Female, Rogue [Assassin] 12 / Warlock [Fiend: Mephistar] 8, LE) - Already detailed as High Khan; technically lower level than other grandmasters but politically supreme
+
+### The Chamber of Pacts: Detailed Description
+
+The Chamber of Pacts lies in the Warlock's Enclave's central building, a fortified structure of red marble inlaid with silver tracery depicting the Nine Hells, Feywild forests, Far Realm aberrations, and celestial hierarchies. Access requires:
+- Enclave membership (50 gp annual dues) OR
+- Sponsored invitation from current member OR
+- Emergency supplication (100 gp fee, reputation risk if patron rejects you publicly)
+
+**Exterior Approach**
+
+Visitors enter through ironbound doors (arcane locked, requires password changed weekly) flanked by two chain devil statues. These are actually bound devils (CR 8 each) that animate if intruders attack or attempt to force entry. The antechamber beyond features:
+
+- **Waiting benches**: Stone seats where nervous supplicants await their ritual time
+- **Contract review booths**: Four private rooms where infernal lawyers (warlocks 5-8) review pact terms for fees (25-100 gp)
+- **Component shop**: Small vendor stall selling ritual materials at marked-up prices (standard cost +50%)
+- **Guardian desk**: Two warlock guards (level 7-9) verify appointments, collect fees, and ensure weapons are peace-bonded
+
+**The Chamber Itself**
+
+The ritual room is a perfect circle, 40 feet in diameter with 20-foot vaulted ceiling. Architectural features:
+
+*Floor:* Black marble polished mirror-smooth, inlaid with four permanent *magic circles* in silver:
+- **North Circle** (red silver): Fiend summoning, 10-foot diameter, inscribed with Infernal script listing True Names of 66 lesser devils willing to offer pacts
+- **East Circle** (green silver): Fey summoning, 10-foot diameter, Sylvan script with moon phases and seasonal markers
+- **South Circle** (purple silver): Aberration contact, 10-foot diameter, non-Euclidean patterns that hurt to perceive (DC 12 Wisdom save or disadvantage on Perception for 1 hour)
+- **West Circle** (gold silver): Celestial summoning, 10-foot diameter, Celestial script rarely used (most angels refuse to offer pacts)
+
+*Ceiling:* Domed with illusory sky showing real-time star positions. During rituals, constellations align to patron type: red-burning stars for fiends, silver for fey, void-black for aberrations, radiant for celestials.
+
+*Walls:* Carved with cautionary reliefs showing pact successes (glorious ascensions, granted wishes) and failures (souls dragged to Nine Hells, warlocks transformed into lemures). Alcoves hold:
+- **Four braziers**: One per cardinal direction, burned with patron-specific incense during rituals
+- **Supply chests**: Backup ritual components (50 gp worth per chest, guarded by *glyph of warding* dealing 5d8 fire damage)
+- **Observation balcony**: Second-floor gallery where witnesses stand during public rituals (most are private)
+
+*Central Platform:* Raised dais 5 feet in diameter where supplicant stands. Platform is actually a *Stone of Far Speech* allowing direct communication with distant patrons who don't manifest physically.
+
+**Ritual Procedures**
+
+Standard pact ritual follows protocol:
+
+**Scheduling:**
+- Rituals must be scheduled minimum three days in advance
+- Cost: 100 gp facility fee + components (50-200 gp) + ritual leader fee (varies)
+- Time slots: Midnight (fiends), Dawn (celestials), Dusk (fey), Moonless nights only (aberrations)
+
+**Ritual Leader:**
+- Khan Mordai personally conducts grandmaster-level rituals (500 gp fee)
+- Master warlocks conduct standard rituals (100-250 gp fee)
+- Apprentices forbidden from leading but may observe as learning experience
+
+**Safety Protocols:**
+- All four magic circles are activated during ritual (preventing summoned entity from leaving designated circle)
+- *Forbiddance* spell prevents teleportation into/out of chamber during ritual
+- Emergency *dispel magic* glyph can banish summoned entities if ritual goes wrong (DC 19 to activate)
+- Clerics of Aelthar on standby in adjacent room (5 gp "insurance fee")—yes, even in evil-aligned Veilport
+
+**The Ritual Steps:** (Already detailed in earlier section, but specific to this physical space)
+
+1. **Purification**: Supplicant bathes in sanctified water (fiend pacts) or blessed oils (celestial), fast for 24 hours
+2. **Circle Selection**: Ritual leader determines which circle matches intended patron type
+3. **Component Placement**: Specific materials arranged around circle's perimeter per patron requirements
+4. **Invocation**: True Name spoken three times by supplicant while standing on central platform
+5. **Manifestation**: Entity appears within circle (or makes psychic contact for aberrations)
+6. **Negotiation**: Terms discussed—this is where infernal lawyer preparation matters
+7. **Binding**: Blood oath, signed contract, or soul-marking (varies by patron)
+8. **Sealing**: Platform glows, power flows into supplicant, pact mark appears on body
+
+**Famous Historical Rituals:**
+
+- **The Double Ascension** (1213 AE): Twin tieflings made simultaneous pacts with Dispater and Mammon, becoming legendary merchant-warlocks until both betrayed by patrons on same day
+- **The Refusal** (1189 AE): Archfey offered pact, supplicant declined after seeing hidden terms, archfey cursed entire Enclave with bad luck for a month
+- **The Celestial Massacre** (1156 AE): Solar attempted intervention during fiend pact ritual, resulting in three-hour battle that killed 12 warlocks before solar was banished
+- **The Breach** (1227 AE): Aberration broke containment circle, infected 40 witnesses with madness before being destroyed; Chamber closed for two years for re-consecration
+
+### Khan Vespera's Pact: The Mephistar Connection
+
+While Khan Vespera's statistics and role are detailed elsewhere, her pact specifics provide valuable parallels and contrasts for warlock protagonists:
+
+**Origin Story:** Vespera made her first pact at age 15 (young even for tieflings) after her parents were murdered by rival merchant family. Desperate for power to exact revenge, she performed unsanctioned summoning in abandoned warehouse using stolen components. Mephistar answered personally—unusual for Lord of the Eighth Hell to notice mere adolescent, but he recognized potential.
+
+**Original Pact Terms (Age 15, Warlock Level 1):**
+- **Grant**: Standard warlock powers, *eldritch blast* training, promise of future invocations
+- **Cost**: Soul upon death, service advancing Mephistar's goals, recruitment of minimum 10 other pacts over lifetime
+- **Special Clause**: Vespera must achieve "rulership of significant domain" by age 30 or pact voids and soul collected immediately
+- **Hidden Term**: Each person she recruits extends her lifespan by 10 years, incentivizing aggressive recruitment
+
+**Pact Evolution:**
+
+*Age 18 (Warlock 3):* Earned Pact of the Chain, granted imp familiar "Whisper-Talon" who serves as invisible spy. Mephistar assigned first major mission: infiltrate Shadow Syndicate.
+
+*Age 22 (Warlock 5):* Successfully became Shadow Syndicate Cutpurse. Mephistar revealed long-term plan: position her to seize Veilport khanate. Granted enhanced invocations supporting stealth and assassination.
+
+*Age 25 (Warlock 8, Rogue 8):* Achieved High Khan position through assassination and political maneuvering. Mephistar renegotiated pact:
+- **New Terms**: Soul collection delayed until natural death (potentially 200+ years for tieflings)
+- **Additional Power**: Full warlock progression to 20 promised if she maintains control of Veilport
+- **New Cost**: Must sacrifice one innocent life per month to maintain Mephistar's favor (she delegates to Black Hands)
+- **Secret Clause**: If she ever truly loves someone, that person's soul belongs to Mephistar (she doesn't know this yet)
+
+*Current Day (Age 37, Warlock 8 / Rogue 12):*
+Vespera has recruited 47 warlocks to Mephistar (exceeding quota), earned lifespan extension to 500+ years, and secured position as one of Mephistar's premier agents on Material Plane. However:
+
+**Her Pact Complications:**
+- **The Veiled Master Deception**: Mephistar requires her dual identity remain secret. If revealed, he considers her "compromised" and collects soul immediately.
+- **Romantic Weakness**: Her relationship with Admiral Kess Stormreaver triggers the hidden soul-theft clause. Mephistar is patiently waiting to spring this trap.
+- **Recruitment Pressure**: She must maintain recruitment quotas (2 new Mephistar warlocks per year minimum). Free Veil Coalition's interference makes this increasingly difficult.
+- **Divine Disfavor**: Serving both Mephistar and Shadrix creates theological tension. If either patron learns of divided loyalty, both might abandon her.
+
+**What Vespera Wants:**
+Ultimate goal: Break pact while retaining power. She's secretly researching pact termination methods, hiring adventurers to retrieve artifacts capable of soul liberation, and building power base strong enough to resist Mephistar's retaliation. She needs to reach warlock level 15 (access to 8th-level mystic arcanum and *demiplane*) before attempting break, estimated 5-8 years.
+
+**For PC Warlocks:** Vespera represents possible futures—success through ruthless pragmatism, but trapped by escalating pact demands. She might:
+- Mentor ambitious warlocks she sees as potential allies against patrons
+- Eliminate warlock PCs she perceives as threats to her rule
+- Secretly hire PCs to retrieve pact-breaking artifacts without revealing her identity
+- Test PC warlocks to see if they're Mephistar spies checking her loyalty
+
+### Warlock Progression Story Arcs by Level Tier
+
+Framework for structuring warlock protagonist journey from desperate novice to legendary power:
+
+**Tier 1: Apprentice Arc (Levels 1-4)**
+*Theme:* Survival and learning to control newfound power
+
+**Level 1 Story Beats:**
+- **The Desperation**: Establish why protagonist needs pact (revenge, survival, ambition, accident)
+- **The Calling**: First contact with patron through dreams/visions/ritual
+- **The First Ritual**: Chamber of Pacts ceremony, terms negotiated, pact sealed
+- **The Price Revealed**: First patron demand or pact complication
+- **Enclave Initiation**: Join Warlock's Enclave, meet rivals and potential mentors
+
+**Level 2-4 Story Beats:**
+- **Learning the Trade**: Training with mentor warlock, studying invocations
+- **First Mission**: Patron assigns task testing loyalty and capability
+- **Rival Emergence**: Another apprentice warlock becomes competitive threat
+- **Moral Choice**: Patron demands action conflicting with protagonist's values
+- **Tier Climax**: Complete significant task earning respect, choose pact boon (level 3), survive first major threat
+
+**Tier 2: Journeyman Arc (Levels 5-10)**
+*Theme:* Rising power and choosing allegiances
+
+**Level 5-7 Story Beats:**
+- **Faction Choice**: Forced to pick side between Shadow Syndicate, Free Veil Coalition, or neutral path
+- **Rival Escalation**: Competing warlock becomes serious threat, possibly backed by rival patron
+- **Patron Demands Increase**: More frequent missions, higher stakes, personal costs
+- **Romance/Relationships**: Form connections despite patron's jealous interference
+- **Political Involvement**: Drawn into Veilport power struggles, must navigate khan politics
+
+**Level 8-10 Story Beats:**
+- **Master Recognition**: Enclave acknowledges protagonist as rising power
+- **Betrayal**: Ally reveals hidden agenda or patron springs trap
+- **Major Victory**: Achieve significant goal (destroy rival, save innocents, win political battle)
+- **Pact Revelation**: Learn disturbing truth about pact terms or patron's true agenda
+- **Tier Climax**: Confrontation with powerful enemy (level 10-12 NPC), survive mystic arcanum awakening ritual (level 11 ritual happens here narratively)
+
+**Tier 3: Master Arc (Levels 11-16)**
+*Theme:* Mastering power while resisting pact's corruption
+
+**Level 11-13 Story Beats:**
+- **Mystic Arcanum Awakening**: Gain 6th and 7th level spells through painful rituals
+- **Mentor's Fall**: Previous mentor dies, ascends, or betrays protagonist
+- **Apprentice Responsibility**: Train younger warlocks, pass on knowledge
+- **Patron's True Form**: First direct meeting with patron (not intermediary)
+- **Faction Leadership**: Rise to command position in Syndicate, Coalition, or Enclave hierarchy
+
+**Level 14-16 Story Beats:**
+- **Pact Consequences**: Physical/mental changes from pact become severe
+- **Rival's Ascension**: Main rival gains similar power level, becomes arch-enemy
+- **Political Crisis**: Veilport power struggle reaches climax, must choose final allegiance
+- **Love Threatened**: Patron targets loved ones to maintain control
+- **Tier Climax**: Major battle (possibly participating in Khan succession conflict or Coalition coup attempt)
+
+**Tier 4: Grandmaster Arc (Levels 17-20)**
+*Theme:* Legacy, ascension, or liberation
+
+**Level 17-19 Story Beats:**
+- **True Name Exchange**: Patron reveals its True Name (or protagonist discovers it)
+- **Ascension Temptation**: Patron offers transformation into fiend/fey/aberration
+- **Final Arcanum**: Gain 8th and 9th level spells at terrible personal cost
+- **Mentor Return**: Previous mentor returns as antagonist, testing final lesson
+- **Warlock Council**: Join Grandmaster tier, influence Veilport's arcane politics
+
+**Level 20 Story Beats:**
+- **The Choice**: Accept ascension, attempt pact break, or negotiate new terms
+- **Final Confrontation**: Battle patron's forces, rival warlocks, or patron itself
+- **Veilport's Fate**: Determine city's future—maintain status quo, liberate, or claim as personal domain
+- **Legacy**: What mark does protagonist leave? Reformed pact system? Destroyed Enclave? United warlocks against patrons?
+
+**Possible Endings:**
+- **Ascension**: Become immortal outsider serving patron eternally (bittersweet)
+- **Liberation**: Break pact successfully, retain some power, possibly help others break theirs (heroic)
+- **Rule**: Claim Khan position or Syndicate control, maintain pact but on equal terms with patron (pragmatic)
+- **Sacrifice**: Give life to stop patron's invasion/corruption, save Veilport (tragic heroic)
+- **Transcendence**: Achieve power rivaling patron, renegotiate as equals (legendary)
+
+**Inhabitants and Hazards:**
+
+The vent network is anything but empty:
+
+*Mundane Threats:*
+- **Dire Rats and Swarms**: Standard giant rats infest upper vents; truly enormous dire rats (CR 1/8 but pack tactics) claim deeper territories. Rat swarms (CR 1/4) boil out of grates when disturbed, disease vectors that spread sewer plague (DC 12 Con save or contract disease; symptoms in 1d4 days).
+- **Vagrants and Outcasts**: The homeless, fugitives, and social pariahs shelter in vent junction chambers and abandoned drainage sections. Most are harmless—desperate folk seeking safety from surface persecution. Some, however, have gone feral from isolation and attack intruders with improvised weapons and disease-ridden bites.
+- **Vent Gangs**: Two major groups control specific territories: The **Rust Runners** (orphans and street urchins, CN, extort tolls but generally non-lethal) and **The Deep Breathers** (mask-wearing outcasts, NE, rob and murder trespassers). Encounters with vent gangs require negotiation or combat; both know their territories intimately and use chokepoints, ambush positions, and trapped grates.
+
+*Supernatural Threats:*
+- **Gelatinous Cubes**: In particularly large drainage intersections, these oozes lurk motionless, nearly invisible in the darkness (DC 15 Perception to notice before making contact). They slowly patrol set routes, digesting organic blockages—and hapless vent travelers. Syndicate veterans know the cubes' schedules and avoid those passages during feeding times.
+- **Shadows and Wraiths**: Undead from the Deep Vaults occasionally drift upward through vertical shafts, draining life from those caught in narrow passages with no escape. Shadows particularly favor vertical vent ambushes—victims climbing iron rungs have no space to maneuver and disadvantage on attack rolls.
+- **Lurking Aberrations**: Gricks nest in junction chambers near the Middle Vaults, their rubbery bodies perfect for vent navigation. They drop from above on victims in narrow tunnels where space prevents group defense. Darkmantles mimic rust stains on vent ceilings, falling on lone travelers.
+- **Bound Air Elementals**: Pre-Cataclysmic ventilation systems used bound elementals to circulate air. Some remain, driven mad by millennia of imprisonment, manifesting as violent windstorms in major shafts (creatures caught must succeed DC 14 Strength save or be blown 3d6 × 10 feet up or down shaft; fall damage applies).
+
+**Vent Navigation and Mechanics:**
+
+For parties attempting to use the vent network, DMs should consider:
+
+*Mapping and Navigation:*
+- Without a guide or accurate map, navigating requires DC 15 Survival checks every 30 minutes. Failure means wrong turns adding 1d4 × 10 minutes to travel time. Three consecutive failures means hopelessly lost until backtracking to a known landmark.
+- Thieves' Cant markings exist throughout: Syndicate routes marked with specific symbols visible only to those who know the code, Coalition marks in different pattern. Recognizing these requires proficiency in Thieves' Cant and DC 12 Investigation.
+- *Clairvoyance*, *arcane eye*, and *scrying* spells are invaluable for scouting routes ahead. However, vent intersections create magical dead zones where Pre-Cataclysmic wards interfere (20% chance per casting that divination magic fails).
+
+*Movement and Claustrophobia:*
+- In 2-4 foot ducts, Medium creatures crawl at 5 feet per round (10 feet if they dash, making noise). Small creatures move normally. Heavily armored characters must remove plate or half-plate armor to fit (or make DC 16 Strength checks to force through, taking 1d4 bludgeoning damage per 10 feet from scraping).
+- Vertical climbs require Athletics checks as noted above. Falling down ventilation shafts causes standard falling damage plus potential landing on grates, rusted spikes, or fellow climbers (additional 1d6 piercing damage, DC 14 Dex save).
+- Characters with claustrophobia (DM's call or background trait) must make DC 10 Wisdom saves when entering narrow passages or suffer frightened condition until exiting to larger space.
+
+*Environmental Dangers:*
+- **Toxic Fumes**: In areas near alchemical workshops or geothermal vents, DC 13 Constitution saves required every 10 minutes or take 1d6 poison damage and gain one level of exhaustion. *Protection from poison* grants advantage; wet cloths over mouth/nose grant +2 to save.
+- **Flooding**: During rainstorms, lower drainage channels fill rapidly. Sudden flooding gives one round warning (DC 15 Perception to hear rushing water) before 5-foot-high water surge arrives (DC 14 Strength [Athletics] to avoid being swept away; swept creatures take 2d6 bludgeoning damage and move 4d6 × 10 feet toward bay outflows or underground cisterns).
+- **Steam Bursts**: Near forges, periodic steam releases from pressure valves deal 2d6 fire damage to all in 10-foot radius (DC 13 Dex save for half). Warning signs include hissing sounds and temperature spikes (DC 12 Perception to notice 1 round before release).
+- **Collapsing Infrastructure**: Pre-Cataclysmic sections are millennia old. Weight limits apply: more than 500 lbs on rusted grates triggers DC 15 Dexterity saves or fall through to next level (10-30 feet, standard falling damage). Metallic creaking gives one round warning (DC 13 Perception).
+
+**Strategic Vent Locations:**
+
+Specific vent access points hold tactical importance:
+
+1. **The Whisper Gap** (connection between House of Whispered Bargains and Middle Vaults): A 40-foot vertical shaft with missing rungs requiring rope or *spider climb* to navigate. Used by both Vespera (as Veiled Master) and Coalition spies attempting to infiltrate Syndicate headquarters. Heavy magical wards (*alarm*, *glyph of warding*) on lower exit.
+
+2. **Khan's Breath** (steam vent beneath Chains of Command): Direct route to Vespera's palace basement, but superheated (3d6 fire damage per round) and physically exhausting (DC 15 Constitution saves every round or gain exhaustion level). Only accessible during forge "cool-down" periods (30-minute windows at dawn and dusk when forges are banked).
+
+3. **The Rat King's Court** (major junction in Upper Vaults): A 20-foot-diameter spherical chamber where eight vents converge, controlled by vagrant leader "Rat King Sevik" (human male, rogue 5, CN). Sevik charges 5 gp per person for passage rights and accurate route information. Attempting to bypass his tolls means confronting his gang of 20 orphans and 8 dire rats.
+
+4. **Drowning Throat** (drainage channel to bay): Emergency exit from Undervaults to bay waters, used by smugglers to load/unload contraband from rowboats. Grate at bay end opens only from inside (secret release mechanism, DC 18 Investigation to locate). Tides create time limits—passable only during low tide (4-hour windows twice daily); during high tide, passage floods completely (automatic drowning for those caught inside without *water breathing*).
+
+5. **The Screaming Vent** (shaft haunted by wraith): Vertical shaft in Shadowveil district produces unnatural wailing sounds (wraith's death scream echoing eternally). The wraith, **Lysara the Betrayed** (CR 5), ambushes climbers at the 50-foot level where her corpse is embedded in the shaft wall. Coalition avoids this route; Syndicate sends expendable Cutpurses as sacrifices when they need to pass (wraith sated for 1 week after feeding).
+
+**Adventure Hooks Using the Vent Network:**
+
+- **The Lost Cartographer**: A Coalition spy went into the vents three days ago to map new Syndicate routes and never returned. His notes are crucial—they include the location of the Black Vault. The party must navigate the vents, find his body (probably in a gelatinous cube), and recover the incomplete map before Syndicate discovers the breach.
+
+- **Vent Race**: Both Coalition and Syndicate learn of a Pre-Cataclysmic artifact in the Deep Vaults. The fastest route requires navigating Khan's Breath (the superheated vent). Hired by one faction, the party must beat rivals while surviving environmental damage and potential cave-ins.
+
+- **Pest Control Gone Wrong**: Sanitation crews accidentally disturbed a nest of gricks. The creatures fled upward into populated areas. Party hired to enter the vents, track the gricks to their new nest, and eliminate them—but the nest is in a vent directly above Shadow Council Chambers, presenting surveillance opportunities.
+
+- **Vent Siege**: Free Veil Coalition plans massive strike using the vent network to simultaneously hit multiple Syndicate locations. They need skilled infiltrators to guide strike teams through the Veins. If the party succeeds, Veilport's balance of power shifts dramatically.
+
+- **The Breathing Sickness**: A plague spreads through the Threadbare district, carried by vent air from something dying/decaying in the Undervaults. Investigation leads to a dead aboleth's thrall releasing airborne spores. Cure requires descending to the source through flooding vents while infected populace riots above.
+
+The vent network transforms Veilport from a two-dimensional city map into a three-dimensional maze where skilled rogues, desperate fugitives, and clever parties can outmaneuver more powerful opponents. It also provides constant tension—any basement, any grate, any floor panel might conceal a hidden passage to the city's dark heart.
 
 **Daily Life in Veilport**
 
