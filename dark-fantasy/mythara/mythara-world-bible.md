@@ -447,21 +447,21 @@ The Nine frequently watch mortal events together and place bets on outcomes, sub
 
 ## Lesser Deities, Demigods, or Exarchs
 
-While the Ninefold Pantheon holds supreme and equal dominion over Mythara, they are not alone in the cosmos. Beneath them exist lesser divine beings—exarchs, exalted mortals, demon lords, archfey, and elemental princes—who serve as proxies, champions, or rivals. These entities lack the raw power of the Nine but wield significant influence through cults, pacts, and direct manifestation. They rarely challenge the Nine openly (for fear of cosmic retribution) yet pursue their own agendas, often amplifying or twisting their patron'€™s alignment. Warlocks frequently bind to these beings as '€œotherworldly'€ patrons, clerics may receive diluted spells from exarchs, and paladins sometimes swear oaths to exalted heroes.
+While the Ninefold Pantheon holds supreme and equal dominion over Mythara, they are not alone in the cosmos. Beneath them exist lesser divine beings—exarchs, exalted mortals, demon lords, archfey, and elemental princes—who serve as proxies, champions, or rivals. These entities lack the raw power of the Nine but wield significant influence through cults, pacts, and direct manifestation. They rarely challenge the Nine openly (for fear of cosmic retribution) yet pursue their own agendas, often amplifying or twisting their patron's alignment. Warlocks frequently bind to these beings as '€œotherworldly'€ patrons, clerics may receive diluted spells from exarchs, and paladins sometimes swear oaths to exalted heroes.
 
 ### Exarchs and Chosen of the Nine
 
 **The Dawnblade (Exarch of Aelthar)**  
-An exalted human paladin who, centuries ago, single-handedly held Shieldfall Crag against a Ruinok-spawned horde. Ascended as Aelthar'€™s martial champion, the Dawnblade manifests as a radiant armored figure wielding a fragment of the Blade of Dawn'€™s Resolve. Paladins who swear the Oath of the Dawnblade gain enhanced auras against fiends.
+An exalted human paladin who, centuries ago, single-handedly held Shieldfall Crag against a Ruinok-spawned horde. Ascended as Aelthar's martial champion, the Dawnblade manifests as a radiant armored figure wielding a fragment of the Blade of Dawn's Resolve. Paladins who swear the Oath of the Dawnblade gain enhanced auras against fiends.
 
 **The Iron Arbiter (Exarch of Rigoran)**  
 A genderless construct of living steel forged from the Scales of Immutable Judgment. It appears only during unbreakable trials, enforcing contracts with mechanical precision. Monks and magistrates invoke it for perfect impartiality.
 
 **The Chain Sovereign (Exarch of Dominara)**  
-A towering chain devil bound eternally to Dominara'€™s will, granted limited divinity. It whispers tyrannical strategies to God-Queen Xipilli and manifests to crush rebellions.
+A towering chain devil bound eternally to Dominara's will, granted limited divinity. It whispers tyrannical strategies to God-Queen Xipilli and manifests to crush rebellions.
 
 **The Verdant Heart (Exarch of Harmona)**  
-A treant-like being grown from the Eternal Grove'€™s central oak, embodying collective restoration. Druids of exceptional mercy may awaken as its aspects, healing entire battlefields.
+A treant-like being grown from the Eternal Grove's central oak, embodying collective restoration. Druids of exceptional mercy may awaken as its aspects, healing entire battlefields.
 
 **The Eternal Watcher (Exarch of Equilon)**  
 A floating hourglass-headed outsider that records every act of balance or imbalance. Wizards and rangers who preserve neutrality may receive its silent guidance.
@@ -470,10 +470,10 @@ A floating hourglass-headed outsider that records every act of balance or imbala
 A masked figure said to have won a game against Shadrix himself, now eternally bound to enforce infernal bargains. Warlocks of the Fiend patron often contact it for loophole-free pacts.
 
 **The Stormborn (Exarch of Liberon)**  
-A chaotic storm giant quintessent who was once a mortal berserker raised by Liberon'€™s lightning. It leads uprisings and grants thunder resistance to freedom fighters.
+A chaotic storm giant quintessent who was once a mortal berserker raised by Liberon's lightning. It leads uprisings and grants thunder resistance to freedom fighters.
 
 **The Mad Cap (Exarch of Whirlvex)**  
-A perpetually laughing harlequin archfey who dances through Whirlvex'€™s revels. Bards who embrace pure caprice may become its temporary avatars, triggering wild magic surges at will.
+A perpetually laughing harlequin archfey who dances through Whirlvex's revels. Bards who embrace pure caprice may become its temporary avatars, triggering wild magic surges at will.
 
 **The Ash Lord (Exarch of Ruinok)**  
 A balor-like entity wreathed in necrotic flame, once a mortal destroyer exalted for annihilating an entire kingdom. It empowers the Ash-Crowned and grants death throes to fanatical followers.
@@ -483,11 +483,11 @@ Exarchs often use multiple titles depending on their current manifestation and r
 
 ### Notable Independent or Oppositional Powers
 
-**Yeenoghu'€™s Gnawbone (Demon Lord Influence)**  
+**Yeenoghu's Gnawbone (Demon Lord Influence)**  
 Though not native to Mythara, the Demon Lord of Gnolls extends influence through Gnawbone the Laughing King on the Death Hyena Plains, granting fangs and demonic rage.
 
-**Zuggtmoy'€™s Rotmother (Demon Lady of Fungi)**  
-An aspect of the Lady of Rot infests the Venomroot Jungle'€™s deepest fungal blooms, twisting vegepygmies and myconids into spore-servants.
+**Zuggtmoy's Rotmother (Demon Lady of Fungi)**  
+An aspect of the Lady of Rot infests the Venomroot Jungle's deepest fungal blooms, twisting vegepygmies and myconids into spore-servants.
 
 **Imix, Prince of Evil Fire**  
 An elemental prince whose ember courts lie beneath the Wyrmskull Vaults, tempting dragonborn sorcerers with pyromantic power.
@@ -496,9 +496,9 @@ An elemental prince whose ember courts lie beneath the Wyrmskull Vaults, temptin
 Rules the Sunken Planar Rift in the Kraken Depths through Vorathrax, flooding minds with tidal madness.
 
 **The Queen of Air and Darkness (Archfey Opponent to Whirlvex)**  
-A shadowy Unseelie ruler whose influence seeps through the Dreamroot Labyrinth, luring travelers into eternal winter courts that mock Whirlvex'€™s chaotic joy.
+A shadowy Unseelie ruler whose influence seeps through the Dreamroot Labyrinth, luring travelers into eternal winter courts that mock Whirlvex's chaotic joy.
 
-These lesser powers provide warlock patrons beyond the Nine, optional oath targets for paladins, and epic threats for high-level campaigns. They act with the Nine'€™s tacit permission—maintaining cosmic tension without outright rebellion—ensuring that divine intrigue remains layered and perilous.
+These lesser powers provide warlock patrons beyond the Nine, optional oath targets for paladins, and epic threats for high-level campaigns. They act with the Nine's tacit permission—maintaining cosmic tension without outright rebellion—ensuring that divine intrigue remains layered and perilous.
 
 
 > **Exarch Current Activities and Manifestation**
@@ -946,7 +946,7 @@ Dedicated to mapping ruins, retrieving lost artifacts, and charting wilderness p
 
 - **Primary Headquarters**: The Charted Hall in Crownspire (a sprawling wing of the royal palace filled with maps and trophy displays), with major chapterhouses in Silverport and Veilport.
 - **Current Leader**: Grand Pathfinder Rhen Silverquill (human ranger (Hunter) 16 / rogue 4), a scarred veteran of the Sunken Citadels who rose through merit after mapping the Labyrinth of Ebonridge.
-- **Membership Requirements**: Prospective members must present proof of a completed delve (e.g., a mimic trophy or gelatinous cube residue) and swear an oath of accurate reporting before Equilon'€™s altar.
+- **Membership Requirements**: Prospective members must present proof of a completed delve (e.g., a mimic trophy or gelatinous cube residue) and swear an oath of accurate reporting before Equilon's altar.
 - **Internal Hierarchy**: Pathfinders (leaders), Trailblazers (veteran delvers), Scouts (full members), and Initiates. Advancement comes through documented discoveries, rewarded with feats like Dungeon Delver or Alert.
 
 ### Shadow Syndicates
@@ -981,8 +981,8 @@ Druid circles and ranger alliances devoted to protecting wild places and maintai
 Lawful good orders of paladins and clerics sworn to Aelthar, crusading against evil and protecting the innocent.
 
 - **Primary Headquarters**: The Radiant Bastion in Crownspire, with fortified chapterhouses at Shieldfall Crag and Edgewatch.
-- **Current Leader**: Grand Master Ser Eldric Dawnsworn (human paladin (Oath of Devotion) 19), a living legend who wields a replica of the Blade of Dawn'€™s Resolve.
-- **Membership Requirements**: Swear the Oath of Devotion before Aelthar'€™s altar, complete a vigil against undead or fiends, and donate a magic weapon to the order.
+- **Current Leader**: Grand Master Ser Eldric Dawnsworn (human paladin (Oath of Devotion) 19), a living legend who wields a replica of the Blade of Dawn's Resolve.
+- **Membership Requirements**: Swear the Oath of Devotion before Aelthar's altar, complete a vigil against undead or fiends, and donate a magic weapon to the order.
 - **Internal Hierarchy**: Grand Master, Oath Captains (regional commanders), Shield Knights (full paladins), Squires (training clerics and fighters). Epic boons and feats like Sentinel are bestowed for heroic deeds.
 
 ### Other Notable Factions
@@ -991,12 +991,12 @@ Lawful good orders of paladins and clerics sworn to Aelthar, crusading against e
 - **Leadership**: Varies by contract; the largest, the Iron Tempest, is led by Captain Brynja Steelwind (half-orc fighter (Champion) 15 / barbarian 5) from a mobile camp in the Wanderer Territories.
 
 **Bardic Colleges**  
-- **Leadership**: Master of Tales Vaelin Stormvoice (elf bard (College of Lore) 16) in Thunderhaven'€™s mead halls, spreading propaganda and history.
+- **Leadership**: Master of Tales Vaelin Stormvoice (elf bard (College of Lore) 16) in Thunderhaven's mead halls, spreading propaganda and history.
 
 **Monastic Orders**  
-- **Leadership**: Grand Abbot Torvald Ironmind (dwarf monk (Open Hand) 17) in the Scales of Eternity, enforcing Rigoran'€™s neutral laws with disciplined fists.
+- **Leadership**: Grand Abbot Torvald Ironmind (dwarf monk (Open Hand) 17) in the Scales of Eternity, enforcing Rigoran's neutral laws with disciplined fists.
 
-These factions offer adventurers patronage, training, and rivalries—joining one often means opposing another. Their leaders'€™ decisions influence wars and trade alike, turning personal ambition into continental consequences under the watchful eyes of the Nine.
+These factions offer adventurers patronage, training, and rivalries—joining one often means opposing another. Their leaders' decisions influence wars and trade alike, turning personal ambition into continental consequences under the watchful eyes of the Nine.
 
 ### Conflicts
 
@@ -1014,45 +1014,45 @@ The Arcanum Epoch is an age of simmering tensions and open warfare, where divine
 
 ### The Western Frontier War (Regalor vs. Goblin Wastes and Grimwald Hills)
 
-King Valorian Brightblade'€™s expansionist policies have ignited a protracted border war along the Frontier Marches and Goblin Wastes.
+King Valorian Brightblade's expansionist policies have ignited a protracted border war along the Frontier Marches and Goblin Wastes.
 
-- **Primary Belligerents**: Regalor (led by Valorian and Tharok One-Eye'€™s marchers) and allied Arcanite settlements versus the Ash-Crowned'€™s unified goblin tribes and opportunistic Grimwald warbands under Elyndra the Pale Whisper.
-- **Recent Events**: Two years ago, goblin raiders sacked Edgewatch'€™s outer farms, prompting a retaliatory crusade that burned three wastelands strongholds. Last spring, Grimwald shadow warriors ambushed a Regalor supply column in the Thornskull Thickets, slaying two hundred knights. Currently, Regalor besieges a goblin redoubt near Ruinfort, while Elyndra'€™s wraiths harass northern patrols.
-- **Current State**: Stalemate—Regalor holds the Crown Road but cannot push deeper without overextending. Aelthar'€™s paladins bolster morale, but Ruinok'€™s blessings grant goblins fanatical resilience. Skirmishes occur weekly, with winter slowing major offensives.
+- **Primary Belligerents**: Regalor (led by Valorian and Tharok One-Eye's marchers) and allied Arcanite settlements versus the Ash-Crowned's unified goblin tribes and opportunistic Grimwald warbands under Elyndra the Pale Whisper.
+- **Recent Events**: Two years ago, goblin raiders sacked Edgewatch's outer farms, prompting a retaliatory crusade that burned three wastelands strongholds. Last spring, Grimwald shadow warriors ambushed a Regalor supply column in the Thornskull Thickets, slaying two hundred knights. Currently, Regalor besieges a goblin redoubt near Ruinfort, while Elyndra's wraiths harass northern patrols.
+- **Current State**: Stalemate—Regalor holds the Crown Road but cannot push deeper without overextending. Aelthar's paladins bolster morale, but Ruinok's blessings grant goblins fanatical resilience. Skirmishes occur weekly, with winter slowing major offensives.
 
 ### The Inner Bay Trade War (Regalor vs. Bayhaven)
 
 Economic rivalry has escalated into naval raids and caravan ambushes as both powers vie for dominance over Inner Bay commerce.
 
-- **Primary Belligerents**: Regalor'€™s river fleet and Crownspire merchants versus Khan Vespera Nightborn'€™s Shadowkin corsairs and Veilport syndicates.
+- **Primary Belligerents**: Regalor's river fleet and Crownspire merchants versus Khan Vespera Nightborn's Shadowkin corsairs and Veilport syndicates.
 - **Recent Events**: Last year, Shadowkin privateers seized three Crownspire grain barges, prompting retaliatory seizures of Veilport spice ships. Captain Draven Blackwake (nominally neutral) has been hired by both sides for deniable raids. A failed assassination attempt on Archmage Lirael Starweave—traced to Shadrix-aligned agents—nearly sparked open war six months ago.
-- **Current State**: Cold war with hot flashes—trade continues under heavy escort, but sabotage and espionage are rampant. Harmona'€™s mediators prevent total embargo, but tensions rise with each captured vessel.
+- **Current State**: Cold war with hot flashes—trade continues under heavy escort, but sabotage and espionage are rampant. Harmona's mediators prevent total embargo, but tensions rise with each captured vessel.
 
 ### The Northern Clan Feud (Stormland vs. Frostrealm)
 
 Ancient sibling rivalry between crimson-haired Stormkin and golden-haired Frostkin flares periodically over glacial mining rights and fjord fishing grounds.
 
-- **Primary Belligerents**: Jarl Yrsa Stormcaller'€™s raiders versus High Oracle Kael Frostveil'€™s disciplined legions.
-- **Recent Events**: A Stormkin longship raid on Glacierhold'€™s outer mines last winter claimed cold-iron stockpiles, answered by a Frostkin counter-raid that burned two Stormland coastal villages. Whirlvex'€™s chaotic omens have prolonged the feud with unseasonal storms.
-- **Current State**: Low-intensity raiding—neither side seeks total war, but pride prevents peace. Equilon'€™s priests attempt mediation at the Nexus of Balance, with limited success.
+- **Primary Belligerents**: Jarl Yrsa Stormcaller's raiders versus High Oracle Kael Frostveil's disciplined legions.
+- **Recent Events**: A Stormkin longship raid on Glacierhold's outer mines last winter claimed cold-iron stockpiles, answered by a Frostkin counter-raid that burned two Stormland coastal villages. Whirlvex's chaotic omens have prolonged the feud with unseasonal storms.
+- **Current State**: Low-intensity raiding—neither side seeks total war, but pride prevents peace. Equilon's priests attempt mediation at the Nexus of Balance, with limited success.
 
 ### The Southern Coiled Incursion (Serpentis vs. Ebony Realms)
 
-God-Queen Xipilli'€™s expansionist theocracy clashes with matriarchal warrior kingdoms pushing north from beyond the Coiled Barrier.
+God-Queen Xipilli's expansionist theocracy clashes with matriarchal warrior kingdoms pushing north from beyond the Coiled Barrier.
 
-- **Primary Belligerents**: Serpentis forces (yuan-ti elite commanding legions of Serpentan human soldiers, with medusa and naga support) and Dominara cultists versus the ebony Warrior Queens'€™ amazon phalanxes and Darklander hyena-riders.
+- **Primary Belligerents**: Serpentis forces (yuan-ti elite commanding legions of Serpentan human soldiers, with medusa and naga support) and Dominara cultists versus the ebony Warrior Queens' amazon phalanxes and Darklander hyena-riders.
 - **Recent Events**: Three years ago, Serpentis forces seized a border oasis, enslaving its defenders. Last summer, ebony raiders sacked a Coilkeep-allied jungle outpost, taking medusa heads as trophies. Couatl sightings have increased, hinting at divine displeasure with both sides.
 - **Current State**: Active border war—Serpentis advances slowly through jungle skirmishes, while ebony forces stage lightning raids. Wanderer mercenaries fight for both sides, prolonging the stalemate.
 
 ### The Veilport Succession Crisis (Internal Bayhaven Conflict)
 
-Khan Vespera Nightborn'€™s iron rule faces growing opposition from merchant clans seeking greater autonomy.
+Khan Vespera Nightborn's iron rule faces growing opposition from merchant clans seeking greater autonomy.
 
-- **Primary Belligerents**: Vespera'€™s loyalists (Shadrix warlocks and assassins) versus the Free Veil Coalition (rogues, bards, and disillusioned sorcerers).
-- **Recent Events**: An attempted coup nine months ago failed when Vespera'€™s chains animated and crushed rebels in the House of Whispered Bargains. Coalition agents now wage guerrilla war in the bazaars.
+- **Primary Belligerents**: Vespera's loyalists (Shadrix warlocks and assassins) versus the Free Veil Coalition (rogues, bards, and disillusioned sorcerers).
+- **Recent Events**: An attempted coup nine months ago failed when Vespera's chains animated and crushed rebels in the House of Whispered Bargains. Coalition agents now wage guerrilla war in the bazaars.
 - **Current State**: Simmering civil strife—public order holds, but assassinations and disappearances are nightly occurrences. External powers (Regalor spies, Zenthara opportunists) quietly fan the flames.
 
-These conflicts define the precarious balance of power in the Arcanum Epoch. Temporary truces form and shatter with divine portents—Harmona'€™s green auroras signal hope for peace, while Ruinok'€™s crimson streaks promise escalation. Adventurers find endless employment as mercenaries, spies, or mediators, their deeds often tipping local scales and drawing the distant attention of the Nine.
+These conflicts define the precarious balance of power in the Arcanum Epoch. Temporary truces form and shatter with divine portents—Harmona's green auroras signal hope for peace, while Ruinok's crimson streaks promise escalation. Adventurers find endless employment as mercenaries, spies, or mediators, their deeds often tipping local scales and drawing the distant attention of the Nine.
 
 ## Major Trade Centers and Routes
 
@@ -1061,10 +1061,10 @@ Trade forms the lifeblood of the Arcanum Epoch, binding the diverse kingdoms, tr
 ### Primary Trade Centers
 
 **Crownspire (Regalor, Central Plains)**  
-The undisputed heart of western commerce and the greatest trade metropolis on the continent. With a population exceeding 50,000, its soaring marble spires house grand bazaars, arcane auction halls, and guild enclaves where wizards, artificers, and merchant-lords barter rare spell scrolls, +1 weapons and armor, potions of healing brewed in vast quantities, and gemstones used as material components. Crownspire'€™s central location makes it the terminus for nearly every major overland route from the west and north, and its river docks welcome barges laden with grain, timber, and dwarven steel. The city'€™s wealth draws followers of both Aelthar (who protect legitimate trade) and Shadrix (who thrive in its shadowed black markets).
+The undisputed heart of western commerce and the greatest trade metropolis on the continent. With a population exceeding 50,000, its soaring marble spires house grand bazaars, arcane auction halls, and guild enclaves where wizards, artificers, and merchant-lords barter rare spell scrolls, +1 weapons and armor, potions of healing brewed in vast quantities, and gemstones used as material components. Crownspire's central location makes it the terminus for nearly every major overland route from the west and north, and its river docks welcome barges laden with grain, timber, and dwarven steel. The city's wealth draws followers of both Aelthar (who protect legitimate trade) and Shadrix (who thrive in its shadowed black markets).
 
 **Veilport (Bayhaven, Inner Bay Shores)**  
-The premier eastern trade hub and the busiest port on the Vast Inner Bay. Home to 30,000 Shadowkin traders, human merchants, and tiefling caravanners, Veilport'€™s sprawling docks and labyrinthine bazaars deal in exotic steppe spices, infernal-tainted reagents (such as abyssal powders favored by warlocks), silks dyed with manticore blood, and potions of fire breath crafted from dragonborn traditions. It serves as the gateway between the eastern steppes and the western kingdoms, with ships regularly crossing the Inner Bay to Crownspire or south to Coilkeep.
+The premier eastern trade hub and the busiest port on the Vast Inner Bay. Home to 30,000 Shadowkin traders, human merchants, and tiefling caravanners, Veilport's sprawling docks and labyrinthine bazaars deal in exotic steppe spices, infernal-tainted reagents (such as abyssal powders favored by warlocks), silks dyed with manticore blood, and potions of fire breath crafted from dragonborn traditions. It serves as the gateway between the eastern steppes and the western kingdoms, with ships regularly crossing the Inner Bay to Crownspire or south to Coilkeep.
 
 **Silverport (Western Coast, historically Arcanite but now a contested free city)**  
 A thriving coastal metropolis of 35,000 that survived the Collapse and retained its independence through shrewd neutrality. Its deep natural harbor accommodates ocean-going vessels trading with distant isles and surviving goblin archipelagos. Silverport is renowned for its shipyards, pearl divers, and markets offering cloaks of the manta ray, tridents of fish command, and rare seafood components for *water breathing* rituals. Merchant guilds here often employ bards to negotiate favorable terms and rogues to safeguard (or pilfer) cargoes.
@@ -1081,18 +1081,18 @@ An oasis city of 25,000 built around ancient underground vaults. It specializes 
 The most heavily traveled arterial route of the west, running from Crownspire south through the Frontier Marches to Silverport on the coast, then north along the plains to the borders of Regalor and the Grimwald Hills. Guarded by fortified waystations and patrolled by paladins of Aelthar, it carries grain, worked metals, and enchanted arms westward in exchange for seafood, pearls, and shipbuilding timber.
 
 **The Inner Bay Caravan Circuit**  
-A great loop linking Crownspire, the Frontier Marches, Bayhaven'€™s Veilport, and northern Zenthara. Caravans brave goblin ambushes and ankheg burrows to transport western steel and textiles east for steppe horses, spices, and infernal reagents.
+A great loop linking Crownspire, the Frontier Marches, Bayhaven's Veilport, and northern Zenthara. Caravans brave goblin ambushes and ankheg burrows to transport western steel and textiles east for steppe horses, spices, and infernal reagents.
 
-**The Serpent'€™s Coil**  
-A perilous southern river-and-jungle route beginning at Coilkeep, following the great southern rivers northwest into Wanderer Territories and eventually linking (through dangerous portages) to Borderan outposts near Regalor'€™s southern vassals. It moves poisons, rare woods, and slave traffic (openly in Serpentis, covertly elsewhere) northward, returning with manufactured goods and mercenary hires.
+**The Serpent's Coil**  
+A perilous southern river-and-jungle route beginning at Coilkeep, following the great southern rivers northwest into Wanderer Territories and eventually linking (through dangerous portages) to Borderan outposts near Regalor's southern vassals. It moves poisons, rare woods, and slave traffic (openly in Serpentis, covertly elsewhere) northward, returning with manufactured goods and mercenary hires.
 
 **The Stormfjord Passage**  
-A northern coastal and fjord route used by Stormkin longships trading Thunderhaven'€™s fish, furs, and amber for southern luxuries. It occasionally extends south to Iceforge in Frostrealm, carrying mined gems and cold-forged steel.
+A northern coastal and fjord route used by Stormkin longships trading Thunderhaven's fish, furs, and amber for southern luxuries. It occasionally extends south to Iceforge in Frostrealm, carrying mined gems and cold-forged steel.
 
 ### Sea Lanes
 
 **The Inner Bay Shipping Lanes**  
-The safest and busiest maritime routes, plied by galleys and cogs traveling between Veilport, Crownspire'€™s river ports, and southern Coilkeep-allied harbors. These lanes are vital for bulk goods but require escorts against hydra attacks and sahuagin raiders.
+The safest and busiest maritime routes, plied by galleys and cogs traveling between Veilport, Crownspire's river ports, and southern Coilkeep-allied harbors. These lanes are vital for bulk goods but require escorts against hydra attacks and sahuagin raiders.
 
 **The Western Coastal Run**  
 From Silverport north to Stormland ports and south toward lost isles, this lane carries high-value luxury goods and faces threats from sea hags, koalinth hobgoblins, and occasional dragon turtle sightings.
@@ -1100,11 +1100,11 @@ From Silverport north to Stormland ports and south toward lost isles, this lane 
 **The Southern Monsoon Route**  
 Seasonal voyages from Coilkeep around the southern capes to the ebony realms, trading in warrior-caste ivory, giant hyena pelts, and obsidian in exchange for Serpentan poisons and medusa-crafted mirrors.
 
-These centers and routes ensure that wealth, information, and conflict flow freely across Mythara. Merchant guilds rise and fall on the whims of the Nine—Harmona blesses fair deals, Shadrix whispers of profitable betrayals, and Ruinok'€™s followers prey upon the unwary—making trade as much an adventure as any dungeon delve.
+These centers and routes ensure that wealth, information, and conflict flow freely across Mythara. Merchant guilds rise and fall on the whims of the Nine—Harmona blesses fair deals, Shadrix whispers of profitable betrayals, and Ruinok's followers prey upon the unwary—making trade as much an adventure as any dungeon delve.
 
 ## Travel Times and Distances Between Locations
 
-Mythara'€™s vast continent in the Arcanum Epoch spans roughly 2,500 miles from northern glaciers to southern jungles, with the Vast Inner Bay adding significant maritime routes. Travel follows standard paces—normal (24 miles/day overland for unhurried parties, slow for stealth/foraging, fast for urgency with risks), though terrain, weather, monsters, and divine omens frequently impose delays or force detours. Caravans use wagons or pack animals, ships range from river barges to ocean cogs and Stormkin longships, and magical aids like *phantom steed* or *wind walk* are rare luxuries reserved for high-level adventurers or urgent royal missives. Below are key routes with average travel times and notable hazards.
+Mythara's vast continent in the Arcanum Epoch spans roughly 2,500 miles from northern glaciers to southern jungles, with the Vast Inner Bay adding significant maritime routes. Travel follows standard paces—normal (24 miles/day overland for unhurried parties, slow for stealth/foraging, fast for urgency with risks), though terrain, weather, monsters, and divine omens frequently impose delays or force detours. Caravans use wagons or pack animals, ships range from river barges to ocean cogs and Stormkin longships, and magical aids like *phantom steed* or *wind walk* are rare luxuries reserved for high-level adventurers or urgent royal missives. Below are key routes with average travel times and notable hazards.
 
 ### Overland Routes
 
@@ -1114,11 +1114,11 @@ Mythara'€™s vast continent in the Arcanum Epoch spans roughly 2,500 miles fr
 - Hazards: Ankheg ambushes in open plains, occasional goblin raids south of the Marches, and Thornskull Thickets spider webs forcing slow pace detours.
 
 **Crownspire to Veilport (Inner Bay Caravan Circuit)**  
-- Distance: ~700 miles around the bay'€™s western and northern arms via Borderan outposts.  
+- Distance: ~700 miles around the bay's western and northern arms via Borderan outposts.  
 - Normal pace: 30'€“35 days.  
 - Hazards: Manticore Marches aerial attacks, ankheg burrows in grasslands, and Shadowkin bandit tolls near Bayhaven borders. Winter snows in northern stretches add 5'€“10 days.
 
-**Crownspire to Coilkeep (via Wanderer Territories and Serpent'€™s Coil river portages)**  
+**Crownspire to Coilkeep (via Wanderer Territories and Serpent's Coil river portages)**  
 - Distance: ~1,200 miles south through plains, meadows, and jungle fringes.  
 - Normal pace: 50'€“60 days (river barges shorten southern leg).  
 - Hazards: Bleakmoor Fens trolls, Death Hyena Plains gnoll packs, and Venomroot Jungle constrictors/poison spores near Serpentis.
@@ -1131,7 +1131,7 @@ Mythara'€™s vast continent in the Arcanum Epoch spans roughly 2,500 miles fr
 **Crownspire to Iceforge (northeast across Frostrealm plateaus)**  
 - Distance: ~900 miles of cold highlands.  
 - Normal pace: 40'€“45 days (cold weather gear essential).  
-- Hazards: Pale Fang Crags avalanches, yeti packs, and Valthraxthe the Frostreaver'€™s territorial flights.
+- Hazards: Pale Fang Crags avalanches, yeti packs, and Valthraxthe the Frostreaver's territorial flights.
 
 **Veilport to Sandspire (desert caravan routes)**  
 - Distance: ~400 miles across steppes and dunes.  
@@ -1164,7 +1164,7 @@ Mythara'€™s vast continent in the Arcanum Epoch spans roughly 2,500 miles fr
 
 - **Mounted or Magical Travel**: Ranger mounts or *phantom steed* rituals can halve overland times for small groups, though exhaustion and spell slots limit sustained use.
 - **Seasonal Variations**: Northern routes add 50% time in winter due to snow; southern monsoons flood rivers but speed downstream barges.
-- **Divine Interference**: Whirlvex omens may trigger wild surges delaying travel; Harmona'€™s blessings grant safe passage through monster territories on rare pilgrimages.
+- **Divine Interference**: Whirlvex omens may trigger wild surges delaying travel; Harmona's blessings grant safe passage through monster territories on rare pilgrimages.
 - **Caravan vs. Adventurer Pace**: Large merchant caravans move slower (15'€“20 miles/day) for security; small adventurer parties can push faster but risk ambushes.
 
 
@@ -1188,29 +1188,29 @@ The Mythran Continent stretches approximately 2,500 miles from the icy northern 
 
 ### Western Heartlands
 
-**Regalor** dominates the fertile central-western plains, its core territories extending from the western coastal hills eastward to the shores of the Inner Bay'€™s western arm. Crownspire sits near the geographic center of the continent, roughly equidistant from Silverport on the western coast and Veilport on the bay'€™s eastern shore. Regalor'€™s northern border abuts the Grimwald Hills and southern Frostrealm foothills, while its southern frontier reaches the upper reaches of the great rivers flowing toward Wanderer Territories.
+**Regalor** dominates the fertile central-western plains, its core territories extending from the western coastal hills eastward to the shores of the Inner Bay's western arm. Crownspire sits near the geographic center of the continent, roughly equidistant from Silverport on the western coast and Veilport on the bay's eastern shore. Regalor's northern border abuts the Grimwald Hills and southern Frostrealm foothills, while its southern frontier reaches the upper reaches of the great rivers flowing toward Wanderer Territories.
 
-**Frontier Marches** form a broad buffer along Regalor'€™s western and northwestern edges, stretching from the outskirts of Silverport northward along the coast to the Thornskull Thickets, then eastward through rugged hills to meet the Grimwald frontier. These lands are claimed by Regalor but governed loosely, with fortified villages owing fealty to the crown.
+**Frontier Marches** form a broad buffer along Regalor's western and northwestern edges, stretching from the outskirts of Silverport northward along the coast to the Thornskull Thickets, then eastward through rugged hills to meet the Grimwald frontier. These lands are claimed by Regalor but governed loosely, with fortified villages owing fealty to the crown.
 
-**Silverport** remains an independent coastal city-state controlling a narrow strip of western seaboard and its immediate hinterland, wedged between Regalor'€™s southern plains and the wild coastal cliffs to the north.
+**Silverport** remains an independent coastal city-state controlling a narrow strip of western seaboard and its immediate hinterland, wedged between Regalor's southern plains and the wild coastal cliffs to the north.
 
 ### Northern Regions
 
-**Stormland** occupies the northwestern peninsula and fjord-cut coast, separated from Regalor and the Marches by the Grimwald Spine—a jagged range of dark peaks and shadowed valleys. Thunderhaven lies at the peninsula'€™s stormy tip, facing the open western ocean.
+**Stormland** occupies the northwestern peninsula and fjord-cut coast, separated from Regalor and the Marches by the Grimwald Spine—a jagged range of dark peaks and shadowed valleys. Thunderhaven lies at the peninsula's stormy tip, facing the open western ocean.
 
-**Frostrealm** claims the high northeastern plateaus and glaciers east of the Grimwald Spine, extending to the frozen northern shores. Iceforge is perched in the central Pale Fang Crags, overlooking frozen valleys that slope toward the Inner Bay'€™s chilled northern waters.
+**Frostrealm** claims the high northeastern plateaus and glaciers east of the Grimwald Spine, extending to the frozen northern shores. Iceforge is perched in the central Pale Fang Crags, overlooking frozen valleys that slope toward the Inner Bay's chilled northern waters.
 
 **Grimwald Hills** span the wild highlands between Stormland, Frostrealm, and northern Regalor—an untamed expanse of deep forests, crags, and vales with no formal borders, claimed only by scattered elven clans.
 
 ### Eastern Regions
 
-**Bayhaven** controls the steppes and plains along the Inner Bay'€™s eastern and southeastern shores, centered on Veilport. Its influence extends inland across rolling grasslands to the edge of the Singing Dunes, though nomadic herders pay only nominal tribute.
+**Bayhaven** controls the steppes and plains along the Inner Bay's eastern and southeastern shores, centered on Veilport. Its influence extends inland across rolling grasslands to the edge of the Singing Dunes, though nomadic herders pay only nominal tribute.
 
-**Zenthara** lies southeast of Bayhaven, encompassing the great desert basin fed by sporadic rivers from the Inner Bay'€™s southern arm. Sandspire sits at the largest central oasis, with loose dominion over surrounding dunes and trade routes.
+**Zenthara** lies southeast of Bayhaven, encompassing the great desert basin fed by sporadic rivers from the Inner Bay's southern arm. Sandspire sits at the largest central oasis, with loose dominion over surrounding dunes and trade routes.
 
 ### Southern Regions
 
-**Serpentis** occupies the humid southern jungles and river deltas south of the Inner Bay'€™s narrow southern outlet. Coilkeep rises amid the central river confluence, its theocratic reach extending through dense jungle to the Coiled Barrier mountains in the far south.
+**Serpentis** occupies the humid southern jungles and river deltas south of the Inner Bay's narrow southern outlet. Coilkeep rises amid the central river confluence, its theocratic reach extending through dense jungle to the Coiled Barrier mountains in the far south.
 
 **Wanderer Territories** stretch across the southwestern meadows and savannas between southern Regalor, western Serpentis, and the distant ebony realms. These open lands have no fixed borders, occupied by nomadic tribes who acknowledge no single authority beyond occasional tribute to Regalor or Serpentis.
 
@@ -1222,7 +1222,7 @@ The Mythran Continent stretches approximately 2,500 miles from the icy northern 
 
 The Vast Inner Bay itself remains unclaimed open water, though Veilport, Crownspire river ports, and Coilkeep-allied southern harbors dominate its trade. Its shape resembles a crooked hourglass: wide in the north and center, narrowing dramatically at southern and northern straits where hydras and krakens lurk.
 
-These boundaries shift with war, marriage, and divine portent. Regalor'€™s kings eye expansion eastward across the bay, Shadowkin khans dream of western conquest, and Serpentis priests plot to extend their coiled grasp northward. Mountain passes, river fords, and coastal lanes become chokepoints where armies clash and adventurers find both peril and opportunity.
+These boundaries shift with war, marriage, and divine portent. Regalor's kings eye expansion eastward across the bay, Shadowkin khans dream of western conquest, and Serpentis priests plot to extend their coiled grasp northward. Mountain passes, river fords, and coastal lanes become chokepoints where armies clash and adventurers find both peril and opportunity.
 
 ## Significant Landmarks (Natural and Magical)
 
@@ -1231,7 +1231,7 @@ Mythara's landscape in the Arcanum Epoch is marked by awe-inspiring natural wond
 ### Western and Central Regions
 
 **The Crownspire Beacon (Regalor, Central Plains)**  
-A towering crystalline spire of unknown pre-Cataclysmic origin that rises abruptly from the plains just outside Crownspire'€™s walls. At night it emits a soft, golden radiance visible for leagues, said to be a distant echo of Aelthar'€™s protective gaze. Clerics and paladins of the Noble Guardian claim the light strengthens oaths sworn beneath it, granting advantage on saving throws against charm effects for a full cycle of the moon. Shadrix'€™s followers, however, whisper that shadows cast by the beacon reveal hidden desires—and occasionally attract specters.
+A towering crystalline spire of unknown pre-Cataclysmic origin that rises abruptly from the plains just outside Crownspire's walls. At night it emits a soft, golden radiance visible for leagues, said to be a distant echo of Aelthar's protective gaze. Clerics and paladins of the Noble Guardian claim the light strengthens oaths sworn beneath it, granting advantage on saving throws against charm effects for a full cycle of the moon. Shadrix's followers, however, whisper that shadows cast by the beacon reveal hidden desires—and occasionally attract specters.
 
 **The Eternal Grove (Frontier Marches)**  
 An ancient ring of colossal oaks whose roots intertwine to form natural archways. Druids of Harmona maintain that the grove predates even the Arcanites and serves as a neutral sanctuary where weapons lose their edge and spells of healing are empowered. Rangers and wanderers seek it for rest, though awakened trees and treants fiercely repel those who bear malice.
@@ -1242,15 +1242,15 @@ The broken remnants of a colossal stone bridge that once crossed a vast chasm du
 ### Northern Regions
 
 **The Stormheart (Stormland, Northwestern Coasts)**  
-A perpetual thunderhead anchored above a jagged fjord peak, crackling with lightning that never quite touches the ground. Stormkin barbarians revere it as Liberon'€™s anvil and perform rites beneath its roar, gaining temporary resistance to lightning damage. Whirlvex is said to dance within the clouds, occasionally hurling erratic bolts that transmute whatever they strike.
+A perpetual thunderhead anchored above a jagged fjord peak, crackling with lightning that never quite touches the ground. Stormkin barbarians revere it as Liberon's anvil and perform rites beneath its roar, gaining temporary resistance to lightning damage. Whirlvex is said to dance within the clouds, occasionally hurling erratic bolts that transmute whatever they strike.
 
 **The Mirror Glacier (Frostrealm, Northeastern Highlands)**  
-A massive wall of blue ice whose surface reflects not the viewer, but visions of possible futures—often harrowing. Frostkin oracles consult it under the guidance of Equilon'€™s priests, while reckless seekers sometimes vanish into crevasses haunted by remorhaz and ice mephits.
+A massive wall of blue ice whose surface reflects not the viewer, but visions of possible futures—often harrowing. Frostkin oracles consult it under the guidance of Equilon's priests, while reckless seekers sometimes vanish into crevasses haunted by remorhaz and ice mephits.
 
 ### Eastern Regions
 
 **The Veiled Rift (Bayhaven, Inner Bay Shores)**  
-A deep canyon filled with perpetual twilight where the boundary between the Material Plane and the Ethereal Shroud thins. Ghostly lights drift above the rift, and those who meditate upon its edge sometimes receive dreams from the Nine. Shadrix'€™s warlocks favor the site for pacts, but ghosts and shadows rise to challenge intruders.
+A deep canyon filled with perpetual twilight where the boundary between the Material Plane and the Ethereal Shroud thins. Ghostly lights drift above the rift, and those who meditate upon its edge sometimes receive dreams from the Nine. Shadrix's warlocks favor the site for pacts, but ghosts and shadows rise to challenge intruders.
 
 **The Singing Dunes (Zenthara, Southeastern Deserts)**  
 Vast golden dunes that emit haunting melodies when the wind blows, said to be the lamentations of buried pre-Cataclysmic cities. Illusionists and bards harvest the resonant sand for components that enhance sonic spells. Lamias and blue dragons lair beneath, drawn to the music.
@@ -1266,16 +1266,16 @@ A triple-tiered waterfall whose waters shimmer with natural toxins yet also hold
 ### Continental and Mystical Phenomena
 
 **The Aurora Veil (Visible Across Northern Skies)**  
-A shimmering curtain of colored lights that dances above Stormland and Frostrealm during winter months. Clerics interpret its patterns as messages from the Nine—Harmona'€™s green for hope, Ruinok'€™s crimson for coming bloodshed. Wizards study it for insights into conjuration and evocation magic.
+A shimmering curtain of colored lights that dances above Stormland and Frostrealm during winter months. Clerics interpret its patterns as messages from the Nine—Harmona's green for hope, Ruinok's crimson for coming bloodshed. Wizards study it for insights into conjuration and evocation magic.
 
 **The Wandering Mists (Frontier Marches and Grimwald Hills)**  
 Patches of thick fog that appear without warning and drift slowly across the land. Within, direction is lost, and travelers encounter visions or creatures from other times—sometimes spectral Arcanite legions, sometimes manifestations of divine wagers being played out by the gods in the Ethereal Shroud.
 
-These landmarks anchor the geography of Mythara, providing natural pilgrimage routes, sources of rare components, and sites where the mortal world brushes against the divine. They are as much a part of the epoch'€™s character as its cities and peoples, offering endless opportunities for quests, divine omens, and perilous exploration.
+These landmarks anchor the geography of Mythara, providing natural pilgrimage routes, sources of rare components, and sites where the mortal world brushes against the divine. They are as much a part of the epoch's character as its cities and peoples, offering endless opportunities for quests, divine omens, and perilous exploration.
 
 ## Holy Sites and Temples of the Ninefold Pantheon
 
-In the Arcanum Epoch, the Ninefold Pantheon exerts its influence through a network of temples, shrines, and sacred sites scattered across Mythara. These places range from grand cathedrals in bustling cities to remote wilderness sanctuaries and contested ruins where rival alignments clash. Pilgrims travel perilous roads to seek blessings, clerics and paladins draw renewed power within consecrated halls, and divine spells from the full cleric, paladin, and druid lists are cast with heightened effect near these sites. Because the gods rarely intervene directly, their temples often become flashpoints for mortal conflict—armies muster to defend or seize them, and omens from the Ethereal Shroud manifest most strongly here. Many sites are deliberately placed where the veil between planes thins, allowing clearer communion and occasional visions of the gods'€™ distant wagers.
+In the Arcanum Epoch, the Ninefold Pantheon exerts its influence through a network of temples, shrines, and sacred sites scattered across Mythara. These places range from grand cathedrals in bustling cities to remote wilderness sanctuaries and contested ruins where rival alignments clash. Pilgrims travel perilous roads to seek blessings, clerics and paladins draw renewed power within consecrated halls, and divine spells from the full cleric, paladin, and druid lists are cast with heightened effect near these sites. Because the gods rarely intervene directly, their temples often become flashpoints for mortal conflict—armies muster to defend or seize them, and omens from the Ethereal Shroud manifest most strongly here. Many sites are deliberately placed where the veil between planes thins, allowing clearer communion and occasional visions of the gods' distant wagers.
 
 ### Aelthar, the Noble Guardian (Lawful Good)
 
@@ -1296,10 +1296,10 @@ A remote mountain shrine carved into a perfectly balanced glacial crevasse. Fros
 ### Dominara, the Despot's Clutch (Lawful Evil)
 
 **The Obsidian Throne (Coilkeep, Serpentis)**  
-The dark heart of Dominara'€™s worship within the central pyramid of Coilkeep. Chains hang from the ceiling, and warlocks with Fiend patrons renew their pacts before a towering throne of black stone. Spells of domination and enchantment are amplified here, drawing the eye of tyrannical rulers across the south.
+The dark heart of Dominara's worship within the central pyramid of Coilkeep. Chains hang from the ceiling, and warlocks with Fiend patrons renew their pacts before a towering throne of black stone. Spells of domination and enchantment are amplified here, drawing the eye of tyrannical rulers across the south.
 
 **The Iron Spire (Veilport, Bayhaven)**  
-A fortified tower in the city'€™s noble quarter where ambitious Shadowkin lords pledge fealty. Guards in spiked armor enforce hierarchical rites, and the spire'€™s dungeons hold those who defy Dominara'€™s ordained order.
+A fortified tower in the city's noble quarter where ambitious Shadowkin lords pledge fealty. Guards in spiked armor enforce hierarchical rites, and the spire's dungeons hold those who defy Dominara's ordained order.
 
 ### Harmona, the Kindly Weaver (Neutral Good)
 
@@ -1307,7 +1307,7 @@ A fortified tower in the city'€™s noble quarter where ambitious Shadowkin lo
 A serene grove-temple just outside Crownspire where silver-threaded looms stand beneath open sky. Druids of the Circle of the Land and bards of the College of Lore gather to heal the sick and mend communal bonds. Healing spells restore additional hit points when cast within the sacred circle.
 
 **The Verdant Refuge (Eternal Grove, Frontier Marches)**  
-The ancient oak ring serves as Harmona'€™s most revered wilderness sanctuary. Wounded travelers find automatic stabilization here, and *goodberry* spells produce twice the normal yield.
+The ancient oak ring serves as Harmona's most revered wilderness sanctuary. Wounded travelers find automatic stabilization here, and *goodberry* spells produce twice the normal yield.
 
 ### Equilon, the Timeless Scale (True Neutral)
 
@@ -1323,11 +1323,11 @@ A towering desert obelisk of shifting sands that forms an eternal hourglass. Neu
 A labyrinthine casino-temple hidden beneath the bazaars, where rogues and sorcerers of Draconic bloodline strike shadowy pacts. Illusion and enchantment spells cast within its veiled halls are notoriously difficult to disbelieve.
 
 **The Eclipse Vaults (Beneath Crownspire Undercroft)**  
-Secret chambers accessible only through black-market passages, where thieves and warlocks trade in forbidden deals. Cursed items and *bags of devouring* are common offerings left upon Shadrix'€™s altars.
+Secret chambers accessible only through black-market passages, where thieves and warlocks trade in forbidden deals. Cursed items and *bags of devouring* are common offerings left upon Shadrix's altars.
 
 ### Liberon, the Free Tempest (Chaotic Good)
 
-**The Stormcaller'€™s Bluff (Thunderhaven, Stormland)**  
+**The Stormcaller's Bluff (Thunderhaven, Stormland)**  
 A wind-lashed promontory overlooking the sea, topped by a circle of standing stones that channel lightning. Barbarians of the Berserker path and champions perform rites here, gaining resistance to thunder damage for a fortnight.
 
 **The Windrider Glade (Wanderer Territories)**  
@@ -1347,7 +1347,7 @@ A cavern behind the perpetual thunderhead where jesters and pranksters hold chao
 A vast crater filled with smoldering bones and blackened earth, where goblin warbands and dragonborn outcasts offer sacrifices. Clerics with shadow domains draw fell power here, and fire spells burn hotter and longer.
 
 **The Abyssal Font (Deep within the Coiled Abyss, Serpentis)**  
-A subterranean lake of bubbling tar where Ruinok'€™s most fanatical followers—an alliance of yuan-ti, goliaths, and shadowed dragonborn—perform rites of annihilation. Necromantic spells raise more powerful undead, and the font'€™s fumes grant temporary hit points fueled by destructive rage.
+A subterranean lake of bubbling tar where Ruinok's most fanatical followers—an alliance of yuan-ti, goliaths, and shadowed dragonborn—perform rites of annihilation. Necromantic spells raise more powerful undead, and the font's fumes grant temporary hit points fueled by destructive rage.
 
 These holy sites anchor the spiritual landscape of Mythara, drawing faithful and opportunists alike. Control of a major temple can shift the balance of regional power, and many have changed hands through crusade, betrayal, or divine portent—ensuring that faith remains as dynamic and dangerous as the epoch itself.
 
@@ -1358,7 +1358,7 @@ The Arcanum Epoch is a time of bold exploration, where adventurers delve into th
 ### Western and Central Regions
 
 **The Sunken Citadels of Valmont (Submerged beneath the Central Plains of Regalor)**  
-Once the gleaming westernmost kingdom of the Pre-Cataclysmic Age, Valmont'€™s great cities now lie beneath shallow lakes and marshlands formed when the earth cracked during the Great Cataclysm. Marble towers protrude like broken teeth from the water, and submerged boulevards teem with sahuagin, giant crocodiles, and lacedons. Treasure hunters seek flooded vaults containing pre-Cataclysmic +2 weapons, staffs of power, and ancient spellbooks, but aboleth thralls from deeper waters guard the greatest prizes.
+Once the gleaming westernmost kingdom of the Pre-Cataclysmic Age, Valmont's great cities now lie beneath shallow lakes and marshlands formed when the earth cracked during the Great Cataclysm. Marble towers protrude like broken teeth from the water, and submerged boulevards teem with sahuagin, giant crocodiles, and lacedons. Treasure hunters seek flooded vaults containing pre-Cataclysmic +2 weapons, staffs of power, and ancient spellbooks, but aboleth thralls from deeper waters guard the greatest prizes.
 
 **The Labyrinth of Ebonridge (Frontier Marches, beneath the rugged hills)**  
 A vast underground complex built by the Pre-Cataclysmic kingdom of Ebonridge, now collapsed into a multi-level dungeon riddled with black puddings, ropers, and cloakers. Its upper halls hold dwarven-forged plate armor of resistance, while deeper chambers—sealed since the Cataclysm—contain portals that flicker with Ethereal energy and the imprisoned specters of long-dead tiefling conjurers.
@@ -1371,7 +1371,7 @@ The old sewer system and forgotten noble crypts beneath the capital have become 
 **The Frost Tombs of Iceveil (Frostrealm, buried in glacial ice)**  
 Pre-Cataclysmic burial vaults of the kingdom of Iceveil, now encased in the Mirror Glacier. Undead wight lords and frost wraiths guard frozen sarcophagi containing oils of etherealness, frost brand weapons, and scrolls of *cone of cold* inscribed on dragonhide. White dragons and remorhaz occasionally burrow into the tombs seeking warmth and treasure.
 
-**Stormhold'€™s Shattered Acropolis (Stormland, atop storm-lashed cliffs)**  
+**Stormhold's Shattered Acropolis (Stormland, atop storm-lashed cliffs)**  
 The ruined capital of ancient Stormhold perches on jagged fjords. Its cyclopean walls shelter harpies, manticores, and a storm giant quintessent that manifests during thunderstorms. Within the cracked acropolis lie shattered altars to early aspects of Liberon and Whirlvex, along with ioun stones that still orbit in forgotten observatories.
 
 ### Eastern Regions
@@ -1395,14 +1395,14 @@ A yuan-ti pureblood temple complex abandoned after a couatl-led uprising. Overgr
 **The Wyrmskull Vaults (Grimwald Hills)**  
 Ancient dragonborn clanholds carved into volcanic mountains before the Great Cataclysm. Now occupied by chromatic dragons and their kobold cults, the vaults contain hoards of pre-Cataclysmic dragon scales used for armor of invulnerability, as well as breath-channeling amulets prized by sorcerers.
 
-**Gromar'€™s Iron Redoubt (Goblin Wastes)**  
-The crude but formidable fortress raised by the goblin warlord Gromar during the Collapse. Though long abandoned after his fall, hobgoblin warlords and bugbear champions still squabble over its iron-forged armories. Trap-filled corridors guard masterwork weapons with cleave and nick properties, and a legendary axe of goblin-slaying lies in Gromar'€™s buried throne room.
+**Gromar's Iron Redoubt (Goblin Wastes)**  
+The crude but formidable fortress raised by the goblin warlord Gromar during the Collapse. Though long abandoned after his fall, hobgoblin warlords and bugbear champions still squabble over its iron-forged armories. Trap-filled corridors guard masterwork weapons with cleave and nick properties, and a legendary axe of goblin-slaying lies in Gromar's buried throne room.
 
 These sites, and countless lesser ruins scattered across Mythara, draw heroes, treasure-seekers, and tomb-robbers alike. Each holds the promise of legendary magic items, lost spells, and the glory of survival—but also the very real threat of death at the claws of guardians awakened by the distant wagers of the Nine.
 
 ## Wilderness Danger Zones and Monster Lairs
 
-Across the vast and untamed expanses of Mythara in the Arcanum Epoch, certain wilderness areas have earned fearsome reputations for the density and ferocity of the monsters that dwell within them. These danger zones—trackless forests, festering swamps, jagged badlands, and shadowed vales—serve as natural lairs for beasts, aberrations, and undead. Caravans detour around them, rangers speak of them in hushed tones, and only the boldest (or most desperate) adventurers seek them out for the rare reagents, ancient trophies, or lost secrets they conceal. The Ninefold Pantheon'€™s indirect influence often manifests here as well: omens, sudden storms, or unnatural behaviors that hint at divine wagers playing out through mortal peril.
+Across the vast and untamed expanses of Mythara in the Arcanum Epoch, certain wilderness areas have earned fearsome reputations for the density and ferocity of the monsters that dwell within them. These danger zones—trackless forests, festering swamps, jagged badlands, and shadowed vales—serve as natural lairs for beasts, aberrations, and undead. Caravans detour around them, rangers speak of them in hushed tones, and only the boldest (or most desperate) adventurers seek them out for the rare reagents, ancient trophies, or lost secrets they conceal. The Ninefold Pantheon's indirect influence often manifests here as well: omens, sudden storms, or unnatural behaviors that hint at divine wagers playing out through mortal peril.
 
 ### Western and Central Regions
 
@@ -1410,7 +1410,7 @@ Across the vast and untamed expanses of Mythara in the Arcanum Epoch, certain wi
 A dense, thorn-choked forest where giant spiders, ettercaps, and swarms of insects weave webs between trees tall enough to blot out the sun. Ankhegs burrow beneath the leaf litter, erupting to drag travelers underground. Grimwald raiders use hidden paths through the thickets to stage ambushes on Regalor patrols. Deep within lies a circle of standing stones where druids once communed with Harmona; now displacer beasts and owlbears claim the glade.
 
 **The Bleakmoor Fens (Southern Regalor, near the Wanderer borders)**  
-A vast, fog-shrouded swamp dotted with sinking islands and bubbling tar pits. Will-o'€™-wisps lure the unwary toward troll lairs and hydra-infested pools, while bullywugs and lizardfolk tribes wage endless territorial wars. Undead bog mummies rise from peat graves, and black dragons are rumored to nest in the deepest reaches, drawn by the corruption.
+A vast, fog-shrouded swamp dotted with sinking islands and bubbling tar pits. Will-o'-wisps lure the unwary toward troll lairs and hydra-infested pools, while bullywugs and lizardfolk tribes wage endless territorial wars. Undead bog mummies rise from peat graves, and black dragons are rumored to nest in the deepest reaches, drawn by the corruption.
 
 ### Northern Regions
 
@@ -1426,7 +1426,7 @@ Jagged, ice-sheathed peaks riddled with caves that serve as lairs for white drag
 A labyrinth of petrified stone pillars and wind-scoured canyons where gorgons and basilisks roam freely. Petrified adventurers stand as grim warnings along ancient roads, and dust mephits whirl through the air. Sandstone ruins from buried Luminar outposts offer shelter—but also attract purple worms that burst from below.
 
 **The Manticore Marches (Bordering Bayhaven and the Inner Bay)**  
-Rolling grasslands broken by rocky outcrops, where manticores and chimeras nest atop high bluffs. Harpy flocks circle overhead, and bands of gnolls scavenge the kills. Shadowkin herders give the area a wide berth, for the monsters grow bold and raid far beyond their usual territory under Ruinok'€™s distant urging.
+Rolling grasslands broken by rocky outcrops, where manticores and chimeras nest atop high bluffs. Harpy flocks circle overhead, and bands of gnolls scavenge the kills. Shadowkin herders give the area a wide berth, for the monsters grow bold and raid far beyond their usual territory under Ruinok's distant urging.
 
 ### Southern Regions
 
@@ -1467,7 +1467,7 @@ Remorhaz broodmothers tunnel beneath snow, their heat melting lairs into steamin
 **Stormland Fjords**  
 Harpies nest on cliffs, luring sailors with enchanted song, while manticores soar on patrols. Storm giants manifest during tempests, claiming wrecked ships.
 
-- **Named Threat**: Thunderwing the Chimera Lord (advanced chimera with storm giant quintessent traits), a three-headed beast that breathes lightning and fire. It perches atop Stormhold'€™s Shattered Acropolis, hoarding *ioun stones* that orbit chaotically.
+- **Named Threat**: Thunderwing the Chimera Lord (advanced chimera with storm giant quintessent traits), a three-headed beast that breathes lightning and fire. It perches atop Stormhold's Shattered Acropolis, hoarding *ioun stones* that orbit chaotically.
 
 ### Eastern Regions
 
@@ -1505,7 +1505,7 @@ Umber hulks crack ice, serving white dragon overlords.
 
 - **Named Threat**: Already noted as Valthraxthe the Frostreaver, whose brood extends into the warrens.
 
-These named threats and ecologies make Mythara'€™s wilds living, breathing dangers—beasts that grow cunning under divine eyes, command lesser monsters, and guard components essential for crafting *potions of giant strength*, *oils of sharpness*, or resistance items. Slaying one often reshapes regional balance, drawing the Nine'€™s distant wagers.
+These named threats and ecologies make Mythara's wilds living, breathing dangers—beasts that grow cunning under divine eyes, command lesser monsters, and guard components essential for crafting *potions of giant strength*, *oils of sharpness*, or resistance items. Slaying one often reshapes regional balance, drawing the Nine's distant wagers.
 
 ## Sea and Island Geography Beyond the Mainland
 
@@ -1513,10 +1513,10 @@ The seas surrounding Mythara in the Arcanum Epoch are vast, stormy, and fraught 
 
 ### Western Ocean (The Stormwrack Sea)
 
-Stretching westward from Silverport and the Stormland fjords, this tempestuous expanse is whipped by unrelenting gales—often attributed to Whirlvex'€™s whims or Liberon'€™s fury.
+Stretching westward from Silverport and the Stormland fjords, this tempestuous expanse is whipped by unrelenting gales—often attributed to Whirlvex's whims or Liberon's fury.
 
 **The Shattered Chain**  
-A jagged archipelago of razor-sharp volcanic isles rising from the Cataclysm'€™s wreckage. Goblin descendants and koalinth hobgoblins maintain crude strongholds here, raiding coastal shipping. Sunken pre-Cataclysmic outposts yield *cloaks of the manta ray* and *tridents of fish command*, guarded by giant sharks and sea hags.
+A jagged archipelago of razor-sharp volcanic isles rising from the Cataclysm's wreckage. Goblin descendants and koalinth hobgoblins maintain crude strongholds here, raiding coastal shipping. Sunken pre-Cataclysmic outposts yield *cloaks of the manta ray* and *tridents of fish command*, guarded by giant sharks and sea hags.
 
 **The Maelstrom of Tides**  
 A massive, perpetual whirlpool far west of Silverport where currents from clashing oceans collide. Ships caught in its pull vanish into depths rumored to hold a submerged gateway to the Plane of Water. Storm giants occasionally emerge to claim tribute from passing vessels.
@@ -1529,10 +1529,10 @@ A drifting mass of lashed-together shipwrecks and uprooted pre-Cataclysmic stone
 The Vast Inner Bay connects to broader eastern seas through its narrow southern strait, where currents grow unpredictable.
 
 **The Hydra Reefs**  
-Coral-encrusted shallows guarding the bay'€™s southern exit, infested with hydras, giant octopi, and shoals of quippers. Veilport and Coilkeep captains hire ranger escorts or cast *control water* to navigate safely. Sunken merchant hulks offer *potions of water breathing* and pearl-inlaid jewelry.
+Coral-encrusted shallows guarding the bay's southern exit, infested with hydras, giant octopi, and shoals of quippers. Veilport and Coilkeep captains hire ranger escorts or cast *control water* to navigate safely. Sunken merchant hulks offer *potions of water breathing* and pearl-inlaid jewelry.
 
 **The Siren Atolls**  
-A cluster of lush, low-lying islands southeast of Bayhaven where harpies and sirenes lure sailors to doom. Shadowkin traders harvest rare feathers for *arrows of slaying*, but the atolls shift with tides—some say under Shadrix'€™s deceptive influence.
+A cluster of lush, low-lying islands southeast of Bayhaven where harpies and sirenes lure sailors to doom. Shadowkin traders harvest rare feathers for *arrows of slaying*, but the atolls shift with tides—some say under Shadrix's deceptive influence.
 
 ### Southern Ocean (The Venom Sea)
 
@@ -1554,7 +1554,7 @@ Scattered glacial islands where white dragons and frost giants maintain icy cita
 **The Aurora Graveyard**  
 A frozen field of ancient shipwrecks trapped in pack ice, illuminated by the Aurora Veil. Undead crews crew spectral vessels, and *decks of illusions* or *helm of telepathy* await those who brave the cold and wraiths.
 
-These offshore realms extend Mythara'€™s perils and promises beyond the continent'€™s edge. Distant voyages can take months, with crews relying on *create food and water*, hardy mounts like giant sea horses (for shallow waters), or pacts with marid genies. Many captains swear oaths to Harmona for safe passage or bribe Shadrix'€™s followers for favorable winds—knowing that a single kraken rising or maelstrom shift can doom even the grandest fleet.
+These offshore realms extend Mythara's perils and promises beyond the continent's edge. Distant voyages can take months, with crews relying on *create food and water*, hardy mounts like giant sea horses (for shallow waters), or pacts with marid genies. Many captains swear oaths to Harmona for safe passage or bribe Shadrix's followers for favorable winds—knowing that a single kraken rising or maelstrom shift can doom even the grandest fleet.
 
 ## Underground and Planar Connections
 
@@ -1583,10 +1583,10 @@ A surface canyon that descends into ethereal-touched caverns where ghosts and ph
 Places where the boundary thins permanently—such as within the Radiant Bastion, the Nexus of Balance, and the House of Whispered Bargains—allow brief ethereal travel or summon spectral servants. Clerics cast *etherealness* rituals here with reduced material costs.
 
 **The Abyssal Font Gate (Deep Coiled Depths)**  
-A submerged obsidian arch in the aboleth depths that flickers with demonic energy, occasionally spilling hezrou or vrocks into the Material Plane. Ruinok'€™s most fanatical followers perform blood rites to widen it temporarily.
+A submerged obsidian arch in the aboleth depths that flickers with demonic energy, occasionally spilling hezrou or vrocks into the Material Plane. Ruinok's most fanatical followers perform blood rites to widen it temporarily.
 
 **The Stormheart Conduit (Beneath the Stormheart peak, Stormland)**  
-A cavern directly under the perpetual thunderhead where elemental air bleeds through. Air elementals and invisible stalkers manifest freely, and Whirlvex'€™s laughter echoes as wild magic surges. *Staves of thunder and lightning* recharge naturally here.
+A cavern directly under the perpetual thunderhead where elemental air bleeds through. Air elementals and invisible stalkers manifest freely, and Whirlvex's laughter echoes as wild magic surges. *Staves of thunder and lightning* recharge naturally here.
 
 **The Dreamroot Labyrinth (Beneath the Eternal Grove, Frontier Marches)**  
 Fey crossings hidden among ancient oak roots connect to the Feywild. Dryads and satyrs guard glades where *moonstone of fey crossing* can be harvested, but night hags and redcaps lure intruders into eternal slumber.
@@ -1598,7 +1598,7 @@ A deep-sea trench where a cracked Pre-Cataclysmic portal leaks water elemental e
 **The Unseeing Eye (Remote cavern system beneath the Coiled Barrier mountains)**  
 A reality-thin wound in the deepest darkness where the Far Realm seeps through—an incomprehensible void that whispers maddening geometries to those who dare approach. The cavern walls pulse with bioluminescent patterns that shift into non-Euclidean angles, inducing vertigo and psychic damage (DC 15 Wisdom save or take 2d6 psychic damage and gain short-term madness). Great Old One warlocks pilgrimage here to commune with their patrons, emerging changed—some enlightened, most broken. Aberrations manifest sporadically: star spawn, intellect devourers, and nothics drawn to the rift like moths to flame. The site remains deliberately obscure, known only through cryptic verses in forbidden tomes and the raving testimonies of escaped madmen. Serpentis occultists occasionally dispatch expeditions seeking forbidden knowledge, though few return. Those who do bring back *ioun stones of insight* warped by alien energies, granting advantage on Arcana checks but causing prophetic nightmares. The Unseeing Eye represents cosmic horror incarnate—a place where reality fractures, sanity shatters, and the infinitesimal nature of mortal existence becomes unbearably clear.
 
-These underground networks and planar connections ensure that Mythara'€™s dangers—and wonders—extend far below the sunlit world. Adventurers who brave the depths return with rare reagents (such as deep mushroom spores for *potions of growth* or aboleth mucus for domination scrolls), but many vanish into the dark, claimed by horrors or pulled across planes by the distant machinations of the Nine.
+These underground networks and planar connections ensure that Mythara's dangers—and wonders—extend far below the sunlit world. Adventurers who brave the depths return with rare reagents (such as deep mushroom spores for *potions of growth* or aboleth mucus for domination scrolls), but many vanish into the dark, claimed by horrors or pulled across planes by the distant machinations of the Nine.
 
 ## Regions, Cities, and Peoples of the Current Age (Arcanum Epoch)
 
@@ -1668,20 +1668,20 @@ While the great metropolises of Mythara dominate trade and politics in the Arcan
 ### Frontier Marches
 
 **Edgewatch**  
-A stout frontier village of approximately 5,000 souls, perched on a rocky hill overlooking the Thornskull Thickets and the Crown Road. Its layout is a classic marcher design: concentric rings of earthen ramparts topped with wooden palisades, pierced by four gated roads. At the center stands a stone keep housing the warden'€™s hall.
+A stout frontier village of approximately 5,000 souls, perched on a rocky hill overlooking the Thornskull Thickets and the Crown Road. Its layout is a classic marcher design: concentric rings of earthen ramparts topped with wooden palisades, pierced by four gated roads. At the center stands a stone keep housing the warden's hall.
 
-- **Key Buildings**: The Warden'€™s Keep (seat of Tharok One-Eye when he visits), the Harmona Shrine (a wooden longhouse with healing looms), and the Iron Anvil Forge (dwarven-run smithy producing masterwork arrows and shields).
+- **Key Buildings**: The Warden's Keep (seat of Tharok One-Eye when he visits), the Harmona Shrine (a wooden longhouse with healing looms), and the Iron Anvil Forge (dwarven-run smithy producing masterwork arrows and shields).
 - **Notable Inhabitants**: Captain Mira Stoutshield (dwarf fighter/cleric of Aelthar, commander of the watch), Old Grenwick (human druid who tends the surrounding fields), and a rotating cadre of ranger scouts.
-- **Daily Life**: Dawn patrols scour the thickets for spider sign, midday markets trade pelts and grain, and evenings bring communal feasts in the central square where bards recount Grimwald raids. Life is vigilant—every adult trains with bow or spear—and Harmona'€™s blessings keep disease low despite the swampy air.
+- **Daily Life**: Dawn patrols scour the thickets for spider sign, midday markets trade pelts and grain, and evenings bring communal feasts in the central square where bards recount Grimwald raids. Life is vigilant—every adult trains with bow or spear—and Harmona's blessings keep disease low despite the swampy air.
 
 ### Wanderer Territories
 
 **Roamhaven**  
-Not a fixed town but the seasonal gathering site of the largest Wanderer confederation, swelling to 10,000 during the great spring and autumn meets. Vast circles of colorful tents and wagons radiate from a permanent stone circle at a meadow'€™s heart, near a clear river bend.
+Not a fixed town but the seasonal gathering site of the largest Wanderer confederation, swelling to 10,000 during the great spring and autumn meets. Vast circles of colorful tents and wagons radiate from a permanent stone circle at a meadow's heart, near a clear river bend.
 
 - **Key Buildings/Features**: The Windstone Circle (ancient menhirs where Wind-Chieftain Korath Freehoof holds council), the Liberon Bonfire Pit (a massive hearth for storytelling and rites), and the Herd Pens (vast corrals for horses and aurochs).
 - **Notable Inhabitants**: Korath Freehoof himself (when present), Sky-Singer Lira (half-elf bard who leads nightly songs), and the Herd-Mistress Vela (human ranger overseeing livestock).
-- **Daily Life**: Tents rise and fall with the seasons; horse races and archery contests fill days, while nights echo with tales of freedom and rebellion. Trade in wool, leather, and mercenary contracts thrives, and children learn to ride almost before they walk. Liberon'€™s influence encourages spontaneous celebrations and swift departures when Regalor tax collectors approach.
+- **Daily Life**: Tents rise and fall with the seasons; horse races and archery contests fill days, while nights echo with tales of freedom and rebellion. Trade in wool, leather, and mercenary contracts thrives, and children learn to ride almost before they walk. Liberon's influence encourages spontaneous celebrations and swift departures when Regalor tax collectors approach.
 
 ### Goblin Wastes
 
@@ -1690,16 +1690,16 @@ A crude but imposing stronghold of around 8,000 goblins, hobgoblins, and bugbear
 
 - **Key Buildings**: The Bone Throne Hall (central ruin where the strongest warlord rules), the Pyre Pit (open crater for Ruinok sacrifices), and the Iron Scrap Forge (where captured metal is crudely reforged).
 - **Notable Inhabitants**: Warlord Kragthar Flame-Eye (hobgoblin warlock of Ruinok, current claimant to the throne), Skritch the Scavenger (goblin rogue who leads raiding parties), and the Ash-Priestess (bugbear cleric channeling destructive omens).
-- **Daily Life**: Might-makes-right defines every interaction—challenges in the fighting pit settle disputes, while work gangs scavenge ruins or tend fungal crops. Nights bring raucous feasting on stolen livestock, accompanied by bone drums and boasts of future conquests. Ruinok'€™s shadow looms large; failed challengers often end as offerings in the Pyre Pit.
+- **Daily Life**: Might-makes-right defines every interaction—challenges in the fighting pit settle disputes, while work gangs scavenge ruins or tend fungal crops. Nights bring raucous feasting on stolen livestock, accompanied by bone drums and boasts of future conquests. Ruinok's shadow looms large; failed challengers often end as offerings in the Pyre Pit.
 
 ### Stormland
 
 **Fjordeep**  
 A clustered fishing and raiding village of 3,000 Stormkin hugging a sheltered fjord below Thunderhaven. Longhouses of driftwood and stone cluster along the waterline, with piers extending into deep channels.
 
-- **Key Buildings**: The Wave-Hall (communal mead hall where Jarl Yrsa'€™s kin hold court), the Storm-Shrine (open-air altar beneath the thunderhead'€™s echo), and the Shipwright'€™s Drydock.
+- **Key Buildings**: The Wave-Hall (communal mead hall where Jarl Yrsa's kin hold court), the Storm-Shrine (open-air altar beneath the thunderhead's echo), and the Shipwright's Drydock.
 - **Notable Inhabitants**: Harald Wavebreaker (human barbarian/fighter, veteran longship captain), and the Storm-Reader (old cleric who interprets lightning patterns).
-- **Daily Life**: Dawn launches fishing boats or raiding knarrs; afternoons mend nets and carve runes into prows; evenings fill with skaldic songs and wrestling matches. Life is harsh but exuberant—storms are welcomed as Liberon'€™s breath.
+- **Daily Life**: Dawn launches fishing boats or raiding knarrs; afternoons mend nets and carve runes into prows; evenings fill with skaldic songs and wrestling matches. Life is harsh but exuberant—storms are welcomed as Liberon's breath.
 
 ### Frostrealm
 
@@ -1707,7 +1707,7 @@ A clustered fishing and raiding village of 3,000 Stormkin hugging a sheltered fj
 A fortified mining outpost of 4,000 Frostkin carved into the base of the Mirror Glacier. Tunnels and stone halls radiate from a central geothermal vent that provides warmth.
 
 - **Key Buildings**: The Deep Forge (where cold-iron and gems are worked), the Oracle Chamber (adjacent to the glacier wall for visions), and the Ice Wall (defensive rampart of carved glacial blocks).
-- **Notable Inhabitants**: Master-Smith Thrain Coldhammer (dwarf fighter/cleric of Rigoran), and Seeress Freya (human wizard divining Equilon'€™s balance).
+- **Notable Inhabitants**: Master-Smith Thrain Coldhammer (dwarf fighter/cleric of Rigoran), and Seeress Freya (human wizard divining Equilon's balance).
 - **Daily Life**: Shifts of miners extract gems for spell components, smiths craft cold-resistant gear, and evenings involve disciplined drills and impartial judgments in the Oracle Chamber. Life is orderly and enduring—waste is forbidden, and law is absolute.
 
 ### Zenthara
@@ -1719,7 +1719,7 @@ An oasis village of 6,000 clustered around a deep, illusion-guarded spring south
 - **Notable Inhabitants**: Illusionist Karim Veil dancer (gnome bard/sorcerer), and Caravan-Master Jessa (halfling rogue coordinating desert treks).
 - **Daily Life**: Dawn prayers at the spring, midday trade under cooling glamours, and evenings of storytelling and phantom light shows. Deception is an art form—honest deals are prized precisely because trickery is expected.
 
-These lesser settlements ground the grander cities and wilds, offering adventurers safe havens, quest hooks, and vivid contrasts to metropolitan life. Each reflects its people'€™s struggle and spirit, shaped by the land, the Nine, and the ever-present shadow of coming cataclysm.
+These lesser settlements ground the grander cities and wilds, offering adventurers safe havens, quest hooks, and vivid contrasts to metropolitan life. Each reflects its people's struggle and spirit, shaped by the land, the Nine, and the ever-present shadow of coming cataclysm.
 
 ## Specific Cultural Practices and Daily Life
 
@@ -1733,10 +1733,10 @@ The cosmopolitan Arcanites—blended human-dwarf-elf stock—live in ordered com
 - **Cuisine**: Hearty stews of giant elk or dire boar, baked root vegetables, and dwarven dark bread washed down with honeyed mead or elven berry wines.
 - **Clothing**: Practical layered tunics, leather jerkins reinforced with ankheg chitin, and cloaks of resistance dyed in regional colors—gold and green for Regalor loyalty.
 - **Coming-of-Age**: At sixteen, youths undertake the Vigil Quest—a solo hunt for a dangerous beast (often an owlbear pelt or ankheg trophy) presented at the Radiant Bastion or local shrine.
-- **Marriage Rites**: Couples exchange vows before Aelthar'€™s altar, binding hands with blessed cords while paladins cast *zone of truth*. Feasts last three days, with Harmona'€™s clerics blessing fertility.
+- **Marriage Rites**: Couples exchange vows before Aelthar's altar, binding hands with blessed cords while paladins cast *zone of truth*. Feasts last three days, with Harmona's clerics blessing fertility.
 - **Funerals**: Bodies are cremated on pyres to prevent undead rising; ashes scattered in sacred groves where druids plant memory trees.
 - **Festivals**: Oathfire (midsummer)—knights renew vows amid bonfires; Harvest Accord (autumn)—communal feasts thanking Harmona with illusion-lit dances.
-- **Folklore**: Tales of heroic knights turning back Ruinok'€™s hordes, or clever rogues outwitting Shadrix'€™s bargains.
+- **Folklore**: Tales of heroic knights turning back Ruinok's hordes, or clever rogues outwitting Shadrix's bargains.
 
 ### Arctic Wilds (Stormland and Frostrealm)
 
@@ -1748,15 +1748,15 @@ Fair-haired Arctics endure harsh climes with fierce independence and disciplined
   - **Clothing**: Fur-lined cloaks from winter wolves, sealskin boots, and lightning-etched armor.
   - **Coming-of-Age**: The Thunderwalk—youths climb the Stormheart during a storm, returning with a lightning-scorched token.
   - **Marriage**: Vows exchanged atop windswept bluffs, sealed by leaping together through Liberon-blessed flames.
-  - **Funerals**: Sea burial in burning longships, guiding souls to Liberon'€™s wild horizon.
+  - **Funerals**: Sea burial in burning longships, guiding souls to Liberon's wild horizon.
   - **Festivals**: Stormtide (spring)—raiding season launch with Whirlvex-inspired revels.
 
 - **Frostkin (Frostrealm)**:
   - **Daily Life**: Mining shifts, disciplined weapon drills, and evening judgments in oracle halls.
   - **Cuisine**: Preserved remorhaz meat, glacial berries, and hot gem-spiced broths.
   - **Clothing**: White dragon-scale cloaks, cold-iron mail, and rune-etched helms.
-  - **Coming-of-Age**: The Mirror Trial—gazing into the Mirror Glacier to face a personal vision, interpreted by Rigoran'€™s priests.
-  - **Marriage**: Contracts signed in blood upon balanced scales, witnessed by Equilon'€™s monks.
+  - **Coming-of-Age**: The Mirror Trial—gazing into the Mirror Glacier to face a personal vision, interpreted by Rigoran's priests.
+  - **Marriage**: Contracts signed in blood upon balanced scales, witnessed by Equilon's monks.
   - **Funerals**: Entombed in glacial vaults to preserve the body for potential raising.
   - **Festivals**: Balance Night (winter solstice)—silent meditation under the Aurora Veil.
 
@@ -1765,11 +1765,11 @@ Fair-haired Arctics endure harsh climes with fierce independence and disciplined
 Dusky, lithe Shadowkin thrive on cunning trade and nomadic herding.
 
 - **Daily Life**: Caravan departures at dusk to avoid heat; midday siestas under illusion-cooled tents; nights of whispered deals and stargazing.
-- **Cuisine**: Spiced horse meat, fermented mare'€™s milk, and scorpion-tail stew; Zenthara adds illusion-flavored phantom delicacies.
+- **Cuisine**: Spiced horse meat, fermented mare's milk, and scorpion-tail stew; Zenthara adds illusion-flavored phantom delicacies.
 - **Clothing**: Flowing silks dyed with manticore blood, veiled headdresses, and infernal-etched daggers always at hand.
 - **Coming-of-Age**: The Veil Dance—youths navigate a Shadrix-inspired illusion maze blindfolded.
 - **Marriage**: Bargains sealed with enchanted contracts; multiple partners common, dissolved by mutual deceit.
-- **Funerals**: Bodies left on steppe cairns for carrion birds—believed to carry souls to Shadrix'€™s hidden realm.
+- **Funerals**: Bodies left on steppe cairns for carrion birds—believed to carry souls to Shadrix's hidden realm.
 - **Festivals**: Night Market (new moon)—city-wide bazaars of forbidden goods; Dune Song (sandstorm season)—illusionary spectacles honoring Whirlvex.
 
 ### Southern Peoples (Serpentis and Wanderer Territories)
@@ -1782,7 +1782,7 @@ Swarthy folk blend human resilience with serpentine or nomadic traditions.
   - **Cuisine**: Spiced constrictor meat, venom-cured fruits, and blood wines.
   - **Clothing**: Scale-mail robes, medusa-veil headdresses, and obsidian jewelry.
   - **Coming-of-Age**: The Coiling—youths survive a night in the Coiled Abyss, returning marked by couatl or yuan-ti vision.
-  - **Marriage**: Arranged alliances sealed by Dominara'€™s chains; polygamy among nobles.
+  - **Marriage**: Arranged alliances sealed by Dominara's chains; polygamy among nobles.
   - **Funerals**: Mummification and entombment in pyramid vaults for later animation.
   - **Festivals**: Ascension of Scales (high sun)—public executions and promotions.
 
@@ -1792,7 +1792,7 @@ Swarthy folk blend human resilience with serpentine or nomadic traditions.
   - **Clothing**: Leather riding gear, colorful tribal tattoos, and feather-cloaked shoulders.
   - **Coming-of-Age**: The Horizon Ride—solo journey to touch a distant landmark and return.
   - **Marriage**: Vows spoken beneath open sky, sealed by shared arrow-breaking.
-  - **Funerals**: Sky burial on raised platforms, souls freed to ride Liberon'€™s winds.
+  - **Funerals**: Sky burial on raised platforms, souls freed to ride Liberon's winds.
   - **Festivals**: Great Gather (equinoxes)—horse races, storytelling, and alliance renewals at Roamhaven.
 
 ### Grimwald and Goblin Cultures
@@ -1809,18 +1809,18 @@ In the Arcanum Epoch, Mythara teems with influential mortals whose ambitions, fa
 ### Regalor and the Western Heartlands
 
 **King Valorian Brightblade (Crownspire, Regalor)**  
-Lawful Good human paladin (Oath of Devotion) 18 / fighter 2. The young but resolute monarch of Regalor, descended from ancient Arcanite lines blended with Frostkin vigor. Valorian rules from Crownspire'€™s golden throne, supported by Aelthar'€™s Radiant Bastion. He seeks to reclaim lost marches and unify the west against eastern threats, often leading crusades personally with a *holy avenger* said to glow brighter in his grasp.
+Lawful Good human paladin (Oath of Devotion) 18 / fighter 2. The young but resolute monarch of Regalor, descended from ancient Arcanite lines blended with Frostkin vigor. Valorian rules from Crownspire's golden throne, supported by Aelthar's Radiant Bastion. He seeks to reclaim lost marches and unify the west against eastern threats, often leading crusades personally with a *holy avenger* said to glow brighter in his grasp.
 
 **Archmage Lirael Starweave (Crownspire)**  
-Neutral wizard (Evocation) 17 / bard 3. High Mistress of the Mystic Institute in Crownspire, a half-elf whose subtle beauty hides centuries of study. She advises the king on arcane matters, maintains the city'€™s defensive wards, and quietly balances favors among the Nine—particularly Equilon and Harmona—to preserve Regalor'€™s stability.
+Neutral wizard (Evocation) 17 / bard 3. High Mistress of the Mystic Institute in Crownspire, a half-elf whose subtle beauty hides centuries of study. She advises the king on arcane matters, maintains the city's defensive wards, and quietly balances favors among the Nine—particularly Equilon and Harmona—to preserve Regalor's stability.
 
 **Tharok One-Eye (Frontier Marches)**  
-Chaotic Neutral half-orc barbarian (Berserker) 15 / rogue 5. The grizzled warlord elected by the Marcher clans as their High Warden. Tharok resents Crownspire'€™s taxes yet defends the borders fiercely against Grimwald and goblin raids. His missing eye was lost to a manticore; the socket now holds a gem of seeing that aids his unerring ambushes.
+Chaotic Neutral half-orc barbarian (Berserker) 15 / rogue 5. The grizzled warlord elected by the Marcher clans as their High Warden. Tharok resents Crownspire's taxes yet defends the borders fiercely against Grimwald and goblin raids. His missing eye was lost to a manticore; the socket now holds a gem of seeing that aids his unerring ambushes.
 
 ### Northern Realms
 
 **Jarl Yrsa Stormcaller (Thunderhaven, Stormland)**  
-Chaotic Good human barbarian (Berserker) 16 / bard 4. Crimson-haired ruler of the Stormkin clans, a towering woman who wields a storm-themed greataxe and leads longship raids with thunderous war cries. Devoted to Liberon, she performs rites at the Stormcaller'€™s Bluff and frequently allies with (or clashes against) Whirlvex-inspired revels.
+Chaotic Good human barbarian (Berserker) 16 / bard 4. Crimson-haired ruler of the Stormkin clans, a towering woman who wields a storm-themed greataxe and leads longship raids with thunderous war cries. Devoted to Liberon, she performs rites at the Stormcaller's Bluff and frequently allies with (or clashes against) Whirlvex-inspired revels.
 
 **High Oracle Kael Frostveil (Iceforge, Frostrealm)**  
 Lawful Neutral human cleric (Knowledge Domain) 14 / wizard 6. Golden-haired high priest of Rigoran in the Scales of Eternity. Kael interprets glacial visions and enforces impartial law among the Frostkin, commanding respect even from rival Stormkin jarls. His staff of power channels cold with surgical precision.
@@ -1831,7 +1831,7 @@ Lawful Neutral human cleric (Knowledge Domain) 14 / wizard 6. Golden-haired high
 Neutral Evil tiefling rogue (Assassin) 12 / warlock (Fiend) 8. Shadowkin ruler of Bayhaven, a lithe and charismatic figure whose infernal heritage manifests in curling horns and smoldering eyes. Vespera oversees the House of Whispered Bargains, striking pacts with Shadrix and Dominara alike while plotting westward expansion across the Inner Bay.
 
 **Mirage Queen Selara Duneweaver (Sandspire, Zenthara)**  
-Chaotic Neutral halfling bard (College of Glamour) 15 / sorcerer 5. The enigmatic ruler of Zenthara'€™s merchant councils, famed for illusions that turn desert raids into mirage victories. Selara maintains neutrality by entertaining all alignments, though she secretly favors Whirlvex'€™s caprice.
+Chaotic Neutral halfling bard (College of Glamour) 15 / sorcerer 5. The enigmatic ruler of Zenthara's merchant councils, famed for illusions that turn desert raids into mirage victories. Selara maintains neutrality by entertaining all alignments, though she secretly favors Whirlvex's caprice.
 
 ### Southern Jungles and Meadows
 
@@ -1839,18 +1839,18 @@ Chaotic Neutral halfling bard (College of Glamour) 15 / sorcerer 5. The enigmati
 Lawful Evil yuan-ti pureblood cleric (Domination Domain) 18 / sorcerer 2. The serpentine high priestess of Dominara who rules Serpentis from the Obsidian Throne. As the apex of the yuan-ti hierarchy, Xipilli commands yuan-ti malisons and abominations, medusas, dark nagas, and the vast Serpentan human populace beneath her. She seeks to extend her multi-species theocracy northward through poison, subjugation, and reptilian supremacy.
 
 **Wind-Chieftain Korath Freehoof (Wanderer Territories)**  
-Chaotic Good human fighter (Champion) 14 / ranger 6. A sturdy, weather-beaten leader of the largest Wanderer confederation, devoted to Liberon. Korath'€™s multiclass prowess makes him a peerless mounted archer, resisting both Regalor tribute demands and Serpentis encroachment.
+Chaotic Good human fighter (Champion) 14 / ranger 6. A sturdy, weather-beaten leader of the largest Wanderer confederation, devoted to Liberon. Korath's multiclass prowess makes him a peerless mounted archer, resisting both Regalor tribute demands and Serpentis encroachment.
 
 ### Infamous Villains and Independent Powers
 
 **The Ash-Crowned (Goblin Wastes)**  
-Chaotic Evil goblin warlock (Great Old One patron, secretly Ruinok) 16 / barbarian 4. A mysterious, flame-wreathed hobgoblin who has united scattered goblin tribes around the Pyre of Endless Ash. The Ash-Crowned seeks to reignite Gromar'€™s conquests, wielding a flame tongue greatsword and summoning destructive elementals.
+Chaotic Evil goblin warlock (Great Old One patron, secretly Ruinok) 16 / barbarian 4. A mysterious, flame-wreathed hobgoblin who has united scattered goblin tribes around the Pyre of Endless Ash. The Ash-Crowned seeks to reignite Gromar's conquests, wielding a flame tongue greatsword and summoning destructive elementals.
 
 **Elyndra the Pale Whisper (Shadowhaunt Vale, Grimwald Hills)**  
 Neutral Evil elf druid (Circle of the Moon) 17 / rogue 3. A legendary Grimwald exile turned night hag ally, who commands packs of shadows and wraiths. Elyndra trades in cursed dreams and stolen life essence, feared even by her own people.
 
 **Captain Draven Blackwake (Western Coastal Run and Kraken Depths)**  
-Chaotic Neutral human swashbuckler rogue 15 / bard 5. The most notorious pirate lord sailing from Silverport'€™s hidden coves. Draven'€™s enchanted cutlass dances with lightning, and his crew—drawn from all species—raids trade lanes while evading divine retribution through clever oaths to Whirlvex.
+Chaotic Neutral human swashbuckler rogue 15 / bard 5. The most notorious pirate lord sailing from Silverport's hidden coves. Draven's enchanted cutlass dances with lightning, and his crew—drawn from all species—raids trade lanes while evading divine retribution through clever oaths to Whirlvex.
 
 These figures, and countless lesser lords, priests, and adventurers, drive the living history of the Arcanum Epoch. Their decisions ripple across Mythara, turning divine wagers into mortal wars and opportunities for new heroes to rise—or fall.
 
@@ -1860,14 +1860,14 @@ The Arcanum Epoch abounds with whispers of legendary magic items—artifacts for
 
 ### Notable Artifacts and Their Known Locations
 
-**The Blade of Dawn'€™s Resolve (Holy Avenger, attuned to Aelthar)**  
-A radiant longsword whose hilt is wrought in the form of eagle wings. It is said to grant its paladin wielder maximum damage on divine smites against fiends and undead. The blade rests in a hidden solar chamber atop the Radiant Bastion in Crownspire, revealed only during a dawn ceremony where the bearer must swear an unbreakable Oath of Devotion beneath the Crownspire Beacon'€™s light. King Valorian Brightblade is rumored to have briefly attuned to it during a recent goblin incursion.
+**The Blade of Dawn's Resolve (Holy Avenger, attuned to Aelthar)**  
+A radiant longsword whose hilt is wrought in the form of eagle wings. It is said to grant its paladin wielder maximum damage on divine smites against fiends and undead. The blade rests in a hidden solar chamber atop the Radiant Bastion in Crownspire, revealed only during a dawn ceremony where the bearer must swear an unbreakable Oath of Devotion beneath the Crownspire Beacon's light. King Valorian Brightblade is rumored to have briefly attuned to it during a recent goblin incursion.
 
 **The Scales of Immutable Judgment (Legendary wondrous item, attuned to Rigoran)**  
 A set of adamantine scales that, when balanced with a disputed object or contract, casts *geas* or reveals hidden truths as *true seeing*. Attunement requires meditation in the Halls of Unyielding Verdict in Crownspire or upon the Scales of Eternity in Iceforge, where the wielder must remain perfectly impartial for a full day and night. High Oracle Kael Frostveil guards knowledge of its current resting place.
 
 **The Chains of the Despot (Legendary wondrous item, attuned to Dominara)**  
-Writhing black chains that can animate as a *chain devil* under the owner'€™s command or bind creatures with unbreakable domination. They are enshrined upon the Obsidian Throne in Coilkeep, where God-Queen Xipilli uses them in coronation rites. Attunement demands a sacrifice of free will—often interpreted as enslaving another sentient creature—at the throne itself.
+Writhing black chains that can animate as a *chain devil* under the owner's command or bind creatures with unbreakable domination. They are enshrined upon the Obsidian Throne in Coilkeep, where God-Queen Xipilli uses them in coronation rites. Attunement demands a sacrifice of free will—often interpreted as enslaving another sentient creature—at the throne itself.
 
 **The Loom of Endless Mercy (Staff of Healing, legendary, attuned to Harmona)**  
 A silver loom-staff that enhances all healing spells cast through it and can weave *mass cure wounds* without expending higher slots. It resides in the Loom of Mercy temple outside Crownspire, where attunement requires the bearer to heal a dozen grievously wounded pilgrims under the eternal oaks of the Verdant Refuge.
@@ -1878,10 +1878,10 @@ An orbiting hourglass pendant that allows precise planar travel while maintainin
 **The Veil of Whispers (Cloak of Invisibility, legendary with additional effects, attuned to Shadrix)**  
 A shifting cloak that grants greater invisibility and advantage on deception checks. Its true power awakens in the House of Whispered Bargains beneath Veilport, where Khan Vespera Nightborn is said to have attuned it after a high-stakes game of chance.
 
-**Stormcaller'€™s Fury (Berserker Axe, legendary, attuned to Liberon)**  
-A crackling greataxe that deals extra thunder damage and allows the wielder to cast *call lightning*. Jarl Yrsa Stormcaller attuned it atop the Stormcaller'€™s Bluff in Thunderhaven after a rite involving surviving a direct lightning strike.
+**Stormcaller's Fury (Berserker Axe, legendary, attuned to Liberon)**  
+A crackling greataxe that deals extra thunder damage and allows the wielder to cast *call lightning*. Jarl Yrsa Stormcaller attuned it atop the Stormcaller's Bluff in Thunderhaven after a rite involving surviving a direct lightning strike.
 
-**The Jester'€™s Gambit (Deck of Many Things, attuned to Whirlvex)**  
+**The Jester's Gambit (Deck of Many Things, attuned to Whirlvex)**  
 A capricious deck whose drawings trigger wildly unpredictable effects. It surfaces periodically in the Everturning Maze of the Grimwald Hills, where only those who complete the labyrinth laughing may draw from it safely.
 
 **The Pyreheart (Flame Tongue greatsword, legendary with necrotic infusion, attuned to Ruinok)**  
@@ -1893,7 +1893,7 @@ A blade wreathed in black fire that deals additional necrotic damage. The Ash-Cr
 Submerged vaults contain numerous rare items: *rings of water breathing*, *tridents of fish command*, and a rumored *manual of bodily health* guarded by an aboleth lord.
 
 **The Frost Tombs of Iceveil**  
-Frozen sarcophagi hold *frost brand* swords, *rings of warmth*, and *ioun stones of sustenance*, with attunement often requiring survival against the tomb'€™s eternal cold.
+Frozen sarcophagi hold *frost brand* swords, *rings of warmth*, and *ioun stones of sustenance*, with attunement often requiring survival against the tomb's eternal cold.
 
 **The Obsidian Ziggurat of Luminar**  
 Half-buried in the Singing Dunes, its deepest chambers guard an *efreeti bottle*, *crystal balls*, and scrolls for *wall of force*—many requiring attunement amid illusory traps.
@@ -1901,8 +1901,8 @@ Half-buried in the Singing Dunes, its deepest chambers guard an *efreeti bottle*
 **The Wyrmskull Vaults (Grimwald Hills)**  
 Ancient dragonborn hoards include *armor of invulnerability*, dragon-scale *plate armor of fire resistance*, and breath-channeling amulets that enhance sorcerer metamagic.
 
-**Gromar'€™s Iron Redoubt**  
-The fallen goblin warlord'€™s throne room conceals a legendary *axe of the dwarvish lords* variant suited to goblinoid wielders, along with masterwork weapons bearing cleave and nick properties.
+**Gromar's Iron Redoubt**  
+The fallen goblin warlord's throne room conceals a legendary *axe of the dwarvish lords* variant suited to goblinoid wielders, along with masterwork weapons bearing cleave and nick properties.
 
 These artifacts and sites drive countless adventures across Mythara. Possession of a single legendary item can elevate a common adventurer to legend—or mark them for divine attention, as the Nine watch and wager on who will claim, master, or perish beneath such power.
 
@@ -1913,10 +1913,10 @@ Magic in the Arcanum Epoch is a cornerstone of society, taught formally in acade
 ### Major Centers of Magical Learning
 
 **The Arcane Spire (Crownspire, Regalor)**  
-Led by Archmage Lirael Starweave, this premier institute teaches all schools but favors evocation and abjuration in line with Regalor'€™s defensive needs.  
-- Common spells (1st'€“5th level) are widely available as scrolls in the Spire'€™s library.  
+Led by Archmage Lirael Starweave, this premier institute teaches all schools but favors evocation and abjuration in line with Regalor's defensive needs.  
+- Common spells (1st'€“5th level) are widely available as scrolls in the Spire's library.  
 - Rare spells (6th'€“9th level) require faculty sponsorship and contribution of new research.  
-- Restrictions: Necromancy beyond 3rd level is heavily regulated (Aelthar'€™s influence); illusion and enchantment face scrutiny to prevent Shadrix corruption.
+- Restrictions: Necromancy beyond 3rd level is heavily regulated (Aelthar's influence); illusion and enchantment face scrutiny to prevent Shadrix corruption.
 
 **The Mirage Athenaeum (Sandspire, Zenthara)**  
 A labyrinthine complex of illusion-veiled towers specializing in illusion, enchantment, and transmutation. Mirage Queen Selara Duneweaver oversees glamorous displays of magic.  
@@ -1925,7 +1925,7 @@ A labyrinthine complex of illusion-veiled towers specializing in illusion, encha
 - Necromancy and evocation are rare, viewed as crude.
 
 **The Coiled Scriptoria (Coilkeep, Serpentis)**  
-Pyramid libraries guarded by yuan-ti purebloods, focusing on enchantment, transmutation, and poison-related magic under Dominara'€™s patronage.  
+Pyramid libraries guarded by yuan-ti purebloods, focusing on enchantment, transmutation, and poison-related magic under Dominara's patronage.  
 - Domination and poison-enhancing spells are freely taught.  
 - 8th'€“9th level enchantment scrolls are state treasures.  
 - Healing and abjuration beyond basic levels are forbidden to non-priests.
@@ -1972,7 +1972,7 @@ Nobles, merchants, temples, and factions commission adventurers for specific tas
 - **Noble or Royal Quests** (e.g., King Valorian or regional lords in Regalor): 500'€“5,000 gp base plus magic items for retrieving artifacts or slaying named threats like Valthraxthe the Frostreaver. Success often includes land grants, titles, or court favor.
 - **Merchant or Guild Contracts** (Explorer Leagues, trade caravans): 100'€“1,000 gp per member plus 10'€“20% of recovered trade goods or reagents. Protection details pay daily (20'€“50 gp/person).
 - **Temple Commissions** (e.g., Radiant Bastion or Obsidian Throne): Divine favor (free spellcasting services), blessed gear, or holy relics. Harmona temples offer healing items; Dominara cults grant cursed but powerful artifacts.
-- **Faction Bounties** (Knightly Brotherhoods, Shadow Syndicates): Fixed sums for proof of kill (e.g., 2,000 gp for Queen Arachnara'€™s head) or delivery of forbidden lore.
+- **Faction Bounties** (Knightly Brotherhoods, Shadow Syndicates): Fixed sums for proof of kill (e.g., 2,000 gp for Queen Arachnara's head) or delivery of forbidden lore.
 
 **Bounty Systems**  
 Public postings in city squares or guildhalls offer standardized rewards for verifiable threats.
@@ -1981,7 +1981,7 @@ Public postings in city squares or guildhalls offer standardized rewards for ver
 - **Northern Realms**: Clan bounties—1,000 gp for remorhaz hearts (Frostrealm mining protection), 3,000 gp for harpy flocks disrupting fjord trade.
 - **Bayhaven & Zenthara**: Khan postings—1,500 gp for basilisk eyes, escalating for Petrifex the Ironhide. Shadow Syndicates add black-market bonuses for discreet kills.
 - **Serpentis**: Temple edicts—2,000 gp and rank promotion for couatl feathers or rebel leaders; failure means enslavement.
-- **Wanderer Territories**: Tribal rewards—horses, livestock, or magic saddles for slaying Gnawbone'€™s lieutenants.
+- **Wanderer Territories**: Tribal rewards—horses, livestock, or magic saddles for slaying Gnawbone's lieutenants.
 
 Monster parts command additional value: remorhaz plating (500 gp/set for cold resistance armor), gorgon blood (1,000 gp/vial for petrification potions), kraken ink (2,000 gp for *ink cloud* scrolls).
 
@@ -1991,7 +1991,7 @@ Kingdoms and city-states tax or regulate magic items to prevent power imbalances
 
 - **Regalor**: 20% crown tax on declared magic items over uncommon rarity, waived for items donated to the throne or Radiant Bastion. Undisclosed items risk confiscation by Aelthar paladins.
 - **Frostrealm**: Impartial 15% tithe to Rigoran temples; evaders face binding *geas* contracts.
-- **Bayhaven**: Informal '€œkhan'€™s eye'€ bribe (10'€“30% value) to avoid scrutiny; Shadrix syndicates offer smuggling for half the bribe.
+- **Bayhaven**: Informal '€œkhan's eye'€ bribe (10'€“30% value) to avoid scrutiny; Shadrix syndicates offer smuggling for half the bribe.
 - **Serpentis**: All rare or higher items belong to the God-Queen by decree—adventurers may keep common/uncommon but must offer first refusal on greater finds.
 - **Stormland & Wanderer Territories**: Minimal taxation—might makes right; spoils belong to the victor.
 - **Zenthara**: Merchant council auction tax (25%), but illusion glamours often hide true value.
@@ -1999,7 +1999,7 @@ Kingdoms and city-states tax or regulate magic items to prevent power imbalances
 
 Black markets in Veilport, Crownspire Undercroft, and Silverport docks trade taxed or forbidden items at 150'€“200% markup, with Shadow Syndicate protection.
 
-Adventurers thus balance glory, wealth, and peril—ruins yield hoards rich in gems and art, quests offer structured pay, and bounties provide steady income. Yet taxation, divine scrutiny, and rival claims ensure that great rewards come with great risk, keeping the epoch'€™s heroes ever on the edge.
+Adventurers thus balance glory, wealth, and peril—ruins yield hoards rich in gems and art, quests offer structured pay, and bounties provide steady income. Yet taxation, divine scrutiny, and rival claims ensure that great rewards come with great risk, keeping the epoch's heroes ever on the edge.
 
 ## Common Languages and Linguistic Distribution
 
@@ -2034,7 +2034,7 @@ Preserved by remnant dragonborn clans in volcanic badlands and Wyrmskull Vaults.
 - **Terran**: Dwarven forge-cant in Ironroot Delves.
 
 **Abyssal and Infernal**  
-Abyssal echoes in Ruinok cult rites and goblin war-cries; Infernal is whispered by tiefling Shadowkin and Dominara'€™s warlocks in Coilkeep.
+Abyssal echoes in Ruinok cult rites and goblin war-cries; Infernal is whispered by tiefling Shadowkin and Dominara's warlocks in Coilkeep.
 
 **Sylvan**  
 Grimwald elves guard this flowing woodland tongue fiercely; druids and fey-touched rangers learn it for Nature Ring rituals.
