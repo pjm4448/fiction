@@ -2,6 +2,51 @@
 
 *(Nothing in this article is to be considered as an attempt to advance any theory in opposition to accepted history or fantasy tropes. It is simply a fictional background for a series of stories, campaigns, or adventures. When I conceptualized this world, I prepared this 'history' of its age and the peoples of that age to lend greater depth and realness to its inhabitants and sagas. By adhering to the 'facts' and spirit of this history, it becomes easier to visualize and present characters as flesh-and-blood beings in a high-fantasy realm infused with magic, monsters, and divine intrigue. In crafting adventures within the various kingdoms of this Age, one should follow the lines of this history as closely as a writer of historical-fantasy follows actual lore, while integrating the full mechanics of character creation, classes, species, feats, equipment, spells, magic items, monsters, and rules from Dungeons & Dragons 5th Edition, including the Player's Handbook (2024), Dungeon Master's Guide (2024), and Monster Manual (2025).)*
 
+---
+
+## Table of Contents
+
+**Core Setting**
+- [The Current Age: The Arcanum Epoch](#the-current-age-the-arcanum-epoch)
+- [The Shadow of the Ultimate Cataclysm](#the-shadow-of-the-ultimate-cataclysm)
+- [The Ninefold Pantheon: Deities of Mythara](#the-ninefold-pantheon-deities-of-mythara)
+- [Divine Wagers: Mechanical Guidelines for DMs](#divine-wagers-mechanical-guidelines-for-dms)
+- [Lesser Deities, Demigods, and Exarchs](#lesser-deities-demigods-and-exarchs)
+- [Warlock Patrons of Mythara](#warlock-patrons-of-mythara)
+
+**History & Lore**
+- [The Pre-Cataclysmic Age: Dawn of Arcanis](#the-pre-cataclysmic-age-dawn-of-arcanis)
+
+**Politics & Society**
+- [Economy, Politics, Factions, and Conflicts](#economy-politics-factions-and-conflicts)
+- [Regions, Cities, and Peoples](#regions-cities-and-peoples)
+
+**Locations & Geography**
+- [Significant Landmarks](#significant-landmarks)
+- [Holy Sites and Temples](#holy-sites-and-temples)
+- [Adventure Sites](#adventure-sites)
+- [Wilderness Danger Zones](#wilderness-danger-zones)
+- [Sea and Island Geography](#sea-and-island-geography)
+- [Underground and Planar Connections](#underground-and-planar-connections)
+
+**Bestiary & Threats**
+- [Monster Ecologies and Named Threats](#monster-ecologies-and-named-threats)
+
+**Campaign Resources**
+- [Major Cities: Detailed Guides](#major-cities-detailed-guides)
+  - [Veilport: The City of Whispered Bargains](#veilport-the-city-of-whispered-bargains)
+  - [Crownspire: The Radiant Capital](#crownspire-the-radiant-capital)
+  - [Coilkeep: The Serpent's Throne](#coilkeep-the-serpents-throne)
+- [Random Encounter Tables by Region](#random-encounter-tables-by-region)
+- [Campaign Starter Hooks](#campaign-starter-hooks)
+- [NPC Stat Blocks](#npc-stat-blocks)
+- [Player Handout: Common Knowledge of Mythara](#player-handout-common-knowledge-of-mythara)
+
+**Appendices**
+- [Glossary and Index](#glossary-and-index)
+
+---
+
 ## The Current Age: The Arcanum Epoch
 
 The Arcanum Epoch represents the "current" era of Mytharaâ€”a vibrant and tumultuous period of high fantasy where the stories and adventures of this world bible are intended to be set. This age occurs after the migrations and conquests of the Arcanites but before the glacial drifts and the Ultimate Cataclysm that would reshape the world into forms reminiscent of our own historical Earth. It is a time of virile civilizations, where mixed-species kingdoms thrive amidst constant threats from barbarians, monsters, and divine machinations. 
@@ -467,6 +512,15 @@ While the Nine tolerate warlock pacts as "cosmic intrigue," mortal authorities a
 
 
 ## The Pre-Cataclysmic Age: Dawn of Arcanis
+
+
+> **At a Glance: Mythara's Ancient History**
+>
+> - **Pre-Cataclysmic Age** (~2,000+ years ago): Advanced civilizations (Luminar, Valmont, Ebonridge) with high magic; aboleth empires ruled southern regions; dragon dynasties controlled eastern lands
+> - **Great Cataclysm**: Divine conflicts and planar rifts destroyed elder kingdoms; aboleth empire fell; survivors scattered
+> - **Migratory Period**: Refugees founded new kingdomsArcanites (human-elf-dwarf mixes) settled west forming proto-Regalor; tiefling survivors founded Bayhaven; yuan-ti emerged in southern jungles as Serpentis
+> - **Arcanum Epoch** (current, 1247 AE): Modern kingdoms established after 1,000+ years of consolidation; five major wars ongoing; Ninefold Pantheon fully active; dungeons full of Pre-Cataclysmic treasures
+> - **Key Takeaway for DMs**: Ancient ruins contain powerful magic items and dangerous guardians; history provides context for current kingdom borders and species distributions; players discover this through exploration, not exposition dumps
 
 Of that epoch known by the scholars of Luminar as the Pre-Cataclysmic Age, little is known except the latter part, veiled as it is in hazes of myth and eldritch tales. Known history begins with the decline of the Pre-Cataclysmic civilization, dominated by the kingdoms of Luminar, Valmont, Ebonridge, Stormhold, Iceveil, and Duskmoor. These peoples spoke variants of the Ancient Dialect, implying a shared origin from primordial gateway crossings. 
 
@@ -2271,4 +2325,1201 @@ Veilport provides settings for campaigns ranging from intrigue-heavy urban adven
 13. **Veilport's Fate**: The succession crisis explodes into open conflict. Vespera's tyranny vs. Free Veil's rebellion vs. Shadow Syndicate independence vs. Regalor invasion vs. potential return of aboleths from below. PCs at center of five-way conflict that determines city's future. Requires mass combat, high-level NPC alliances/betrayals, divine intervention from Shadrix/Dominara/Equilon, and world-changing decisions. Possible outcomes: republic established, new tyrant emerges, city destroyed, PCs become rulers, Veilport returns to aboleth slavery, or ascension to planar significance as nexus of trade connecting Material Plane to Hells. Legendary magic items, epic boons, permanent setting changes.
 
 These hooks provide years of campaign material focused on Veilport while allowing connections to broader Mythara world through trade missions, diplomatic ventures, and faction ties to other kingdoms.
+
+
+---
+
+## Random Encounter Tables by Region
+
+### How to Use These Tables
+Roll 1d20 for each 4-hour travel period through wilderness. On 18-20, an encounter occurs. For dangerous zones (Venomroot Jungle, Bleakmoor Fens), encounters occur on 15-20. Adjust CR based on party leveluse lower-CR variants for weak parties, add additional creatures for strong groups.
+
+### Bleakmoor Fens (Southern Regalor Marshlands)
+
+**Terrain**: Murky swamps, twisted willows, ankle-deep brackish water, fog-shrouded ruins
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 2d4 **Giant Frogs** | 1/4 ea | Swallow smaller PCs whole |
+| 3-4 | 1d6 **Stirges** | 1/8 ea | Blood drain attacks |
+| 5-6 | 1 **Will-o'-Wisp** | 2 | Lures travelers to quicksand (DC 14 Survival to notice) |
+| 7-8 | 2d4 **Zombies** | 1/4 ea | Plague-ridden; Constitution save DC 12 or contract sewer plague |
+| 9-10 | 1 **Troll** | 5 | Regenerates unless burned; lair in sunken hut |
+| 11-12 | 1d4 **Ghouls** | 1 ea | Paralysis touch; feed on drowned merchant corpses |
+| 13-14 | 1 **Green Hag** | 3 | Offers poisoned bargain disguised as helpful |
+| 15-16 | 1d4+1 **Giant Spiders** | 1 ea | Web-filled thicket ambush |
+| 17 | 1 **Hydra** (5 heads) | 8 | Territorial; guards treasure (2d6  100 gp) |
+| 18 | 1 **Shambling Mound** | 5 | Lightning absorption; engulf attacks |
+| 19 | 1 **Black Dragon** (young) | 7 | Acid breath; demands tribute or attacks |
+| 20 | **Harmona's Blessing** |  | PCs find sacred druid grove; short rest heals maximum HP, *goodberry* bushes (10 berries) |
+
+**Divine Omen**: On natural 20, Harmona's druids offer alliance vs. Dominara cultists corrupting southern fens.
+
+---
+
+### Venomroot Jungle (Deep Serpentis)
+
+**Terrain**: Dense canopy, giant ferns, strangler vines, humid heat, pyramid ruins
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 2d6 **Poisonous Snakes** | 1/8 ea | Poison damage; hidden in undergrowth |
+| 3-4 | 1d4 **Giant Constrictor Snakes** | 2 ea | Restrain and suffocate |
+| 5-6 | 1 **Yuan-ti Pureblood** patrol | 1 | Questions travelers; reports to temple |
+| 7-8 | 2d4 **Giant Centipedes** | 1/4 ea | Poison bite; swarm tactics |
+| 9-10 | 1d4 **Yuan-ti Malisons** | 3 ea | Suggestion spell; capture for slavery |
+| 11-12 | 1 **Ankylosaurus** | 3 | Herbivore but territorial; trampling charge |
+| 13-14 | 1 **Shambling Mound** | 5 | Carnivorous plant; lightning heals it |
+| 15-16 | 1 **Medusa** | 6 | Dominara cultist; petrifying gaze; collects statues |
+| 17 | 1d3 **Yuan-ti Abominations** | 7 ea | Temple guards; have prisoner slaves (DC 18 Stealth to free) |
+| 18 | 1 **Guardian Naga** | 10 | Quetzara servant; aids anti-slavery PCs, attacks yuan-ti allies |
+| 19 | 1 **Spirit Naga** | 8 | Dark naga variant; lightning bolt; guards Coiled Abyss entrance |
+| 20 | **Quetzara's Vision** |  | Couatl appears; offers warlock pact or quest to free slaves; blessing grants advantage on saves vs. charm/dominate for 24 hours |
+
+**Divine Omen**: On natural 1, The Chain Sovereign (Dominara's exarch) manifests as voice in nearby mirror-pool, offering slavery-based warlock pact.
+
+---
+
+### Thornskull Thickets (Frontier Marches)
+
+**Terrain**: Thorny brambles, gnarled oaks, hidden clearings, Grimwald raider paths
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 1d6 **Wolves** | 1/4 ea | Pack tactics; howl brings reinforcements (50% chance 1d4 more) |
+| 3-4 | 1 **Owlbear** | 3 | Territorial; attacks if approached within 60 feet |
+| 5-6 | 1d4 **Ettercaps** | 2 ea | Web traps (DC 14 Dexterity save); serve Queen Arachnara |
+| 7-8 | 2d4 **Bandits** (Grimwald raiders) | 1/8 ea | Demand toll; CE alignment; serve Elyndra |
+| 9-10 | 1d4+1 **Giant Spiders** | 1 ea | Ambush from canopy; poison bite |
+| 11-12 | 1 **Displacer Beast** | 3 | Displacement makes it hard to hit; hunts alone |
+| 13-14 | 1d3 **Trolls** | 5 ea | Regenerate unless burned; lair nearby with 1d4  100 gp loot |
+| 15-16 | 1 **Chimera** | 6 | Three-headed; breath weapons (fire/lightning/poison) |
+| 17 | 1 **Treant** | 9 | Harmona-blessed; neutral unless forest harmed; offers guidance |
+| 18 | **Elyndra the Pale Whisper** | 20 | Druid 17/rogue 3, NE; assassinates Regalor officers; has 2d4 Grimwald raider escorts |
+| 19 | 1 **Roc** | 11 | Grabs PC for nest; eggs worth 5,000 gp each (2d4 eggs) |
+| 20 | **Aelthar's Patrol** |  | 1d4+1 Regalor paladins (level 5-8) offer escort to Crownspire; heal PCs freely |
+
+**Divine Omen**: On natural 20, Dawnblade (Aelthar's exarch) manifests as radiant mounted warrior, rallying PCs against Ruinok's forces.
+
+---
+
+### Manticore Marches (Bayhaven Borderlands)
+
+**Terrain**: Rolling scrubland, rocky outcrops, sparse trees, view of distant bay
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 1d4 **Hyenas** | 0 ea | Scavengers; flee if injured |
+| 3-4 | 2d6 **Gnolls** | 1/2 ea | Yeenoghu worshipers; cannibals; take prisoners for sacrifice |
+| 5-6 | 1 **Manticore** | 3 | Tail spike volley; hunts from air |
+| 7-8 | 1d4 **Harpies** | 1 ea | Luring song (DC 11 Wisdom save); cliff-side lairs |
+| 9-10 | 1 **Chimera** | 6 | Multi-headed breath attacks; territorial |
+| 11-12 | 1d3 **Leucrottas** | 3 ea | Mimicry ability; lure victims into ambush |
+| 13-14 | 1 **Lamia** | 4 | Intoxicating touch; Wisdom drain; disguises as traveler |
+| 15-16 | 2d4 **Gnoll Fangs of Yeenoghu** | 4 ea | Elite gnolls; cause rampage on kill |
+| 17 | 1 **Gnoll Pack Lord** + 3d6 gnolls | 2 + 1/2 ea | Warband; carries *+1 battleaxe* and 1d4  100 gp |
+| 18 | **Gnawbone the Laughing King** | 11 | Gnoll fang of Yeenoghu with cursed hyena pelts; insane laughter |
+| 19 | 1d3 **Manticores** | 3 ea | Mated pair + juvenile; defend nest with 1d6 gems (100 gp each) |
+| 20 | **Wanderer Caravan** |  | 2d10 nomads (commoners) led by Wind-Chieftain ally; offer trade and rest |
+
+**Divine Omen**: On natural 17+, The Stormcaller (Liberon's exarch) rides storm clouds overhead, inspiring PCs to free any captives.
+
+---
+
+### Wyrmcoil Wastes (Northern Stormland Tundra)
+
+**Terrain**: Frozen wastes, glacial crevasses, howling winds, ancient ice
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 2d4 **Ice Mephits** | 1/4 ea | Breath weapon; shatter when killed |
+| 3-4 | 1d4 **Winter Wolves** | 3 ea | Pack tactics; ice breath |
+| 5-6 | 1d3 **Yetis** | 3 ea | Cold immunity; frightful gaze |
+| 7-8 | 1 **Remorhaz** (young) | 5 | Heated body damages grapplers; burrows |
+| 9-10 | 2d4 **Frost Giants** (scouts) | 8 ea | Ice boulder throws; demand tribute or fight |
+| 11-12 | 1 **Mammoth** | 6 | Herbivore herd; stampede if startled (DC 15 Dexterity save or trampled) |
+| 13-14 | 1 **Adult Remorhaz** | 11 | Swallow attacks; lair contains frozen treasure |
+| 15-16 | 1 **Abominable Yeti** | 9 | Cold aura; frightful roar |
+| 17 | 1 **Frost Giant Jarl** + 1d4 giants | 9 + 8 ea | Raiding party; carry 2d4  100 gp loot from Stormkin villages |
+| 18 | **Valthrax the Frostreaver** | 13 | Ancient white dragon; breath weapon; hoards *white dragon scale mail* |
+| 19 | 1 **Roc** | 11 | Snatches PC for chicks; nest has 1d4 *+1 weapons* from previous victims |
+| 20 | **Stormkin Hospitality** |  | Jarl Yrsa's longship crew offers mead, shelter, and tales; 1d4 berserker allies (CR 2) join for next combat |
+
+**Divine Omen**: On natural 8+, The Laughing Jester (Whirlvex's exarch) causes chaotic weatherblood rain, dancing auroras, reversed gravity for 1 minute.
+
+---
+
+### Death Hyena Plains (Wanderer/Ebony Realms Border)
+
+**Terrain**: Savanna grasslands, acacia groves, watering holes, distant mesas
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 2d6 **Hyenas** | 0 ea | Scavenger pack; flee if outnumbered |
+| 3-4 | 1d4 **Lions** | 1 ea | Pride hunters; attack if hungry or threatened |
+| 5-6 | 2d4 **Gnolls** | 1/2 ea | Raiding party from northern wastes |
+| 7-8 | 1d3 **Death Dogs** | 1 ea | Two-headed; disease bite (DC 12 Constitution save or sewer plague) |
+| 9-10 | 1 **Lamia** | 4 | Wisdom-draining touch; disguised as lost traveler |
+| 11-12 | 1d4 **Leucrottas** | 3 ea | Vocal mimicry; ambush predators |
+| 13-14 | 1 **Manticore** | 3 | Aerial hunter; tail spikes |
+| 15-16 | 2d4 **Gnoll Fangs of Yeenoghu** | 4 ea | Frenzied; cause rampage |
+| 17 | 1d3 **Warrior Queen Riders** + mounts | 3 ea | Ebony Realms scouts; neutral unless provoked; carry *+1 spears* |
+| 18 | 1 **Adult Brass Dragon** | 13 | Talkative; demands stories as toll; gives *ring of fire resistance* if entertained |
+| 19 | 1 **Purple Worm** (juvenile) | 15 | Erupts from ground; tail stinger poison |
+| 20 | **Wanderer Hospitality** |  | Wind-Chieftain Korath's tribe offers food, water, guidance; 1d4 ranger allies (level 6) available for hire |
+
+**Divine Omen**: On natural 13+, Liberon's winds blow favorably, granting advantage on Survival checks for 24 hours.
+
+---
+
+### Gorgon Badlands (Central Zenthara Desert)
+
+**Terrain**: Rocky desert, petrified trees, stone statues of victims, scorching heat
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 2d4 **Giant Scorpions** | 3 ea | Poison sting; burrow ambush |
+| 3-4 | 1d4 **Giant Vultures** | 1 ea | Scavengers; track injured prey |
+| 5-6 | 1 **Basilisk** | 3 | Petrifying gaze (DC 12 Constitution save or turn to stone) |
+| 7-8 | 2d6 **Bandits** (desert raiders) | 1/8 ea | Zenthara outcasts; demand water or valuables |
+| 9-10 | 1 **Gorgon** | 5 | Petrifying breath weapon; metallic bull |
+| 11-12 | 1d3 **Lamias** | 4 ea | Intoxicating touch; lair in oasis ruins |
+| 13-14 | 1 **Medusa** | 6 | Stone gaze; collects petrified adventurers as "art" |
+| 15-16 | 1 **Young Blue Dragon** | 9 | Lightning breath; territorial over oasis |
+| 17 | 1 **Gynosphinx** | 11 | Riddle challenge (3 Intelligence checks DC 15); devours failures, aids successes |
+| 18 | 1 **Adult Gorgon** | 5 | Larger variant; breath petrifies entire party (DC 15 Constitution save) |
+| 19 | 1 **Efreeti** | 11 | Bound by ancient curse; grants 1 *wish* to liberator |
+| 20 | **Oasis Sanctuary** |  | Hidden spring blessed by Harmona; *heroes' feast* effect, removes petrification on PCs |
+
+**Divine Omen**: On natural 1-2, desert heat intensifies (Ruinok's touch)Constitution saves DC 15 every hour or gain exhaustion.
+
+---
+
+### Shadowhaunt Vale (Grimwald Interior Haunted Forest)
+
+**Terrain**: Ancient woods, ghostly mists, crumbling shrines, unnatural cold
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 2d6 **Zombies** | 1/4 ea | Shamble from graves; mindless undead |
+| 3-4 | 1d4 **Shadows** | 1/2 ea | Strength drain; hide in darkness |
+| 5-6 | 1d3 **Ghouls** | 1 ea | Paralysis claws; feast on travelers |
+| 7-8 | 1 **Will-o'-Wisp** | 2 | Lures victims to death, feeds on life force |
+| 9-10 | 1d4 **Specters** | 1 ea | Life drain; incorporeal |
+| 11-12 | 1 **Wraith** | 5 | Creates spawn from kills; sunlight sensitivity |
+| 13-14 | 1 **Banshee** | 4 | Wail (DC 13 Constitution save or drop to 0 HP) |
+| 15-16 | 1d3 **Wights** | 3 ea | Life drain creates zombies; armor and weapons |
+| 17 | 1 **Night Hag** | 5 | Ethereal jaunt; nightmare haunting; offers cursed bargain |
+| 18 | 1 **Vampire Spawn** pack (2d4) | 5 ea | Serve Apexar vampire lords; regenerate |
+| 19 | 1 **Lich** (lesser) | 21 | Morthas cultist; *power word kill*, phylactery hidden in vale |
+| 20 | **Morthas's Harvest** |  | The Grim Shepherd appears; offers resurrection for terrible price (10 years lifespan per PC raised) |
+
+**Divine Omen**: On natural 19-20, Morthas's presence is strongany PC who died in past 24 hours can be raised as revenant (retain class/level but undead) with quest for revenge.
+
+---
+
+### Kraken Depths (Vast Inner Bay Open Water)
+
+**Terrain**: Deep ocean, sudden storms, floating debris, mysterious lights below
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 2d4 **Merfolk** | 1/8 ea | Neutral; trade or warn of dangers |
+| 3-4 | 1d4 **Reef Sharks** | 1/2 ea | Blood frenzy; attracted to injury |
+| 5-6 | 1 **Plesiosaurus** | 2 | Curious; follows ship non-aggressively |
+| 7-8 | 1d3 **Hunter Sharks** | 2 ea | Aggressive; attack lifeboats |
+| 9-10 | 1 **Water Elemental** | 5 | Planar rift spawn; whelm attack |
+| 11-12 | 2d4 **Sahuagin** | 1/2 ea | Raiding party; blood frenzy; serve aboleth masters |
+| 13-14 | 1 **Giant Octopus** | 1 | Grabs crew; ink cloud escape |
+| 15-16 | 1 **Hydra** (aquatic variant) | 8 | Multi-headed; regenerates heads |
+| 17 | 1 **Sahuagin Baron** + 3d6 sahuagin | 5 + 1/2 ea | Warband raids shipping; serve Uloshok the Dreaming Tide |
+| 18 | 1 **Dragon Turtle** | 17 | Demands tribute (1,000 gp or cargo); steam breath |
+| 19 | **Vorathrax the Abyss-Tentacled** | 23 | Ancient kraken; legendary actions; lightning storm; hoards *bowl of commanding water elementals* |
+| 20 | **Calm Seas** |  | Equilon's blessing; perfect weather, favorable winds, advantage on Navigation checks for 3 days |
+
+**Divine Omen**: On natural 18+, Olhydra's planar rift openswater elemental myrmidons (CR 7) emerge, attacking all vessels.
+
+---
+
+### Pale Fang Crags (Frostrealm Mountain Passes)
+
+**Terrain**: Jagged peaks, narrow ledges, avalanche zones, ice caves
+
+| d20 | Encounter | CR | Notes |
+|-----|-----------|-----|-------|
+| 1-2 | 1d4 **Aarakocra** | 1/4 ea | Scouts; neutral unless attacked |
+| 3-4 | 2d4 **Stirges** | 1/8 ea | Nest in ice caves; blood drain |
+| 5-6 | 1d3 **Harpies** | 1 ea | Luring song from cliffs |
+| 7-8 | 1 **Griffon** | 2 | Territorial; defends nest (1d4 eggs worth 500 gp each) |
+| 9-10 | 1d4 **Yetis** | 3 ea | Cold aura; frightful gaze |
+| 11-12 | 1 **Young White Dragon** | 6 | Ice breath; hoards frozen corpses with treasure |
+| 13-14 | 1 **Troll** (ice variant) | 5 | Regenerates unless burned; vulnerability fire |
+| 15-16 | 1 **Roc** | 11 | Grabs party member; nest contains 2d6  1,000 gp from dragon hoard |
+| 17 | **Avalanche** |  | Dexterity save DC 15 or buried (4d10 bludgeoning, suffocation); triggered by noise or Whirlvex's mischief |
+| 18 | 1 **Frost Giant Jarl** + 1d4 giants | 9 + 8 ea | Mountain fortress guards; 3d6  100 gp treasure |
+| 19 | **Valthrax the Frostreaver** | 13 | Ancient white dragon; legendary lair actions; *+2 frost brand greatsword* in hoard |
+| 20 | **Mountain Monastery** |  | High Oracle Kael Frostveil's monks offer sanctuary, healing, and cryptic prophecies |
+
+**Divine Omen**: On natural 15+, Rigoran's law manifestsancient stone tablets appear with binding contract offer (geas for magical boon).
+
+---
+
+## Campaign Starter Hooks
+
+### Level 1-3: Getting Started in Mythara
+
+These hooks introduce new adventurers to Mythara's major conflicts, factions, and themes while providing clear objectives and rewards.
+
+#### Hook 1: Caravan Guards (Western Frontier War)
+**Location**: Crownspire to Frontier Marches  
+**Patron**: Merchant Guild of Crownspire  
+**Conflict**: Western Frontier War (Regalor vs. Grimwald/Goblins)
+
+Merchant Guildmaster Theron Goldleaf hires PCs to guard supply caravan traveling to Fort Edgewatch (3 days journey through Thornskull Thickets). Payment: 10 gp per PC plus 5 gp bonus if cargo arrives intact.
+
+**Complications**:
+- Day 1: Grimwald bandit ambush (2d4 bandits CR 1/8, led by 1 scout CR 1/2)
+- Day 2: Owlbear attacks draft horses; PCs must drive it off or lose cargo
+- Day 3: Arrive to find Fort Edgewatch under goblin siege; must choose to flee with cargo or help defenders (earns Aelthar paladin allies if aid)
+
+**Rewards**: Payment + letter of recommendation from fort commander + introduction to Frontier Defense League faction
+
+**Follow-up**: Fort commander hires PCs to track goblin raiders to their lair, beginning larger anti-Ruinok campaign
+
+---
+
+#### Hook 2: The Missing Shipment (Inner Bay Trade War)
+**Location**: Veilport  
+**Patron**: Veilcoin Banking Consortium  
+**Conflict**: Inner Bay Trade War (Crownspire vs. Veilport)
+
+Banker Vex'kaan reports that valuable silk shipment from Crownspire never arrived at Veilport docks. Shadow Guard suspects Free Veil Coalition sabotage, but Khan Vespera wants proof before cracking down. PCs hired to investigate discreetly. Payment: 50 gp per PC.
+
+**Investigation Reveals**:
+- Silk seized by Khan Vespera's corsairs (Admiral Kess), not Coalition
+- Vespera frames Coalition to justify purge and keep silk profits
+- Dockworkers dominated by aboleth Uloshok provided false testimony
+
+**Choices**:
+- Expose Vespera (earn Coalition gratitude, become wanted by Shadow Guard)
+- Keep silent and report "Coalition guilty" (earn Vespera's favor, betray truth)
+- Expose aboleth manipulation (compromiseboth factions hunt aboleths, PCs seen as neutral problem-solvers)
+
+**Rewards**: Payment + faction reputation + possible *+1 weapon* from grateful patron + future aboleth hunting quests
+
+---
+
+#### Hook 3: The Plague Village (Northern Clan Feud)
+**Location**: Disputed border between Stormland and Frostrealm  
+**Patron**: Harmona's Mediators  
+**Conflict**: Stormkin vs. Frostkin clan war
+
+Priestess Selene of Harmona hires PCs to deliver medicine to plague-stricken fishing village caught between warring clans. Both Jarl Yrsa (Stormkin) and High Oracle Kael (Frostkin) claim village, and neither will provide aid. Payment: 15 gp per PC + *potion of greater healing* each.
+
+**Complications**:
+- Stormkin raiders demand PCs hand over medicine as "war supplies"
+- Frostkin patrols accuse PCs of aiding enemy
+- Plague is actually magical curse from The Grim Shepherd (Morthas's exarch) testing mortals
+- Village elder reveals generations-old blood feud between Yrsa and Kael (they're estranged siblings)
+
+**Resolution**:
+- Deliver medicine, remove curse (DC 15 Religion check or *lesser restoration*)
+- Negotiate truce between siblings (DC 18 Persuasion using family history)
+- Success earns both clans' respect + Harmona's blessing
+
+**Rewards**: Payment + *+1 shield* blessed by Harmona + reputation with both Stormland and Frostrealm + invitation to mediate larger peace talks (future quest)
+
+---
+
+#### Hook 4: Slave Rescue (Southern Coiled Incursion)
+**Location**: Wanderer Territories near Serpentis border  
+**Patron**: Wind-Chieftain Korath Freehoof  
+**Conflict**: Serpentis expansionism and slavery
+
+Wanderer scouts report that yuan-ti slavers captured entire halfling caravan (12 civilians including children) en route to Zenthara. Slavers travel through Venomroot Jungle toward Coilkeep. Wind-Chieftain hires PCs to intercept and free captives before they reach pyramid city. Payment: 25 gp per PC + pick of captured yuan-ti equipment.
+
+**Challenge**:
+- Track through jungle (Survival DC 13)
+- Avoid yuan-ti patrols (2d4 yuan-ti purebloods CR 1, 1d3 malisons CR 3)
+- Rescue captives from camp at night (Stealth vs. Passive Perception 14)
+- Escape pursuit (yuan-ti send 1 abomination CR 7 + malisons in pursuit if alarm raised)
+
+**Aid**:
+- Guardian naga (Quetzara servant) appears if PCs struggling, offers help for promise to oppose Serpentis
+- Freed slaves include halfling diviner who gives prophetic warning of future danger
+
+**Rewards**: Payment + *+1 weapon* of choice + possible Quetzara warlock pact offer + introduction to Underground Railroad network (future quests freeing Serpentis slaves)
+
+---
+
+#### Hook 5: The Haunted Manor (General Adventure)
+**Location**: Abandoned estate outside Silverport  
+**Patron**: Silverport City Council  
+**Conflict**: None (standalone dungeon)
+
+Silverport magistrate hires PCs to clear undead from Thornwood Manor, former estate of wizard Malachar the Gray who died 50 years ago. Recent earthquakes disturbed his tomb, and now zombies and skeletons terrorize nearby farms. Payment: 30 gp per PC + anything found in manor except Malachar's spellbook (city wants that).
+
+**Dungeon (5 rooms)**:
+1. **Entry Hall**: 2d6 zombies CR 1/4; broken furniture; portraits with secret compartment (50 gp jewelry)
+2. **Library**: 1d4 animated armors CR 1; Malachar's research notes (hint to tomb location); trapped bookshelf (DC 12 Investigation, DC 13 Dexterity save or 2d6 poison damage)
+3. **Kitchen**: 1 ochre jelly CR 2; consumes anything organic; treasure in stone oven (100 gp, *potion of climbing*)
+4. **Ballroom**: 2d4 skeletons CR 1/4, 1 specter CR 1; mirrors reflect ghostly dancers; specter haunts murderer's descendant PC if any
+5. **Crypt**: 1 wight CR 3 (Malachar); spellbook on pedestal (contains 10 random 1st-3rd level spells); sarcophagus treasure (300 gp, *+1 wand of the war mage*, *robe of useful items*)
+
+**Rewards**: Payment + dungeon treasure + reputation in Silverport + optional: keep spellbook secretly (betrays contract but valuable) or return (honor contract, magistrate becomes ally)
+
+---
+
+#### Hook 6: The Goblin Chieftain's Challenge (Western Frontier War)
+**Location**: Ruinfort, Goblin Wastes  
+**Patron**: The Ash-Crowned (CE goblin warlord)  
+**Conflict**: Western Frontier War
+
+Unlikely patron: The Ash-Crowned sends herald to Crownspire tavern where PCs drink, challenging "soft southern weaklings" to trial by combat. If PCs win, goblins cease raids for one season. If goblins win, PCs serve Ash-Crowned as warriors for one month. Regalor authorities quietly encourage thisone season of peace saves lives.
+
+**Combat Trials** (Gladiatorial arena in Ruinfort):
+1. **Round 1**: 2d4 goblins CR 1/4 (warm-up; easily defeated)
+2. **Round 2**: 1 bugbear CR 1 + 1d4 goblins (real test begins)
+3. **Round 3**: 1 hobgoblin warlord CR 6 (The Ash-Crowned's champion; has *+1 greatsword*)
+4. **Final Round**: The Ash-Crowned himself challenges winning PCs to honor duel (warlock 16/barbarian 4, CR 18clearly overpowered, but fights to first blood only, testing courage not killing)
+
+**Outcomes**:
+- **Victory**: Goblins honor deal; Ash-Crowned respects PCs, might aid against Grimwald in future (enemy-of-my-enemy)
+- **Defeat** (trials): Serve goblin army 1 month; witness Ruinok cult practices; opportunity to sabotage from within or genuinely aid and earn respect
+- **Defeat** (honor duel): The Ash-Crowned laughs, declares PCs worthy anyway, grants peace
+
+**Rewards**: *+1 weapon* from arena treasure + 1d4  100 gp + possible goblin allies + knowledge of Ruinok cult weakness (future quest to disrupt)
+
+---
+
+#### Hook 7: The Stolen Idol (Veilport Intrigue)
+**Location**: Veilport  
+**Patron**: Vex'thraal, High Dealer of House of Whispered Bargains  
+**Conflict**: Veilport internal factional struggle
+
+Vex'thraal (cambion priest of Shadrix) reports that sacred gambling bonescarved from Shadrix exarch's knuckleboneswere stolen from temple vault. Without them, divine wagers cannot be cast, threatening Shadrix's influence over Veilport. Vex'thraal suspects Free Veil Coalition but needs proof. PCs hired to investigate. Payment: 40 gp per PC + "favor from Shadrix" (can cash in for advantage on single d20 roll in future).
+
+**Investigation**:
+- Bones stolen by Shadowveil thief named Torin Silvercloak (Coalition operative)
+- Torin intends to sell to Crownspire agents to weaken Veilport's divine protection
+- Twist: Torin is secretly Khan Vespera's agentshe orchestrated theft to blame Coalition and justify crackdown
+
+**Choices**:
+- Return bones to temple (earn Vex'thraal's favor, Vespera's scheme succeeds, Coalition purged)
+- Give bones to Coalition (Vespera exposed, PCs become wanted by Shadow Guard)
+- Keep bones (Shadrix's power weakens, PCs have powerful artifact leverage, everyone hunts them)
+- Destroy bones (anger Shadrix, free Veilport from his influence, possible divine curse)
+
+**Rewards**: Payment + chosen outcome reshapes Veilport politics + possible divine blessing/curse depending on choice
+
+---
+
+#### Hook 8: The Tax Collector (Regalor Politics)
+**Location**: Frontier village, Regalor territory  
+**Patron**: Village Elder Marta  
+**Conflict**: Frontier resentment of Crownspire rule
+
+Small frontier village struggles with King Valorian's war taxes50% of harvest goes to feed army fighting goblins. Tax collector Baron Rendell (corrupt noble fighter 5, LE) arrives with 12 guards to collect, but villagers can't pay without starving through winter. Elder Marta secretly hires PCs to "handle situation" without specifying how. Payment: 20 gp per PC (villagers' life savings).
+
+**Options**:
+- **Violence**: Kill/drive off tax collector (makes PCs outlaws, villagers grateful but terrified of reprisal)
+- **Negotiation**: Persuade baron to reduce taxes (DC 18 Persuasion) or expose his embezzling (DC 15 Investigation finds cooked books)
+- **Compromise**: Help village increase harvest magically (*plant growth*), hunt food, or find valuables to pay legitimately
+- **Side With Law**: Force villagers to pay (betrays employer but maintains order; King Valorian rewards lawfulness)
+
+**Consequences**:
+- Violence: Wanted by Regalor authorities, hunted by Baron's allies, villagers hide PCs
+- Negotiation success: Baron reassigned, villagers grateful, introduction to reform-minded nobles
+- Compromise: Everyone satisfied, reputation in Frontier Marches rises
+- Side with law: Villagers despise PCs but legal, possible paladin recruitment
+
+**Rewards**: Payment + chosen faction reputation + moral complexity shaping campaign tone
+
+---
+
+#### Hook 9: The Shark Hunt (Naval Adventure)
+**Location**: Vast Inner Bay  
+**Patron**: Captain Elara Swiftwind (Silverport merchant)  
+**Conflict**: Inner Bay shipping dangers
+
+Captain Elara's merchant ship was attacked by sahuagin warband while sailing to Veilport. Crew survived, but sahuagin stole cargo manifest revealing secret trade route coordinates. If manifest reaches aboleth masters, entire shipping lane compromised. Elara hires PCs to join her crew, hunt down sahuagin baron Sskaleth, and recover manifest before it's delivered to Uloshok the Dreaming Tide. Payment: 35 gp per PC + 10% of cargo profits if route saved.
+
+**Naval Combat**:
+- Track sahuagin to reef lair (Survival/Navigation DC 14)
+- Board sahuagin vessel (1d4 sahuagin CR 1/2 per PC, 1 baron CR 5)
+- Underwater combat in reef caves if needed (sahuagin advantage, PCs need water breathing)
+- Recover manifest from baron's lair (also contains 2d6  50 gp pearls, *trident of fish command*)
+
+**Twist**: Manifest contains coded messages proving Captain Elara is smuggling weapons to Free Veil Coalition. She offers to cut PCs in on profits (50 gp each) to keep silent, or they can report her to authorities.
+
+**Rewards**: Payment + naval combat experience + treasure + choice shapes relationship with Coalition + possible future as ship crew
+
+---
+
+#### Hook 10: The Couatl's Request (Divine Quest)
+**Location**: Venomroot Jungle  
+**Patron**: Quetzara the Coiled Liberator (celestial couatl)  
+**Conflict**: Serpentis slavery and Dominara vs. Quetzara divine struggle
+
+PCs camping in jungle are visited by Quetzara (appears in dreams as radiant feathered serpent). She reveals that yuan-ti temple guards are transporting 20 Thrall Caste Serpentans to Coilkeep for ritual sacrifice to Dominara in 3 days. Quetzara requests PCs intercept transport, free slaves, and escort them to Wanderer Territories via Underground Railroad safehouses. Reward: Divine blessing + warlock pact offer.
+
+**Mission**:
+- Locate transport caravan (1d3 yuan-ti abominations CR 7, 2d4 malisons CR 3, slave wagon)
+- Free slaves without alerting nearby temple (Stealth vs. Passive Perception 16)
+- Escort through jungle to safehouse (2-day journey, random encounters)
+- Deliver slaves to Wanderer contacts
+
+**Complications**:
+- Yuan-ti send pursuit team (1 spirit naga CR 8 + reinforcements)
+- One slave is yuan-ti spy testing PCs
+- Serpentis bounty: 500 gp for PCs, dead or alive
+
+**Rewards**: 
+- Quetzara's Blessing: *+2 to saving throws vs. charm and domination* permanently
+- Warlock pact offer: Celestial patron with *poison immunity* and *freedom of movement* invocation
+- Underground Railroad membership: Future quests rescuing slaves, sabotaging Serpentis
+- Moral satisfaction: 20 lives saved from horrible fate
+
+---
+
+These 10 hooks provide diverse starting points covering all major conflicts, factions, and regions while teaching players Mythara's themes of moral complexity, divine intrigue, and high-stakes adventure.
+
+---
+
+## NPC Stat Blocks
+
+### Khan Vespera Nightborn
+*Medium humanoid (tiefling), neutral evil*
+
+**Armor Class** 17 (studded leather armor +2)  
+**Hit Points** 195 (26d8 + 78)  
+**Speed** 30 ft.
+
+**STR** 12 (+1) | **DEX** 20 (+5) | **CON** 16 (+3) | **INT** 16 (+3) | **WIS** 14 (+2) | **CHA** 20 (+5)
+
+**Saving Throws** Dex +11, Int +9, Cha +11  
+**Skills** Deception +17, Insight +8, Intimidation +11, Persuasion +11, Sleight of Hand +11, Stealth +17  
+**Damage Resistances** fire; poison  
+**Senses** darkvision 60 ft., passive Perception 12  
+**Languages** Common, Infernal, Abyssal, Draconic, Thieves' Cant  
+**Challenge** 18 (20,000 XP)   **Proficiency Bonus** +6
+
+**Infernal Legacy (Tiefling).** Vespera knows the *thaumaturgy* cantrip. She can cast *hellish rebuke* (as 3rd-level spell) and *darkness* once each per long rest (Charisma is her spellcasting ability).
+
+**Cunning Action.** On each of her turns, Vespera can use a bonus action to take the Dash, Disengage, or Hide action.
+
+**Evasion.** If Vespera is subjected to an effect that allows her to make a Dexterity saving throw to take only half damage, she instead takes no damage if she succeeds on the saving throw, and only half damage if she fails.
+
+**Sneak Attack (1/Turn).** Vespera deals an extra 35 (10d6) damage when she hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Vespera that isn't incapacitated and Vespera doesn't have disadvantage on the attack roll.
+
+**Spellcasting (Fiend Warlock).** Vespera is an 8th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 19, +11 to hit with spell attacks). She has the following warlock spells prepared:
+
+*Cantrips (at will)*: *eldritch blast* (with Agonizing Blast invocation: +5 damage per beam), *mage hand*, *minor illusion*, *prestidigitation*
+
+*1st-5th level (2 5th-level slots)*: *armor of Agathys*, *charm person*, *command*, *dimension door*, *fireball*, *flame strike*, *hellish rebuke*, *hold person*, *invisibility*, *misty step*, *scorching ray*, *suggestion*
+
+**Legendary Resistance (3/Day).** If Vespera fails a saving throw, she can choose to succeed instead.
+
+**Shadrix's Veil.** Vespera can cast *invisibility* on herself at will without expending a spell slot.
+
+**The Veiled Master.** When acting as the Veiled Master, Vespera has advantage on Charisma (Deception) checks to conceal her identity and can alter her voice perfectly.
+
+#### Actions
+
+**Multiattack.** Vespera makes three attacks with her shadow daggers or two *eldritch blast* attacks.
+
+**Shadow Dagger.** *Melee or Ranged Weapon Attack:* +11 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 8 (1d4 + 5 + 1 magical) piercing damage plus 14 (4d6) poison damage. Target must succeed on a DC 17 Constitution saving throw or become poisoned for 1 minute.
+
+**Eldritch Blast.** *Ranged Spell Attack:* +11 to hit, range 120 ft., two beams, each targeting one creature. *Hit:* 10 (1d10 + 5) force damage per beam.
+
+**Shadow Step (Recharge 5-6).** Vespera teleports up to 60 feet to an unoccupied space she can see that is in dim light or darkness. She has advantage on the first melee attack she makes before the end of the turn.
+
+#### Legendary Actions
+
+Vespera can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Vespera regains spent legendary actions at the start of her turn.
+
+**Dagger Strike.** Vespera makes one shadow dagger attack.
+
+**Cast Cantrip.** Vespera casts a cantrip.
+
+**Command Shadows (Costs 2 Actions).** Vespera casts *darkness* centered on herself without expending a spell slot. The darkness lasts until the start of her next turn.
+
+**Escape Artist (Costs 2 Actions).** Vespera uses Cunning Action to Disengage and moves up to her speed without provoking opportunity attacks.
+
+#### Lair Actions
+
+On initiative count 20 (losing initiative ties), while in her palace (Chains of Command) or the House of Whispered Bargains, Vespera can take one of the following lair actions:
+
+**Whispered Betrayal.** One creature within 60 feet that Vespera can see must succeed on a DC 17 Wisdom saving throw or become charmed by Vespera until initiative count 20 on the next round. While charmed, the creature regards one ally chosen by Vespera as an enemy.
+
+**Shadow Assassins.** 1d4 **shadows** (CR 1/2) appear in unoccupied spaces within 60 feet and act on initiative count 15.
+
+**Veilport's Eyes.** Vespera becomes aware of the location of all creatures within the lair, even if they are hidden or invisible.
+
+#### Equipment
+
+*+2 studded leather armor*, two *+1 daggers* (shadow daggers), *ring of mind shielding*, *cloak of displacement*, *periapt of proof against poison*
+
+#### Tactics
+
+Vespera uses *invisibility* and stealth to position herself for devastating sneak attacks. She opens combat with *fireball* or *flame strike* against clustered enemies, then uses *eldritch blast* at range while relying on her high AC and *cloak of displacement*. If pressed, she uses *dimension door* or Shadow Step to escape, then returns with advantage. In her lair, she uses Whispered Betrayal to turn allies against each other while her shadows harass spellcasters. She reserves Legendary Resistance for crucial saving throws against mind control or banishment effects that would expose her Veiled Master identity.
+
+---
+
+### King Valorian Brightblade
+*Medium humanoid (human), lawful good*
+
+**Armor Class** 20 (plate armor +1, defense fighting style, shield)  
+**Hit Points** 225 (20d10 + 110)  
+**Speed** 30 ft.
+
+**STR** 20 (+5) | **DEX** 10 (+0) | **CON** 20 (+5) | **INT** 12 (+1) | **WIS** 16 (+3) | **CHA** 18 (+4)
+
+**Saving Throws** Str +11, Con +11, Wis +9, Cha +10  
+**Skills** Athletics +11, Insight +9, Intimidation +10, Persuasion +10, Religion +7  
+**Damage Resistances** radiant (aura of protection)  
+**Condition Immunities** frightened (aura of courage)  
+**Senses** passive Perception 13  
+**Languages** Common, Elvish, Dwarvish, Celestial  
+**Challenge** 17 (18,000 XP)   **Proficiency Bonus** +6
+
+**Aura of Protection.** Whenever Valorian or a friendly creature within 10 feet must make a saving throw, that creature gains a +4 bonus to the saving throw (already included in Valorian's saves).
+
+**Aura of Courage.** Valorian and friendly creatures within 10 feet of him can't be frightened while he is conscious.
+
+**Divine Smite.** When Valorian hits a creature with a melee weapon attack, he can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+
+**Improved Divine Smite.** Whenever Valorian hits a creature with a melee weapon attack, the creature takes an extra 1d8 radiant damage.
+
+**Lay on Hands (90 HP Pool).** As an action, Valorian can touch a creature and restore hit points equal to the amount spent from his pool (max 90 HP total). Alternatively, he can expend 5 hit points from his pool to cure one disease or neutralize one poison affecting the target.
+
+**Spellcasting (Paladin).** Valorian is an 18th-level spellcaster. His spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). He has the following paladin spells prepared:
+
+*1st level (4 slots)*: *bless*, *command*, *cure wounds*, *heroism*, *shield of faith*
+
+*2nd level (3 slots)*: *aid*, *lesser restoration*, *magic weapon*, *zone of truth*
+
+*3rd level (3 slots)*: *aura of vitality*, *crusader's mantle*, *dispel magic*, *revivify*
+
+*4th level (3 slots)*: *aura of life*, *aura of purity*, *banishment*, *death ward*
+
+*5th level (2 slots)*: *circle of power*, *destructive wave*, *geas*
+
+**Action Surge (1/Short Rest).** On his turn, Valorian can take one additional action.
+
+**Second Wind (1/Short Rest).** Valorian can use a bonus action to regain 1d10 + 2 hit points.
+
+**Legendary Resistance (2/Day).** If Valorian fails a saving throw, he can choose to succeed instead.
+
+#### Actions
+
+**Multiattack.** Valorian makes three attacks with Dawnbringer.
+
+**Dawnbringer (+3 holy avenger longsword).** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 12 (1d8 + 5 + 3) slashing damage, or 13 (1d10 + 5 + 3) slashing damage if used with two hands, plus 1d8 radiant damage (Improved Divine Smite), plus additional 2d10 radiant damage against fiends and undead. If Valorian expends a spell slot for Divine Smite, add additional radiant damage accordingly.
+
+**Shield Bash.** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one creature. *Hit:* 8 (1d6 + 5) bludgeoning damage, and the target must succeed on a DC 19 Strength saving throw or be knocked prone.
+
+**Cleansing Touch (4/Day).** Valorian can use an action to end one spell on himself or on one willing creature he touches.
+
+**Aelthar's Judgment (1/Day).** Valorian channels Aelthar's divine wrath. Each hostile creature within 30 feet must make a DC 18 Wisdom saving throw. On a failed save, a creature takes 4d10 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded. Fiends and undead have disadvantage on this saving throw.
+
+#### Legendary Actions
+
+Valorian can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Valorian regains spent legendary actions at the start of his turn.
+
+**Attack.** Valorian makes one weapon attack.
+
+**Healing Touch (Costs 2 Actions).** Valorian uses Lay on Hands to restore up to 30 hit points to himself or a creature he can touch.
+
+**Inspiring Presence.** Valorian rallies his allies. Each friendly creature within 30 feet of him that can hear him gains 15 temporary hit points and has advantage on their next attack roll.
+
+#### Equipment
+
+*+3 holy avenger longsword* (Dawnbringer), *+1 plate armor*, *+1 shield*, *amulet of health* (Constitution is 20), *ring of regeneration*
+
+#### Tactics
+
+King Valorian leads from the front, using *shield of faith* and *aura of purity* to protect his forces before charging into melee. He targets fiends and undead with devastating smite-enhanced Dawnbringer strikes, dealing 12 + 1d8 + 2d10 + Divine Smite radiant damage per hit. He uses *crusader's mantle* to empower allied attacks (+1d4 radiant) and *circle of power* against enemy spellcasters. If allies fall, he uses *revivify* and Lay on Hands generously. He reserves Aelthar's Judgment for turning points in battle when multiple enemies cluster. Action Surge allows devastating burst damagethree attacks with full smites can drop CR 10+ creatures in a single turn. He never retreats unless his people are safe first.
+
+---
+
+### God-Queen Xipilli
+*Medium humanoid (yuan-ti pureblood), lawful evil*
+
+**Armor Class** 19 (natural armor, *ring of protection*, *bracers of defense*)  
+**Hit Points** 247 (26d8 + 130)  
+**Speed** 30 ft.
+
+**STR** 14 (+2) | **DEX** 18 (+4) | **CON** 20 (+5) | **INT** 16 (+3) | **WIS** 22 (+6) | **CHA** 20 (+5)
+
+**Saving Throws** Con +12, Wis +13, Cha +12  
+**Skills** Deception +12, Insight +13, Persuasion +12, Religion +10  
+**Damage Immunities** poison  
+**Condition Immunities** poisoned, charmed (Magic Resistance)  
+**Senses** darkvision 120 ft., passive Perception 16  
+**Languages** Common, Draconic, Abyssal, Infernal, telepathy 120 ft.  
+**Challenge** 19 (22,000 XP)   **Proficiency Bonus** +6
+
+**Magic Resistance.** Xipilli has advantage on saving throws against spells and other magical effects.
+
+**Innate Spellcasting (Yuan-ti).** Xipilli's innate spellcasting ability is Charisma (spell save DC 20). She can innately cast the following spells, requiring no material components:
+
+*At will*: *animal friendship* (snakes only), *suggestion*  
+*3/day each*: *fear*, *polymorph* (into snake forms only)
+
+**Divine Eminence (Dominara).** When Xipilli casts a spell of 1st level or higher that restores hit points to a creature other than herself, she regains hit points equal to 2 + the spell's level.
+
+**Channel Divinity: Invoke Duplicity (2/Short Rest).** Xipilli creates a perfect illusion of herself within 30 feet that lasts 1 minute. As a bonus action, she can move the illusion up to 30 feet. She can cast spells as though she were in the illusion's space and can use illusion as target for opportunity attacks. Creatures must succeed on DC 20 Investigation check to determine which is real.
+
+**Potent Spellcasting.** Xipilli adds her Wisdom modifier (+6) to the damage she deals with any cleric cantrip.
+
+**Spellcasting (Cleric).** Xipilli is an 18th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 21, +13 to hit with spell attacks). She has the following cleric spells prepared:
+
+*Cantrips (at will)*: *guidance*, *mending*, *resistance*, *sacred flame* (4d8+6 radiant), *thaumaturgy*
+
+*1st level (4 slots)*: *bane*, *charm person*, *command*, *cure wounds*, *guiding bolt*, *inflict wounds*, *sanctuary*, *shield of faith*
+
+*2nd level (3 slots)*: *hold person*, *silence*, *spiritual weapon*, *zone of truth*
+
+*3rd level (3 slots)*: *bestow curse*, *dispel magic*, *mass healing word*, *spirit guardians*
+
+*4th level (3 slots)*: *banishment*, *death ward*, *divination*, *freedom of movement*
+
+*5th level (3 slots)*: *dominate person*, *flame strike*, *geas*, *greater restoration*, *mass cure wounds*
+
+*6th level (2 slots)*: *blade barrier*, *harm*, *heal*, *word of recall*
+
+*7th level (2 slots)*: *divine word*, *plane shift*
+
+*8th level (1 slot)*: *antimagic field*, *earthquake*
+
+*9th level (1 slot)*: *gate*, *mass heal*
+
+**Spellcasting (Sorcerer).** Xipilli also has sorcerer spells prepared (Charisma-based, DC 20, +12 to hit):
+
+*Cantrips (at will)*: *mage hand*, *message*, *minor illusion*, *poison spray* (4d12 poison)
+
+*1st level (4 sorcery points)*: *shield*, *thunderwave*
+
+*2nd level*: *darkness*, *misty step*
+
+**Sorcery Points (2).** Xipilli can use sorcery points to create spell slots or fuel Metamagic options (Quickened Spell, Subtle Spell).
+
+**Legendary Resistance (3/Day).** If Xipilli fails a saving throw, she can choose to succeed instead.
+
+#### Actions
+
+**Multiattack.** Xipilli makes two attacks with her Serpent's Fang or casts one spell and makes one weapon attack.
+
+**Serpent's Fang (+2 scimitar).** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 9 (1d6 + 4 + 2) slashing damage plus 14 (4d6) poison damage. Target must succeed on a DC 20 Constitution saving throw or be poisoned for 1 minute.
+
+**Venomous Bite (Snake Form Only).** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one creature. *Hit:* 7 (1d6 + 4) piercing damage plus 28 (8d6) poison damage. Target must succeed on a DC 20 Constitution saving throw or be poisoned. While poisoned, target is paralyzed and takes 14 (4d6) poison damage at the start of each of its turns. Target can repeat save at end of each turn.
+
+**Dominara's Chains (Recharge 5-6).** Xipilli summons spectral chains that erupt from the ground in a 20-foot radius centered on a point she can see within 60 feet. Each creature in that area must make a DC 20 Strength saving throw. On a failed save, a creature takes 6d8 force damage and is restrained by the chains for 1 minute. On a successful save, the creature takes half damage and isn't restrained. A restrained creature can use its action to make a DC 20 Strength check, freeing itself on a success.
+
+**Polymorph (3/Day).** Xipilli transforms into a **giant constrictor snake** or **giant poisonous snake** for up to 1 hour. Her statistics are replaced by those of the snake form, except she retains her Intelligence, Wisdom, Charisma, and Legendary Resistance.
+
+#### Legendary Actions
+
+Xipilli can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Xipilli regains spent legendary actions at the start of her turn.
+
+**Cantrip.** Xipilli casts a cantrip.
+
+**Serpent Strike (Costs 2 Actions).** Xipilli makes one Serpent's Fang attack.
+
+**Mass Command (Costs 3 Actions).** Xipilli casts *command* as a 5th-level spell, targeting up to five creatures within 60 feet.
+
+**Summon Serpents (Costs 2 Actions).** Xipilli summons 1d4 **giant constrictor snakes** that appear in unoccupied spaces within 60 feet and act on initiative count 15.
+
+#### Lair Actions
+
+On initiative count 20 (losing initiative ties), while in Coilkeep's Obsidian Throne pyramid, Xipilli can take one of the following lair actions:
+
+**Serpent Swarm.** Poisonous snakes pour from cracks in the stone. Each creature of Xipilli's choice on the ground within 30 feet of her must succeed on a DC 18 Dexterity saving throw or take 4d6 poison damage and become poisoned until initiative count 20 on the next round.
+
+**Dominara's Gaze.** One creature within 120 feet that Xipilli can see must succeed on a DC 20 Wisdom saving throw or be dominated as per *dominate person* spell until initiative count 20 on the next round.
+
+**Pyramid's Blessing.** Xipilli regains 30 hit points and gains immunity to one damage type of her choice until initiative count 20 on the next round.
+
+#### Equipment
+
+*+2 scimitar* (Serpent's Fang), *ring of protection*, *bracers of defense*, *amulet of the planes*, *robe of stars*, *staff of power*
+
+#### Tactics
+
+God-Queen Xipilli begins combat with Invoke Duplicity, creating confusion about her position while casting *spiritual weapon* and *spirit guardians* (serpentine manifestations). She uses *dominate person* and *geas* to turn enemies into thralls, building an enslaved army mid-battle. Against groups, she uses *flame strike* or Dominara's Chains to restrain multiple foes, then focuses single-target damage with *harm* or *inflict wounds*. She transforms into giant constrictor snake form to grapple and restrain priority targets (spellcasters) while her duplicates and spirit guardians harry melee attackers. In her lair, she uses Serpent Swarm and summoned snakes to overwhelm enemies while pyramid blessings keep her healthy. She reserves *gate* for summoning fiendish serpents (mariliths) in desperate situations or *plane shift* for escape to Dominara's domain. Her Legendary Resistance protects her from *banishment* and *hold person* while she methodically dominates or destroys all opposition, taking prisoners for slavery when possible.
+
+---
+
+
+---
+
+## Pantheon Relationship Diagram
+
+```
+THE NINEFOLD PANTHEON: DIVINE RELATIONSHIPS
+
+ALIGNMENT GRID WITH CONNECTIONS
+
+
+   LAWFUL GOOD    NEUTRAL GOOD    CHAOTIC GOOD  
+                                                
+   AELTHAR          HARMONA         LIBERON     
+  The Noble       The Kindly      The Free      
+   Guardian         Weaver         Tempest      
+                                                
+   Heroes         Healing        Freedom     
+   Paladins       Druids         Rebels      
+   Order          Peace          Liberation  
+
+ LAWFUL NEUTRAL   TRUE NEUTRAL  CHAOTIC NEUTRAL 
+                                                
+   RIGORAN          EQUILON        WHIRLVEX     
+  The Steel       The Timeless    The Chaos     
+    Judge            Scale           Fool       
+                                                
+   Law            Balance        Madness     
+   Contracts      Fate           Change      
+   Justice        Cycles         Chaos       
+
+  LAWFUL EVIL     NEUTRAL EVIL    CHAOTIC EVIL  
+                                                
+   DOMINARA         SHADRIX         RUINOK      
+  The Despot's    The Veiled      The Void      
+    Clutch          Dealer         Destroyer    
+                                                
+   Tyranny        Deception      Destruction 
+   Slavery        Greed          Violence    
+   Control        Secrets        Rage        
+
+
+RELATIONSHIP KEY:
+ Strong Alliance (frequently observe mortals together)
+ Pragmatic Partnership (collaborate when useful)
+ Deep Rivalry (oppose each other's goals actively)
+ Arch-Enemies (mutual hatred, never cooperate)
+
+MAJOR RELATIONSHIPS:
+
+AELTHAR connections:
+   HARMONA (sibling-like bond, goodness unified)
+   RIGORAN (lawful allies, differ on compassion)
+   DOMINARA (perverted law vs. righteous law)
+   RUINOK (ultimate nemesis, pure hatred)
+
+RIGORAN connections:
+   AELTHAR (maintain order together)
+   EQUILON (balance and law as cosmic principles)
+   DOMINARA (tolerates her tyranny as "lawful")
+
+DOMINARA connections:
+   SHADRIX (evil alliance, tyranny + deception)
+   RUINOK (evil alliance, control + destruction)
+   AELTHAR (freedom vs. slavery eternal conflict)
+   LIBERON (oppression vs. liberation)
+
+HARMONA connections:
+   AELTHAR (shared goodness, mutual protection)
+   EQUILON (peace and balance harmonize)
+   LIBERON (compassion for rebels and oppressed)
+   RUINOK (healing vs. destruction)
+
+EQUILON connections:
+   RIGORAN (law and balance as cosmic constants)
+   HARMONA (peace supports balance)
+   RUINOK (balance vs. annihilation)
+
+SHADRIX connections:
+   DOMINARA (manipulates her tyranny for profit)
+   RUINOK (chaos enables deception)
+   WHIRLVEX (playful rivalry, similar chaos)
+
+LIBERON connections:
+   HARMONA (liberation and healing paired)
+   WHIRLVEX ("bosom buddies," chaos duo)
+   DOMINARA (rebels vs. tyrants)
+   RIGORAN (freedom vs. law)
+
+WHIRLVEX connections:
+   LIBERON (chaos companions, constant pranks)
+   RUINOK (enjoys destruction as entertainment)
+   RIGORAN (mocks law and order)
+
+RUINOK connections:
+   DOMINARA (useful ally for spreading cruelty)
+   SHADRIX (destruction creates opportunities for greed)
+   AELTHAR (ultimate nemesis)
+   HARMONA (destroyer vs. healer)
+   EQUILON (annihilation vs. balance)
+
+DIVINE WAGER PARTNERSHIPS (who observes mortals together):
+ Aelthar + Harmona (good gods watch heroic quests)
+ Rigoran + Equilon (neutral gods judge cosmic balance)
+ Dominara + Shadrix + Ruinok ("evil trio" bet on chaos)
+ Liberon + Whirlvex (chaos duo enjoys mortal unpredictability)
+ Aelthar + Rigoran (lawful gods witness trials and justice)
+
+NEVER INTERACT:
+ Aelthar refuses to watch mortals with Ruinok or Dominara
+ Harmona avoids Ruinok's presence (traumatic)
+ Rigoran dislikes Whirlvex's chaos (but tolerates observation)
+
+DM NOTE: These relationships create natural quest hooks. If PCs worship Aelthar, 
+they automatically oppose Ruinok/Dominara cultists. Liberon clerics ally with 
+Harmona druids against tyranny. Shadrix warlocks can pragmatically cooperate with 
+any evil faction. Neutral gods (Rigoran, Equilon) serve as mediators or judges in 
+divine conflicts, offering quests that balance competing interests.
+```
+
+---
+
+## Player Handout: Common Knowledge of Mythara
+
+*Give this to players during session zero. It contains no spoilers about the Ultimate Cataclysm or secret campaign plots.*
+
+### Welcome to the Arcanum Epoch!
+
+You are heroes, scoundrels, or seekers of fortune in the vibrant world of Mythara during its Arcanum Epochan age of high magic, clashing kingdoms, and divine intrigue. This is what every educated person (Intelligence 10+) knows about the world:
+
+---
+
+#### The Nine Gods (The Ninefold Pantheon)
+
+Nine deities rule creation, each embodying one cosmic alignment. They dwell together in the Ethereal Shroud, watching mortal affairs like spectators at a grand drama, occasionally intervening through divine wagers.
+
+**The Good Gods:**
+- **Aelthar** (Lawful Good)  The Noble Guardian. God of heroes, paladins, and righteous causes. Worshiped by knights and defenders of the weak. Symbol: golden sunburst shield.
+- **Harmona** (Neutral Good)  The Kindly Weaver. Goddess of healing, druids, and compassion. Worshiped by healers and nature priests. Symbol: silver loom.
+- **Liberon** (Chaotic Good)  The Free Tempest. God of freedom, rebels, and liberation. Worshiped by escaped slaves and revolutionaries. Symbol: lightning-bolt broken chain.
+
+**The Neutral Gods:**
+- **Rigoran** (Lawful Neutral)  The Steel Judge. God of law, contracts, and justice. Worshiped by judges and bureaucrats. Symbol: scales and hammer.
+- **Equilon** (True Neutral)  The Timeless Scale. God of balance, fate, and natural cycles. Worshiped by monks and philosophers. Symbol: hourglass crown.
+- **Whirlvex** (Chaotic Neutral)  The Chaos Fool. God of madness, change, and unpredictability. Worshiped by artists and lunatics. Symbol: jester's cap with bells.
+
+**The Evil Gods:**
+- **Dominara** (Lawful Evil)  The Despot's Clutch. Goddess of tyranny, slavery, and control. Worshiped by slavers and cruel rulers. Symbol: obsidian chains.
+- **Shadrix** (Neutral Evil)  The Veiled Dealer. God of deception, greed, and secrets. Worshiped by thieves and merchants. Symbol: veiled face with coins.
+- **Ruinok** (Chaotic Evil)  The Void Destroyer. God of destruction, violence, and rage. Worshiped by berserkers and monsters. Symbol: horned skull wreathed in flame.
+
+**Temple Etiquette:** Worship is openyou can pray at any god's temple regardless of alignment. However, openly worshiping evil gods (Dominara, Shadrix, Ruinok) in good-aligned kingdoms like Regalor will get you arrested or executed. Neutral kingdoms like Veilport tolerate all faiths.
+
+**Divine Wagers:** Occasionally, gods "bless" or "curse" mortals mid-adventure (DM will tell you if this happens). These are results of divine wagersthe gods betting on your success or failure.
+
+---
+
+#### Major Kingdoms and Peoples
+
+**Western Realms (Human/Elf Heartlands):**
+- **Regalor**: Largest kingdom, ruled by Lawful Good King Valorian Brightblade from capital Crownspire. Feudal monarchy, strong Aelthar worship, currently at war with goblins and Grimwald barbarians in Western Frontier. Population: mixed human-elf-dwarf hybrids called Arcanites.
+
+- **Grimwald Hills**: Wild highlands inhabited by fierce elf clans. Chaotic Neutral, resist Regalor's expansion. Led by warlord Elyndra the Pale Whisper (druid/rogue).
+
+- **Silverport**: Independent free city on western coast. Neutral hub for trade, shipbuilding, and pearl diving. Contested by multiple powers.
+
+**Northern Realms (Arctic Warriors):**
+- **Stormland**: Northwestern fjords ruled by Chaotic Good Jarl Yrsa Stormcaller. Crimson-haired raiders who value freedom and glory. Worship Liberon heavily.
+
+- **Frostrealm**: Northeastern glaciers ruled by Lawful Neutral High Oracle Kael Frostveil. Golden-haired disciplined warriors. Worship Rigoran and Equilon.
+
+- **Feud**: Stormland and Frostrealm are locked in clan war over mining rights and ancient grudges (Yrsa and Kael are estranged siblings).
+
+**Eastern Realms (Shadowkin and Traders):**
+- **Bayhaven**: Eastern shores of Vast Inner Bay ruled by Neutral Evil tiefling khans from capital Veilport. Shadowkin culture emphasizes trade, deception, and infernal bargains. Khan Vespera Nightborn is current ruler (also secretly the Veiled Master who leads Shadow Syndicate crime guild). Worship Shadrix and Dominara.
+
+- **Zenthara**: Southeastern deserts inhabited by halfling/gnome merchant clans. Neutral Evil mercantile councils. Capital: Sandspire. Worship Goldar (Equilon's exarch of wealth).
+
+**Southern Realms (Jungles and Nomads):**
+- **Serpentis**: Southern jungles ruled by Lawful Evil yuan-ti elite over majority-human Serpentan population. Theocratic tyranny under God-Queen Xipilli (yuan-ti pureblood cleric/sorcerer). Slavery is legal and widespread. Worship Dominara fanatically. Capital: Coilkeep (massive stepped pyramid).
+
+- **Wanderer Territories**: Southwestern savannas inhabited by Chaotic Good/Neutral nomadic tribes (human-goblin-orc mixes). Led by Wind-Chieftain Korath Freehoof. No permanent capitalfollow herds. Worship Liberon and Harmona.
+
+**Wastelands and Wilderness:**
+- **Goblin Wastes**: Western badlands controlled by Chaotic Evil goblin tribes unified by The Ash-Crowned (warlock/barbarian). Worship Ruinok. Constantly raid Regalor.
+
+- **Ebony Realms**: Far southern matriarchal kingdoms beyond Coiled Barrier mountains. Warrior Queens rule amazon-style societies. Currently at war with Serpentis expansion.
+
+---
+
+#### Current Conflicts (Spring 1247 AE)
+
+**Western Frontier War:** Regalor vs. Goblin Wastes + Grimwald Hills. King Valorian's paladins fight Ruinok-blessed goblins and Grimwald raiders along western borders. Stalemate at Fort Edgewatch. Ongoing for 5 years.
+
+**Inner Bay Trade War:** Regalor vs. Bayhaven (Veilport). Cold war over shipping rights, tariffs, and corsair raids. Khan Vespera's pirates harass Crownspire merchants while spies operate in both capitals. Risk of escalation to full war.
+
+**Northern Clan Feud:** Stormland vs. Frostrealm. Low-intensity raiding over glacial mining and fishing grounds. Ancient sibling rivalry between Jarl Yrsa and High Oracle Kael prevents peace.
+
+**Southern Coiled Incursion:** Serpentis vs. Ebony Realms. Yuan-ti expand territory, enslaving border populations. Ebony Realms' Warrior Queens resist fiercely. Jungle warfare ongoing.
+
+**Veilport Succession Crisis:** Internal Bayhaven conflict. Free Veil Coalition rebels oppose Khan Vespera's tyranny, staging assassinations and sabotage. Vespera's Shadow Guard cracks down brutally. City on edge of civil war.
+
+---
+
+#### Magic and Adventuring
+
+**Magic is Common:** Spellcasters are respected professionals. Wizards run universities, clerics staff temples, druids tend groves, and warlocks... are complicated (see below). Magic items are rare but available in major cities for high prices.
+
+**Warlocks are Controversial:** Making pacts with otherworldly patrons (archfey, fiends, Great Old Ones, celestials) is legal in some kingdoms, illegal in others:
+- **Legal/Tolerated:** Veilport (all pacts), Zenthara (fiend pacts), Wanderer Territories (archfey pacts)
+- **Hunted/Executed:** Regalor (fiend and Great Old One pacts), Crownspire (any evil patron), Serpentis (non-Dominara pacts)
+
+**Species and Cultures:** All standard D&D races exist. Millennia of interbreeding mean "pure" bloodlines are mythsdescribe your character's appearance however you wish regardless of mechanical species. Dragonborn are rare ancient empire survivors. Tieflings are common in Veilport (infernal heritage from old pacts). Halflings dominate Zenthara. Orcs are descended from goblins (terms used interchangeably).
+
+**Factions Hiring Adventurers:**
+- **Explorer Leagues:** Multi-kingdom guilds funding dungeon expeditions for treasure and knowledge. Neutral membership.
+- **Temple Orders:** Each god's church hires champions for divine missions (paladins, clerics, warlocks).
+- **Merchant Guilds:** Pay well for caravan guards, trade route security, and smuggling.
+- **Resistance Movements:** Free Veil Coalition (Veilport), Underground Railroad (Serpentis), various rebel groups pay in gratitude and loot.
+- **Royal Courts:** Kings and khans hire adventurers for missions too sensitive for official armies.
+
+---
+
+#### Dangers and Threats
+
+**Monsters Everywhere:** Dragons rule mountain lairs. Trolls infest swamps. Giants raid northern settlements. Aboleths lurk beneath the Vast Inner Bay. Yuan-ti patrol Serpentis jungles. Undead haunt Grimwald ruins. Adventuring is deadly but profitable.
+
+**Divine Exarchs:** Lesser divine beings (demigods) occasionally manifest to meddle in mortal affairs. Examples:
+- **Dawnblade** (Aelthar's warrior exarch) fights alongside paladins
+- **The Veiled Spider** (Shadrix's trickster exarch) operates in Veilport's underworld
+- **The Grim Shepherd** (Morthas's death exarch) harvests souls in plagued lands
+
+**Ancient Ruins:** Pre-Cataclysmic civilizations left dungeons filled with magic items, cursed artifacts, and forgotten knowledge. Explorer Leagues pay handsomely for maps and recovered treasures.
+
+**Political Intrigue:** Kingdoms spy on each other constantly. Choosing sides in conflicts shapes your reputation. Neutrality is possible but difficulteveryone wants allies.
+
+---
+
+#### Starting Your Adventure
+
+**Where Are You From?** Choose a homeland:
+- **Crownspire, Regalor**: Urban cosmopolitan, Aelthar worship common, lawful good baseline
+- **Veilport, Bayhaven**: Criminal underworld, Shadrix worship common, neutral evil baseline, tiefling majority
+- **Wanderer Territories**: Nomadic freedom, Liberon worship common, chaotic good baseline
+- **Other** (Stormland, Frostrealm, Zenthara, Grimwald, Silverport): Discuss with DM
+
+**Who Hired You?** Most campaigns begin with a patron offering a quest. Examples:
+- Merchant guild needs caravan guards
+- Temple seeks champions to oppose evil cult
+- Free Veil Coalition recruits agents to fight tyranny
+- Explorer League funds dungeon expedition
+- Royal court hires spies for diplomatic mission
+
+**What's Your Goal?** Classic motivations work:
+- **Gold**: Get rich through adventuring
+- **Glory**: Become legendary heroes
+- **Justice**: Right wrongs and protect innocents
+- **Power**: Gain magic items and levels
+- **Freedom**: Fight oppression (Dominara/Serpentis)
+- **Chaos**: Cause mischief and shake up the world
+- **Knowledge**: Uncover ancient secrets
+- **Faith**: Serve your god's agenda
+
+---
+
+#### Important Terminology
+
+- **Arcanum Epoch**: Current age (1247 AE = year 1247 of Arcanum Epoch)
+- **Pre-Cataclysmic Age**: Ancient past before the Great Cataclysm destroyed elder civilizations ~2,000 years ago
+- **Vast Inner Bay**: Massive inland sea at continent's center; major trade route
+- **Arcanites**: Mixed human-elf-dwarf peoples of western kingdoms
+- **Shadowkin**: Tiefling majority of Bayhaven; infernal-blooded descendants
+- **Thrall/Favored/Divine Castes**: Social ranks in Serpentis (Divine = yuan-ti rulers, Favored = loyal humans, Thrall = oppressed majority, Slave = property)
+- **Khan**: Bayhaven ruler title (Veilport's Khan Vespera)
+- **The Nine**: Shorthand for Ninefold Pantheon
+- **Ruinfort, Edgewatch, Coilkeep, Crownspire**: Major fortified cities
+- **Undervaults**: Ancient dungeon network beneath Veilport (three levels: Upper, Middle, Deep)
+
+---
+
+#### Getting Started: Session Zero Questions
+
+Before playing, discuss with your DM:
+
+1. **Alignment and Party Cohesion**: Are we heroes (good), mercenaries (neutral), or villains (evil)? Mixed-alignment parties work but need clear common goals.
+
+2. **Kingdom Loyalty**: Do we serve a specific kingdom (Regalor, Veilport, Serpentis) or remain independent?
+
+3. **Divine Favor**: Does anyone worship specific gods? This shapes available quests and enemies (Aelthar worshipers oppose Ruinok cultists, Liberon clerics fight slavers, etc.).
+
+4. **Warlock Patrons**: If playing a warlock, check if your patron is legal in starting location. Fiend warlocks are hunted in Regalor but celebrated in Veilport.
+
+5. **Campaign Tone**: Do we want political intrigue (Veilport intrigue, kingdom diplomacy), dungeon crawling (ancient ruins, monster hunts), or war stories (Frontier War battles, naval combat)?
+
+6. **Moral Lines**: Are we willing to work for evil patrons (Khan Vespera, yuan-ti slavers) if the pay is good, or do we only take righteous quests?
+
+---
+
+**DM NOTE:** This handout provides players with enough knowledge to create characters and make informed decisions without revealing Ultimate Cataclysm spoilers, aboleth master plans, or major plot twists. Players discover deeper lore through play.
+
+---
+
+
+---
+
+## Glossary and Index
+
+### A
+**Aboleth** - Ancient aquatic aberrations, former rulers of pre-human empires; survived Great Cataclysm in scattered colonies beneath Vast Inner Bay and underground lakes; possess psychic domination powers and create thralls; organize in scattered colony-nodes with telepathic networks; major threats include Uloshok the Dreaming Tide (Veilport bay), Ythiggos the Memory Thief (Bleakmoor Fens), and Qra'gholeth (deep ocean Restorationist leader)
+
+**Aelthar** - Lawful Good god of heroes, paladins, and order; the Noble Guardian; appears as towering armored knight with golden aura; arch-enemy of Ruinok; allied with Harmona and Rigoran; worshiped heavily in Regalor and by paladin orders; exarch is Dawnblade (radiant warrior)
+
+**Apexar** - Northern vampire kingdom ruled by vampire-king Xipilli; advised by The Chain Sovereign (Dominara's exarch)
+
+**Arcanite** - Humans of mixed elf-dwarf-human ancestry inhabiting western kingdoms (Regalor, Borderan, Silverport); no "pure" bloodlines exist after millennia of interbreeding
+
+**Arcanum Epoch** - Current historical age (Spring 1247 AE); vibrant period of high magic between migrations and the Ultimate Cataclysm; setting's "present day"
+
+**Ash-Crowned, The** - CE goblin warlock 16/barbarian 4 warlord unifying Goblin Wastes tribes; granted rage-fueled powers by Ruinok's exarch (The Ash Lord); leads raids against Regalor's Frontier Marches
+
+### B
+**Bayhaven** - Eastern kingdom ruled by Shadowkin tieflings from capital Veilport; neutral evil khanate system with seven tribal khans under Khan Vespera Nightborn; worship Shadrix and Dominara; engaged in Inner Bay Trade War with Regalor
+
+**Bleakmoor Fens** - Southern Regalor marshlands; haunted swamps with trolls, hydras, will-o'-wisps, black dragons, and ghouls; Harmona's druids maintain sacred groves; aboleth Ythiggos the Memory Thief researches Cataclysm-reversal ritual in flooded caverns
+
+**Borderan** - Western kingdom serving as neutral trade hub between various factions; merchant guilds and mercenary companies dominate politics
+
+### C
+**Chain Sovereign, The** - Dominara's exarch; appears as voice in mirrors; currently advising vampire-king Xipilli on slave control techniques
+
+**Coilkeep** - Capital of Serpentis; massive stepped pyramid city ruled by God-Queen Xipilli (yuan-ti pureblood cleric 18/sorcerer 2); population ~40,000 with yuan-ti Divine Caste (5%) ruling over majority-human population divided into Favored (15%), Thrall (65%), and Slave (15%) castes; slavery is legal and widespread; worship Dominara; entrance to Coiled Abyss dungeon
+
+**Coiled Abyss** - Mega-dungeon beneath Coilkeep; flooded aboleth ruins with throne rooms, chuuls, and ancient Pre-Cataclysmic treasures; guarded by Ssyrak the Thrice-Coiled (grand dark naga CR 10)
+
+**Crownspire** - Capital of Regalor; population 50,000+; ruled by King Valorian Brightblade (human paladin 18/fighter 2, LG); major structures include Arcane Spire (wizard academy under Archmage Lirael Starweave), Radiant Bastion (Aelthar's main temple), markets selling +1 weapons; central trade hub; feudal monarchy; currently at war with Goblin Wastes and Grimwald Hills
+
+### D
+**Dawnblade** - Aelthar's exarch; radiant mounted warrior appearing as champion in Western Frontier War; rallies defenders at besieged keeps; bestows Epic Boons to worthy paladins
+
+**Divine Wagers** - Mechanical system where Nine Gods bet on mortal outcomes; effects range from Subtle Blessing (+1d4 to single roll) to Divine Whisper (god manifests to give cryptic advice); occur when gods observe mortals and gamble on results; specific effects depend on wager stakes and god involved
+
+**Dominara** - Lawful Evil goddess of tyranny, slavery, and control; the Despot's Clutch; appears as tyrannical queen with obsidian eyes draped in chains; allied with Shadrix and Ruinok ("evil trio"); enemy of Aelthar and Liberon; worshiped in Serpentis, Apexar, and by slavers; exarch is The Chain Sovereign
+
+### E
+**Ebony Realms** - Far southern matriarchal kingdoms beyond Coiled Barrier mountains; Warrior Queens rule amazon-style warrior societies; currently resisting Serpentis expansion in Southern Coiled Incursion war; forces include amazon phalanxes and hyena-riding Darklanders
+
+**Equilon** - True Neutral god of balance, fate, and natural cycles; the Timeless Scale; appears as genderless shifting ethereal form with hourglass crown; allied with Rigoran and Harmona; mediates disputes among Nine; worshiped by monks, philosophers, and those seeking cosmic understanding; opposes Ruinok's destruction as threat to balance
+
+**Ethereal Shroud** - Planar realm where the Ninefold Pantheon resides together; overlaps Material Plane allowing gods to observe mortals constantly; gods watch events in groups of 2-3, making divine wagers on outcomes
+
+**Exarchs** - Lesser divine beings serving the Nine; demigods with CR 15-20 power; can manifest on Material Plane for 1d4 days during pivotal conflicts, bestowing Epic Boons; cannot be permanently killed outside divine realms; each of the Nine has multiple exarchs; examples include Dawnblade (Aelthar), The Chain Sovereign (Dominara), The Ash Lord (Ruinok), Lady Silverleaf (Harmona), The Coin Baron (Goldar), The Stormcaller (Liberon), The Laughing Jester (Whirlvex), The Veiled Spider (Shadrix), The Grim Shepherd (Morthas)
+
+**Explorer League** - Multi-kingdom adventuring guild funding dungeon expeditions and exploration; neutral membership open to all alignments; maintains chapterhouses in major cities including Veilport (led by Commander Vex Shadowstride); pays for recovered maps, artifacts, and knowledge of ancient ruins
+
+### F
+**Free Veil Coalition** - Rebel faction in Veilport opposing Khan Vespera's tyranny; led secretly by various operatives including Torin Silvercloak (Shadowveil thief); stages assassinations (killed Khan Mordrek Cinderscale in Winter 1246 AE), sabotage, and guerrilla warfare; plans major operation during Gambler's Ascension festival; receives covert funding from Regalor agents; seeks to establish democratic rule or install reform-minded khan
+
+**Frostrealm** - Northeastern glacial kingdom ruled by High Oracle Kael Frostveil (cleric 14/wizard 6, LN) from capital Iceforge; population ~15,000 golden-haired Frostkin warriors; lawful neutral meritocracy; worship Rigoran and Equilon; locked in Northern Clan Feud with Stormland over mining rights; Kael and Jarl Yrsa are estranged siblings
+
+**Frontier Marches** - Western/northwestern Regalor buffer territories facing Goblin Wastes and Grimwald Hills; fortified villages loyal but resentful to Crownspire; site of ongoing Western Frontier War; major fortress is Fort Edgewatch (recently besieged)
+
+### G
+**Goblin Wastes** - Western badlands controlled by chaotic evil goblin tribes unified under The Ash-Crowned; worship Ruinok; capital at Ruinfort (population ~8,000); constantly raid Regalor's Frontier Marches; empowered by The Ash Lord exarch
+
+**Goldar** - Neutral god of wealth and commerce; Equilon's exarch known as The Coin Baron; worshiped by merchant guilds especially in Zenthara; currently manipulating Veilport-Crownspire trade war through possessed merchants
+
+**Great Cataclysm** - Ancient disaster ~2,000 years ago that destroyed Pre-Cataclysmic civilizations including aboleth empire, human elder kingdoms, and dragon dynasties; caused by planar rifts and divine conflicts; survivors founded current kingdoms during Migratory Period
+
+**Grimwald Hills** - Wild northwestern highlands inhabited by fierce elf clans resisting Regalor expansion; ruled by Elyndra the Pale Whisper (druid 17/rogue 3, NE); chaotic neutral but allied with Ash-Crowned's goblins against Regalor in Western Frontier War
+
+### H
+**Harmona** - Neutral Good goddess of healing, restoration, and collective peace; the Kindly Weaver; appears as silver-haired woman weaving light at loom; allied with Aelthar, Equilon, and Liberon; opposes Ruinok; worshiped by druids, clerics, healers; mediates conflicts at sacred groves; exarch is Lady Silverleaf (manifests as ancient treant in Bleakmoor Fens)
+
+**House of Whispered Bargains** - Veilport's massive casino-temple dedicated to Shadrix; led by High Dealer Vex'thraal (cambion priest); site where fortunes change via gambling and souls are wagered on cards; entrance to Undervaults (Middle and Deep levels) hidden beneath temple; Shadow Syndicate headquarters
+
+### I
+**Iceforge** - Capital of Frostrealm; population ~15,000; mountain citadel with forges crafting cold-resistant armor and frost brand weapons; ruled by High Oracle Kael Frostveil; mines gems used for cold-themed spell components
+
+**Inner Bay Trade War** - Ongoing cold war (Spring 1247 AE) between Regalor and Bayhaven over shipping rights, tariffs, and corsair raids; Khan Vespera's pirates harass Crownspire merchants; Regalor imposed 25% tariffs on Veilport silk; spies operate in both capitals; risk of escalation to full war; Harmona's mediators attempt to prevent total embargo
+
+### K
+**Khan** - Ruler title in Bayhaven; Khan Vespera Nightborn currently rules Veilport as supreme khan over seven tribal khans (Emberclaw, Nightwhisper, Voidscale, Tidecaller, Cinderscale [vacant after assassination], Soulbinder, and one unknown)
+
+**Kraken Depths** - Deep oceanic regions of Vast Inner Bay; home to Vorathrax the Abyss-Tentacled (ancient kraken CR 23); dragon turtles, sahuagin baronies, and water elemental myrmidons from Olhydra's planar rifts; extremely dangerous shipping route
+
+### L
+**Liberon** - Chaotic Good god of freedom, uprising, and liberation; the Free Tempest; appears as storm-wreathed rebellious warrior; allied with Harmona and Whirlvex ("bosom buddies"); opposes Dominara and Rigoran; worshiped by rebels, escaped slaves, Wanderer tribes, Stormkin; exarch is The Stormcaller (rides storm clouds inspiring raids against Serpentis slavers)
+
+### M
+**Manticore Marches** - Scrubland borderlands between Bayhaven and neighboring territories; infested with manticores, chimeras, harpies, gnolls, and leucrottas; dangerous caravan route requiring armed escorts
+
+**Morthas** - Neutral god of death and the cycle of souls; Equilon's exarch known as The Grim Shepherd; appears to dying mortals as cowled figure; currently harvesting plague victims in Zenthira villages; offers resurrections for terrible prices (years of lifespan)
+
+### N
+**Ninefold Pantheon** - The Nine Gods ruling Mythara: Aelthar (LG), Rigoran (LN), Dominara (LE), Harmona (NG), Equilon (N), Shadrix (NE), Liberon (CG), Whirlvex (CN), Ruinok (CE); dwell together in Ethereal Shroud watching mortals; frequently make divine wagers on outcomes; relationships range from strong alliances (Aelthar-Harmona, Rigoran-Equilon, Liberon-Whirlvex) to arch-enemies (Aelthar-Ruinok)
+
+**Northern Clan Feud** - Low-intensity war between Stormland and Frostrealm over glacial mining rights and fishing grounds; fueled by ancient sibling rivalry between Jarl Yrsa Stormcaller and High Oracle Kael Frostveil; Harmona's mediators attempt peace talks
+
+### P
+**Pre-Cataclysmic Age** - Ancient historical period before Great Cataclysm ~2,000 years ago; included advanced aboleth empires, human kingdoms, dragon dynasties, and planar portals; ruins contain magic items, artifacts, and dangerous guardians; knowledge sought by Explorer Leagues and scholars
+
+### Q
+**Quetzara the Coiled Liberator** - Celestial couatl opposing yuan-ti tyranny; offers warlock pacts to those fighting slavery and oppression; grants poison immunity, enhanced charm-breaking powers, and freedom of movement; price is freedomwarlocks must break chains and own no slaves; aids Underground Railroad rescuing Serpentis slaves
+
+### R
+**Regalor** - Largest western kingdom ruled by King Valorian Brightblade from Crownspire; feudal lawful good monarchy; strong Aelthar worship; population 50,000+ mixed Arcanites; currently fighting Western Frontier War against Goblin Wastes and Grimwald Hills; also engaged in Inner Bay Trade War with Veilport
+
+**Rigoran** - Lawful Neutral god of law, contracts, and inflexible justice; the Steel Judge; appears as genderless metallic figure with hammer and scales; allied with Aelthar and Equilon; tolerates Dominara warily; opposed by Liberon and Whirlvex; worshiped by judges, bureaucrats, contract-makers; binding oaths to Rigoran are magically enforced
+
+**Ruinok** - Chaotic Evil god of annihilation, brutality, and spite; the Void Destroyer; appears as monstrous flame-wreathed behemoth with jagged horns; arch-enemy of Aelthar; allied with Dominara and Shadrix; worshiped by berserkers, goblinoids, monsters; exarch is The Ash Lord (empowers goblin chieftains); ultimate nihilist hiding emptiness with violence
+
+**Ruinfort** - Capital of Goblin Wastes; population ~8,000 goblinoids; fortress ruled by The Ash-Crowned; hosts gladiatorial arena for trials by combat; heavily fortified; site of Ruinok cult practices
+
+### S
+**Sandspire** - Capital of Zenthara; population ~25,000 halfling/gnome traders; neutral evil mercantile council government; underground vaults and central oasis; gem mining, illusion entertainment, desert reagent trade; worship Goldar
+
+**Serpentis** - Southern jungle kingdom ruled by lawful evil yuan-ti elite (Divine Caste 5%) over majority-human Serpentan population; capital Coilkeep; God-Queen Xipilli rules as cleric/sorcerer theocrat; four-tier caste system (Divine/Favored/Thrall/Slave); slavery legal and widespread; worship Dominara; currently fighting Southern Coiled Incursion against Ebony Realms; Underground Railroad smuggles slaves to Wanderer Territories
+
+**Shadrix** - Neutral Evil god of deception, greed, and manipulation; the Veiled Dealer; appears as shadowy trickster with shifting veils; allied with Dominara and Ruinok; playful rivalry with Whirlvex; worshiped by thieves, merchants, spies; heavily venerated in Veilport; exarch is The Veiled Spider (possibly posing as Veilport's Veiled Master)
+
+**Shadow Syndicate** - Veilport's criminal organization operating openly from House of Whispered Bargains and Undervaults; led by mysterious Veiled Master (secretly Khan Vespera Nightborn); controls gambling, smuggling, assassination, and information networks; opposed by Free Veil Coalition
+
+**Shadowkin** - Tieflings forming majority population (18,000 of 30,000) in Veilport; infernal heritage from ancient pacts with Shadrix; horns are sacred (touching another's horns uninvited is extreme insult); organized in tribal clans led by khans
+
+**Silverport** - Independent western coastal city; population ~35,000; neutral free city contested by multiple powers; economy based on shipbuilding, pearl diving, seafood trade; no single rulermerchant council government
+
+**Southern Coiled Incursion** - Active war (Spring 1247 AE) between Serpentis yuan-ti forces (led by God-Queen Xipilli with medusa/naga support) versus Ebony Realms Warrior Queens' amazons and Darklander hyena-riders; border conflict with jungle skirmishes and lightning raids; couatl sightings hint divine displeasure
+
+**Stormland** - Northwestern fjord kingdom ruled by Jarl Yrsa Stormcaller (barbarian 16/bard 4, CG) from capital Thunderhaven; population ~20,000 crimson-haired Stormkin raiders; chaotic good culture valuing freedom; worship Liberon; locked in Northern Clan Feud with Frostrealm; Yrsa and Kael are estranged siblings
+
+### T
+**Thornwood Manor** - Haunted estate outside Silverport; former home of wizard Malachar the Gray; recently disturbed by earthquakes; five-room dungeon with zombies, animated armors, ochre jelly, skeletons, specter, and wight (Malachar); treasure includes spellbook with 10 random 1st-3rd level spells, +1 wand of war mage, robe of useful items
+
+**Thornskull Thickets** - Frontier Marches bramble forests infested with giant spiders, ettercaps, owlbears, displacer beasts, trolls, chimeras; Queen Arachnara (advanced ettercap sorcerer CR 7) commands spider legions; Grimwald raiders use as ambush paths; Harmona's treants protect sacred groves
+
+**Threadbare District** - Poorest quarter of Veilport; slums housing desperate refugees, beggars, and indentured servants; frequent recruitment ground for Free Veil Coalition; charity operations during Tide Turning festival
+
+**Thunderhaven** - Capital of Stormland; population ~20,000; fjord port city with longship fleets; ruled by Jarl Yrsa Stormcaller; economy based on fishing, raiding, mead production; chaotic good warrior culture
+
+### U
+**Ultimate Cataclysm** - Future world-reshaping event known ONLY to DM; most mortals have zero knowledge; only mad prophets, Equilon's highest priests, and gods themselves know it approaches; creates dramatic irony but preserves "present moment" feel for players; KEEP SECRET from players
+
+**Underground Railroad** - Secret network smuggling Serpentis slaves to freedom in Wanderer Territories; operated by Quetzara cultists (celestial warlock patrons) and Liberon clerics; uses Venomroot Jungle safehouses; DC 15 Stealth checks vs. yuan-ti patrol Passive Perception 16
+
+**Undervaults** - Three-level ancient dungeon network beneath Veilport; Upper Undervaults (Old Shrine Row) accessible to public with ghoul/skeleton threats; Middle Undervaults (Shadow Council Chambers) restricted Shadow Syndicate headquarters with Black Hand guards; Deep Undervaults (Drowned Archive) flooded Pre-Cataclysmic ruins with aboleth influence, skum, and Archon-Lich Malthezar's sunken tower containing 9th-level spells
+
+### V
+**Vast Inner Bay** - Massive inland sea ~800 miles wide at center of continent; major trade route connecting eastern and western kingdoms; narrow northern/southern entrances create nearly enclosed sea; dangers include hydra reefs, aboleth depths, sahuagin raiders, dragon turtles, and ancient kraken Vorathrax; site of Inner Bay Trade War
+
+**Veilport** - Capital of Bayhaven; population 30,000 (18,000 Shadowkin tieflings, 7,500 humans, 2,000 dragonborn, others); ruled by Khan Vespera Nightborn (rogue 12/warlock 8, NE) who is secretly the Veiled Master leading Shadow Syndicate; premier eastern trade hub on Vast Inner Bay shores; eight districts (Veilheart, Shadowbazaar, Dockyards, Shadowveil, Ember Quarter, Duskway, Warlock's Enclave, Threadbare); worship Shadrix heavily; site of cold civil war between Vespera loyalists and Free Veil Coalition; Spring 1247 AE current timeline; key locations include House of Whispered Bargains (Shadrix temple-casino), Chains of Command (Khan's palace), Undervaults (three-level dungeon), Red Chain Arena (gladiator pits)
+
+**Veiled Master, The** - Mysterious leader of Veilport's Shadow Syndicate; true identity is Khan Vespera Nightborn using alter ego to control both legitimate government and criminal underworld simultaneously; only a few trusted agents know this secret; Free Veil Coalition plans to expose this truth to destroy her authority
+
+**Venomroot Jungle** - Dense Serpentis rainforest with giant constrictors, yuan-ti patrols, shambling mounds, carnivorous plants, and Pre-Cataclysmic pyramid ruins; guards Coiled Abyss entrance; Underground Railroad smuggling routes; yuan-ti Temple Guard (malison paladins) hunt warlock pacts and escaped slaves
+
+**Vorathrax the Abyss-Tentacled** - Ancient kraken (CR 23) ruling Kraken Depths beneath Vast Inner Bay; legendary lair actions include lightning storms and whirlpools; hoards include bowl of commanding water elementals and massive treasure; occasionally attacked by dragon turtles; served by sahuagin baronies; ultimate naval threat
+
+### W
+**Wanderer Territories** - Southwestern savanna homeland of chaotic good/neutral nomadic tribes led by Wind-Chieftain Korath Freehoof (fighter 14/ranger 6, CG); population ~10,000 at seasonal capital Roamhaven; mixed human-goblin-orc ancestry; follow herds; worship Liberon and Harmona; frequently clash with Serpentis over borders; receive escaped slaves via Underground Railroad
+
+**Western Frontier War** - Major ongoing conflict (5+ years, Spring 1247 AE) between Regalor (led by King Valorian Brightblade) versus Goblin Wastes (The Ash-Crowned) and Grimwald Hills (Elyndra the Pale Whisper); stalemate at Fort Edgewatch siege; Aelthar's paladins fight Ruinok-blessed goblins; Edgewatch farms sacked 2 years ago, 200 knights killed in Grimwald ambush last spring
+
+**Whirlvex** - Chaotic Neutral god of caprice, madness, and transformation; the Chaos Fool; appears as jester in motley with ever-changing expressions; "bosom buddies" with Liberon; teases Aelthar, pranks Rigoran; joins Ruinok's destruction for laughs; worshiped by artists, lunatics, bards seeking inspiration; exarch is The Laughing Jester (disrupts Shadowvale berserker rituals with chaotic omens like blood rain and dancing auroras)
+
+### X
+**Xipilli, God-Queen** - Lawful evil yuan-ti pureblood cleric 18/sorcerer 2 ruling Serpentis from Coilkeep; CR 19; commands Divine Caste; employs *dominate person*, *geas*, and serpent transformation abilities; advised by The Chain Sovereign (Dominara's exarch); leads Southern Coiled Incursion against Ebony Realms; maintains slavery system over Serpentan humans
+
+### Z
+**Zenthara** - Southeastern desert kingdom ruled by neutral evil merchant councils from capital Sandspire; population ~25,000 halflings and gnomes; economy based on gem mining, illusion entertainment, desert reagent trade; worship Goldar; pragmatic corruption; quietly accepts all warlock pacts if profitable; investigates Great Old One pacts via Harmona's druids
+
+---
 
