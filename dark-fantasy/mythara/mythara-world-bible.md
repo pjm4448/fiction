@@ -1141,6 +1141,15 @@ Mythara'€™s vast continent in the Arcanum Epoch spans roughly 2,500 miles fr
 - **Divine Interference**: Whirlvex omens may trigger wild surges delaying travel; Harmona'€™s blessings grant safe passage through monster territories on rare pilgrimages.
 - **Caravan vs. Adventurer Pace**: Large merchant caravans move slower (15'€“20 miles/day) for security; small adventurer parties can push faster but risk ambushes.
 
+
+#### Travel Pace Assumptions
+
+The base travel times assume a standard adventuring party (4–6 members) using common mounts or walking. Unusual circumstances modify these assumptions:
+
+- **Large Groups**: Caravans exceeding 20 travelers or military columns move approximately 50% slower due to coordination difficulties and frequent stops.
+- **Unusual Mounts**: Elephants (20 ft. movement) travel at half normal mounted speed (~2 miles/hour), while flying mounts vary dramatically—griffons and hippogriffs (80 ft. fly) achieve ~8 miles/hour, while giant eagles (16 miles/hour) match fast naval vessels. Flying bypasses terrain penalties but exposes riders to aerial predators and exhaustion limits.
+- **Extreme Terrain**: The existing route times already incorporate typical terrain challenges. Particularly hazardous areas (e.g., Bleakmoor Fens, Death Hyena Plains) may add 25–50% additional travel time beyond listed values due to navigation challenges and forced detours.
+
 These routes and times anchor journeys across Mythara, turning travel into adventures filled with random encounters, divine portents, and opportunities for side quests. No road or sea lane is ever truly safe—the Nine ensure peril accompanies progress.
 
 ## Current Political Boundaries and Map Layout
@@ -1558,6 +1567,10 @@ Fey crossings hidden among ancient oak roots connect to the Feywild. Dryads and 
 
 **The Sunken Planar Rift (Kraken Depths, offshore Inner Bay)**  
 A deep-sea trench where a cracked Pre-Cataclysmic portal leaks water elemental energy. Marid nobles and water weirds hold court in flooded ruins, trading *bowls of commanding water elementals* for surface treasures.
+
+
+**The Unseeing Eye (Remote cavern system beneath the Coiled Barrier mountains)**  
+A reality-thin wound in the deepest darkness where the Far Realm seeps through—an incomprehensible void that whispers maddening geometries to those who dare approach. The cavern walls pulse with bioluminescent patterns that shift into non-Euclidean angles, inducing vertigo and psychic damage (DC 15 Wisdom save or take 2d6 psychic damage and gain short-term madness). Great Old One warlocks pilgrimage here to commune with their patrons, emerging changed—some enlightened, most broken. Aberrations manifest sporadically: star spawn, intellect devourers, and nothics drawn to the rift like moths to flame. The site remains deliberately obscure, known only through cryptic verses in forbidden tomes and the raving testimonies of escaped madmen. Serpentis occultists occasionally dispatch expeditions seeking forbidden knowledge, though few return. Those who do bring back *ioun stones of insight* warped by alien energies, granting advantage on Arcana checks but causing prophetic nightmares. The Unseeing Eye represents cosmic horror incarnate—a place where reality fractures, sanity shatters, and the infinitesimal nature of mortal existence becomes unbearably clear.
 
 These underground networks and planar connections ensure that Mythara'€™s dangers—and wonders—extend far below the sunlit world. Adventurers who brave the depths return with rare reagents (such as deep mushroom spores for *potions of growth* or aboleth mucus for domination scrolls), but many vanish into the dark, claimed by horrors or pulled across planes by the distant machinations of the Nine.
 
