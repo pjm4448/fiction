@@ -316,6 +316,9 @@ A perpetually laughing harlequin archfey who dances through Whirlvex'€™s rev
 **The Ash Lord (Exarch of Ruinok)**  
 A balor-like entity wreathed in necrotic flame, once a mortal destroyer exalted for annihilating an entire kingdom. It empowers the Ash-Crowned and grants death throes to fanatical followers.
 
+**DM Note: Exarch Titles and Manifestations**  
+Exarchs often use multiple titles depending on their current manifestation and regional context. For example, an exarch may use a formal "true name" in divine texts while adopting more colloquial titles when walking among mortals (e.g., "The Stormborn" versus "The Stormcaller"). These naming variations are intentional—exarchs adapt their personas to match local cultures and their patron deity's objectives. Additionally, two quasi-divine entities serve Equilon: **Morthas** (The Grim Shepherd, exarch of death and souls) and **Goldar** (The Coin Baron, exarch of wealth and commerce). Unlike other exarchs, Equilon permits these two to receive direct worship and grant clerical spells as his proxies in their specific domains, making them function as independent demigods while remaining subordinate to the Balance Lord.
+
 ### Notable Independent or Oppositional Powers
 
 **Yeenoghu'€™s Gnawbone (Demon Lord Influence)**  
@@ -341,14 +344,18 @@ These lesser powers provide warlock patrons beyond the Nine, optional oath targe
 > In Spring 1247 AE, several exarchs are actively manifesting:
 >
 > - **Dawnblade (Aelthar)**: Fighting alongside paladins in the Western Frontier War against Grimwald warbands, appearing as a radiant mounted warrior rallying defenders at besieged keeps
+> - **The Iron Arbiter (Rigoran)**: Judging border disputes between Regalor and Bayhaven, manifesting as a towering armored figure at trial grounds
 > - **The Chain Sovereign (Dominara)**: Advising Xipilli (Apexar's vampire-king) on slave control techniques, manifesting as a voice in mirrors
 > - **The Ash Lord (Ruinok)**: Empowering goblin chieftains in Regalor's western border conflicts, granting rage-infused weapons
 > - **The Grim Shepherd (Morthas)**: Harvesting souls in plague-stricken Zenthira villages, appearing to dying elders as a cowled figure
 > - **Lady Silverleaf (Harmona)**: Mediating druids in the Bleakmoor Fens border conflict, manifesting as an ancient treant
 > - **The Coin Baron (Goldar)**: Manipulating trade wars between Veilport and Crownspire through possessed merchants
+> - **The Eternal Watcher (Equilon)**: Observing the scales of power between nations, appearing as disembodied eyes in critical political negotiations
 > - **The Stormcaller (Liberon)**: Inspiring Wanderer raiders against Serpentis slaver caravans, riding storm clouds
 > - **The Laughing Jester (Whirlvex)**: Disrupting Shadowvale's berserker rituals with chaotic omens (blood rain, dancing auroras)
 > - **The Veiled Spider (Shadrix)**: Operating multiple personas in Veilport's Shadow Syndicate, possibly posing as the Veiled Master
+>
+> *Note: The Grim Shepherd and Coin Baron are the exarch identities of Morthas and Goldar, Equilon's unique quasi-divine proxies who—unlike other exarchs—grant clerical spells to worshipers in their domains of death and commerce.*
 >
 > Exarchs typically manifest for 1d4 days during pivotal conflicts, bestowing Epic Boons to mortals (1st level characters gaining Champion feats, higher-level heroes receiving unique divine gifts). They cannot be killed permanently outside their divine realms, reforming within their patron's domain after 1d10 years if destroyed.
 ## Warlock Patrons of Mythara
@@ -369,6 +376,7 @@ Beyond the exarchs and lesser divine beings, warlocks in the Arcanum Epoch forge
 > | **Frontier Hold** | Pragmatic (useful vs. giants/dragons) | Killed immediately | Tolerated | Recruited |
 >
 > **Implementation Notes**:
+> - This table provides quick reference; see "Warlock Persecution and Suppression by Region" section below for detailed policies, organizations, and safe havens
 > - Persecution affects downtime activities (warlocks needing disguises in hostile regions)
 > - Regional laws determine whether using *eldritch blast* in public triggers guards
 > - Some kingdoms (Regalor, Crownspire) have dedicated witch-hunter NPCs (paladins or inquisitor rogues)
@@ -503,12 +511,40 @@ While the Nine tolerate warlock pacts as "cosmic intrigue," mortal authorities a
 - **Storm-Themed Preference**: Pacts involving storm/sea themes (certain archfey, elemental princes, tempest-aligned fiends) gain extra respect.
 - **Weakness Purge**: Warlocks whose patrons demand non-combat service (scholars, information brokers) are mocked and driven out.
 
+**Crownspire (Neutral Good / Aelthar-influenced)**:
+- **Heavily Persecuted**: Fiend pacts are illegal and met with imprisonment, heavy fines, or exile. The Crown's Justice conducts regular investigations into suspected devil/demon pacts.
+- **Hunted**: Great Old One pacts trigger clerical inquisitions led by the Radiant Cathedral's Truth Seekers. Discovery means imprisonment pending trial; aberrant influence is considered a threat to civic order.
+- **Suspicious**: Archfey pacts face social stigma unless clearly Seelie Court aligned. Unseelie connections result in surveillance and potential banishment.
+- **Celebrated**: Celestial patrons (especially those aligned with Aelthar, Harmona, or Liberon) are honored. The Chapel of the Coin actively recruits such warlocks for civic service.
+- **Note**: King Valorian's personal stance is pragmatic—he privately employs warlocks for diplomatic missions but publicly maintains strict anti-fiend laws to satisfy the Radiant Cathedral.
+
+**Shadowvale (Chaotic Evil / Ruinok-dominated)**:
+- **Pragmatically Accepted**: Fiend pacts are tolerated if the warlock serves berserker clans loyally. Demon lord patrons (especially those aligned with rage/destruction) gain respect.
+- **Feared/Killed**: Great Old One warlocks are hunted on sight—their madness and unpredictability threaten clan hierarchies. Chieftains view aberrant corruption as worse than simple bloodlust.
+- **Mocked but Tolerated**: Archfey pacts are seen as weak and "pretty magic" but accepted if the warlock proves themselves in blood feuds.
+- **Ignored**: Celestial patrons are considered jokes. Such warlocks must hide their pact source or face exile.
+- **Philosophy**: Shadowvale's Iron Brotherhood judges power by combat effectiveness, not morality. A competent demon-pact warlock is valued; an incompetent one is killed.
+
+**Zenthara (Neutral / Goldar-worshiping)**:
+- **Quietly Accepted**: Fiend pacts are technically illegal but overlooked if the warlock is wealthy or politically connected. Corrupt nobility often employs devil-pact warlocks as advisors.
+- **Investigated**: Great Old One pacts draw attention from Harmona's druids operating in desert oases. Discovery leads to banishment rather than execution (Zenthara prefers exile over bloodshed in civilized territories).
+- **Welcomed**: Archfey pacts are common in halfling/gnome merchant clans. Fey connections facilitate trade routes through dangerous territories; such warlocks receive guild sponsorship.
+- **Respected**: Celestial patrons aligned with Harmona (healing/nature) are honored. Zenthara's Council of Coins funds temples that employ celestial warlocks as healers.
+- **Economic Reality**: Zenthara's mercantile culture judges warlocks by profitability, not piety. A warlock who increases caravan profits through pact magic is protected regardless of patron type.
+
+**Frontier Hold (Neutral / Mixed Influences)**:
+- **Case-by-Case**: Each settlement judges individually. Frontier pragmatism values survival over doctrine—a warlock who defends against monster raids is welcome regardless of patron.
+- **Monster Pacts Accepted**: Warlocks with patrons useful against wilderness threats (certain archfey, elemental princes, even some fiends) are recruited by frontier militias.
+- **Aberrant Fear**: Great Old One pacts face mob violence if discovered. Frontier folk associate aberrant corruption with Pre-Cataclysmic ruins and the monsters dwelling there.
+- **Transient Safety**: No organized persecution exists, but individual settlements may exile warlocks if crop failures or monster attacks are blamed on "dark bargains."
+
 **Active Persecution Organizations**:
 - **The Radiant Inquisition** (Regalor): 50 paladin-inquisitors and 200 cleric-investigators hunting undeath pacts
-- **Serpentis Temple Guard**: Yuan-ti malison paladins with *detect thoughts* hunting aberrant pacts in Venomroot Jungle  
+- **Serpentis Temple Guard**: Yuan-ti malison paladins with *detect thoughts* hunting aberrant pacts in Venomroot Jungle
+- **Crownspire Truth Seekers**: 30 cleric-investigators (Aelthar, Harmona) specializing in *zone of truth* interrogations
 - **Borderan Witch-Hunters**: Freelance bounty hunters funded by merchant coalitions to eliminate "destabilizing magic"
 
-**Safe Havens**: Veilport, Silverport (neutral), Shadowvale (too chaotic to organize persecution), deep wilderness (no authorities).
+**Safe Havens**: Veilport (completely tolerant with registration), Silverport (neutral), Shadowvale (too chaotic to organize systematic persecution), deep wilderness (no authorities), Zenthara (if wealthy/connected).
 
 
 ## The Pre-Cataclysmic Age: Dawn of Arcanis
@@ -3696,7 +3732,7 @@ Before playing, discuss with your DM:
 ### G
 **Goblin Wastes** - Western badlands controlled by chaotic evil goblin tribes unified under The Ash-Crowned; worship Ruinok; capital at Ruinfort (population ~8,000); constantly raid Regalor's Frontier Marches; empowered by The Ash Lord exarch
 
-**Goldar** - Neutral god of wealth and commerce; Equilon's exarch known as The Coin Baron; worshiped by merchant guilds especially in Zenthara; currently manipulating Veilport-Crownspire trade war through possessed merchants
+**Goldar** - Neutral quasi-deity of wealth and commerce; Equilon's exarch known as The Coin Baron with unique permission to grant clerical spells as the Balance Lord's proxy in the domain of commerce; worshiped by merchant guilds especially in Zenthara; receives direct worship despite subordinate status to Equilon; currently manipulating Veilport-Crownspire trade war through possessed merchants
 
 **Great Cataclysm** - Ancient disaster ~2,000 years ago that destroyed Pre-Cataclysmic civilizations including aboleth empire, human elder kingdoms, and dragon dynasties; caused by planar rifts and divine conflicts; survivors founded current kingdoms during Migratory Period
 
@@ -3723,7 +3759,7 @@ Before playing, discuss with your DM:
 ### M
 **Manticore Marches** - Scrubland borderlands between Bayhaven and neighboring territories; infested with manticores, chimeras, harpies, gnolls, and leucrottas; dangerous caravan route requiring armed escorts
 
-**Morthas** - Neutral god of death and the cycle of souls; Equilon's exarch known as The Grim Shepherd; appears to dying mortals as cowled figure; currently harvesting plague victims in Zenthira villages; offers resurrections for terrible prices (years of lifespan)
+**Morthas** - Neutral quasi-deity of death and the cycle of souls; Equilon's exarch known as The Grim Shepherd with unique permission to grant clerical spells as the Balance Lord's proxy in the domain of death; appears to dying mortals as cowled figure; receives direct worship despite subordinate status to Equilon; currently harvesting plague victims in Zenthira villages; offers resurrections for terrible prices (years of lifespan)
 
 ### N
 **Ninefold Pantheon** - The Nine Gods ruling Mythara: Aelthar (LG), Rigoran (LN), Dominara (LE), Harmona (NG), Equilon (N), Shadrix (NE), Liberon (CG), Whirlvex (CN), Ruinok (CE); dwell together in Ethereal Shroud watching mortals; frequently make divine wagers on outcomes; relationships range from strong alliances (Aelthar-Harmona, Rigoran-Equilon, Liberon-Whirlvex) to arch-enemies (Aelthar-Ruinok)
