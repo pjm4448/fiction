@@ -2446,7 +2446,103 @@ Pre-Cataclysmic ruins predating even the Lesser Cataclysm's Shadowkin occupation
 
 *Hazards:* Undead hordes, aberrations (aboleths, chuuls, gibbering mouthers), fiends, environmental dangers (collapsing ruins, toxic gases, extreme cold/heat from planar bleeding), and sheer depth (falls of 30-100 feet common).
 
+**The Vent Network: Veilport's Hidden Veins**
 
+Connecting all three vault levels and extending throughout the city is an extensive system of ventilation shafts, drainage channels, and maintenance tunnels collectively known as "the Veins" by those who navigate them. Originally constructed during the Pre-Cataclysmic Age to service ancient buildings and expanded during the Lesser Cataclysm for emergency evacuation routes, the vent network has become crucial to Veilport's underworld operations—and a deadly maze for the unprepared.
+
+**Physical Structure:**
+
+The vents range dramatically in size and purpose:
+
+- **Major Ventilation Shafts** (5-8 feet diameter): Vertical shafts rising from the Undervaults to rooftop grates, designed to channel air and remove toxic fumes from below. These feature iron rungs for maintenance access, though many are rusted or missing entirely (DC 12 Athletics to climb safely, DC 15 if rungs are damaged). Every 30 feet, horizontal maintenance ledges provide rest points—or ambush positions. The shafts produce a constant low whistle as air currents flow, masking sounds from below but alerting surface guards to unusual noises.
+
+- **Lateral Air Ducts** (2-4 feet diameter): Horizontal passages connecting buildings at street level and through the Undervaults. Originally meant for cross-ventilation, these narrow tunnels require crawling or squeezing (Medium creatures move at half speed; Large creatures cannot fit). Branching points create labyrinthine networks where navigation without mapping requires DC 15 Survival checks to avoid getting lost. Every 50 feet, junction chambers (just large enough to turn around) contain rusted access panels leading to basements, cisterns, or sewer mains.
+
+- **Drainage Channels** (3-5 feet wide, 6-8 feet high): Vaulted passages that collect rainwater runoff and sewage, routing it to underground cisterns or the bay. During Veilport's rare rainstorms (twice yearly during monsoon season), these flood with rushing water (DC 14 Strength [Athletics] to avoid being swept away; 2d6 bludgeoning damage if swept 30+ feet into grates or walls). When dry, they serve as smuggling highways, though the stench requires DC 12 Constitution saves to avoid nausea (disadvantage on ability checks for 1 hour).
+
+- **Steam Vents** (1-2 feet diameter): Narrow pipes venting heat from forges, alchemical workshops, and geothermal pockets beneath the Ember Quarter. These glow faintly with heat distortion and deal 1d6 fire damage per round of contact. Some are wide enough for Small creatures or extremely flexible rogues to navigate (DC 18 Acrobatics to squeeze through without touching superheated walls). Thieves occasionally use steam vents to reach high-security areas, accepting burns as the price of entry.
+
+**Strategic Importance:**
+
+The vent network serves multiple functions for Veilport's competing factions:
+
+*Shadow Syndicate Usage:*
+- **Smuggling Routes**: Contraband moves through drainage channels from Dockyards warehouses to Wet Market in the Undervaults without surface exposure. Syndicate Cutpurses know "the Red Path" (a specific route marked with red chalk visible only under dark vision) that bypasses Shadow Guard patrols.
+- **Escape Routes**: Black Hand assassins memorize vent entrances in target buildings. After a kill, they disappear into basement vents, emerging blocks away. Standard protocol: pre-position escape supplies (rope, healing potions, disguise kits) at vent junction caches.
+- **Surveillance Posts**: Major ventilation shafts include hidden spy holes into important buildings (Khan estates, merchant vaults, Coalition safehouses). Syndicate agents with *spider climb* or climbing gear stake out these positions during critical meetings, using *message* cantrips to relay intelligence to handlers below.
+
+*Free Veil Coalition Usage:*
+- **Underground Railroad**: The Coalition smuggles political refugees and escaped "voluntary laborers" (de facto slaves) through the vent network to safe houses in the Threadbare or out of the city entirely. Routes change monthly to stay ahead of Syndicate mapping.
+- **Sabotage Access**: Vent entrances in the Veilheart allow Coalition agents to plant explosives beneath Khan estates, poison water supplies to specific buildings, or access guard armories. The Coalition's greatest success—stealing Khan Zathros's infernal contract ledger—utilized steam vents too hot for most infiltrators (the rogue survived with 2 hp and *resistance* scrolls).
+- **Emergency Bolt-holes**: When Shadow Guard raids Coalition safe houses, escape through floor vents is standard procedure. Pre-cut basement panels lead to drainage channels; pursuers unfamiliar with the network get lost in branching passages while fugitives follow memorized routes.
+
+*City Infrastructure:*
+- **Waste Management**: Official sanitation crews (employed by Khan Ilyana, paid poorly, frequently bribed by Syndicate) maintain drainage channels, clearing blockages and repairing collapsed sections. They work in pairs for safety and carry *continual flame* lanterns.
+- **Fire Suppression**: During the rare city fires, volunteer brigades flood specific vent sections to create firebreaks. This occasionally drowns Undervault inhabitants, causing tensions between surface authorities and underground dwellers.
+- **Temperature Regulation**: Steam from the Ember Quarter's forges vents through controlled channels to heat noble estates in winter (Shadowkin hate cold despite infernal heritage). Sabotaging these vents has been used as both Coalition tactics and personal vendettas.
+
+**Inhabitants and Hazards:**
+
+The vent network is anything but empty:
+
+*Mundane Threats:*
+- **Dire Rats and Swarms**: Standard giant rats infest upper vents; truly enormous dire rats (CR 1/8 but pack tactics) claim deeper territories. Rat swarms (CR 1/4) boil out of grates when disturbed, disease vectors that spread sewer plague (DC 12 Con save or contract disease; symptoms in 1d4 days).
+- **Vagrants and Outcasts**: The homeless, fugitives, and social pariahs shelter in vent junction chambers and abandoned drainage sections. Most are harmless—desperate folk seeking safety from surface persecution. Some, however, have gone feral from isolation and attack intruders with improvised weapons and disease-ridden bites.
+- **Vent Gangs**: Two major groups control specific territories: The **Rust Runners** (orphans and street urchins, CN, extort tolls but generally non-lethal) and **The Deep Breathers** (mask-wearing outcasts, NE, rob and murder trespassers). Encounters with vent gangs require negotiation or combat; both know their territories intimately and use chokepoints, ambush positions, and trapped grates.
+
+*Supernatural Threats:*
+- **Gelatinous Cubes**: In particularly large drainage intersections, these oozes lurk motionless, nearly invisible in the darkness (DC 15 Perception to notice before making contact). They slowly patrol set routes, digesting organic blockages—and hapless vent travelers. Syndicate veterans know the cubes' schedules and avoid those passages during feeding times.
+- **Shadows and Wraiths**: Undead from the Deep Vaults occasionally drift upward through vertical shafts, draining life from those caught in narrow passages with no escape. Shadows particularly favor vertical vent ambushes—victims climbing iron rungs have no space to maneuver and disadvantage on attack rolls.
+- **Lurking Aberrations**: Gricks nest in junction chambers near the Middle Vaults, their rubbery bodies perfect for vent navigation. They drop from above on victims in narrow tunnels where space prevents group defense. Darkmantles mimic rust stains on vent ceilings, falling on lone travelers.
+- **Bound Air Elementals**: Pre-Cataclysmic ventilation systems used bound elementals to circulate air. Some remain, driven mad by millennia of imprisonment, manifesting as violent windstorms in major shafts (creatures caught must succeed DC 14 Strength save or be blown 3d6 × 10 feet up or down shaft; fall damage applies).
+
+**Vent Navigation and Mechanics:**
+
+For parties attempting to use the vent network, DMs should consider:
+
+*Mapping and Navigation:*
+- Without a guide or accurate map, navigating requires DC 15 Survival checks every 30 minutes. Failure means wrong turns adding 1d4 × 10 minutes to travel time. Three consecutive failures means hopelessly lost until backtracking to a known landmark.
+- Thieves' Cant markings exist throughout: Syndicate routes marked with specific symbols visible only to those who know the code, Coalition marks in different pattern. Recognizing these requires proficiency in Thieves' Cant and DC 12 Investigation.
+- *Clairvoyance*, *arcane eye*, and *scrying* spells are invaluable for scouting routes ahead. However, vent intersections create magical dead zones where Pre-Cataclysmic wards interfere (20% chance per casting that divination magic fails).
+
+*Movement and Claustrophobia:*
+- In 2-4 foot ducts, Medium creatures crawl at 5 feet per round (10 feet if they dash, making noise). Small creatures move normally. Heavily armored characters must remove plate or half-plate armor to fit (or make DC 16 Strength checks to force through, taking 1d4 bludgeoning damage per 10 feet from scraping).
+- Vertical climbs require Athletics checks as noted above. Falling down ventilation shafts causes standard falling damage plus potential landing on grates, rusted spikes, or fellow climbers (additional 1d6 piercing damage, DC 14 Dex save).
+- Characters with claustrophobia (DM's call or background trait) must make DC 10 Wisdom saves when entering narrow passages or suffer frightened condition until exiting to larger space.
+
+*Environmental Dangers:*
+- **Toxic Fumes**: In areas near alchemical workshops or geothermal vents, DC 13 Constitution saves required every 10 minutes or take 1d6 poison damage and gain one level of exhaustion. *Protection from poison* grants advantage; wet cloths over mouth/nose grant +2 to save.
+- **Flooding**: During rainstorms, lower drainage channels fill rapidly. Sudden flooding gives one round warning (DC 15 Perception to hear rushing water) before 5-foot-high water surge arrives (DC 14 Strength [Athletics] to avoid being swept away; swept creatures take 2d6 bludgeoning damage and move 4d6 × 10 feet toward bay outflows or underground cisterns).
+- **Steam Bursts**: Near forges, periodic steam releases from pressure valves deal 2d6 fire damage to all in 10-foot radius (DC 13 Dex save for half). Warning signs include hissing sounds and temperature spikes (DC 12 Perception to notice 1 round before release).
+- **Collapsing Infrastructure**: Pre-Cataclysmic sections are millennia old. Weight limits apply: more than 500 lbs on rusted grates triggers DC 15 Dexterity saves or fall through to next level (10-30 feet, standard falling damage). Metallic creaking gives one round warning (DC 13 Perception).
+
+**Strategic Vent Locations:**
+
+Specific vent access points hold tactical importance:
+
+1. **The Whisper Gap** (connection between House of Whispered Bargains and Middle Vaults): A 40-foot vertical shaft with missing rungs requiring rope or *spider climb* to navigate. Used by both Vespera (as Veiled Master) and Coalition spies attempting to infiltrate Syndicate headquarters. Heavy magical wards (*alarm*, *glyph of warding*) on lower exit.
+
+2. **Khan's Breath** (steam vent beneath Chains of Command): Direct route to Vespera's palace basement, but superheated (3d6 fire damage per round) and physically exhausting (DC 15 Constitution saves every round or gain exhaustion level). Only accessible during forge "cool-down" periods (30-minute windows at dawn and dusk when forges are banked).
+
+3. **The Rat King's Court** (major junction in Upper Vaults): A 20-foot-diameter spherical chamber where eight vents converge, controlled by vagrant leader "Rat King Sevik" (human male, rogue 5, CN). Sevik charges 5 gp per person for passage rights and accurate route information. Attempting to bypass his tolls means confronting his gang of 20 orphans and 8 dire rats.
+
+4. **Drowning Throat** (drainage channel to bay): Emergency exit from Undervaults to bay waters, used by smugglers to load/unload contraband from rowboats. Grate at bay end opens only from inside (secret release mechanism, DC 18 Investigation to locate). Tides create time limits—passable only during low tide (4-hour windows twice daily); during high tide, passage floods completely (automatic drowning for those caught inside without *water breathing*).
+
+5. **The Screaming Vent** (shaft haunted by wraith): Vertical shaft in Shadowveil district produces unnatural wailing sounds (wraith's death scream echoing eternally). The wraith, **Lysara the Betrayed** (CR 5), ambushes climbers at the 50-foot level where her corpse is embedded in the shaft wall. Coalition avoids this route; Syndicate sends expendable Cutpurses as sacrifices when they need to pass (wraith sated for 1 week after feeding).
+
+**Adventure Hooks Using the Vent Network:**
+
+- **The Lost Cartographer**: A Coalition spy went into the vents three days ago to map new Syndicate routes and never returned. His notes are crucial—they include the location of the Black Vault. The party must navigate the vents, find his body (probably in a gelatinous cube), and recover the incomplete map before Syndicate discovers the breach.
+
+- **Vent Race**: Both Coalition and Syndicate learn of a Pre-Cataclysmic artifact in the Deep Vaults. The fastest route requires navigating Khan's Breath (the superheated vent). Hired by one faction, the party must beat rivals while surviving environmental damage and potential cave-ins.
+
+- **Pest Control Gone Wrong**: Sanitation crews accidentally disturbed a nest of gricks. The creatures fled upward into populated areas. Party hired to enter the vents, track the gricks to their new nest, and eliminate them—but the nest is in a vent directly above Shadow Council Chambers, presenting surveillance opportunities.
+
+- **Vent Siege**: Free Veil Coalition plans massive strike using the vent network to simultaneously hit multiple Syndicate locations. They need skilled infiltrators to guide strike teams through the Veins. If the party succeeds, Veilport's balance of power shifts dramatically.
+
+- **The Breathing Sickness**: A plague spreads through the Threadbare district, carried by vent air from something dying/decaying in the Undervaults. Investigation leads to a dead aboleth's thrall releasing airborne spores. Cure requires descending to the source through flooding vents while infected populace riots above.
+
+The vent network transforms Veilport from a two-dimensional city map into a three-dimensional maze where skilled rogues, desperate fugitives, and clever parties can outmaneuver more powerful opponents. It also provides constant tension—any basement, any grate, any floor panel might conceal a hidden passage to the city's dark heart.
 
 **Daily Life in Veilport**
 
