@@ -171,6 +171,7 @@
 **Campaign Resources**
 - [Major Cities and Settlements: Detailed Guides](#major-cities-and-settlements-detailed-guides)
   - [Veilport: The City of Whispered Bargains](#veilport-the-city-of-whispered-bargains)
+    - [Warlock Culture and Traditions in Veilport](#warlock-culture-and-traditions-in-veilport)
   - [Crownspire: The Radiant Capital](#crownspire-the-radiant-capital)
   - [Coilkeep: The Serpent's Throne](#coilkeep-the-serpents-throne)
 - [Random Encounter Tables by Region](#random-encounter-tables-by-region)
