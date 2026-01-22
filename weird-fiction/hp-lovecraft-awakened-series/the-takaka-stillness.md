@@ -144,6 +144,8 @@ They roped together with mechanical efficiency, each knot a commitment to a cour
 
 They descended into deepening dark, roped together, having chosen this with open eyes.
 
+---
+
 Two hours into the descent, they stopped at a narrow ledge for water. Chloe's hands trembled as she fumbled with her bottle cap, not from cold, but from the weight of her decision. She'd voted to continue. If they died, it would be her fault.
 
 "You made the right call." Liam's voice, quiet beside her.
@@ -230,48 +232,6 @@ The words hung in the dead air between them like a pronouncement of doom, and ea
 
 "We push through The Vice tomorrow," Liam said at last, his voice carrying the leaden weight of a man who knows he is condemning others and himself. "Map the far side. Daniel gets his readings. Then we find another way out." He met their eyes, and in his gaze they saw not confidence but the iron resolve of a soldier who has accepted that survival is improbable but duty remains absolute. "It's the only option we've got."
 
-Daniel hunched over his tablet like some latter-day necromancer consulting a forbidden grimoire. His finger traced disturbing, alien patterns on the screen. Paused. Traced again.
-
-"Look."
-
-He held the screen toward Chloe, his voice a hoarse whisper. Pointedly, he did not look at Liam.
-
-Chloe leaned closer. "What am I seeing?"
-
-"The energy signatures." Daniel's finger trembled as he pointed. "They peak. They intensify."
-
-"When?"
-
-He swallowed. "When we utilize electronics."
-
-Chloe felt something cold settle in her stomach. "Our radios?"
-
-"Yes. And when we move with rapidity." His eyes darted to the oppressive shadows. Back to the screen. "And when our adrenaline levels are likely at their highest."
-
-The implication crystallized slowly.
-
-"It's as if." Daniel's voice dropped even lower. "As if we are attracting its attention."
-
-Behind them, Liam's breathing had gone very still.
-
-"Whatever it is," Daniel finished.
-
-Chloe's hand moved unconsciously to her camera. Still recording. Still transmitting electromagnetic signals. "Daniel, are you saying..."
-
-"I initially hypothesized anomalous geology." He ran a trembling hand through his already dishevelled hair. "Perhaps some kind of exotic piezo-gravitational effect? Immense tectonic stress creating..."
-
-He stopped.
-
-Shook his head. The gesture carried profound despair, intellectual defeat.
-
-"But this." He looked up at her. His eyes were haunted. "This behaves like a predator, Chloe. An ancient, unseen, utterly alien predator."
-
-"Then we shut down the electronics," Chloe said. "We go dark. We..."
-
-"It's too late for that," Daniel whispered. "Don't you see? We've already rung the dinner bell."
-
-Sound itself had become a treacherous ally, no longer obeying the simple laws of acoustic reflection and propagation. Echoes were either stifled entirely, swallowed by some unseen acoustic sink, or twisted into mocking parodies of the original utterance, returning with subtle changes in pitch and timbre that suggested intelligence and malice. The silence between their movements grew heavy, gravid with unspoken menace. The darkness itself seemed to be gestating something monstrous. Chloe's audio recording equipment, faithful even when human senses rebelled, captured sounds at the periphery of audibility: chitinous clicks that suggested the movement of articulated segments, paired with a sub-audible hum that resonated in the bone and set teeth aching and the very foundations of sanity fraying like rope under tension.
-
 At Camp Echo, their second and what each secretly feared might be their final bivouac, they huddled together like a beleaguered garrison under siege, drawing what meager psychological comfort they could from proximity to fellow humans in this realm that seemed to actively reject the presence of anything warm-blooded and sentient. Daniel hunched over his tablet like a necromancer consulting a forbidden grimoire, his finger tracing disturbing patterns.
 
 "Look."
@@ -314,7 +274,7 @@ Chloe waited alone in the antechamber, and in that solitude the silence seemed t
 
 A single scream echoed from the Stygian depths of the squeeze, a sound of such naked, primal terror that it seemed to scrape against the inner surface of the skull. Daniel's voice, rendered almost unrecognizable by extremity of fear, choked and horrifying, carrying with it the knowledge of something so monstrous that the mind recoiled from naming it. The scream was cut off with an appalling, sickening finality, severed by a knife or simply stopped by the removal of the capacity to produce sound.
 
-"Daniel!" Liam roared from the far side of The Vice, his voice raw and ragged with sudden panic that stripped away years of professional training. "Status! Report! What in God's name was that?"
+"Daniel!" Liam roared from the far side of The Vice, his voice raw and ragged with sudden panic that stripped away years of professional training. "What in God's name was that?!"
 
 Silence. An absolute, terrifying silence that seemed to mock the very concept of response. Then, filtering through the narrow aperture of the squeeze, came sounds that no human throat could produce: a wet, organic tearing and rending, as of flesh being separated from bone, followed by a heavy, slithering, dragging scrape that suggested something of considerable mass pulling itself through passages never meant for its transit, a sound utterly, horrifyingly, cosmically inhuman.
 
@@ -384,7 +344,7 @@ Chloe's trembling fingers sorted through the debris with frantic efficiency born
 
 "Daniel, your sensor." She grabbed his arm. "What are these things made of? What frequencies?"
 
-He blinked, sanity flickering back into his eyes. "They're... not matter. Not how we understand it." His hands moved automatically to his tablet. "They exist in EM spectra. Visible light is hostile to their phase state. The magnesium burn..."
+He blinked, sanity flickering back into his eyes. "They're... not matter. Not how we understand it." His hands moved automatically to his tablet. "I think that they exist in EM spectra. Visible light is hostile to their phase state. The magnesium burn..."
 
 "Burns them," Chloe finished. She stuffed two flares into her pack, kept the third in hand. "How many?"
 
@@ -418,7 +378,7 @@ Gravity betrayed them repeatedly. One moment they stumbled in near-weightlessnes
 
 An Entity manifested directly in their path, not traveling from elsewhere but *forming* from the ambient wrongness like frost crystallizing on a window. Chloe thrust the flare forward instinctively. The creature's form buckled, convulsed, retreated into the walls with a psychic shriek that made blood stream from her nose.
 
-The first flare sputtered and died, its chemical fuel exhausted. Chloe lit the second without breaking stride, fumbling with her lighter. For three eternal seconds they ran through darkness, and in that interval the temperature plummeted forty degrees. The Entities surged closer, their cold internal luminescence now visible as diseased glow in her peripheral vision, violet shot through with gangrene green, pulsing in rhythm with that cosmic heartbeat Daniel had first detected.
+The first flare sputtered and died, its chemical fuel exhausted. Chloe lit the second without breaking stride, fumbling with her lighter. For three eternal seconds they ran through darkness, and in that interval the temperature plummeted twenty degrees. The Entities surged closer, their cold internal luminescence now visible as diseased glow in her peripheral vision, violet shot through with gangrene green, pulsing in rhythm with that cosmic heartbeat Daniel had first detected.
 
 "How far?" she screamed over the rising hum that seemed to emanate from the walls themselves, a frequency that made her skull vibrate and her inner ear rebel.
 
@@ -490,9 +450,7 @@ She became aware, with a shock, that her body cam was still active, its red ligh
 
 "Then we go through," Daniel said. "Not to escape. But to document. To record. To leave proof of what exists beyond the thin places. If we're trapped in recursive dimensions, if every layer is another echo, then maybe one of those echoes is close enough to our reality that the camera signal might bleed through. Might be recovered. The data I've gathered, the footage you've captured, it's evidence of cosmic truth, Chloe. Proof that the universe is bigger and stranger and more terrifying than humanity wants to believe."
 
-Chloe stared at him, this man whose obsession had led them into the abyss, and felt something shift in the deepest part of her psyche. All her life, she had been a documentarian of the safe, the controlled, the curated. She had filmed weddings and corporate events and nature documentaries where the most dangerous encounter was an aggressive possum. She had chosen the camera as a shield, a barrier between herself and authentic experience, between herself and risk. She had been, she realized with crystalline clarity, a coward. A chronicler of life rather than a participant in it.
-
-But here, now, in this alien place, with death or worse approaching on frequencies she could feel in her bones, she finally understood what it meant to be present. To be engaged. To matter.
+Chloe stared at him, this man whose obsession had led them into the abyss, and felt something shift in the deepest part of her psyche.
 
 "No."
 
@@ -558,9 +516,11 @@ The chamber filled with their psychic screaming, a sound that transcended mere a
 
 He ran, stumbling toward the portal. Chloe followed, her legs moving on instinct while her mind reeled from the cosmic backlash of having wounded entities that should not be wounded. The camera died completely, its circuits fused, its battery exhausted, but it had bought them seconds. Precious seconds.
 
-They reached the threshold together, two desperate souls united in their flight from cosmic abomination. Daniel dove through first, his form pixelating and fragmenting at the dimensional boundary as though reality itself couldn't decide which version of him was real, which configuration of atoms represented the true Daniel Morrison. Chloe glanced back once, permitting herself a final glimpse at the chamber where Liam had been consumed and unmade, where the Entities were already reconstituting their shattered forms, their impossible geometries knitting together from shadow and malice and the fundamental wrongness that was their substance.
+They reached the threshold together, two desperate souls united in their flight from cosmic abomination. Daniel dove through first, his form pixelating and fragmenting at the dimensional boundary as though reality itself couldn't decide which version of him was real, which configuration of atoms represented the true Daniel Reid. Chloe glanced back once, permitting herself a final glimpse at the chamber where Liam had been consumed and unmade, where the Entities were already reconstituting their shattered forms, their impossible geometries knitting together from shadow and malice and the fundamental wrongness that was their substance.
 
 Then she threw herself through the portal with the desperate abandon of one who has abandoned all hope of comprehension, releasing her melted camera as she crossed that threshold, leaving it behind as an offering or a warning or simply as the final frame of footage she would ever capture.
+
+---
 
 The sensation of dimensional transit was absolute and overwhelming, a feeling of being simultaneously compressed to a singular point of infinite density and expanded to encompass the uttermost reaches of infinity, of dying and being born in the same impossible instant, of dissolving into component atoms and quarks and yet more fundamental particles before reforming in a new configuration that was almost, but not quite, still recognizable as Chloe Asher. Something essential had been left behind in that crossing, or perhaps something malign had been added. She would never be certain which, and the ambiguity would haunt her remaining days.
 
@@ -582,6 +542,6 @@ Chloe looked at her hands; they seemed less substantial, almost translucent in t
 
 Chloe followed his terrified gaze into the silent, waiting trees, into the depths of this counterfeit forest that wore the skin of their world like an ill-fitting mask. The Takaka landscape stretched before them, empty of life yet pregnant with watching presence, unnaturally perfect in its deathly stillness, a diorama or perhaps a trap constructed by intelligences that understood human desire for familiar forms but lacked any comprehension of the vital essence that animated true life. Then she saw it, and her heart, which had endured so much, threatened to cease its labors entirely. From behind the ancient, cyclopean girth of a giant beech tree whose roots had surely drunk from the same earth since before humans walked upright, a silhouette detached itself from the deepest shadows: a shifting, fluid form of impossible, disturbing angles and cold, internal light that pulsed with alien rhythms. It watched them with the patient regard of a predator that has all eternity to pursue its prey, motionless yet somehow conveying infinite menace, waiting with a patience that was not of this earth, that belonged to beings for whom eons passed like heartbeats.
 
-They had escaped the claustrophobic, physical confines of the cave, had broken free from those crushing walls of stone, only to discover themselves adrift and marooned in a silent, chilling echo of their own world, insignificant prisoners of a vaster, quieter, and infinitely more terrifying cosmos. The horror had not ended with their desperate escape; it had merely expanded beyond their capacity to comprehend, its tendrils reaching out to engulf all of existence, all hope of rescue, all sanity. They had fled from the dragon only to discover themselves already inside its belly.
+They had escaped the claustrophobic, physical confines of the cave, had broken free from those crushing walls of stone, only to discover themselves adrift and marooned in a silent, chilling echo of their own world, insignificant prisoners of a vaster, quieter, and infinitely more terrifying cosmos. The horror had not ended with their desperate escape; it had merely expanded beyond their capacity to comprehend, its tendrils reaching out to engulf all of existence, all hope of rescue, all sanity. They had fled the Serpent's Coil only to find themselves already trapped in its tightening embrace.
 
 The End.
