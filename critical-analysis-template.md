@@ -1,6 +1,6 @@
 I want you to create an intelligent and comprehensive (i.e. expanded) critical analysis of my short story. Cover the following listed topics in detail:
 
-Here is a comprehensive list of topics and elements typically covered in a literary critical analysis, with special emphasis on how they are applied or adapted when the work belongs to **weird fiction** (Lovecraftian horror, cosmic horror, the New Weird, authors like Lovecraft, Ligotti, Caitlin R. Kiernan, China Miéville, Jeff VanderMeer, etc.).
+Here is a comprehensive list of topics and elements typically covered in a literary critical analysis, with special emphasis on how they are applied or adapted when the work belongs to **weird fiction** (Clark Ashton Smith horror, Lovecraftian horror, cosmic horror, the New Weird, authors like Lovecraft, Ligotti, Caitlin R. Kiernan, China Miéville, Jeff VanderMeer, etc.).
 
 ### General Topics in Any Literary Critical Analysis
 1. **Theme** – Central ideas, philosophical questions, messages  
