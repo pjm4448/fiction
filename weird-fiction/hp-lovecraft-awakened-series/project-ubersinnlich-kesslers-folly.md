@@ -241,7 +241,7 @@ Richter met Kessler's icy stare for a moment, a silent battle of wills that crac
 
 As they walked along the gantry, Vogel muttered under his breath, "This is madness, Karl. The resonance patterns alone could—"
 
-"I know," Richter cut him off quietly, his jaw tight. He felt the weight of Elsa's photograph in his breast pocket, a talisman of the world he'd promised to return to. He'd survived thirty-seven Atlantic patrols by trusting his instincts, by knowing his boat, by understanding the clean mathematics of depth charges and torpedo spreads. But this mission operated under different mathematics entirely—occult, untested, dangerous in ways that had nothing to do with British corvettes or American destroyers. "But what choice do we have? Refuse and face a firing squad? This order comes from Himmler himself."
+"I know," Richter cut him off quietly, his jaw tight. He felt the familiar weight in his breast pocket—the photograph of Greta and Elsa he carried on every patrol, a reminder of what waited at home. He'd survived thirty-seven Atlantic patrols by trusting his instincts, by knowing his boat, by understanding the clean mathematics of depth charges and torpedo spreads. But this mission operated under different mathematics entirely—occult, untested, dangerous in ways that had nothing to do with British corvettes or American destroyers. "But what choice do we have? Refuse and face a firing squad? This order comes from Himmler himself."
 
 Vogel was silent for a moment, then spoke carefully. "My uncle was a U-boat commander in the last war. He told me once that a captain's first duty isn't to orders—it's to his crew. To bring them home."
 
@@ -503,13 +503,13 @@ From the engine room, one final transmission crackled through—Müller's voice,
 
 Others clawed at warped hatches, their fingers bending backwards at impossible angles. The navigator, impossibly, tried to swim *upwards* through the deck plating as if it were water, before vanishing into the solid steel, a futile struggle against the inevitable.
 
-Richter's own consciousness was fraying, thoughts dissolving like mist in the wind. He was bleeding through the fabric, dissolving the ink. He pressed his hand against his chest, feeling the paper disintegrate. The image that had kept him sane through three Atlantic patrols—erased as utterly as he was about to be.
+Richter's own consciousness was fraying, thoughts dissolving like mist in the wind. He was dimly aware of the incredible pressure, the numbing cold, the roar of water filling the confined space. His naval training screamed at him—procedures, commands, survival instincts—but they were whispers against the hurricane of cosmic horror filling his mind.
+
+He thought of Greta. Of Elsa. The photograph was still in his breast pocket, the seawater bleeding through the fabric, dissolving the ink. He pressed his hand against his chest, feeling the paper disintegrate. The image that had kept him sane through three Atlantic patrols—erased as utterly as he was about to be.
 
 Better they remember him as he was, not what he was becoming.
 
-He'd failed them all. Young Weber, who'd never escape his father's carpentry shop. Old Müller, who'd die without seeing his grandchildren. Vogel, who'd trusted him through three patrols. Greta waiting at the window. Elsa growing up fatherless. He'd sworn to come home, to teach his daughter to sail
-
-He'd failed them all. Young Weber, who'd never escape his father's carpentry shop. Old Müller, who'd die without seeing his grandchildren. Vogel, who'd trusted him through three patrols and countless nights of ersatz coffee. Greta waiting at the window. Elsa growing up fatherless, learning his name only from a terse telegram and a folded flag. He'd sworn an oath to survive, to come home, to teach his daughter to sail on the Alster when peace came.
+He'd failed them all. Young Weber, who'd never escape his father's carpentry shop. Old Müller, who'd die without seeing his grandchildren. Vogel, who'd trusted him through three patrols. Greta waiting at the window. Elsa growing up fatherless. He'd sworn to come home, to teach his daughter to sail when peace came.
 
 All lies, now. All dust.
 
@@ -557,7 +557,7 @@ He blotted the ink carefully, the neat, bureaucratic script feeling utterly inad
 
 Perhaps somewhere higher up the chain of command, Reichsführer Himmler himself received a similar, condensed report. Perhaps he frowned briefly behind his pince-nez, contemplating the loss of a state-of-the-art U-boat and a promising, if unorthodox, subordinate like Kessler. Perhaps he attributed the failure to Allied action, unforeseen geological hazards, or Kessler exceeding his mandate. But Himmler’s attention, in these dying days, was fragmented, consumed by increasingly desperate military strategies, negotiations through neutral intermediaries, and preparations for a final stand in an Alpine redoubt, his belief in esoteric salvation perhaps seeking new, frantic avenues. Project Übersinnlich became just one more failed gamble among many, its cosmic horror origins buried beneath layers of conventional military defeat and bureaucratic tidiness.
 
-Miles away, in the Kriegsmarine signals intelligence archive at B-Dienst headquarters, now being hastily packed for evacuation, a lone clerk paused over a logbook entry from many months prior. It noted a fragmented, corrupted signal burst received on a deep-space frequency monitor, tentatively attributed to U-3523 based on timing and encrypted callsign fragments. The log read:
+Miles away, in the Kriegsmarine signals intelligence archive at B-Dienst headquarters, now being hastily packed for evacuation, a lone clerk paused over a logbook entry from many months prior. It noted a fragmented, corrupted signal burst received on an experimental high-frequency monitoring station, tentatively attributed to U-3523 based on timing and encrypted callsign fragments. The log read:
 
 *TIME: 03:17 ZULU. DATE: [REDACTED]. SOURCE: U-3523 (Probable). FREQ: [REDACTED]. CONTENT: [Heavy static resembling tectonic grinding]… green… angles… not right… pressure… CITY… rising… the source… GOD… it SEES… [Inhuman multi-vocal noise resembling tearing fabric mixed with choral screaming]… ALL IS LOST… [Signal ends abruptly]. ANALYSIS: Indecipherable. Probable transmitter malfunction under extreme pressure/damage. Recommend no further action.*
 
