@@ -365,13 +365,13 @@ Richter nodded grimly, the weight of command pressing down on him like the ocean
 
 ---
 
-*(Brief shift in perspective)*
+*(Memory fragment - Candidate Reiner, days earlier, before the final descent into madness)*
 
 *Fear. Cold. Pressure crushing inwards, not just on body, but on mind. Images flashed behind Candidate Reiner’s eyes, unwanted, unstoppable: Green light pulsing from impossible angles. Geometries that screamed. A vast, sleeping presence stirring in watery darkness, its thoughts like grinding continents. He tried to remember his training, the SS oaths, the face of the Reichsführer, but they were frail constructs, dissolving like paper in the psychic deluge. Metzger’s voice droned nearby, preparing needles, straps. Prep for what? Infusion? Connection? Annihilation? He wanted to scream, to fight, but his limbs wouldn’t obey. He felt less like a soldier, less even than human, more like a raw nerve ending exposed to the void, waiting for the final, obliterating touch…*
 
 ---
 
-Richter, unaware of Reiner's final conscious thoughts echoing from the past or from the boat's psychic wounds, retreated into the icy calculus of command. He focused on navigation, plotting their position against Kessler's latest cryptic directive with the precision of a master navigator. They were close. Terribly close. The sea outside remained featureless, the sonar useless, but every man aboard felt the proximity in the heightened static, the increased frequency of nauseating spatial flickers, the intensifying sense of ancient, slumbering awareness just beyond the hull.
+Richter, haunted by the psychic echoes of those who had already been consumed, retreated into the icy calculus of command. He focused on navigation, plotting their position against Kessler's latest cryptic directive with the precision of a master navigator. They were close. Terribly close. The sea outside remained featureless, the sonar useless, but every man aboard felt the proximity in the heightened static, the increased frequency of nauseating spatial flickers, the intensifying sense of ancient, slumbering awareness just beyond the hull.
 
 He ordered final checks. Torpedo tubes were flooded – a futile gesture, perhaps, but the only offensive capability they retained. Escape gear was laid out, though the crushing depth made its use suicidal. Vogel diverted all remaining power to essential life support and propulsion, bypassing damaged circuits, nursing the dying batteries like a mother hen with her chicks.
 
