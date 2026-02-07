@@ -243,7 +243,7 @@ As they walked along the gantry, Vogel muttered under his breath, "This is madne
 
 Vogel was silent for a moment, then spoke carefully. "My uncle was a U-boat commander in the last war. He told me once that a captain's first duty isn't to orders, it's to his crew. To bring them home."
 
-Richter stopped, looking out over the dark water of the pen. "And if there is no home left to return to?" The question hung between them, unanswered. Finally, he straightened his shoulders. "We do our duty. We sail the boat. We keep the men focused on what they know. And we pray to God this Ahnenerbe nonsense amounts to nothing more than expensive equipment that doesn't work."
+Richter stopped, looking out over the dark water of the pen. "And if there is no home left to return to?" The question hung between them, unanswered. Finally, he straightened his shoulders. "We do our duty, Franz. We sail the boat. We keep the men focused on what they know. And we pray to God this Ahnenerbe nonsense amounts to nothing more than expensive equipment that doesn't work."
 
 Kessler watched them go, contemptuous of the sailors' limited, conventional thinking, their inability to grasp the cosmic significance of what they were attempting.
 
@@ -283,7 +283,7 @@ Richter sipped the bitter coffee, grateful for its warmth if not its taste. "Can
 
 Vogel was quiet for a moment, staring into his coffee as if reading omens in the murky liquid. When he spoke, his voice was carefully controlled. "Karl, have you been dreaming?"
 
-The question hung in the air between them, dangerous in its simplicity. Richter felt something cold settle in his chest. "We all dream, Ernst."
+The question hung in the air between them, dangerous in its simplicity. Richter felt something cold settle in his chest. "We all dream, Franz."
 
 "Not like this." Vogel's knuckles whitened around his cup. "I see the equipment sometimes. The detector's patterns. Even when I'm awake, I see them at the corner of my vision. Green light making angles that shouldn't exist. And in the dreams..." He paused, swallowing hard. "There's pressure. Like diving too deep, but it's inside my skull. And whispers I can almost understand."
 
