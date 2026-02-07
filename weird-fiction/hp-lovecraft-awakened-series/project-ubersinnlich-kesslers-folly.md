@@ -243,7 +243,7 @@ As they walked along the gantry, Vogel muttered under his breath, "This is madne
 
 Vogel was silent for a moment, then spoke carefully. "My uncle was a U-boat commander in the last war. He told me once that a captain's first duty isn't to orders, it's to his crew. To bring them home."
 
-Richter stopped, looking out over the dark water of the pen. "And if there is no home left to return to?" The question hung between them, unanswered. Finally, he straightened his shoulders. "We do our duty, Franz. We sail the boat. We keep the men focused on what they know. And we pray to God this Ahnenerbe nonsense amounts to nothing more than expensive equipment that doesn't work."
+Richter stopped, looking out over the dark water of the pen. "And if there is no home left to return to?" The question hung between them, unanswered. Finally, he straightened his shoulders. "We do our duty. We sail the boat. We keep the men focused on what they know. And we pray to God this Ahnenerbe nonsense amounts to nothing more than expensive equipment that doesn't work."
 
 Kessler watched them go, contemptuous of the sailors' limited, conventional thinking, their inability to grasp the cosmic significance of what they were attempting.
 
