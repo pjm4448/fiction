@@ -1,25 +1,24 @@
-The King’s Mask
+# The King’s Mask
 
+## Act 1: The Sanity Ledger
 
-## **Act 1: The Sanity Ledger (3,125 Words)**
-
-# 1. Opening Image
+### 1. The Memory Bleeds
 
 The memory bled out of him like wine from a cracked vessel.
 
-Varek crouched in the Drowning Throat, that black artery where Threadbare's filth crawled toward the bay. His fingers clawed the slick stone as the tax came due. He paid it in his mother's face.
+Varek crouched in the Drowning Throat, that black artery where Threadbare's offal slouched toward the bay. His fingers raked the slick stone as the tax came howling down. He paid it in his mother's face.
 
-First the crinkle of her eyes vanished, stolen into the void behind his thoughts. Then the shape of her smile dissolved like salt in dark water. He gasped, and the sound echoed through the drainage channel, swallowed by the endless dripping of the Veins above.
+The crinkle of her eyes vanished first, ripped into the void behind his thoughts. Then the shape of her smile dissolved like flesh in acid. His gasp rang through the drainage channel before the endless dripping of the Veins above swallowed it whole.
 
-When the seizure passed, he raised hands that had grown pale as drowned flesh. Blue veins pulsed beneath skin turning slowly translucent.
+When the seizure passed, he stared at hands gone pale as drowned meat. Blue veins writhed beneath skin crawling toward translucence.
 
-He could not recall why this grieved him.
+He could not remember why this should matter.
 
 The Yellow Sign burned in his marrow, and somewhere in the Deep Undervaults, Mina waited.
 
-# 2. Theme Stated
+### 2. The Mask with No Face
 
-The hovel squatted in the heart of Threadbare like a tumor grown fat on misery. Varek pushed through the rotted door and found Vex'nar waiting in the darkness, his yellow eyes burning like coins heated in a forge.
+The hovel squatted in Threadbare's heart like a tumor fattened on misery. Varek shouldered through the rotted door and found Vex'nar crouched in the darkness, yellow eyes blazing like heated brass.
 
 "You look like something the Drowning Throat vomited up," the older warlock said. He sat upon a throne of broken crates, his gaunt frame wrapped in robes that had once been fine. Now they hung in tatters, though the sigils stitched into the fabric still pulsed with dim power. "Sit. Before you fall."
 
@@ -37,9 +36,9 @@ Varek took the cup. The liquid burned his throat and settled in his gut like mol
 
 "I know many things." The old warlock turned, and the candlelight caught the ruin of his face. One eye socket gaped empty, the flesh around it scarred in patterns that matched no natural wound. His remaining eye held the fever-brightness of a man who had looked too long into the abyss. "I know that Dominara's ledgers never lose an entry. I know that Goldar counts every soul in this city as an asset or a debt. And I know that you, boy, are spending yourself into oblivion for a woman who may not be worth the price."
 
-Varek's hand shot out and seized the old man's throat. "Speak her name with respect."
+Varek's hand flashed out and locked around the old man's throat. "Speak her name with respect."
 
-Vex'nar did not struggle. He simply hung in Varek's grip, that terrible smile widening. "There it is. The fire. You still remember why you fight." His voice emerged as a croak, but his words struck like blades. "Hold to that, boy. Hold to it with everything you have. Because when Dominara forecloses, she does not take your coin. She takes your why."
+Vex'nar did not struggle. He hung in Varek's grip like a caught rat, that terrible smile spreading. "There it is. The fire. You still know why you fight." His voice emerged as a croak, but his words struck like blades. "Hold to that, boy. Hold to it with everything you have. Because when Dominara forecloses, she does not take your coin. She takes your why."
 
 He raised one gnarled finger and tapped Varek's chest, just above the heart.
 
@@ -59,11 +58,11 @@ He did not answer the question.
 
 He was not certain he could.
 
-# 3. Set-Up
+### 3. Gold Eyes Rising
 
-The night streets of Threadbare writhed with desperate life.
+The night streets of Threadbare seethed with desperate life.
 
-Varek moved through the crowds like a specter, his hood drawn low and his translucent hands buried in the folds of his cloak. Around him the dregs of Veilport conducted their grim commerce. Beggars with branded faces rattled cups filled with copper shards. Pact-Leasers hawked their services from shadowed doorways, their eyes bright with the fever of borrowed power. Children too thin and too quick darted between the legs of laborers trudging home from the Spillworks, their small fingers seeking purses and their smaller bodies ready to vanish into the maze of alleys at the first cry of alarm.
+Varek moved through the crowds like a specter, hood drawn low, translucent hands buried in his cloak's folds. Around him Veilport's dregs conducted their grim commerce. Beggars with branded faces rattled cups choked with copper shards. Pact-Leasers hawked their services from shadowed doorways, eyes fever-bright with borrowed power. Children, too thin and too quick, darted between laborers trudging home from the Spillworks, small fingers hunting purses, small bodies ready to melt into the alley-maze at the first cry of alarm.
 
 This was the Threadbare he knew. The Threadbare where he had grown from a starving orphan into something worse.
 
@@ -109,13 +108,13 @@ As he walked, he felt the first tremors of another tax coming due.
 
 No. Not now.
 
-He ducked into an alley and pressed his back against the damp stone. The seizure came upon him like a wave of black water, and he bit down on his own fist to keep from screaming. The Yellow Sign blazed behind his eyes, that terrible symbol that had been etched into his marrow when he first spoke the words that bound him to his patron. And then the memory tore free.
+He ducked into an alley and pressed his back to damp stone. The seizure hit like a black wave, and he bit down on his own fist to choke back the scream. The Yellow Sign blazed behind his eyes, that terrible symbol seared into his marrow when he first spoke the words binding him to his patron. Then the memory tore free.
 
 His first coin. The copper shard he had earned at the age of seven, running messages for a spice merchant in the Spillworks. He had clutched that coin like a talisman, slept with it pressed against his heart, showed it to Mina with a pride that seemed absurd in hindsight. It had represented possibility. It had represented a future beyond the orphanage walls.
 
 Now it was gone. He knew that he had once possessed it. He knew that it had mattered. But the feeling of it, the weight and the warmth and the fierce joy of holding something that was truly his, had been ripped away and fed to the void.
 
-When the seizure passed, Varek lowered his bleeding fist and stared at it with eyes that had begun to film with yellow. The veins beneath his translucent skin pulsed with something that was not quite blood. His nails had thickened and taken on the color of old brass.
+When the seizure passed, Varek lowered his bleeding fist and stared with eyes beginning to film yellow. Veins beneath translucent skin pulsed with something that was not quite blood. His nails had thickened, taken on the hue of old brass.
 
 The transformation was accelerating.
 
@@ -129,13 +128,13 @@ Silk had found her quarry.
 
 The collection had already begun.
 
-# 4. Catalyst
+### 4. Jasmine and Ash
 
-The jasmine scent reached him before the voice did.
+The jasmine hit him before her voice did.
 
 "You move well for a dead man, Varek."
 
-He spun, his hand flying to the blade at his hip. The night market crowd flowed around them, oblivious to the predator that had materialized from the shadows. She stood beneath the awning of a fortune-teller's stall, her form wrapped in silks the color of midnight, her face hidden behind a mask of polished obsidian. Only her eyes were visible, and they gleamed with the cold light of distant stars.
+He spun, hand flying to the blade at his hip. The night market flowed around them, blind to the predator that had risen from shadow. She stood beneath a fortune-teller's awning, wrapped in midnight silks, face hidden behind polished obsidian. Only her eyes showed, cold as distant stars.
 
 Silk. He knew her by reputation alone, for few who met her in the flesh lived to describe the encounter. She was a Black Hand, one of the Shadow Syndicate's most lethal collectors. It was said she had never failed to retrieve an asset.
 
@@ -177,7 +176,7 @@ He had his price.
 
 And somewhere in the darkness below, the ledger waited to be balanced.
 
-# 5. Debate
+### 5. The Weight of Nothing
 
 The compass weighed nothing in his hand, yet it dragged at him like a millstone.
 
@@ -197,9 +196,7 @@ The question rose unbidden, and he crushed it with savage force. Of course she w
 
 He closed his eyes and reached for the memory of their escape. The burning orphanage. The wild flight through midnight streets. Her hand in his, small and fierce and unbreakable.
 
-The tax came without warning.
-
-It ripped through him like a blade of frozen fire, and he doubled over, a soundless scream tearing at his throat. The Yellow Sign blazed in the darkness behind his eyes, hungry and patient and eternal. And when the seizure passed, something precious had been taken.
+The tax ripped through him like frozen fire through flesh. He doubled over, a soundless scream clawing at his throat. The Yellow Sign blazed in the darkness behind his eyes: hungry, patient, eternal. When the seizure passed, something precious was gone.
 
 The memory remained. He could recall the facts of that night with perfect clarity. The flames, the running, the stolen bread. But the feeling was gone. The heat and the joy and the wild exultation of freedom had been stripped away, leaving only cold facts arranged in sequence. He remembered that he had been happy. He could not remember what happiness felt like.
 
@@ -217,13 +214,13 @@ Varek walked into the night, toward the entrance to the Undervaults.
 
 Behind him, the memory of joy dissolved like morning mist, gone forever into the hungry dark.
 
-## **Act 2: The Deep Default (6,875 Words)**
+## Act 2: The Bankruptcy
 
-# 6. Break into Act Two
+### 6. The Gullet
 
-The Gullet yawned before him like the throat of some vast and sleeping beast.
+The Gullet yawned before him like the maw of some vast and slumbering beast.
 
-Varek stood at the entrance, a ragged hole in the earth where Threadbare crumbled into the depths below. Crude stairs had been carved into the stone, slick with moisture and worn smooth by generations of desperate feet. The air that rose from the darkness carried the scent of old stone, stagnant water, and something else beneath it all. Something that smelled of time itself, of ages piled upon ages in the lightless deep.
+Varek stood at the entrance, a ragged wound in the earth where Threadbare crumbled into the deeps. Crude stairs carved into stone, slick with centuries of seepage, worn smooth by generations of desperate feet. The air rising from below reeked of old stone, stagnant water, and something beneath it all. Something that smelled of Time itself, of ages heaped upon ages in the lightless deep.
 
 He looked back once at the city above. The spires of the noble districts gleamed in the distance, catching the first pale light of dawn. Somewhere beyond those towers, Mina waited in her Syndicate prison. Somewhere below, the Archive held the key to her freedom.
 
@@ -231,23 +228,23 @@ There was no choice. There had never been a choice.
 
 Varek descended.
 
-The stairs spiraled downward, and with each step the sounds of the surface faded. The cry of gulls gave way to the drip of water on stone. The rumble of cart wheels became the groan of settling earth. The light of the sun, that distant golden fire, dwindled to a memory and then to nothing at all.
+The stairs spiraled down. With each step the surface sounds died. Gull-cries gave way to water dripping on stone. Cart-rumble became the groan of settling earth. The sun's light, that distant golden fire, dwindled to memory, then to nothing.
 
-Bioluminescent fungi clung to the walls, casting their sickly blue glow across the passage. The air grew thick and stale, pressing against his lungs like a living weight.
+Bioluminescent fungi clung to the walls, casting sickly blue glow across the passage. The air thickened, pressing his lungs like a living weight.
 
-Above him, the world of men continued its turning.
+Above him, the world of men turned on.
 
 Below him, the Undervaults waited with patience beyond measure.
 
 Varek did not look back again.
 
-# 7. B Story
+### 7. The Branded
 
-The blade kissed his throat before he heard her move.
+Cold steel kissed his throat before he heard her move.
 
-"You wear a human face, but you stink of the void."
+"You wear a human face, but you reek of the void."
 
-Varek froze. He had been navigating a narrow passage in the Upper Undervaults, following the bone compass through a maze of collapsed tunnels and ancient cisterns. The bioluminescent fungi had grown sparse here, and he had been relying on the faint glow of his own corrupted veins to light the way.
+Varek went stone-still. He'd been threading a narrow passage in the Upper Undervaults, following the bone compass through a labyrinth of collapsed tunnels and ancient cisterns. The bioluminescent fungi had grown sparse here, and he had been relying on the faint glow of his own corrupted veins to light the way.
 
 He had not heard her approach. He had not sensed her presence. She had simply materialized from the darkness like a phantom given flesh.
 
@@ -255,15 +252,15 @@ He had not heard her approach. He had not sensed her presence. She had simply ma
 
 He obeyed. The blade remained pressed against his jugular, its edge cold and impossibly sharp. His eyes adjusted to the gloom, and he beheld his captor.
 
-She was a tiefling, her skin the deep crimson of old blood, her horns curving back from her brow in elegant spirals. Her eyes burned with amber fire, and they studied him with an intensity that made his skin crawl. She wore leathers that had been patched and repatched, the armor of a survivor who had spent years in the depths. A Syndicate brand marked her left cheek, old and faded but unmistakable.
+She was a tiefling, skin the deep crimson of old battlefields, horns sweeping back from her brow like scimitars. Amber eyes burned in that face, studying him with an intensity that set his nerves screaming. She wore leathers that had been patched and repatched, the armor of a survivor who had spent years in the depths. A Syndicate brand marked her left cheek, old and faded but unmistakable.
 
 "Warlock," she said. It was not a question. "Great Old One, by the look of you. The translucent skin, the yellow eyes. You're maybe a week from full transformation."
 
 "You know much for a tunnel rat."
 
-The blade pressed harder. A thin line of blood traced down his neck.
+The blade bit deeper. Blood crawled down his neck in a thin scarlet thread.
 
-"I know enough to gut you and leave your corpse for the crawlers." Her amber eyes narrowed. "But first I want to know why a surface warlock is stumbling through my territory with a Syndicate compass in his hand."
+"I know enough to spill your guts and leave you for the crawlers." Her amber eyes narrowed. "But first I want to know why a surface warlock is stumbling through my territory with a Syndicate compass in his hand."
 
 Varek weighed his options. He could call upon his patron's power, unleash the eldritch force that coiled in his marrow. But the tax would come due, and he could not afford to lose another memory. Not yet. Not when he still had so far to go.
 
@@ -301,7 +298,7 @@ Korr nodded and turned toward the darkness ahead.
 
 "Try to keep up. The Upper Vaults are the easy part."
 
-# 8. Fun and Games
+### 8. The Silent Tax
 
 The Upper Undervaults were a labyrinth of madness carved by forgotten hands.
 
@@ -317,11 +314,11 @@ They pressed on.
 
 The hours blurred together in the endless dark. Varek lost track of time, lost track of direction, lost track of everything except the compass in his hand and the tiefling's crimson form moving through the shadows ahead. The air grew thicker as they descended, heavy with moisture and the scent of ancient decay. Strange sounds echoed through the tunnels, clicks and whispers and once a long, low moan that seemed to come from the very stones themselves.
 
-"Crawlers ahead."
+Crawlers.
 
 Korr's whisper brought him to a halt. They crouched behind a ridge of fallen masonry, and Varek peered into the chamber beyond.
 
-They were things of nightmare given flesh. Pale bodies the size of large dogs, segmented and glistening with slime, their eyeless heads dominated by circular mouths filled with rotating rings of teeth. A dozen of them clustered around something on the chamber floor, their mouths working wetly as they fed. The sounds they made turned Varek's stomach.
+Nightmare-things. Pale bodies big as war-hounds, segmented and slick with slime, eyeless heads dominated by circular maws packed with rotating rings of teeth. A dozen clustered around something on the chamber floor, mouths working wetly as they fed. The sounds curdled Varek's gut.
 
 "Tunnel crawlers," Korr breathed. "Scavengers, mostly. They feed on the dead and the dying. But they'll take living prey if it stumbles into their midst."
 
@@ -345,11 +342,11 @@ Varek pulled free of her grasp. The memory of Mina's face burned in his mind, on
 
 He rose from cover before she could protest. The power surged up from the depths of his being, cold and terrible and vast. He felt his patron stir in the void beyond the stars, felt that immense and alien attention turn toward him like the gaze of a dying sun. The Yellow Sign blazed in his mind, and the words of power tore from his throat in a language that predated human speech.
 
-The blast struck the crawlers like a wave of frozen darkness. Three of them burst apart, their pale bodies disintegrating into mist. The others scattered, their eyeless heads swinging toward the source of their torment, their circular mouths opening in silent screams.
+The eldritch blast hammered the crawlers like a tide of frozen void. Three exploded in sprays of pale flesh and ichor. The rest scattered like roaches, eyeless heads whipping toward their tormentor, circular maws yawning in silent shrieks.
 
 And then the tax came due.
 
-Varek staggered as the memory was ripped from his mind. His mother's lullaby. She had sung it to him in the years before the plague took her, before he was cast into the orphanage, before the world became a place of hunger and fear. He could not recall the words, had not been able to recall them for years, but the melody had remained, a ghost of comfort that he hummed to himself in the darkest hours.
+Varek reeled as the memory tore free. His mother's lullaby. She'd crooned it in the years before plague claimed her, before the orphanage's iron gates clanged shut behind him, before the world shrank to hunger and fear and the rasp of his own breathing in the dark. He could not recall the words, had not been able to recall them for years, but the melody had remained, a ghost of comfort that he hummed to himself in the darkest hours.
 
 Now it was gone. He opened his mouth to hum it and found only silence. The shape of the tune, the rise and fall of the notes, had been excised from his mind as cleanly as a surgeon's blade excises a tumor.
 
@@ -363,7 +360,7 @@ Korr was at his side, her blade dripping with crawler ichor. She had finished th
 
 "Say something, damn you!"
 
-He tried. Gods, how he tried. His mouth moved, his tongue shaped the syllables, but no sound emerged. The Common tongue, the language he had spoken since childhood, had been taken from him along with the lullaby. The tax had claimed not just a memory, but the very ability to communicate.
+He tried. By all the gods below, he tried. His mouth worked, tongue shaping syllables, but only silence crawled from his throat. The Common tongue, the language he had spoken since childhood, had been taken from him along with the lullaby. The tax had claimed not just a memory, but the very ability to communicate.
 
 Korr's amber eyes widened with understanding. And with horror.
 
@@ -433,7 +430,7 @@ They encountered more creatures as they descended. Things that had no names in a
 
 The memories bled out of him, and with each loss his body changed further.
 
-His skin had gone fully translucent now, the veins and muscles beneath visible in the fungal light. His eyes had clouded over with gold, and though he could still see, the world had taken on a strange and terrible clarity, as if he were viewing it from a great distance. His nails had become talons of yellowed kerite, and when he pressed his hand against the stone, he could feel the pulse of the Undervaults themselves, the slow heartbeat of the earth calling to something in his marrow.
+His skin had gone fully translucent, veins and muscle beneath visible in the fungal glow. His eyes had clouded with gold, and though he could still see, the world had taken on strange and terrible clarity, as if he viewed it from some vast remove. His nails had become yellowed kerite talons, and when he pressed his hand to stone, he felt the Undervaults' pulse, the slow heartbeat of earth calling to something in his marrow.
 
 Korr watched these changes with growing unease.
 
@@ -461,7 +458,7 @@ They descended into the Deep Undervaults.
 
 The transition was not gradual. One moment they were navigating a relatively stable passage, the walls merely strange; the next, they stepped through an archway of fused bone and found themselves in a place that should not have existed.
 
-The Deep Undervaults were not tunnels. They were the corpse of something vast and terrible, hollowed out by time and transformed into a labyrinth of petrified organs and fossilized veins. The walls were ribbed like the inside of some enormous chest cavity. The floor was slick with a substance that might have been ancient blood or might have been something worse. And in the distance, glimpsed through gaps in the organic architecture, something pulsed with a faint and terrible light.
+The Deep Undervaults were not tunnels. They were the corpse of something vast and terrible, hollowed by eons and transformed into a labyrinth of petrified organs and fossilized veins. Walls ribbed like the inside of some titan's chest cavity. Floor slick with a substance that might have been ancient blood or something fouler. And in the distance, glimpsed through gaps in the organic architecture, something pulsed with faint and terrible light.
 
 "By the burning hells," Korr breathed. "What is this place?"
 
@@ -469,7 +466,7 @@ Varek had no answer to give her. But the compass knew. Its bone needle pointed s
 
 They pressed forward.
 
-The creatures in the Deep were different from those above. They did not flee from intruders. They observed. Varek caught glimpses of them in the shadows, shapes that defied description, forms that his mind refused to fully process. They watched with eyes that were not eyes, and they waited with patience that was not patience. They were guardians, he realized. Wardens of this place. And they were letting him pass.
+The creatures in the Deep were different from those above. They did not flee. They watched. Varek caught glimpses in the shadows: shapes that defied description, forms his mind refused to process. They observed with eyes that were not eyes. They waited with patience that was not patience. Guardians. Wardens of this place. And they were letting him pass.
 
 Why?
 
@@ -477,9 +474,9 @@ The question gnawed at him, but he had no way to voice it. He could only follow 
 
 And then, at last, they saw it.
 
-The Lost Archive rose from the center of a vast chamber, a tower of black stone that pierced the ceiling and vanished into the darkness above. It was not native to this place. Its clean angles and smooth surfaces stood in stark contrast to the organic horror that surrounded it. Runes blazed along its surface, golden light that pulsed in rhythm with the heartbeat of the depths.
+The Lost Archive rose from the chamber's heart, a tower of black stone piercing the ceiling and vanishing into darkness above. Not native to this place. Its clean angles and smooth surfaces stood in stark contrast to the organic horror surrounding it. Runes blazed along its surface, golden light pulsing in rhythm with the heartbeat of the deeps.
 
-Pre-Cataclysmic. The work of the wizard-kings who had ruled before the gods walked the earth. The repository of knowledge so dangerous that it had been buried in the corpse of a dead god, hidden away from all who might seek to claim it.
+Pre-Cataclysmic. The work of the elder civilizations' high mages, whose empires flourished while the Nine watched from the Ethereal Shroud, placing wagers on their inevitable collapse. It was a repository of knowledge so dangerous that it was swallowed by the Great Cataclysm - plunged into ruined depths to be hidden away from all who might seek to claim it.
 
 And standing before its sealed door, her obsidian mask gleaming in the golden light, was Silk.
 
@@ -505,11 +502,11 @@ She smiled, and in that smile was the truth of everything he had believed.
 
 The truth that was about to shatter what remained of his world.
 
-# 9. Midpoint
+### 9. The Asset
 
 The words struck him like a blade through the heart.
 
-Varek stared at Mina, at the woman he had sacrificed everything to save, and felt the foundations of his world crumble beneath him. She stood in the Archive's golden light, beautiful and cold, and the smile on her face was not the smile he remembered. It was the smile of a predator regarding prey.
+Varek stared at Mina, at the woman he'd sacrificed everything to save, and felt his world's foundations crumble. She stood in the Archive's golden light, beautiful and cold, and the smile on her face was not the smile he remembered. This was a predator's smile, regarding prey.
 
 "You cannot speak," she observed, her eyes taking in his translucent skin, his golden eyes, his taloned hands. "Good. That will make this easier. You always did talk too much, Varek. Always professing your devotion, your loyalty, your undying love." She laughed, and the sound was silver bells rung in a tomb. "Did you never wonder how a Threadbare orphan rose so high? How I came to wear Purity Veils and serve in a merchant house while you groveled in the gutters?"
 
@@ -533,7 +530,7 @@ She had sold him before he ever knew he was for sale.
 
 Varek fell to his knees. The strength had gone out of him, drained away by the magnitude of the betrayal. He looked up at Mina, searching her face for some sign of the girl he had loved, the girl who had held his hand as they fled the burning orphanage.
 
-She looked down at him with something that might have been pity.
+She looked down at him with something that might have been contempt.
 
 "You were always a fool, Varek. A useful fool, but a fool nonetheless." She turned away, her white silks swirling around her. "The Archive contains what the Syndicate needs. And you have delivered yourself to them, just as I always knew you would."
 
@@ -541,7 +538,7 @@ She walked into the golden light, leaving him kneeling in the darkness.
 
 Leaving him with nothing but the ashes of everything he had believed.
 
-# 10. Bad Guys Close In
+### 10. The Soul-Cache
 
 The silence that followed Mina's departure was worse than any scream.
 
@@ -563,7 +560,7 @@ The old warlock walked with a confidence that belied his gaunt frame, his yellow
 
 "You," Korr snarled. Her blade was in her hand, its edge gleaming with deadly promise. "You're with them. You've always been with them."
 
-"The Syndicate recognizes talent," Vex'nar said. He stopped beside Silk, his remaining eye fixed on Varek with something that might have been pity. "I tried to warn you, boy. I told you what would happen when Dominara foreclosed. I told you she would take your why." He spread his hands in a gesture of false helplessness. "You simply refused to listen."
+"The Syndicate recognizes talent," Vex'nar said. He stopped beside Silk, his remaining eye fixed on Varek with grim satisfaction. "I tried to warn you, boy. I told you what would happen when Dominara foreclosed. I told you she would take your why." He spread his hands in a gesture of false helplessness. "You simply refused to listen."
 
 Varek found his feet. The power stirred in his marrow, cold and eager, responding to the rage that was building in his chest. He had no words to hurl at his betrayer, but he had other weapons. Weapons that Vex'nar himself had helped him learn to wield.
 
@@ -585,23 +582,23 @@ Varek felt the cold touch of despair. He had come so far, paid so much, and it h
 
 But Korr was not ready to surrender.
 
-The tiefling moved with the speed of a striking serpent. Her blade flashed in the golden light, and one of the robed figures fell with a gurgling cry, his throat opened from ear to ear. She was among them before they could react, a whirlwind of crimson skin and gleaming steel, and for a moment it seemed as if she might carve a path to freedom through their ranks.
+The tiefling struck like a viper. Her blade flashed once and a robed figure dropped, throat gaping red from ear to ear. She was among them before the corpse hit stone, a crimson whirlwind of flesh and singing steel, and for a moment it seemed as if she might carve a path to freedom through their ranks.
 
 Then Silk moved.
 
-The collector flowed across the chamber like shadow given form. One moment she stood before the Archive; the next she was behind Korr, her slender hand closing around the tiefling's wrist. There was a sound like snapping twigs, and Korr screamed as her blade clattered to the stone.
+The collector flowed across the chamber like shadow given flesh. One heartbeat she stood before the Archive; the next she was behind Korr, slender fingers clamping the tiefling's wrist. Bone snapped like dry kindling. Korr's scream rang off stone as her blade clattered free.
 
 "Brave," Silk observed. "But ultimately futile."
 
 She hurled Korr across the chamber. The tiefling struck the wall with a sickening crack and slumped to the floor, blood streaming from a gash above her eye.
 
-Something broke inside Varek.
+Something shattered inside Varek.
 
-He had lost his mother's face. He had lost his first coin. He had lost the joy of his escape and the melody of his lullaby and the very words with which he might have pleaded for mercy. But he had not lost everything. Not yet. And as he watched Korr struggle to rise, watched her fumble for her fallen blade with a hand that would not obey her commands, he found something within himself that the tax had not yet claimed.
+He'd lost his mother's face. He'd lost his first coin. He'd lost the joy of escape and his lullaby's melody and the very words with which he might have begged for mercy. But he had not lost everything. Not yet. And as he watched Korr claw herself upright, watched her fumble for her fallen blade with a hand that would not obey, he found something the tax had not yet claimed.
 
 Rage.
 
-The power erupted from him in a wave of frozen darkness. It was not a focused blast, not the controlled release he had employed against the crawlers. It was a primal scream given eldritch form, a howl of fury and betrayal that swept through the chamber like a wind from the void between stars. The robed figures caught in its path did not die. They simply ceased to exist, their bodies unraveled at the most fundamental level, their screams cut short as the very concept of their existence was erased from the world.
+The power erupted from him in a tsunami of frozen night. Not a focused blast like he'd hurled at the crawlers. This was a primal scream given eldritch flesh, a howl of rage and betrayal that roared through the chamber like wind howling between dead stars. The robed figures caught in its path did not die. They simply ceased to exist, their bodies unraveled at the most fundamental level, their screams cut short as the very concept of their existence was erased from the world.
 
 The tax came due immediately.
 
@@ -649,7 +646,7 @@ The voice came from the Archive itself. Varek turned, and there in the golden do
 
 He lunged at Korr.
 
-The tiefling tried to dodge, but her broken wrist threw off her balance. The black blade took her in the side, sliding between her ribs with terrible ease. Korr's eyes went wide, her mouth opening in a gasp that became a fountain of crimson blood.
+The tiefling twisted aside but her broken wrist betrayed her. Black glass slid between her ribs like a lover's whisper. Korr's eyes flared wide, mouth gaping in a gasp that became a crimson fountain.
 
 "No!" The scream tore from Varek's throat before he remembered that he could not speak. But the word emerged nonetheless, raw and ragged and filled with such anguish that the very stones seemed to tremble.
 
@@ -661,7 +658,7 @@ But Varek was not looking at Vex'nar.
 
 He was looking at Korr.
 
-The tiefling lay in a spreading pool of her own blood, her amber eyes fixed on the ceiling far above. Her lips moved, forming words that Varek could not hear. But he could read them. Even without language, he could understand.
+The tiefling sprawled in a spreading lake of her own blood, amber eyes fixed on the darkness above. Her lips moved, shaping words he could not hear. But he read them in the dying light of her gaze. Even stripped of language, he understood.
 
 "I'm dying... debt-free. But you... you're a blank page. Don't let them... write your story."
 
@@ -671,7 +668,7 @@ The ledger had claimed another entry.
 
 But this time, Varek refused to pay.
 
-# 11. All Is Lost
+### 11. The Final Foreclosure
 
 The bankruptcy came without warning.
 
@@ -703,8 +700,9 @@ Awaiting direction.
 
 Awaiting someone to fill the hollowness with meaning.
 
-## **Act 3: The Final Foreclosure (2,500 Words)**
-# 12. Dark Night of the Soul
+## Act 3: The Collection
+
+### 12. The Blank Page
 
 The emptiness was vast beyond measure.
 
@@ -756,7 +754,7 @@ The dark night was ending.
 
 And what rose with the dawn would make the Divine Corporation tremble.
 
-# 13. Break into Act Three
+### 13. The King's Mask
 
 The revelation struck like lightning through a cloudless sky.
 
@@ -782,7 +780,7 @@ The vessel smiled.
 
 It had become the answer.
 
-# 14. Finale
+### 14. The Collector
 
 Vex'nar raised the black blade, but his hands trembled.
 
@@ -842,11 +840,7 @@ But there was nowhere left to run.
 
 The vessel stopped before her. Its golden eyes regarded her with an expression that was not hatred, was not love, was not anything that could be categorized by human emotion.
 
-"What we were," it said, the words forming in the air between them, "was a transaction. You were the seller. I was the goods. The only truth between us was the ledger."
-
 Mina fell to her knees. Tears streamed down her face, and her hands reached out in supplication. "I did what I had to do. You do not understand what it is to be nothing, to have nothing, to know that the world will grind you to dust unless you find a way to rise above it."
-
-"I understand perfectly."
 
 The vessel reached down and touched her forehead. The power flowed through it, but not the Soul-Cache technique. Something else. Something that the stolen memories of Silk had revealed, a punishment reserved for those who had betrayed the Syndicate itself.
 
@@ -864,7 +858,7 @@ The vessel that had been Varek stepped across the threshold.
 
 And the transformation completed itself.
 
-# 15. Final Image
+### 15. What Are You Willing to Forget?
 
 The Drowning Throat had not changed.
 
@@ -893,14 +887,3 @@ The vessel smiled beneath the King's Mask. The expression held no warmth, no cru
 The darkness swallowed her answer.
 
 The collection continued.
-
-
-
-
-
-
-
-
-
-
-
